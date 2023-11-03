@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{76492883-5233-4E91-B046-011CCCBA1C75}") = "SBCombatParser", "SBCombatParser.csproj", "{76492883-5233-4E91-B046-011CCCBA1C75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76492883-5233-4E91-B046-011CCCBA1C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76492883-5233-4E91-B046-011CCCBA1C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76492883-5233-4E91-B046-011CCCBA1C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76492883-5233-4E91-B046-011CCCBA1C75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6037AEB-D4D8-4F62-AEED-1FF5EAFEEF79}
+	EndGlobalSection
+EndGlobal
