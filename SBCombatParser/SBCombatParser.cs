@@ -20,7 +20,7 @@ namespace SBCombatParser
         static public string logFilePath = "SBCombatParser.log.txt";
         static public string noParseFilePath = "SBMissParse.log.txt";
 
-        static public string version = "0.0.1.8";
+        static public string version = "0.0.2.0";
         static public readonly object fileLock = new object();
 
         static public SBSetupHelper setupHelper = new SBSetupHelper();
@@ -72,17 +72,23 @@ namespace SBCombatParser
                 buffStopLines = new List<Regex>();
                 oddLines = new List<Regex>();
 
-                allRegEx.Add(damageLines);
                 allRegEx.Add(healLines);
+                allRegEx.Add(damageLines);
                 allRegEx.Add(evadedLines);
                 allRegEx.Add(diedLines);
                 allRegEx.Add(buffLines);
                 allRegEx.Add(buffStopLines);
                 allRegEx.Add(oddLines);
 
-                damageLines.Add(new Regex("\\((?<time>\\d*\\:\\d*\\:\\d*)\\)\\W*(?<source>.*)'s (?<ability>.*) (?<type>hurt)s (?<target>.*) for (?<value>\\d*) .*.", RegexOptions.Compiled));
-                damageLines.Add(new Regex("\\((?<time>\\d*\\:\\d*\\:\\d*)\\)\\W*(?<source>.*)'s (?<ability>.*) (?<type>shock)s (?<target>.*) for (?<value>\\d*) .*.", RegexOptions.Compiled));
-                damageLines.Add(new Regex("\\((?<time>\\d*\\:\\d*\\:\\d*)\\)\\W*(?<source>.*)'s (?<ability>.*) (?<type>smite)s (?<target>.*) for (?<value>\\d*) .*.", RegexOptions.Compiled));
+                healLines.Add(new Regex("\\((?<time>\\d*\\:\\d*\\:\\d*)\\)\\W*(?<source>.*)'s (?<ability>.*'+.*) (?<type>heal)s (?<target>.*) for (?<value>\\d*) points.", RegexOptions.Compiled));
+                //healLines.Add(new Regex("\\((?<time>\\d*\\:\\d*\\:\\d*)\\)\\W*(?<source>.*)'s (?<ability>.*) (?<type>heal)s (?<target>.*) for (?<value>\\d*) points.", RegexOptions.Compiled));
+
+
+                //damageLines.Add(new Regex("\\((?<time>\\d*\\:\\d*\\:\\d*)\\)\\W*(?<source>.*)'s (?<ability>.*) (?<type>hurt)s (?<target>.*) for (?<value>\\d*) .*.", RegexOptions.Compiled));
+                //damageLines.Add(new Regex("\\((?<time>\\d*\\:\\d*\\:\\d*)\\)\\W*(?<source>.*)'s (?<ability>.*) (?<type>shock)s (?<target>.*) for (?<value>\\d*) .*.", RegexOptions.Compiled));
+                //damageLines.Add(new Regex("\\((?<time>\\d*\\:\\d*\\:\\d*)\\)\\W*(?<source>.*)'s (?<ability>.*) (?<type>smite)s (?<target>.*) for (?<value>\\d*) .*.", RegexOptions.Compiled));
+                //Matches hurt, shock, smite, heal
+                damageLines.Add(new Regex("\\((?<time>\\d*\\:\\d*\\:\\d*)\\)\\W*(?<source>.*)'s (?<ability>.*) (?<type>.{3,8})s (?<target>.*) for (?<value>\\d*) .*.", RegexOptions.Compiled));
                 damageLines.Add(new Regex("\\((?<time>\\d*\\:\\d*\\:\\d*)\\)\\W*(?<source>.*) (?<type>hit)s the (?<target>.*) for (?<value>\\d*) .*.", RegexOptions.Compiled));
 
                 //target = YOU
@@ -90,16 +96,23 @@ namespace SBCombatParser
                 damageLines.Add(new Regex(@"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>take) (?<value>\d*) .* from (?<source>.*).", RegexOptions.Compiled));
 
 
-                healLines.Add(new Regex("\\((?<time>\\d*\\:\\d*\\:\\d*)\\)\\W*(?<source>.*)'s (?<ability>.*'+.*) (?<type>heal)s (?<target>.*) for (?<value>\\d*) points.", RegexOptions.Compiled));
-                healLines.Add(new Regex("\\((?<time>\\d*\\:\\d*\\:\\d*)\\)\\W*(?<source>.*)'s (?<ability>.*) (?<type>heal)s (?<target>.*) for (?<value>\\d*) points.", RegexOptions.Compiled));
-
+                //Miss
                 evadedLines.Add(new Regex("\\((?<time>\\d*\\:\\d*\\:\\d*)\\)\\W*(?<source>.*) (?<type>miss)es (?<target>.*).", RegexOptions.Compiled));
 
                 //You Block
                 evadedLines.Add(new Regex("\\((?<time>\\d*\\:\\d*\\:\\d*)\\)\\W*(?<target>.*) (?<type>block) (?<source>.*)'s .*.", RegexOptions.Compiled));
 
+                //You Parry
+                evadedLines.Add(new Regex("\\((?<time>\\d*\\:\\d*\\:\\d*)\\)\\W*(?<target>.*) (?<type>parry) (?<source>.*)'s .*.", RegexOptions.Compiled));
 
+                //Casts a spell
                 oddLines.Add(new Regex("\\((?<time>\\d*\\:\\d*\\:\\d*)\\)\\W*(?<source>.*) (?<type>cast)s (?<ability>.*).", RegexOptions.Compiled));
+
+                //Taunt
+                oddLines.Add(new Regex("\\((?<time>\\d*\\:\\d*\\:\\d*)\\)\\W*\\[Combat\\] Info\\: (?<target>.*) (?<type>[atck]*)s? (?<source>.*)", RegexOptions.Compiled));
+
+                //has Died
+                oddLines.Add(new Regex("\\((?<time>\\d*\\:\\d*\\:\\d*)\\)\\W*\\[Combat\\] Info\\: (?<source>.*) [hasve]* (?<type>die).*!", RegexOptions.Compiled));
             }
 
         }
@@ -829,7 +842,8 @@ namespace SBCombatParser
                     case "hurt":
                         log.detectedType = Color.Orange.ToArgb();
                         //type = DMG;
-                        type = (int)SwingTypeEnum.NonMelee;
+                        //type = (int)SwingTypeEnum.NonMelee;
+                        type = (int)SwingTypeEnum.Melee;
                         break;
 
                     case "heal":
@@ -841,7 +855,13 @@ namespace SBCombatParser
                     case "cast":
                         log.detectedType = Color.Green.ToArgb();
                         //type = HEALS;
-                        type = 8;
+                        type = (int)SwingTypeEnum.NonMelee;
+                        break;
+
+                    case "attack":
+                        log.detectedType = Color.Blue.ToArgb();
+                        //type = THREAT;
+                        type = (int)SwingTypeEnum.NonMelee;
                         break;
 
                     default:
@@ -849,15 +869,6 @@ namespace SBCombatParser
                         break;
                 };
                 
-
-                /*else if (log.logLine.Contains("{836045448945493}")) // Death
-                {
-                    ActGlobals.oFormActMain.AddCombatAction(DMG, line.crit_value,
-                        "None", line.source, "Killing Blow", Dnum.Death, time,
-                        ActGlobals.oFormActMain.GlobalTimeSorter, line.target, "Death");
-
-                }*/
-
 
                 /*else if (line.event_type.Contains("Restore"))
                 {
@@ -912,8 +923,25 @@ namespace SBCombatParser
                 GlobalVariables.WriteLineToDebugLog("AddCombatAction :: Target     = " + line.target);
                 GlobalVariables.WriteLineToDebugLog("AddCombatAction :: Value_Type = " + line.value_type);
 
-                ActGlobals.oFormActMain.AddCombatAction(type, line.crit_value, "None", line.source, line.ability,
-                        new Dnum(line.value), time, ActGlobals.oFormActMain.GlobalTimeSorter, line.target, line.value_type);
+                switch(line.value_type)
+                {
+                    case "die":
+                        ActGlobals.oFormActMain.AddCombatAction(DMG, line.crit_value, "None", line.source, "Killing Blow", 
+                                                                Dnum.Death, time, ActGlobals.oFormActMain.GlobalTimeSorter, 
+                                                                line.target, "Death");
+                        break;
+
+                    default :
+                        ActGlobals.oFormActMain.AddCombatAction(type, line.crit_value, "None", line.source, line.ability,
+                                                                new Dnum(line.value), time, ActGlobals.oFormActMain.GlobalTimeSorter, 
+                                                                line.target, line.value_type);
+                        break;    
+                }
+                
+               
+
+
+
 
             }
             return;
@@ -1040,7 +1068,7 @@ namespace SBCombatParser
                 GroupCollection groups = matches[0].Groups;
                 this.valid = true;
                 this.time = groups["time"].Value.Trim(' ', '"');
-                this.source = groups["source"].Value.Trim(' ', '"');
+                this.source = groups["source"].Value.Replace("The ", "").Replace("the ", "").Trim(' ', '"');
                 this.value_type = groups["type"].Value.Trim(' ', '"');
                 this.event_type = "none";
 
@@ -1050,18 +1078,20 @@ namespace SBCombatParser
                     case "take":
                         this.ability = groups["source"].Value.Trim(' ', '"');
                         this.value = Convert.ToInt32(groups["value"].Value.Trim(' ', '"'));
-                        this.target = groups["target"].Value.Trim(' ', '"');
+                        this.target = groups["target"].Value.Replace("The ", "").Replace("the ","").Trim(' ', '"');
                         break;
+
+                    case "parry":
                     case "block":
                     case "miss":
                         this.ability = "melee";
-                        this.target = groups["target"].Value.Trim(' ', '"');
+                        this.target = groups["target"].Value.Replace("The ", "").Replace("the ", "").Trim(' ', '"');
                         this.value = 0;
                         break;
 
                     case "hit":
                         this.ability = "melee";
-                        this.target = groups["target"].Value.Trim(' ', '"');
+                        this.target = groups["target"].Value.Replace("The ", "").Replace("the ", "").Trim(' ', '"');
                         this.value = Convert.ToInt32(groups["value"].Value.Trim(' ', '"'));
                         break;
 
@@ -1070,8 +1100,21 @@ namespace SBCombatParser
                     case "hurt":
                     case "heal":
                         this.ability = groups["ability"].Value.Trim(' ', '"'); 
-                        this.target = groups["target"].Value.Trim(' ', '"');
+                        this.target = groups["target"].Value.Replace("The ", "").Replace("the ", "").Trim(' ', '"');
                         this.value = Convert.ToInt32(groups["value"].Value.Trim(' ', '"'));
+                        break;
+
+                    case "die":
+                        this.ability = "death";
+                        this.target = groups["source"].Value.Replace("The ", "").Replace("the ", "").Trim(' ', '"');
+                        //this.source = "none";
+                        this.value = 0;
+                        break;
+
+                    case "attack":
+                        this.ability = "Challenge";
+                        this.target = groups["target"].Value.Replace("The ", "").Replace("the ", "").Trim(' ', '"');
+                        this.value = 0;
                         break;
 
                     case "cast":
@@ -1081,6 +1124,7 @@ namespace SBCombatParser
                         break;
 
                     default:
+                        this.ability = "UNKNOWN"; 
                         this.target = "";
                         this.value = 0;
                         break;
