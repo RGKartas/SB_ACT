@@ -1,0 +1,13 @@
+D:\Source\Repos\SB_ACT\SBCombatParser\obj\Debug\SBCombatParser.csproj.AssemblyReference.cache
+D:\Source\Repos\SB_ACT\SBCombatParser\obj\Debug\SBCombatParser.csproj.CoreCompileInputs.cache
+D:\Source\Repos\SB_ACT\SBCombatParser\bin\Debug\SBCombatParser.dll
+D:\Source\Repos\SB_ACT\SBCombatParser\bin\Debug\SBCombatParser.pdb
+D:\Source\Repos\SB_ACT\SBCombatParser\bin\Debug\Advanced Combat Tracker.exe
+D:\Source\Repos\SB_ACT\SBCombatParser\bin\Debug\GammaJul.LgLcd.dll
+D:\Source\Repos\SB_ACT\SBCombatParser\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Source\Repos\SB_ACT\SBCombatParser\bin\Debug\Trinet.Core.IO.Ntfs.dll
+D:\Source\Repos\SB_ACT\SBCombatParser\bin\Debug\Advanced Combat Tracker.xml
+D:\Source\Repos\SB_ACT\SBCombatParser\bin\Debug\Advanced Combat Tracker.exe.config
+D:\Source\Repos\SB_ACT\SBCombatParser\obj\Debug\SBCombatParser.csproj.CopyComplete
+D:\Source\Repos\SB_ACT\SBCombatParser\obj\Debug\SBCombatParser.dll
+D:\Source\Repos\SB_ACT\SBCombatParser\obj\Debug\SBCombatParser.pdb
