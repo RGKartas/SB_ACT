@@ -1,16 +1,16 @@
-Version  :: 0.0.4.2
-DateTime :: 11/4/2023 03:24:56 AM
-(3:25:30) DRKill assumes Precise Stance.
-Version  :: 0.0.4.2
-DateTime :: 11/4/2023 03:34:08 AM
-(3:34:54) DRKill assumes Precise Stance.
-(3:35:01) Watch begins to stumble.
-(3:35:01) Watch looks winded!
-(3:35:08) Watch stops stumbling.
-(3:35:36) Watch is no longer poisoned.
-(3:35:38) You stumble and slow.
-(3:35:39) You feel winded!
-(3:35:46) You stop stumbling.
-(3:36:13) The poison has run its course.
-(3:36:58) DRKill is steeled with Undead Fortitude!
-(3:37:08) DRKill is steeled with Dark Fortitude!
+Version  :: 0.0.4.8
+DateTime :: 11/4/2023 07:37:06 AM
+(7:37:18) Watch starts shooting more accurately!
+(7:37:29) Watch feels more deadly!
+(7:37:33) Watch looks healthier!
+(7:37:37) Sniper is now able to fly!
+(7:37:37) Sniper is surrounded by a protective shield.
+(7:37:41) Watch looks much faster!
+(7:37:49) Watch looks much faster!
+(7:37:49) Watch looks much faster!
+(7:37:51) Watch's speed returns to normal.
+(7:37:51) Watch's speed returns to normal.
+(7:37:51) Watch looks much faster!
+(7:38:51) Watch's speed returns to normal.
+(7:41:15) Watch's weariness falls.
+ Log Stopped
