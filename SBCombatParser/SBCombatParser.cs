@@ -22,7 +22,7 @@ namespace SBCombatParser
         static public string unkFilePath = "SBUnkParse.log.txt";
         static public string unkPBFilePath = "SBUnkPB.log.txt";
 
-        static public string version = "0.0.4.5";
+        static public string version = "0.0.5.0";
         static public readonly object fileLock = new object();
         static public readonly object missFilelock = new object();
         static public readonly object unkFilelock = new object();
@@ -126,10 +126,18 @@ namespace SBCombatParser
                 regExDesc.Add("Heal :: " + myRegEx);
                 healLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
 
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>.*)s (?<value>\d*) points of mana from (?<target>.*) with(?<ability>.*).";
-                regExDesc.Add("Drain Mana :: " + myRegEx);
+                //myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>.*)s (?<value>\d*) points of mana from (?<target>.*) with(?<ability>.*).";
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>.*)s (?<value>\d*) points of [helthman]* from (?<target>.*) with(?<ability>.*)[\.!]";
+                regExDesc.Add("Drain :: " + myRegEx);
                 healLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
 
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)'s (?<ability>.*'+.*) (?<type>.*)s (?<value>\d*) points of [helthman]* from (?<target>.*)[\.!]";
+                regExDesc.Add("Drain you - Vamp Kiss :: " + myRegEx);
+                healLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
+
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)'s (?<ability>.*) (?<type>.*)s (?<value>\d*) points of [helthman]* from (?<target>.*)[\.!]";
+                regExDesc.Add("Drain - Needs Of the One :: " + myRegEx);
+                healLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
 
                 //damageLines.Add(new Regex("\\((?<time>\\d*\\:\\d*\\:\\d*)\\)\\W*(?<source>.*)'s (?<ability>.*) (?<type>hurt)s (?<target>.*) for (?<value>\\d*) .*.", RegexOptions.Compiled));
                 //damageLines.Add(new Regex("\\((?<time>\\d*\\:\\d*\\:\\d*)\\)\\W*(?<source>.*)'s (?<ability>.*) (?<type>shock)s (?<target>.*) for (?<value>\\d*) .*.", RegexOptions.Compiled));
@@ -175,7 +183,7 @@ namespace SBCombatParser
 
                 //Miss
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>miss)es (?<target>.*)\.";
-                regExDesc.Add("Dmg spell :: " + myRegEx);
+                regExDesc.Add("Miss Melee  :: " + myRegEx);
                 evadedLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
 
                 //You Block
@@ -193,10 +201,27 @@ namespace SBCombatParser
                 regExDesc.Add("Dodge :: " + myRegEx);
                 evadedLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
 
+                //Shadow Mantle
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) [areis]+ (?<type>surround)ed by a (?<source>.*)[\.!]";
+                regExDesc.Add("Shadow Mantle :: " + myRegEx);
+                buffLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
+
+                /*
                 //Casts a spell
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>cast)s (?<ability>.*)\.";
                 regExDesc.Add("Cast spell :: " + myRegEx);
                 oddLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
+
+                //Use a skill
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>use)s (?<ability>.*)\.";
+                regExDesc.Add("Use skill :: " + myRegEx);
+                oddLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
+                */
+
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>[asumect]+)s (?<ability>.*)\.";
+                regExDesc.Add("Use power :: " + myRegEx);
+                oddLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
+
 
                 //Taunt
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*\[Combat\] Info\: (?<target>.*) (?<type>[atck]*)s? (?<source>.*)";
@@ -208,10 +233,7 @@ namespace SBCombatParser
                 regExDesc.Add("Death :: " + myRegEx);
                 oddLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
 
-                //Shadow Mantle
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) [areis]+ (?<type>surround)ed by a (?<source>.*)[\.!]";
-                regExDesc.Add("Shadow Mantle :: " + myRegEx);
-                buffLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
+
 
             }
 
@@ -233,7 +255,7 @@ namespace SBCombatParser
             ActGlobals.oFormActMain.BeforeLogLineRead -= ParseLine;
         }
 
-        const int DMG = 3, HEALS = 4, THREAT = 16;
+        //const int DMG = 3, HEALS = 4, THREAT = 16;
         public void InitPlugin(System.Windows.Forms.TabPage pluginScreenSpace, System.Windows.Forms.Label pluginStatusText)
         {
             DateTime currentDateTime = DateTime.Now;
@@ -641,7 +663,7 @@ namespace SBCombatParser
             EncounterData.ColumnDefs.Add("Duration", new EncounterData.ColumnDef("Duration", true, "INT3", "Duration", (Data) => { return Data.DurationS; }, (Data) => { return Data.Duration.TotalSeconds.ToString("0"); }));
             EncounterData.ColumnDefs.Add("Damage", new EncounterData.ColumnDef("Damage", true, "INT4", "Damage", (Data) => { return Data.Damage.ToString(GetIntCommas()); }, (Data) => { return Data.Damage.ToString(); }));
             EncounterData.ColumnDefs.Add("EncDPS", new EncounterData.ColumnDef("EncDPS", true, "FLOAT4", "EncDPS", (Data) => { return Data.DPS.ToString(GetFloatCommas()); }, (Data) => { return Data.DPS.ToString(usCulture); }));
-            EncounterData.ColumnDefs.Add("Zone", new EncounterData.ColumnDef("Zone", false, "VARCHAR(64)", "Zone", (Data) => { return Data.ZoneName; }, (Data) => { return Data.ZoneName; }));
+            //EncounterData.ColumnDefs.Add("Zone", new EncounterData.ColumnDef("Zone", false, "VARCHAR(64)", "Zone", (Data) => { return Data.ZoneName; }, (Data) => { return Data.ZoneName; }));
             EncounterData.ColumnDefs.Add("Kills", new EncounterData.ColumnDef("Kills", true, "INT3", "Kills", (Data) => { return Data.AlliedKills.ToString(GetIntCommas()); }, (Data) => { return Data.AlliedKills.ToString(); }));
             EncounterData.ColumnDefs.Add("Deaths", new EncounterData.ColumnDef("Deaths", true, "INT3", "Deaths", (Data) => { return Data.AlliedDeaths.ToString(); }, (Data) => { return Data.AlliedDeaths.ToString(); }));
 
@@ -657,28 +679,28 @@ namespace SBCombatParser
             EncounterData.ExportVariables.Add("encdps", new EncounterData.TextExportFormatter("encdps", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-extdps"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-extdps"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "encdps", Extra); }));
             EncounterData.ExportVariables.Add("ENCDPS", new EncounterData.TextExportFormatter("ENCDPS", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-EXTDPS"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-EXTDPS"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "ENCDPS", Extra); }));
             EncounterData.ExportVariables.Add("hits", new EncounterData.TextExportFormatter("hits", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-hits"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-hits"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "hits", Extra); }));
-            EncounterData.ExportVariables.Add("crithits", new EncounterData.TextExportFormatter("crithits", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-crithits"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-crithits"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "crithits", Extra); }));
-            EncounterData.ExportVariables.Add("crithit%", new EncounterData.TextExportFormatter("crithit%", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-crithit%"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-crithit%"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "crithit%", Extra); }));
+            //EncounterData.ExportVariables.Add("crithits", new EncounterData.TextExportFormatter("crithits", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-crithits"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-crithits"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "crithits", Extra); }));
+            //EncounterData.ExportVariables.Add("crithit%", new EncounterData.TextExportFormatter("crithit%", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-crithit%"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-crithit%"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "crithit%", Extra); }));
             EncounterData.ExportVariables.Add("misses", new EncounterData.TextExportFormatter("misses", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-misses"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-misses"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "misses", Extra); }));
-            EncounterData.ExportVariables.Add("hitfailed", new EncounterData.TextExportFormatter("hitfailed", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-hitfailed"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-hitfailed"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "hitfailed", Extra); }));
+            //EncounterData.ExportVariables.Add("hitfailed", new EncounterData.TextExportFormatter("hitfailed", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-hitfailed"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-hitfailed"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "hitfailed", Extra); }));
             EncounterData.ExportVariables.Add("swings", new EncounterData.TextExportFormatter("swings", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-swings"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-swings"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "swings", Extra); }));
-            EncounterData.ExportVariables.Add("tohit", new EncounterData.TextExportFormatter("tohit", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-tohit"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-tohit"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "tohit", Extra); }));
-            EncounterData.ExportVariables.Add("TOHIT", new EncounterData.TextExportFormatter("TOHIT", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-TOHIT"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-TOHIT"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "TOHIT", Extra); }));
+            //EncounterData.ExportVariables.Add("tohit", new EncounterData.TextExportFormatter("tohit", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-tohit"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-tohit"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "tohit", Extra); }));
+            //EncounterData.ExportVariables.Add("TOHIT", new EncounterData.TextExportFormatter("TOHIT", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-TOHIT"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-TOHIT"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "TOHIT", Extra); }));
             EncounterData.ExportVariables.Add("maxhit", new EncounterData.TextExportFormatter("maxhit", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-maxhit"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-maxhit"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "maxhit", Extra); }));
             EncounterData.ExportVariables.Add("MAXHIT", new EncounterData.TextExportFormatter("MAXHIT", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-MAXHIT"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-MAXHIT"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "MAXHIT", Extra); }));
             EncounterData.ExportVariables.Add("healed", new EncounterData.TextExportFormatter("healed", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-healed"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-healed"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "healed", Extra); }));
             EncounterData.ExportVariables.Add("enchps", new EncounterData.TextExportFormatter("enchps", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-exthps"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-exthps"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "enchps", Extra); }));
             EncounterData.ExportVariables.Add("ENCHPS", new EncounterData.TextExportFormatter("ENCHPS", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-EXTHPS"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-EXTHPS"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "ENCHPS", Extra); }));
-            EncounterData.ExportVariables.Add("critheals", new EncounterData.TextExportFormatter("critheals", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-critheals"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-critheals"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "critheals", Extra); }));
-            EncounterData.ExportVariables.Add("critheal%", new EncounterData.TextExportFormatter("critheal%", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-critheal%"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-critheal%"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "critheal%", Extra); }));
+            //EncounterData.ExportVariables.Add("critheals", new EncounterData.TextExportFormatter("critheals", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-critheals"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-critheals"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "critheals", Extra); }));
+            //EncounterData.ExportVariables.Add("critheal%", new EncounterData.TextExportFormatter("critheal%", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-critheal%"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-critheal%"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "critheal%", Extra); }));
             EncounterData.ExportVariables.Add("heals", new EncounterData.TextExportFormatter("heals", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-heals"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-heals"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "heals", Extra); }));
             EncounterData.ExportVariables.Add("maxheal", new EncounterData.TextExportFormatter("maxheal", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-maxheal"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-maxheal"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "maxheal", Extra); }));
             EncounterData.ExportVariables.Add("MAXHEAL", new EncounterData.TextExportFormatter("MAXHEAL", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-MAXHEAL"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-MAXHEAL"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "MAXHEAL", Extra); }));
-            EncounterData.ExportVariables.Add("maxhealward", new EncounterData.TextExportFormatter("maxhealward", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-maxhealward"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-maxhealward"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "maxhealward", Extra); }));
-            EncounterData.ExportVariables.Add("MAXHEALWARD", new EncounterData.TextExportFormatter("MAXHEALWARD", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-MAXHEALWARD"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-MAXHEALWARD"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "MAXHEALWARD", Extra); }));
+            //EncounterData.ExportVariables.Add("maxhealward", new EncounterData.TextExportFormatter("maxhealward", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-maxhealward"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-maxhealward"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "maxhealward", Extra); }));
+            //EncounterData.ExportVariables.Add("MAXHEALWARD", new EncounterData.TextExportFormatter("MAXHEALWARD", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-MAXHEALWARD"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-MAXHEALWARD"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "MAXHEALWARD", Extra); }));
             EncounterData.ExportVariables.Add("damagetaken", new EncounterData.TextExportFormatter("damagetaken", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-damagetaken"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-damagetaken"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "damagetaken", Extra); }));
             EncounterData.ExportVariables.Add("healstaken", new EncounterData.TextExportFormatter("healstaken", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-healstaken"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-healstaken"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "healstaken", Extra); }));
-            EncounterData.ExportVariables.Add("powerheal", new EncounterData.TextExportFormatter("powerheal", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-powerheal"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-powerheal"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "powerheal", Extra); }));
+            //EncounterData.ExportVariables.Add("powerheal", new EncounterData.TextExportFormatter("powerheal", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-powerheal"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-powerheal"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "powerheal", Extra); }));
             EncounterData.ExportVariables.Add("kills", new EncounterData.TextExportFormatter("kills", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-kills"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-kills"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "kills", Extra); }));
             EncounterData.ExportVariables.Add("deaths", new EncounterData.TextExportFormatter("deaths", ActGlobals.ActLocalization.LocalizationStrings["exportFormattingLabel-deaths"].DisplayedText, ActGlobals.ActLocalization.LocalizationStrings["exportFormattingDesc-deaths"].DisplayedText, (Data, SelectiveAllies, Extra) => { return EncounterFormatSwitch(Data, SelectiveAllies, "deaths", Extra); }));
 
@@ -694,14 +716,14 @@ namespace SBCombatParser
             CombatantData.ColumnDefs.Add("Kills", new CombatantData.ColumnDef("Kills", false, "INT3", "Kills", (Data) => { return Data.Kills.ToString(GetIntCommas()); }, (Data) => { return Data.Kills.ToString(); }, (Left, Right) => { return Left.Kills.CompareTo(Right.Kills); }));
             CombatantData.ColumnDefs.Add("Healed", new CombatantData.ColumnDef("Healed", false, "INT4", "Healed", (Data) => { return Data.Healed.ToString(GetIntCommas()); }, (Data) => { return Data.Healed.ToString(); }, (Left, Right) => { return Left.Healed.CompareTo(Right.Healed); }));
             CombatantData.ColumnDefs.Add("Healed%", new CombatantData.ColumnDef("Healed%", false, "VARCHAR(4)", "HealedPerc", (Data) => { return Data.HealedPercent; }, (Data) => { return Data.HealedPercent; }, (Left, Right) => { return Left.Healed.CompareTo(Right.Healed); }));
-            CombatantData.ColumnDefs.Add("CritHeals", new CombatantData.ColumnDef("CritHeals", false, "INT3", "CritHeals", (Data) => { return Data.CritHeals.ToString(GetIntCommas()); }, (Data) => { return Data.CritHeals.ToString(); }, (Left, Right) => { return Left.CritHeals.CompareTo(Right.CritHeals); }));
+            //CombatantData.ColumnDefs.Add("CritHeals", new CombatantData.ColumnDef("CritHeals", false, "INT3", "CritHeals", (Data) => { return Data.CritHeals.ToString(GetIntCommas()); }, (Data) => { return Data.CritHeals.ToString(); }, (Left, Right) => { return Left.CritHeals.CompareTo(Right.CritHeals); }));
             CombatantData.ColumnDefs.Add("Heals", new CombatantData.ColumnDef("Heals", false, "INT3", "Heals", (Data) => { return Data.Heals.ToString(GetIntCommas()); }, (Data) => { return Data.Heals.ToString(); }, (Left, Right) => { return Left.Heals.CompareTo(Right.Heals); }));
             //CombatantData.ColumnDefs.Add("PowerReplenish", new CombatantData.ColumnDef("PowerReplenish", false, "INT4", "PowerReplenish", (Data) => { return Data.PowerReplenish.ToString(GetIntCommas()); }, (Data) => { return Data.PowerReplenish.ToString(); }, (Left, Right) => { return Left.PowerReplenish.CompareTo(Right.PowerReplenish); }));
             CombatantData.ColumnDefs.Add("DPS", new CombatantData.ColumnDef("DPS", false, "FLOAT4", "DPS", (Data) => { return Data.DPS.ToString(GetFloatCommas()); }, (Data) => { return Data.DPS.ToString(usCulture); }, (Left, Right) => { return Left.DPS.CompareTo(Right.DPS); }));
             CombatantData.ColumnDefs.Add("EncDPS", new CombatantData.ColumnDef("EncDPS", true, "FLOAT4", "EncDPS", (Data) => { return Data.EncDPS.ToString(GetFloatCommas()); }, (Data) => { return Data.EncDPS.ToString(usCulture); }, (Left, Right) => { return Left.Damage.CompareTo(Right.Damage); }));
             CombatantData.ColumnDefs.Add("EncHPS", new CombatantData.ColumnDef("EncHPS", true, "FLOAT4", "EncHPS", (Data) => { return Data.EncHPS.ToString(GetFloatCommas()); }, (Data) => { return Data.EncHPS.ToString(usCulture); }, (Left, Right) => { return Left.Healed.CompareTo(Right.Healed); }));
             CombatantData.ColumnDefs.Add("Hits", new CombatantData.ColumnDef("Hits", false, "INT3", "Hits", (Data) => { return Data.Hits.ToString(GetIntCommas()); }, (Data) => { return Data.Hits.ToString(); }, (Left, Right) => { return Left.Hits.CompareTo(Right.Hits); }));
-            CombatantData.ColumnDefs.Add("CritHits", new CombatantData.ColumnDef("CritHits", false, "INT3", "CritHits", (Data) => { return Data.CritHits.ToString(GetIntCommas()); }, (Data) => { return Data.CritHits.ToString(); }, (Left, Right) => { return Left.CritHits.CompareTo(Right.CritHits); }));
+            //CombatantData.ColumnDefs.Add("CritHits", new CombatantData.ColumnDef("CritHits", false, "INT3", "CritHits", (Data) => { return Data.CritHits.ToString(GetIntCommas()); }, (Data) => { return Data.CritHits.ToString(); }, (Left, Right) => { return Left.CritHits.CompareTo(Right.CritHits); }));
             CombatantData.ColumnDefs.Add("Avoids", new CombatantData.ColumnDef("Avoids", false, "INT3", "Blocked", (Data) => { return Data.Blocked.ToString(GetIntCommas()); }, (Data) => { return Data.Blocked.ToString(); }, (Left, Right) => { return Left.Blocked.CompareTo(Right.Blocked); }));
             CombatantData.ColumnDefs.Add("Misses", new CombatantData.ColumnDef("Misses", false, "INT3", "Misses", (Data) => { return Data.Misses.ToString(GetIntCommas()); }, (Data) => { return Data.Misses.ToString(); }, (Left, Right) => { return Left.Misses.CompareTo(Right.Misses); }));
             CombatantData.ColumnDefs.Add("Swings", new CombatantData.ColumnDef("Swings", false, "INT3", "Swings", (Data) => { return Data.Swings.ToString(GetIntCommas()); }, (Data) => { return Data.Swings.ToString(); }, (Left, Right) => { return Left.Swings.CompareTo(Right.Swings); }));
@@ -709,17 +731,16 @@ namespace SBCombatParser
             CombatantData.ColumnDefs.Add("DamageTaken", new CombatantData.ColumnDef("DamageTaken", true, "INT4", "DamageTaken", (Data) => { return Data.DamageTaken.ToString(GetIntCommas()); }, (Data) => { return Data.DamageTaken.ToString(); }, (Left, Right) => { return Left.DamageTaken.CompareTo(Right.DamageTaken); }));
             CombatantData.ColumnDefs.Add("Deaths", new CombatantData.ColumnDef("Deaths", true, "INT3", "Deaths", (Data) => { return Data.Deaths.ToString(GetIntCommas()); }, (Data) => { return Data.Deaths.ToString(); }, (Left, Right) => { return Left.Deaths.CompareTo(Right.Deaths); }));
             CombatantData.ColumnDefs.Add("ToHit%", new CombatantData.ColumnDef("ToHit%", false, "FLOAT4", "ToHit", (Data) => { return Data.ToHit.ToString(GetFloatCommas()); }, (Data) => { return Data.ToHit.ToString(usCulture); }, (Left, Right) => { return Left.ToHit.CompareTo(Right.ToHit); }));
-            CombatantData.ColumnDefs.Add("CritDam%", new CombatantData.ColumnDef("CritDam%", false, "VARCHAR(8)", "CritDamPerc", (Data) => { return Data.CritDamPerc.ToString("0'%"); }, (Data) => { return Data.CritDamPerc.ToString("0'%"); }, (Left, Right) => { return Left.CritDamPerc.CompareTo(Right.CritDamPerc); }));
-            CombatantData.ColumnDefs.Add("CritHeal%", new CombatantData.ColumnDef("CritHeal%", false, "VARCHAR(8)", "CritHealPerc", (Data) => { return Data.CritHealPerc.ToString("0'%"); }, (Data) => { return Data.CritHealPerc.ToString("0'%"); }, (Left, Right) => { return Left.CritHealPerc.CompareTo(Right.CritHealPerc); }));
+            //CombatantData.ColumnDefs.Add("CritDam%", new CombatantData.ColumnDef("CritDam%", false, "VARCHAR(8)", "CritDamPerc", (Data) => { return Data.CritDamPerc.ToString("0'%"); }, (Data) => { return Data.CritDamPerc.ToString("0'%"); }, (Left, Right) => { return Left.CritDamPerc.CompareTo(Right.CritDamPerc); }));
+            //CombatantData.ColumnDefs.Add("CritHeal%", new CombatantData.ColumnDef("CritHeal%", false, "VARCHAR(8)", "CritHealPerc", (Data) => { return Data.CritHealPerc.ToString("0'%"); }, (Data) => { return Data.CritHealPerc.ToString("0'%"); }, (Left, Right) => { return Left.CritHealPerc.CompareTo(Right.CritHealPerc); }));
             CombatantData.OutgoingDamageTypeDataObjects = new Dictionary<string, CombatantData.DamageTypeDef>
         {
             {"Attack (Out)", new CombatantData.DamageTypeDef("Attack (Out)", -1, Color.DarkGoldenrod)},
-            {"Pet Attack (Out)", new CombatantData.DamageTypeDef("Pet Attack (Out)", -1, Color.DarkOrange)},
+            {"Cast (Out)", new CombatantData.DamageTypeDef("Cast (Out)", 0, Color.DarkOrange)},
             {"Outgoing Damage", new CombatantData.DamageTypeDef("Outgoing Damage", 0, Color.Orange)},
             {"Healed (Out)", new CombatantData.DamageTypeDef("Healed (Out)", 1, Color.Blue)},
-            {"Pet Healed (Out)", new CombatantData.DamageTypeDef("Pet Healed (Out)", 1, Color.Blue)},
+            //{"Pet Healed (Out)", new CombatantData.DamageTypeDef("Pet Healed (Out)", 1, Color.Blue)},
             {"Outgoing Heal (Out)", new CombatantData.DamageTypeDef("Outgoing Heal (Out)", 1, Color.Blue)},
-            //{"Cast", new CombatantData.DamageTypeDef("Cast", -1, Color.Blue)},
             {"Energy/Mana Replenish (Out)", new CombatantData.DamageTypeDef("Energy/Mana Replenish (Out)", 1, Color.Violet)},
             {"All Outgoing (Ref)", new CombatantData.DamageTypeDef("All Outgoing (Ref)", 0, Color.Black)}
         };
@@ -727,17 +748,15 @@ namespace SBCombatParser
         {
             {"Incoming Damage", new CombatantData.DamageTypeDef("Incoming Damage", -1, Color.Red)},
             {"Healed (Inc)",new CombatantData.DamageTypeDef("Healed (Inc)", 1, Color.LimeGreen)},
-            //{"Cast", new CombatantData.DamageTypeDef("Cast", -1, Color.Blue)},
             {"Energy/Mana Replenish (Inc)",new CombatantData.DamageTypeDef("Energy/Mana Replenish (Inc)", 1, Color.MediumPurple)},
             {"All Incoming (Ref)",new CombatantData.DamageTypeDef("All Incoming (Ref)", 0, Color.Black)}
         };
             CombatantData.SwingTypeToDamageTypeDataLinksOutgoing = new SortedDictionary<int, List<string>>
         {
             {1, new List<string> { "Attack (Out)", "Outgoing Damage" } },
-            {2, new List<string> { "Pet Attack (Out)", "Outgoing Damage" } },
+            {2, new List<string> { "Cast (Out)", "Outgoing Damage" } },
             {3, new List<string> { "Healed (Out)", "Outgoing Heal (Out)" } },
-            {4, new List<string> { "Pet Healed (Out)", "Outgoing Heal (Out)" } },
-            //{8, new List<string> { "Cast" } },
+            //{4, new List<string> { "Pet Healed (Out)", "Outgoing Heal (Out)" } },
             {13, new List<string> { "Energy/Mana Replenish (Out)" } }
         };
             CombatantData.SwingTypeToDamageTypeDataLinksIncoming = new SortedDictionary<int, List<string>>
@@ -746,7 +765,6 @@ namespace SBCombatParser
             {2, new List<string> { "Incoming Damage" } },
             {3, new List<string> { "Healed (Inc)" } },
             {4, new List<string> { "Healed (Inc)" } },
-            //{8, new List<string> { "Cast" } },
             {13, new List<string> { "Energy/Mana Replenish (Inc)" } }
         };
 
@@ -892,8 +910,6 @@ namespace SBCombatParser
 
         
 
-        static DateTime default_date = new DateTime(2012, 1, 1);
-        static int last_hour = 0;
         private void ParseLine(bool isImport, LogLineEventArgs log)
         {
             ActGlobals.oFormActMain.GlobalTimeSorter++;
@@ -963,12 +979,26 @@ namespace SBCombatParser
                         break;
 
                     case "drain":
-                        if (line.ability.Equals("Exalted Word of Binding"))
+                        if (line.ability.Equals("Exalted Word of Binding") | line.ability.Equals("Needs of the One"))
                         {
                             log.detectedType = Color.Green.ToArgb();
                             //type = HEALS;
-                            type = (int)SwingTypeEnum.Healing;
-                        } else
+                            //type = (int)SwingTypeEnum.Healing;
+                            type = 13;
+                        } 
+                        else if (line.ability.Equals("Vampire's Kiss"))
+                        {
+                            log.detectedType = Color.LightCoral.ToArgb();
+                            if (line.source.Equals(line.target))
+                            {
+                                type = (int)SwingTypeEnum.Healing;
+                            } 
+                            else
+                            {
+                                type = (int)SwingTypeEnum.Melee;
+                            }
+                        }
+                        else
                         {
                             log.detectedType = Color.Orange.ToArgb();
                             //type = DMG;
@@ -983,11 +1013,21 @@ namespace SBCombatParser
                         break;
 
                     case "heal":
-                        log.detectedType = Color.Green.ToArgb();
-                        //type = HEALS;
-                        type = (int)SwingTypeEnum.Healing;
+                        if (line.ability.Equals("Relgor's Restorative Elixir") | line.ability.Equals("Caster Oil"))
+                        {
+                            log.detectedType = Color.Green.ToArgb();
+                            type = 13;
+                        }
+                        else
+                        {
+                            log.detectedType = Color.Green.ToArgb();
+                            //type = HEALS;
+                            type = (int)SwingTypeEnum.Healing;
+                        }
                         break;
- 
+
+                    case "assume":
+                    case "use":
                     case "cast":
                         log.detectedType = Color.Green.ToArgb();
                         //type = HEALS;
@@ -1059,10 +1099,31 @@ namespace SBCombatParser
                 GlobalVariables.WriteLineToDebugLog("AddCombatAction :: Target     = " + line.target);
                 GlobalVariables.WriteLineToDebugLog("AddCombatAction :: Value_Type = " + line.value_type);
 
-                switch(line.value_type)
+                Dnum myDnum = null;
+
+                switch (line.value_type)
                 {
+                    case "dodge":
+                        myDnum = new Dnum(Dnum.Miss, "Dodge");
+                        ActGlobals.oFormActMain.AddCombatAction(type, line.crit_value, "None", line.source, line.ability,
+                                                                myDnum, time, ActGlobals.oFormActMain.GlobalTimeSorter,
+                                                                line.target, line.value_type);
+                        break;
+                    case "block":
+                        myDnum = new Dnum(Dnum.Miss, "Block");
+                        ActGlobals.oFormActMain.AddCombatAction(type, line.crit_value, "None", line.source, line.ability,
+                                                                myDnum, time, ActGlobals.oFormActMain.GlobalTimeSorter,
+                                                                line.target, line.value_type);
+                        break;
+                    case "miss":
+                        ActGlobals.oFormActMain.AddCombatAction(type, line.crit_value, "None", line.source, line.ability,
+                                                                Dnum.Miss, time, ActGlobals.oFormActMain.GlobalTimeSorter,
+                                                                line.target, line.value_type);
+                        break;
+
+
                     case "die":
-                        ActGlobals.oFormActMain.AddCombatAction(DMG, line.crit_value, "None", line.source, "Killing Blow", 
+                        ActGlobals.oFormActMain.AddCombatAction(type, line.crit_value, "None", line.source, "Killing Blow", 
                                                                 Dnum.Death, time, ActGlobals.oFormActMain.GlobalTimeSorter, 
                                                                 line.target, "Death");
                         break;
@@ -1073,12 +1134,7 @@ namespace SBCombatParser
                                                                 line.target, line.value_type);
                         break;    
                 }
-                
-               
-
-
-
-
+            
             }
             return;
         }
@@ -1216,9 +1272,15 @@ namespace SBCombatParser
                 switch (this.value_type)
                 {
                     case "surround":
-                        this.ability = "Shadow Mantle";
-                        this.value = 0;
-                        this.target = groups["target"].Value.Replace("The ", "").Replace("the ", "").Trim(' ', '"');
+                        if (this.source.Equals("black mantle"))
+                        {
+                            this.ability = "Shadow Mantle";
+                            this.value = 0;
+                            this.target = groups["target"].Value.Replace("The ", "").Replace("the ", "").Trim(' ', '"');
+                        } else
+                        {
+                            this.valid = false;
+                        }
                         break;
 
                     case "take":
@@ -1283,6 +1345,8 @@ namespace SBCombatParser
                         this.value = 0;
                         break;
 
+                    case "assume":
+                    case "use":
                     case "cast":
                         this.ability = groups["ability"].Value.Trim(' ', '"');
                         this.target = "none";
@@ -1313,8 +1377,10 @@ namespace SBCombatParser
                 GlobalVariables.WriteLineToDebugLog("RegEx Match :: RegExDesc  = " + GlobalVariables.SBSetupHelper.regExDesc[this.regExIndx]);
 
 
-            } else { 
-                this.valid = false;
+            }
+
+            if (this.valid == false)
+            {     
                 GlobalVariables.WriteLineToMissedParse(line);
             }
 
