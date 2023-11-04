@@ -20,16 +20,19 @@ namespace SBCombatParser
         static public string logFilePath = "SBCombatParser.log.txt";
         static public string noParseFilePath = "SBMissParse.log.txt";
         static public string unkFilePath = "SBUnkParse.log.txt";
+        static public string unkPBFilePath = "SBUnkPB.log.txt";
 
-        static public string version = "0.0.4.0";
+        static public string version = "0.0.4.1";
         static public readonly object fileLock = new object();
         static public readonly object missFilelock = new object();
         static public readonly object unkFilelock = new object();
+        static public readonly object unkPBFilelock = new object();
 
         static public SBSetupHelper setupHelper = new SBSetupHelper();
 
         static public void WriteLineToDebugLog(string line, [CallerMemberName] string callingMethod = "")
         {
+#if DEBUG
             lock(fileLock)
             {
                 using (StreamWriter writer = File.AppendText(logFilePath))
@@ -38,10 +41,12 @@ namespace SBCombatParser
                     writer.WriteLine(callingMethod + " :: " + line);
                 }    
             }
+#endif
         }
 
         static public void WriteLineToMissedParse(string line)
         {
+#if DEBUG
             lock (missFilelock)
             {
                 using (StreamWriter writer = File.AppendText(noParseFilePath))
@@ -50,10 +55,12 @@ namespace SBCombatParser
                     writer.WriteLine(line);
                 }
             }
+#endif
         }
 
         static public void WriteLineToUnknownParse(string line)
         {
+#if DEBUG
             lock (unkFilelock)
             {
                 using (StreamWriter writer = File.AppendText(unkFilePath))
@@ -62,8 +69,20 @@ namespace SBCombatParser
                     writer.WriteLine(line);
                 }
             }
+#endif
         }
 
+        static public void WriteLineToUnknownPBLog(string line)
+        {
+            lock (unkPBFilelock)
+            {
+                using (StreamWriter writer = File.AppendText(unkPBFilePath))
+                {
+                    writer.AutoFlush = true;
+                    writer.WriteLine(line);
+                }
+            }
+        }
         public class SBSetupHelper
         {
             // Regex
@@ -1236,6 +1255,9 @@ namespace SBCombatParser
                         GlobalVariables.WriteLineToUnknownParse("UNKOWN :: Line      :: " + line);
                         GlobalVariables.WriteLineToUnknownParse("UNKOWN :: RegExIndx :: " + this.regExIndx);
                         GlobalVariables.WriteLineToUnknownParse("UNKOWN :: RegExDesc :: " + GlobalVariables.SBSetupHelper.regExDesc[this.regExIndx]);
+
+                        GlobalVariables.WriteLineToUnknownPBLog(line);
+
                         break;
                 };
 
