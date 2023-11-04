@@ -22,7 +22,7 @@ namespace SBCombatParser
         static public string unkFilePath = "SBUnkParse.log.txt";
         static public string unkPBFilePath = "SBUnkPB.log.txt";
 
-        static public string version = "0.0.4.1";
+        static public string version = "0.0.4.5";
         static public readonly object fileLock = new object();
         static public readonly object missFilelock = new object();
         static public readonly object unkFilelock = new object();
@@ -168,19 +168,29 @@ namespace SBCombatParser
                 regExDesc.Add("Proc Dmg :: " + myRegEx);
                 damageLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
 
+                //Bleed Damage
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) takes? (?<value>\d*) .*(?<source>damage) from (?<type>.*)ing[\.!]";
+                regExDesc.Add("Bleed Dmg :: " + myRegEx);
+                damageLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
+
                 //Miss
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>miss)es (?<target>.*)\.";
                 regExDesc.Add("Dmg spell :: " + myRegEx);
                 evadedLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
 
                 //You Block
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>block) (?<source>.*)'s .*\.";
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>block) (?<source>.*)'s .*[\.!]";
                 regExDesc.Add("You Block :: " + myRegEx);
                 evadedLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
 
                 //You Parry
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>parry) (?<source>.*)'s .*\.";
                 regExDesc.Add("You Parry :: " + myRegEx);
+                evadedLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
+
+                //All Dodge
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>dodge)s? (?<source>.*)'s.*[\.!]";
+                regExDesc.Add("Dodge :: " + myRegEx);
                 evadedLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
 
                 //Casts a spell
@@ -197,6 +207,12 @@ namespace SBCombatParser
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*\[Combat\] Info\: (?<source>.*) [hasve]* (?<type>die).*!";
                 regExDesc.Add("Death :: " + myRegEx);
                 oddLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
+
+                //Shadow Mantle
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) [areis]+ (?<type>surround)ed by a (?<source>.*)[\.!]";
+                regExDesc.Add("Shadow Mantle :: " + myRegEx);
+                buffLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
+
             }
 
         }
@@ -921,6 +937,7 @@ namespace SBCombatParser
                 //if (line.event_type.Equals("heal")) // Heals
                 switch (line.value_type)
                 {
+                    case "dodge":
                     case "block":
                     case "miss":
                     case "hit":
@@ -958,6 +975,11 @@ namespace SBCombatParser
                             //type = (int)SwingTypeEnum.NonMelee;
                             type = (int)SwingTypeEnum.Melee;
                         }
+                        break;
+
+                    case "surround":
+                        log.detectedType = Color.Red.ToArgb();
+                        type = (int)SwingTypeEnum.Healing;
                         break;
 
                     case "heal":
@@ -1193,12 +1215,19 @@ namespace SBCombatParser
 
                 switch (this.value_type)
                 {
+                    case "surround":
+                        this.ability = "Shadow Mantle";
+                        this.value = 0;
+                        this.target = groups["target"].Value.Replace("The ", "").Replace("the ", "").Trim(' ', '"');
+                        break;
+
                     case "take":
                         this.ability = groups["source"].Value.Trim(' ', '"');
                         this.value = Convert.ToInt32(groups["value"].Value.Trim(' ', '"'));
                         this.target = groups["target"].Value.Replace("The ", "").Replace("the ","").Trim(' ', '"');
                         break;
 
+                    case "dodge":
                     case "parry":
                     case "block":
                     case "miss":
@@ -1214,6 +1243,18 @@ namespace SBCombatParser
                         break;
 
                     case "bleed":
+                        if (groups["ability"].Value.Trim(' ', '"').Equals(""))
+                        {
+                            this.ability = "bleed";
+                        }
+                        else
+                        {
+                            this.ability = groups["ability"].Value.Trim(' ', '"');
+                        }
+                        this.target = groups["target"].Value.Replace("The ", "").Replace("the ", "").Trim(' ', '"');
+                        this.value = Convert.ToInt32(groups["value"].Value.Trim(' ', '"'));
+                        break;
+
                     case "poison":
                     case "freeze":
                     case "drain":
@@ -1224,7 +1265,7 @@ namespace SBCombatParser
                     case "shock":
                     case "hurt":
                     case "heal":
-                        this.ability = groups["ability"].Value.Trim(' ', '"'); 
+                        this.ability = groups["ability"].Value.Trim(' ', '"');
                         this.target = groups["target"].Value.Replace("The ", "").Replace("the ", "").Trim(' ', '"');
                         this.value = Convert.ToInt32(groups["value"].Value.Trim(' ', '"'));
                         break;
