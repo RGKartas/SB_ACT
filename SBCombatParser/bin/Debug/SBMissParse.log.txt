@@ -1,690 +1,289 @@
-(15:56:27) [Combat] Info: You have received 1 Experience Point!
-(15:56:27) [Combat] Info: You have received 1 Experience Point!
-(15:56:27) Vorok Mud-Chief's flesh becomes as hard as granite!
-(15:56:27) Tavok Chief-brother feels warded from harm.
-(15:56:27) Mud Ogre is stunned!
-(15:56:27) Vorok Mud-Chief is stunned!
-(15:56:27) Mud Ogre is no longer stunned.
-(15:56:27) Vorok Mud-Chief is no longer stunned.
-(15:56:28) [Combat] Info: You have received 1 Experience Point!
-(15:56:28) Mud Ogre no longer feels as vulnerable to holy magic.
-(15:56:28) Mud Ogre's stun immunity has worn off.
-(15:56:28) Vorok Mud-Chief's stun immunity has worn off.
-(15:56:28) [Combat] Info: You have received 1 Experience Point!
-(15:56:28) Tavok Chief-brother is no longer warded from harm.
-(15:56:28) [Combat] Info: You have received 1 Experience Point!
-(15:56:28) Vorok Mud-Chief's skin returns to normal.
-(15:56:28) Vorok Mud-Chief no longer feels as vulnerable to holy magic.
-(15:56:28) [System] Info: The Blood Sands is now a hotzone!  All who adventure there will gain greater fortune and glory!  (Time remaining:  1 hour)
-(15:56:29) [Combat] Info: You have received 1 Experience Point!
-(15:56:29) [Combat] Info: You have received 1 Experience Point!
-(15:56:29) Moss Ogre is stunned!
-(15:56:29) Moss Ogre is stunned!
-(15:56:29) [Combat] Info: You have received 1 Experience Point!
-(15:56:29) MalzSent drains 109 points of mana from MalzSent with Exalted Word of Binding.
-(15:56:29) MalzSent drains 156 points of mana from Moss Ogre with Exalted Word of Binding.
-(15:56:29) Moss Ogre begins to stumble.
-(15:56:29) MalzSent drains 108 points of mana from MalzSent with Exalted Word of Binding.
-(15:56:29) MalzSent drains 155 points of mana from Moss Ogre with Exalted Word of Binding.
-(15:56:29) Moss Ogre begins to stumble.
-(15:56:30) Moss Ogre is no longer stunned.
-(15:56:30) Moss Ogre is no longer stunned.
-(15:56:30) Moss Ogre's stun immunity has worn off.
-(15:56:30) Moss Ogre stops stumbling.
-(15:56:30) Moss Ogre's stun immunity has worn off.
-(15:56:30) Moss Ogre stops stumbling.
-(15:56:30) [Combat] Info: You have received 1 Experience Point!
-(15:56:30) [Combat] Info: You have received 1 Experience Point!
-(15:56:30) [Combat] Info: You have received 1 Experience Point!
-(15:56:31) MalzSent drains 112 points of mana from MalzSent with Exalted Word of Binding.
-(15:56:31) MalzSent drains 161 points of mana from Vorok Mud-Chief with Exalted Word of Binding.
-(15:56:31) Vorok Mud-Chief begins to stumble.
-(15:56:31) [Combat] Info: You have received 1 Experience Point!
-(15:56:31) Vorok Mud-Chief stops stumbling.
-(15:56:31) Tavok Chief-brother feels warded from harm.
-(15:56:31) MalzDruid assumes Offensive Stance.
-(15:56:31) MalzSent drains 107 points of mana from MalzSent with Exalted Word of Binding.
-(15:56:31) MalzSent drains 154 points of mana from Tavok Chief-brother with Exalted Word of Binding.
-(15:56:31) Tavok Chief-brother begins to stumble.
-(15:56:31) MalzSent drains 103 points of mana from MalzSent with Exalted Word of Binding.
-(15:56:31) MalzSent drains 147 points of mana from Mud Ogre with Exalted Word of Binding.
-(15:56:31) Mud Ogre begins to stumble.
-(15:56:31) MalzSent drains 112 points of mana from MalzSent with Exalted Word of Binding.
-(15:56:31) MalzSent drains 160 points of mana from Moss Ogre with Exalted Word of Binding.
-(15:56:31) Moss Ogre begins to stumble.
-(15:56:31) MalzDruid looks stronger and healthier!
-(15:56:31) MalzDruid looks stronger and healthier!
-(15:56:32) Tavok Chief-brother is stunned!
-(15:56:32) [Combat] Info: You have received 1 Experience Point!
-(15:56:32) Mud Ogre stops stumbling.
-(15:56:32) [Combat] Info: You have received 1 Experience Point!
-(15:56:32) Moss Ogre stops stumbling.
-(15:56:32) Tavok Chief-brother is no longer stunned.
-(15:56:32) MalzPL assumes Offensive Stance.
-(15:56:32) Tavok Chief-brother stops stumbling.
-(15:56:32) [Combat] Info: You have received 1 Experience Point!
-(15:56:32) Tavok Chief-brother no longer feels as vulnerable to holy magic.
-(15:56:32) Tavok Chief-brother's stun immunity has worn off.
-(15:56:32) Tavok Chief-brother is no longer warded from harm.
-(15:56:32) MalzPL looks stronger and healthier!
-(15:56:32) MalzPL looks stronger and healthier!
-(15:56:32) Mud Ogre is stunned!
-(15:56:33) Mud Ogre is no longer stunned.
-(15:56:33) [Combat] Info: You have received 1 Experience Point!
-(15:56:33) Mud Ogre no longer feels as vulnerable to holy magic.
-(15:56:33) Mud Ogre's stun immunity has worn off.
-(15:56:33) Mud Ogre is stunned!
-(15:56:33) Mud Ogre is no longer stunned.
-(15:56:33) Mud Ogre's stun immunity has worn off.
-(15:56:33) Moss Ogre feels warded against magic.
-(15:56:33) [Combat] Info: You have received 1 Experience Point!
-(15:56:33) Mud Ogre no longer feels as vulnerable to holy magic.
-(15:56:34) [Combat] Info: You have received 1 Experience Point!
-(15:56:34) [Combat] Info: You have received 1 Experience Point!
-(15:56:34) Moss Ogre's warding fades.
-(15:56:34) Moss Ogre is stunned!
-(15:56:34) Moss Ogre is no longer stunned.
-(15:56:34) Moss Ogre's stun immunity has worn off.
-(15:56:34) [Combat] Info: You have received 1 Experience Point!
-(15:56:35) [Combat] Info: You have received 1 Experience Point!
-(15:56:35) Moss Ogre no longer feels as vulnerable to holy magic.
-(15:56:35) Vorok Mud-Chief is stunned!
-(15:56:35) Vorok Mud-Chief is no longer stunned.
-(15:56:35) Vorok Mud-Chief's stun immunity has worn off.
-(15:56:35) MalzDruid blocks the Vorok Mud-Chief's attack.
-(15:56:35) [Combat] Info: You have received 1 Experience Point!
-(15:56:36) MalzSent drains 101 points of mana from MalzSent with Exalted Word of Binding.
-(15:56:36) MalzSent drains 144 points of mana from Mud Ogre with Exalted Word of Binding.
-(15:56:36) Mud Ogre begins to stumble.
-(15:56:36) MalzSent drains 109 points of mana from MalzSent with Exalted Word of Binding.
-(15:56:36) MalzSent drains 156 points of mana from Moss Ogre with Exalted Word of Binding.
-(15:56:36) Moss Ogre begins to stumble.
-(15:56:36) [Combat] Info: You have received 1 Experience Point!
-(15:56:36) Moss Ogre stops stumbling.
-(15:56:36) Tavok Chief-brother is stunned!
-(15:56:36) Mud Ogre stops stumbling.
-(15:56:36) [Combat] Info: You have received 1 Experience Point!
-(15:56:36) Tavok Chief-brother is no longer stunned.
-(15:56:37) MalzSent feels more deadly!
-(15:56:37) MalzSent feels more deadly!
-(15:56:37) Tavok Chief-brother's stun immunity has worn off.
-(15:56:37) [Combat] Info: You have received 1 Experience Point!
-(15:56:37) [Combat] Info: You have received 1 Experience Point!
-(15:56:37) Moss Ogre is stunned!
-(15:56:37) [Combat] Info: You have received 1 Experience Point!
-(15:56:37) Moss Ogre's stun immunity has worn off.
-(15:56:37) Moss Ogre is no longer stunned.
-(15:56:37) [Combat] Info: You have received 1 Experience Point!
-(15:56:37) [Combat] Info: You have received 1 Experience Point!
-(15:56:38) MalzSent parries the Moss Ogre's attack.
-(15:56:38) Moss Ogre is stunned!
-(15:56:38) [Combat] Info: You have received 1 Experience Point!
-(15:56:38) Moss Ogre no longer feels as vulnerable to holy magic.
-(15:56:38) Moss Ogre's stun immunity has worn off.
-(15:56:38) Moss Ogre is no longer stunned.
-(15:56:39) [Combat] Info: You have received 1 Experience Point!
-(15:56:39) MalzSent drains 107 points of mana from MalzSent with Exalted Word of Binding.
-(15:56:39) MalzSent drains 153 points of mana from Vorok Mud-Chief with Exalted Word of Binding.
-(15:56:39) Vorok Mud-Chief begins to stumble.
-(15:56:39) Vorok Mud-Chief is stunned!
-(15:56:39) Vorok Mud-Chief is no longer stunned.
-(15:56:39) Vorok Mud-Chief stops stumbling.
-(15:56:39) Vorok Mud-Chief's stun immunity has worn off.
-(15:56:39) [Combat] Info: You have received 1 Experience Point!
-(15:56:39) Vorok Mud-Chief no longer feels as vulnerable to holy magic.
-(15:56:40) [Combat] Info: You have received 1 Experience Point!
-(15:56:40) [Combat] Info: You have received 1 Experience Point!
-(15:56:40) Moss Ogre no longer feels as vulnerable to holy magic.
-(15:56:40) Mud Ogre feels warded from harm.
-(15:56:40) Moss Ogre is stunned!
-(15:56:40) Mud Ogre is stunned!
-(15:56:40) Mud Ogre is stunned!
-(15:56:40) Moss Ogre is no longer stunned.
-(15:56:40) Mud Ogre is no longer stunned.
-(15:56:40) Mud Ogre is no longer stunned.
-(15:56:40) [Combat] Info: You have received 1 Experience Point!
-(15:56:40) Moss Ogre no longer feels as vulnerable to holy magic.
-(15:56:40) Moss Ogre's stun immunity has worn off.
-(15:56:41) [Combat] Info: You have received 1 Experience Point!
-(15:56:41) Mud Ogre no longer feels as vulnerable to holy magic.
-(15:56:41) Mud Ogre's stun immunity has worn off.
-(15:56:41) Mud Ogre is no longer warded from harm.
-(15:56:41) [Combat] Info: You have received 1 Experience Point!
-(15:56:41) Mud Ogre no longer feels as vulnerable to holy magic.
-(15:56:41) Mud Ogre's stun immunity has worn off.
-(15:56:41) Mud Ogre is stunned!
-(15:56:41) Mud Ogre is no longer stunned.
-(15:56:41) Mud Ogre's stun immunity has worn off.
-(15:56:41) [Combat] Info: You have received 1 Experience Point!
-(15:56:41) [Combat] Info: You have received 1 Experience Point!
-(15:56:41) MalzDruid assumes Offensive Stance.
-(15:56:42) MalzDruid looks stronger and healthier!
-(15:56:42) MalzDruid looks stronger and healthier!
-(15:56:42) MalzPL assumes Offensive Stance.
-(15:56:42) MalzPL looks stronger and healthier!
-(15:56:42) MalzPL looks stronger and healthier!
-(15:56:42) Moss Ogre is stunned!
-(15:56:42) Moss Ogre is no longer stunned.
-(15:56:42) [Combat] Info: You have received 1 Experience Point!
-(15:56:42) Moss Ogre no longer feels as vulnerable to holy magic.
-(15:56:42) Moss Ogre's stun immunity has worn off.
-(15:56:42) [Combat] Info: You have received 1 Experience Point!
-(15:56:42) Tavok Chief-brother is stunned!
-(15:56:42) MalzSent drains 97 points of mana from MalzSent with Exalted Word of Binding.
-(15:56:42) MalzSent drains 138 points of mana from Tavok Chief-brother with Exalted Word of Binding.
-(15:56:42) Tavok Chief-brother begins to stumble.
-(15:56:43) Tavok Chief-brother is no longer stunned.
-(15:56:43) Tavok Chief-brother's stun immunity has worn off.
-(15:56:43) Tavok Chief-brother stops stumbling.
-(15:56:43) [Combat] Info: You have received 1 Experience Point!
-(15:56:43) Tavok Chief-brother no longer feels as vulnerable to holy magic.
-(15:56:43) [Combat] Info: You have received 1 Experience Point!
-(15:56:44) [Combat] Info: You have received 1 Experience Point!
-(15:56:44) Moss Ogre no longer feels as vulnerable to holy magic.
-(15:56:44) [Combat] Info: You have received 1 Experience Point!
-(15:56:44) [Combat] Info: You have received 1 Experience Point!
-(15:56:44) Moss Ogre is stunned!
-(15:56:44) Moss Ogre is no longer stunned.
-(15:56:44) [Combat] Info: You have received 1 Experience Point!
-(15:56:44) Moss Ogre's stun immunity has worn off.
-(15:56:44) [Combat] Info: You have received 1 Experience Point!
-(15:56:45) MalzSent assumes Defensive Stance.
-(15:56:45) MalzPL assumes Offensive Stance.
-(15:56:45) MalzDruid assumes Offensive Stance.
-(15:56:45) Mud Ogre feels warded from harm.
-(15:56:45) [Combat] Info: You have received 1 Experience Point!
-(15:56:45) Mud Ogre is no longer warded from harm.
-(15:56:45) Moss Ogre is stunned!
-(15:56:45) Moss Ogre is no longer stunned.
-(15:56:45) MalzSent drains 104 points of mana from MalzSent with Exalted Word of Binding.
-(15:56:45) MalzSent drains 148 points of mana from Moss Ogre with Exalted Word of Binding.
-(15:56:45) Moss Ogre begins to stumble.
-(15:56:45) Moss Ogre's stun immunity has worn off.
-(15:56:46) [Combat] Info: You have received 1 Experience Point!
-(15:56:46) Moss Ogre no longer feels as vulnerable to holy magic.
-(15:56:46) Moss Ogre stops stumbling.
-(15:56:46) [Combat] Info: You have received 1 Experience Point!
-(15:56:46) Vorok Mud-Chief no longer feels as vulnerable to holy magic.
-(15:56:46) MalzSent drains 106 points of mana from MalzSent with Exalted Word of Binding.
-(15:56:46) MalzSent drains 152 points of mana from Tavok Chief-brother with Exalted Word of Binding.
-(15:56:46) Tavok Chief-brother begins to stumble.
-(15:56:46) Tavok Chief-brother is stunned!
-(15:56:46) Tavok Chief-brother is no longer stunned.
-(15:56:46) Tavok Chief-brother's stun immunity has worn off.
-(15:56:46) Tavok Chief-brother stops stumbling.
-(15:56:46) [Combat] Info: You have received 1 Experience Point!
-(15:56:46) Tavok Chief-brother no longer feels as vulnerable to holy magic.
-(15:56:47) Moss Ogre feels warded against magic.
-(15:56:47) [Combat] Info: You have received 1 Experience Point!
-(15:56:47) Moss Ogre's warding fades.
-(15:56:47) Moss Ogre no longer feels as vulnerable to holy magic.
-(15:56:47) Mud Ogre is stunned!
-(15:56:47) Moss Ogre is stunned!
-(15:56:47) Moss Ogre is no longer stunned.
-(15:56:47) Mud Ogre is no longer stunned.
-(15:56:48) Moss Ogre's stun immunity has worn off.
-(15:56:48) Mud Ogre's stun immunity has worn off.
-(15:56:48) MalzSent drains 97 points of mana from MalzSent with Exalted Word of Binding.
-(15:56:48) MalzSent drains 139 points of mana from Moss Ogre with Exalted Word of Binding.
-(15:56:48) Moss Ogre begins to stumble.
-(15:56:48) MalzSent drains 102 points of mana from MalzSent with Exalted Word of Binding.
-(15:56:48) MalzSent drains 147 points of mana from Moss Ogre with Exalted Word of Binding.
-(15:56:48) Moss Ogre begins to stumble.
-(15:56:48) MalzSent drains 111 points of mana from MalzSent with Exalted Word of Binding.
-(15:56:48) MalzSent drains 158 points of mana from Mud Ogre with Exalted Word of Binding.
-(15:56:48) Mud Ogre begins to stumble.
-(15:56:48) MalzSent drains 100 points of mana from MalzSent with Exalted Word of Binding.
-(15:56:48) MalzSent drains 143 points of mana from Moss Ogre with Exalted Word of Binding.
-(15:56:48) Moss Ogre begins to stumble.
-(15:56:48) MalzSent drains 100 points of mana from MalzSent with Exalted Word of Binding.
-(15:56:48) MalzSent drains 143 points of mana from Mud Ogre with Exalted Word of Binding.
-(15:56:48) Mud Ogre begins to stumble.
-(15:56:48) MalzSent blocks the Moss Ogre's attack.
-(15:56:48) [Combat] Info: You have received 1 Experience Point!
-(15:56:48) Moss Ogre stops stumbling.
-(15:56:48) [Combat] Info: You have received 1 Experience Point!
-(15:56:48) Mud Ogre stops stumbling.
-(15:56:48) [Combat] Info: You have received 1 Experience Point!
-(15:56:48) Moss Ogre stops stumbling.
-(15:56:48) [Combat] Info: You have received 1 Experience Point!
-(15:56:48) Mud Ogre stops stumbling.
-(15:56:48) MalzSent blocks the Mud Ogre's attack.
-(15:56:48) [Combat] Info: You have received 1 Experience Point!
-(15:56:48) Moss Ogre stops stumbling.
-(15:56:49) [Combat] Info: You have received 1 Experience Point!
-(15:56:49) Vorok Mud-Chief is stunned!
-(15:56:49) Vorok Mud-Chief is no longer stunned.
-(15:56:49) [Combat] Info: You have received 1 Experience Point!
-(15:56:49) Vorok Mud-Chief's stun immunity has worn off.
-(15:56:50) [Combat] Info: You have received 1 Experience Point!
-(15:56:50) Mud Ogre no longer feels as vulnerable to holy magic.
-(15:56:50) Tavok Chief-brother is stunned!
-(15:56:50) Tavok Chief-brother is no longer stunned.
-(15:56:50) Tavok Chief-brother's stun immunity has worn off.
-(15:56:50) [Combat] Info: You have received 1 Experience Point!
-(15:56:50) Tavok Chief-brother no longer feels as vulnerable to holy magic.
-(15:56:50) MalzDruid assumes Offensive Stance.
-(15:56:50) MalzDruid looks stronger and healthier!
-(15:56:50) MalzDruid looks stronger and healthier!
-(15:56:51) MalzPL assumes Offensive Stance.
-(15:56:51) Moss Ogre feels warded from harm.
-(15:56:51) MalzPL looks stronger and healthier!
-(15:56:51) MalzPL looks stronger and healthier!
-(15:56:51) Moss Ogre's flesh becomes as hard as granite!
-(15:56:51) Moss Ogre is stunned!
-(15:56:51) Mud Ogre is stunned!
-(15:56:51) [Combat] Info: You have received 1 Experience Point!
-(15:56:51) Moss Ogre's skin returns to normal.
-(15:56:51) Moss Ogre no longer feels as vulnerable to holy magic.
-(15:56:51) Moss Ogre's stun immunity has worn off.
-(15:56:51) Moss Ogre is no longer stunned.
-(15:56:51) Moss Ogre is no longer warded from harm.
-(15:56:51) [Combat] Info: You have received 1 Experience Point!
-(15:56:51) Mud Ogre's stun immunity has worn off.
-(15:56:51) Mud Ogre is no longer stunned.
-(15:56:51) MalzDruid blocks the Moss Ogre's attack.
-(15:56:51) Moss Ogre feels warded against magic.
-(15:56:52) [Combat] Info: You have received 1 Experience Point!
-(15:56:52) [Combat] Info: You have received 1 Experience Point!
-(15:56:52) [Combat] Info: You have received 1 Experience Point!
-(15:56:52) Moss Ogre's warding fades.
-(15:56:52) [Combat] Info: You have received 1 Experience Point!
-(15:56:52) Moss Ogre no longer feels as vulnerable to holy magic.
-(15:56:53) MalzSent feels more deadly!
-(15:56:53) MalzSent feels more deadly!
-(15:56:53) Moss Ogre feels warded against magic.
-(15:56:53) [Combat] Info: You have received 1 Experience Point!
-(15:56:53) Moss Ogre's warding fades.
-(15:56:53) [Combat] Info: You have received 1 Experience Point!
-(15:56:53) MalzSent drains 107 points of mana from MalzSent with Exalted Word of Binding.
-(15:56:53) MalzSent drains 153 points of mana from Mud Ogre with Exalted Word of Binding.
-(15:56:53) Mud Ogre begins to stumble.
-(15:56:54) [Combat] Info: You have received 1 Experience Point!
-(15:56:54) Mud Ogre no longer feels as vulnerable to holy magic.
-(15:56:54) Mud Ogre stops stumbling.
-(15:56:54) [Combat] Info: You have received 1 Experience Point!
-(15:56:54) [Powers] Error: You are in the wrong mode.
-(15:56:54) Mud Ogre is stunned!
-(15:56:54) Mud Ogre is no longer stunned.
-(15:56:55) [Combat] Info: You have received 1 Experience Point!
-(15:56:55) Mud Ogre's stun immunity has worn off.
-(15:56:55) [Combat] Info: You have received 1 Experience Point!
-(15:56:55) MalzSent drains 105 points of mana from MalzSent with Exalted Word of Binding.
-(15:56:55) MalzSent drains 150 points of mana from Mud Ogre with Exalted Word of Binding.
-(15:56:55) Mud Ogre begins to stumble.
-(15:56:55) MalzSent drains 106 points of mana from MalzSent with Exalted Word of Binding.
-(15:56:55) MalzSent drains 152 points of mana from Moss Ogre with Exalted Word of Binding.
-(15:56:55) Moss Ogre begins to stumble.
-(15:56:55) Mud Ogre is stunned!
-(15:56:55) [Combat] Info: You have received 1 Experience Point!
-(15:56:55) Moss Ogre stops stumbling.
-(15:56:55) Mud Ogre is no longer stunned.
-(15:56:55) Moss Ogre is stunned!
-(15:56:55) Moss Ogre is no longer stunned.
-(15:56:56) Mud Ogre stops stumbling.
-(15:56:56) Mud Ogre's stun immunity has worn off.
-(15:56:56) Moss Ogre's stun immunity has worn off.
-(15:56:56) [Combat] Info: You have received 1 Experience Point!
-(15:56:56) Mud Ogre no longer feels as vulnerable to holy magic.
-(15:56:56) [Combat] Info: You have received 1 Experience Point!
-(15:56:56) Moss Ogre no longer feels as vulnerable to holy magic.
-(15:56:56) MalzSent drains 106 points of mana from MalzSent with Exalted Word of Binding.
-(15:56:56) MalzSent drains 151 points of mana from Moss Ogre with Exalted Word of Binding.
-(15:56:56) Moss Ogre begins to stumble.
-(15:56:56) [Combat] Info: You have received 1 Experience Point!
-(15:56:56) Moss Ogre stops stumbling.
-(15:56:57) Moss Ogre's flesh becomes as hard as granite!
-(15:56:57) Moss Ogre is stunned!
-(15:56:57) Moss Ogre is no longer stunned.
-(15:56:57) [Combat] Info: You have received 1 Experience Point!
-(15:56:57) Moss Ogre's skin returns to normal.
-(15:56:57) Moss Ogre's stun immunity has worn off.
-(15:56:57) MalzSent drains 101 points of mana from MalzSent with Exalted Word of Binding.
-(15:56:57) MalzSent drains 145 points of mana from Vorok Mud-Chief with Exalted Word of Binding.
-(15:56:57) Vorok Mud-Chief begins to stumble.
-(15:56:58) Vorok Mud-Chief feels warded against magic.
-(15:56:58) [Combat] Info: You have received 1 Experience Point!
-(15:56:58) Vorok Mud-Chief's warding fades.
-(15:56:58) Vorok Mud-Chief no longer feels as vulnerable to holy magic.
-(15:56:58) Vorok Mud-Chief stops stumbling.
-(15:56:58) Mud Ogre is stunned!
-(15:56:58) [Combat] Info: You have received 1 Experience Point!
-(15:56:58) Mud Ogre's stun immunity has worn off.
-(15:56:58) Mud Ogre is no longer stunned.
-(15:56:59) [Combat] Info: You have received 1 Experience Point!
-(15:56:59) Tavok Chief-brother no longer feels as vulnerable to holy magic.
-(15:56:59) [Combat] Info: You have received 1 Experience Point!
-(15:56:59) Moss Ogre's flesh becomes as hard as granite!
-(15:56:59) MalzSent drains 105 points of mana from MalzSent with Exalted Word of Binding.
-(15:56:59) MalzSent drains 150 points of mana from Mud Ogre with Exalted Word of Binding.
-(15:56:59) Mud Ogre begins to stumble.
-(15:56:59) MalzSent drains 97 points of mana from MalzSent with Exalted Word of Binding.
-(15:56:59) MalzSent drains 139 points of mana from Moss Ogre with Exalted Word of Binding.
-(15:56:59) Moss Ogre begins to stumble.
-(15:56:59) [Combat] Info: You have received 1 Experience Point!
-(15:56:59) Mud Ogre stops stumbling.
-(15:56:59) Moss Ogre is stunned!
-(15:56:59) Moss Ogre is no longer stunned.
-(15:57:00) Moss Ogre is stunned!
-(15:57:00) [Combat] Info: You have received 1 Experience Point!
-(15:57:00) Moss Ogre's skin returns to normal.
-(15:57:00) Moss Ogre's stun immunity has worn off.
-(15:57:00) Moss Ogre stops stumbling.
-(15:57:00) Moss Ogre is no longer stunned.
-(15:57:00) Moss Ogre's stun immunity has worn off.
-(15:57:00) [Combat] Info: You have received 1 Experience Point!
-(15:57:00) Moss Ogre no longer feels as vulnerable to holy magic.
-(15:57:00) [Powers] Error: You are in the wrong mode.
-(15:57:00) Moss Ogre is stunned!
-(15:57:00) Moss Ogre is no longer stunned.
-(15:57:00) MalzDruid assumes Offensive Stance.
-(15:57:00) [Combat] Info: You have received 1 Experience Point!
-(15:57:00) Moss Ogre no longer feels as vulnerable to holy magic.
-(15:57:00) Moss Ogre's stun immunity has worn off.
-(15:57:01) MalzDruid looks stronger and healthier!
-(15:57:01) MalzDruid looks stronger and healthier!
-(15:57:01) Moss Ogre is stunned!
-(15:57:01) Moss Ogre is no longer stunned.
-(15:57:01) MalzPL assumes Offensive Stance.
-(15:57:01) [Combat] Info: You have received 1 Experience Point!
-(15:57:01) Moss Ogre's stun immunity has worn off.
-(15:57:01) MalzPL looks stronger and healthier!
-(15:57:01) MalzPL looks stronger and healthier!
-(15:57:01) MalzSent drains 103 points of mana from MalzSent with Exalted Word of Binding.
-(15:57:01) MalzSent drains 147 points of mana from Mud Ogre with Exalted Word of Binding.
-(15:57:01) Mud Ogre begins to stumble.
-(15:57:01) [Combat] Info: You have received 1 Experience Point!
-(15:57:01) Mud Ogre stops stumbling.
-(15:57:01) Vorok Mud-Chief is stunned!
-(15:57:01) Vorok Mud-Chief is no longer stunned.
-(15:57:02) [Combat] Info: You have received 1 Experience Point!
-(15:57:02) Vorok Mud-Chief's stun immunity has worn off.
-(15:57:02) [Combat] Info: You have received 1 Experience Point!
-(15:57:02) Moss Ogre is stunned!
-(15:57:02) Moss Ogre is no longer stunned.
-(15:57:02) MalzSent drains 104 points of mana from MalzSent with Exalted Word of Binding.
-(15:57:02) MalzSent drains 148 points of mana from Moss Ogre with Exalted Word of Binding.
-(15:57:02) Moss Ogre begins to stumble.
-(15:57:03) Moss Ogre's stun immunity has worn off.
-(15:57:03) [Combat] Info: You have received 1 Experience Point!
-(15:57:03) Moss Ogre stops stumbling.
-(15:57:03) [Combat] Info: You have received 1 Experience Point!
-(15:57:03) [Combat] Info: You have received 1 Experience Point!
-(15:57:03) [Combat] Info: You have received 1 Experience Point!
-(15:57:04) [Combat] Info: You have received 1 Experience Point!
-(15:57:04) Moss Ogre is stunned!
-(15:57:04) MalzSent drains 100 points of mana from MalzSent with Exalted Word of Binding.
-(15:57:04) MalzSent drains 143 points of mana from Moss Ogre with Exalted Word of Binding.
-(15:57:04) Moss Ogre begins to stumble.
-(15:57:04) Moss Ogre is no longer stunned.
-(15:57:04) [Combat] Info: You have received 1 Experience Point!
-(15:57:04) Moss Ogre's stun immunity has worn off.
-(15:57:04) Moss Ogre stops stumbling.
-(15:57:04) [Combat] Info: You have received 1 Experience Point!
-(15:57:04) Mud Ogre no longer feels as vulnerable to holy magic.
-(15:57:05) [Combat] Info: You have received 1 Experience Point!
-(15:57:05) Vorok Mud-Chief is stunned!
-(15:57:05) Vorok Mud-Chief is no longer stunned.
-(15:57:05) [Combat] Info: You have received 1 Experience Point!
-(15:57:05) Vorok Mud-Chief's stun immunity has worn off.
-(15:57:05) MalzSent drains 100 points of mana from MalzSent with Exalted Word of Binding.
-(15:57:05) MalzSent drains 144 points of mana from Mud Ogre with Exalted Word of Binding.
-(15:57:05) Mud Ogre begins to stumble.
-(15:57:05) [Combat] Info: You have received 1 Experience Point!
-(15:57:05) Mud Ogre stops stumbling.
-(15:57:06) [Combat] Info: You have received 1 Experience Point!
-(15:57:06) [Combat] Info: You have received 1 Experience Point!
-(15:57:06) Mud Ogre no longer feels as vulnerable to holy magic.
-(15:57:06) [Combat] Info: You have received 1 Experience Point!
-(15:57:06) Moss Ogre no longer feels as vulnerable to holy magic.
-(15:57:07) MalzSent drains 98 points of mana from MalzSent with Exalted Word of Binding.
-(15:57:07) MalzSent drains 141 points of mana from Tavok Chief-brother with Exalted Word of Binding.
-(15:57:07) Tavok Chief-brother begins to stumble.
-(15:57:07) Tavok Chief-brother is stunned!
-(15:57:07) Tavok Chief-brother is no longer stunned.
-(15:57:07) Tavok Chief-brother's stun immunity has worn off.
-(15:57:07) Tavok Chief-brother's flesh becomes as hard as granite!
-(15:57:07) Tavok Chief-brother stops stumbling.
-(15:57:07) [Combat] Info: You have received 1 Experience Point!
-(15:57:07) Tavok Chief-brother's skin returns to normal.
-(15:57:07) Tavok Chief-brother no longer feels as vulnerable to holy magic.
-(15:57:07) Mud Ogre is stunned!
-(15:57:07) Mud Ogre is no longer stunned.
-(15:57:07) Mud Ogre's stun immunity has worn off.
-(15:57:08) [Combat] Info: You have received 1 Experience Point!
-(15:57:08) [Combat] Info: You have received 1 Experience Point!
-(15:57:08) [Combat] Info: You have received 1 Experience Point!
-(15:57:08) Moss Ogre feels warded against magic.
-(15:57:08) Moss Ogre is stunned!
-(15:57:08) Moss Ogre is no longer stunned.
-(15:57:08) Moss Ogre's stun immunity has worn off.
-(15:57:08) MalzSent drains 106 points of mana from MalzSent with Exalted Word of Binding.
-(15:57:08) MalzSent drains 151 points of mana from Moss Ogre with Exalted Word of Binding.
-(15:57:08) Moss Ogre begins to stumble.
-(15:57:09) [Combat] Info: You have received 1 Experience Point!
-(15:57:09) Moss Ogre's warding fades.
-(15:57:09) Moss Ogre stops stumbling.
-(15:57:09) Vorok Mud-Chief feels warded from harm.
-(15:57:09) [Combat] Info: You have received 1 Experience Point!
-(15:57:09) Vorok Mud-Chief is no longer warded from harm.
-(15:57:09) [Combat] Info: You have received 1 Experience Point!
-(15:57:09) [Combat] Info: You have received 1 Experience Point!
-(15:57:09) MalzSent feels more deadly!
-(15:57:09) MalzSent feels more deadly!
-(15:57:09) MalzDruid assumes Offensive Stance.
-(15:57:10) MalzDruid looks stronger and healthier!
-(15:57:10) MalzDruid looks stronger and healthier!
-(15:57:10) [Combat] Info: You have received 1 Experience Point!
-(15:57:10) Mud Ogre no longer feels as vulnerable to holy magic.
-(15:57:10) MalzPL assumes Offensive Stance.
-(15:57:10) MalzPL looks stronger and healthier!
-(15:57:10) MalzPL looks stronger and healthier!
-(15:57:10) Moss Ogre is stunned!
-(15:57:10) [Combat] Info: You have received 1 Experience Point!
-(15:57:10) Moss Ogre's stun immunity has worn off.
-(15:57:10) Moss Ogre is no longer stunned.
-(15:57:11) [Combat] Info: You have received 1 Experience Point!
-(15:57:11) [Combat] Info: You have received 1 Experience Point!
-(15:57:11) Mud Ogre is stunned!
-(15:57:11) MalzSent drains 108 points of mana from MalzSent with Exalted Word of Binding.
-(15:57:11) MalzSent drains 154 points of mana from Mud Ogre with Exalted Word of Binding.
-(15:57:11) Mud Ogre begins to stumble.
-(15:57:11) Mud Ogre is no longer stunned.
-(15:57:11) Mud Ogre's stun immunity has worn off.
-(15:57:11) Mud Ogre stops stumbling.
-(15:57:11) [Combat] Info: You have received 1 Experience Point!
-(15:57:11) Mud Ogre no longer feels as vulnerable to holy magic.
-(15:57:11) Moss Ogre is stunned!
-(15:57:12) Moss Ogre is no longer stunned.
-(15:57:12) Moss Ogre's stun immunity has worn off.
-(15:57:12) [Combat] Info: You have received 1 Experience Point!
-(15:57:12) [Combat] Info: You have received 1 Experience Point!
-(15:57:12) Vorok Mud-Chief is stunned!
-(15:57:12) Vorok Mud-Chief is no longer stunned.
-(15:57:13) Vorok Mud-Chief's stun immunity has worn off.
-(15:57:13) [Combat] Info: You have received 1 Experience Point!
-(15:57:13) MaDmanCH looks more agile!
-(15:57:13) MaDmanCH feels warded from harm.
-(15:57:13) MaDmanCH looks stronger!
-(15:57:13) MaDmanCH's mana recovery increases.
-(15:57:13) MaDmanCH looks smarter and glows with an inner light.
-(15:57:13) MaDmanCH looks healthier!
-(15:57:13) MaDmanCH attacks more quickly.
-(15:57:13) MaDmanCH looks smarter and glows with an inner light.
-(15:57:13) MaDmanCH feels warded from harm.
-(15:57:13) Moony looks more agile!
-(15:57:13) Moony looks stronger!
-(15:57:13) Moony is surrounded by a protective shield.
-(15:57:13) Moony's mana recovery increases.
-(15:57:13) Moony looks smarter and glows with an inner light.
-(15:57:13) Moony looks healthier!
-(15:57:13) Moony attacks more quickly.
-(15:57:13) Moony looks smarter and glows with an inner light.
-(15:57:13) Moony feels warded from harm.
-(15:57:13) FQc looks much faster!
-(15:57:13) FQc looks much faster!
-(15:57:13) Syl looks more agile!
-(15:57:13) Syl looks stronger!
-(15:57:13) Syl's mana recovery increases.
-(15:57:13) Syl looks smarter and glows with an inner light.
-(15:57:13) Syl looks healthier!
-(15:57:13) Syl attacks more quickly.
-(15:57:13) Syl looks smarter and glows with an inner light.
-(15:57:13) Syl feels warded from harm.
-(15:57:13) blzbmb feels more deadly!
-(15:57:13) blzbmb feels more deadly!
-(15:57:13) Cigar looks more agile!
-(15:57:13) Cigar feels warded from harm.
-(15:57:13) Cigar looks stronger!
-(15:57:13) Cigar's mana recovery increases.
-(15:57:13) Cigar looks healthier!
-(15:57:13) Cigar attacks more quickly.
-(15:57:13) Cigar feels warded from harm.
-(15:57:13) FYmss looks more agile!
-(15:57:13) FYmss feels warded from harm.
-(15:57:13) FYmss looks stronger!
-(15:57:13) FYmss's mana recovery increases.
-(15:57:13) FYmss looks smarter and glows with an inner light.
-(15:57:13) FYmss attacks more quickly.
-(15:57:13) FYmss looks healthier!
-(15:57:13) FYmss looks smarter and glows with an inner light.
-(15:57:13) FYmss feels warded from harm.
-(15:57:13) Malechey looks more agile!
-(15:57:13) Malechey looks stronger!
-(15:57:13) Malechey feels more deadly!
-(15:57:13) Malechey looks healthier!
-(15:57:14) Cigar's mana recovery increases.
-(15:57:14) Cigar feels warded from harm.
-(15:57:14) FQc's speed returns to normal.
-(15:57:14) FQc's speed returns to normal.
-(15:57:14) Cigar's mana recovery increases.
-(15:57:14) [System] Info: You will teleport in 10 seconds
-(15:57:14) Zorgs is wrapped in a cloak of shadows.
-(15:57:14) Cigar feels warded from harm.
-(15:57:14) [System] Info: You will teleport in 10 seconds
-(15:57:14) MaDmanCH looks more agile!
-(15:57:14) MaDmanCH feels warded from harm.
-(15:57:14) MaDmanCH looks stronger!
-(15:57:14) MaDmanCH's mana recovery increases.
-(15:57:14) MaDmanCH looks smarter and glows with an inner light.
-(15:57:14) MaDmanCH looks healthier!
-(15:57:14) MaDmanCH attacks more quickly.
-(15:57:14) MaDmanCH looks smarter and glows with an inner light.
-(15:57:14) MaDmanCH feels warded from harm.
-(15:57:14) Sajeena looks more agile!
-(15:57:14) Sajeena feels warded from harm.
-(15:57:14) Sajeena looks stronger!
-(15:57:14) Sajeena's mana recovery increases.
-(15:57:14) Sajeena looks smarter and glows with an inner light.
-(15:57:14) Sajeena looks healthier!
-(15:57:14) Sajeena attacks more quickly.
-(15:57:14) Sajeena looks smarter and glows with an inner light.
-(15:57:14) Sajeena feels warded from harm.
-(15:57:14) Nova looks more agile!
-(15:57:14) Nova looks stronger!
-(15:57:14) Nova is surrounded by a protective shield.
-(15:57:14) Nova's mana recovery increases.
-(15:57:14) Nova looks smarter and glows with an inner light.
-(15:57:14) Nova looks healthier!
-(15:57:14) Nova attacks more quickly.
-(15:57:14) Nova looks smarter and glows with an inner light.
-(15:57:14) Nova feels warded from harm.
-(15:57:14) BillyNoo is steeled with Dark Fortitude!
-(15:57:14) BillyNoo is surrounded by a protective shield.
-(15:57:14) BillyNoo looks focused.
-(15:57:14) Syl looks more agile!
-(15:57:14) Syl looks stronger!
-(15:57:14) Syl's mana recovery increases.
-(15:57:14) Syl looks smarter and glows with an inner light.
-(15:57:14) Syl looks healthier!
-(15:57:14) Syl attacks more quickly.
-(15:57:14) Syl looks smarter and glows with an inner light.
-(15:57:14) Syl feels warded from harm.
-(15:57:14) Batwoman is surrounded by a protective shield.
-(15:57:15) Moony looks more agile!
-(15:57:15) Moony looks stronger!
-(15:57:15) Moony is surrounded by a protective shield.
-(15:57:15) Moony's mana recovery increases.
-(15:57:15) Moony looks smarter and glows with an inner light.
-(15:57:15) Moony looks healthier!
-(15:57:15) Moony attacks more quickly.
-(15:57:15) Moony looks smarter and glows with an inner light.
-(15:57:15) Moony feels warded from harm.
-(15:57:15) AllahPon is resistant to fire and cold.
-(15:57:15) SilverSurfer is now able to fly!
-(15:57:15) SilverSurfer looks more agile!
-(15:57:15) SilverSurfer's flesh becomes as hard as granite!
-(15:57:15) SilverSurfer looks stronger!
-(15:57:15) SilverSurfer's mana recovery increases.
-(15:57:15) SilverSurfer looks smarter and glows with an inner light.
-(15:57:15) SilverSurfer looks healthier!
-(15:57:15) SilverSurfer attacks more quickly.
-(15:57:15) SilverSurfer looks smarter and glows with an inner light.
-(15:57:15) SilverSurfer feels warded from harm.
-(15:57:15) Screeech looks more agile!
-(15:57:15) Screeech looks stronger!
-(15:57:15) Screeech is surrounded by a protective shield.
-(15:57:15) Screeech's mana recovery increases.
-(15:57:15) Screeech looks smarter and glows with an inner light.
-(15:57:15) Screeech looks healthier!
-(15:57:15) Screeech attacks more quickly.
-(15:57:15) Screeech looks smarter and glows with an inner light.
-(15:57:15) Screeech feels warded from harm.
-(15:57:15) Bukk looks more agile!
-(15:57:15) Bukk looks stronger!
-(15:57:15) Bukk's mana recovery increases.
-(15:57:15) Bukk looks smarter and glows with an inner light.
-(15:57:15) Bukk looks healthier!
-(15:57:15) Bukk attacks more quickly.
-(15:57:15) Bukk looks smarter and glows with an inner light.
-(15:57:15) Bukk feels warded from harm.
-(15:57:15) Zorgs is wrapped in a cloak of shadows.
-(15:57:15) Cigar looks more agile!
-(15:57:15) Cigar feels warded from harm.
-(15:57:15) Cigar looks stronger!
-(15:57:15) Cigar's mana recovery increases.
-(15:57:15) Cigar looks healthier!
-(15:57:15) Cigar attacks more quickly.
-(15:57:15) Cigar feels warded from harm.
-(15:57:15) FYmss looks more agile!
-(15:57:15) FYmss feels warded from harm.
-(15:57:15) FYmss looks stronger!
-(15:57:15) FYmss's mana recovery increases.
-(15:57:15) FYmss looks smarter and glows with an inner light.
-(15:57:15) FYmss attacks more quickly.
-(15:57:15) FYmss looks healthier!
-(15:57:15) FYmss looks smarter and glows with an inner light.
-(15:57:15) FYmss feels warded from harm.
-(15:57:15) Malechey looks more agile!
-(15:57:15) Malechey looks stronger!
-(15:57:15) Malechey feels more deadly!
-(15:57:15) Malechey looks healthier!
-(15:57:16) Cigar's mana recovery increases.
-(15:57:16) Cigar feels warded from harm.
-(15:57:16) Malechey feels less deadly.
-(15:57:16) Nino uses Precision.
-(15:57:16) Nino starts shooting more accurately!
-(15:57:16) Cigar's mana recovery increases.
-(15:57:16) Nino uses Treat Wounds.
-(15:57:16) Cigar feels warded from harm.
-(15:57:16) Moony's shielding fades.
-(15:57:16) Cigar's mana recovery increases.
-(15:57:16) Rhuthi uses a scroll of Identify.
-(15:57:16) Cigar feels warded from harm.
-(15:57:17) SilverSurfer is no longer able to fly.
-(15:57:17) SilverSurfer's skin returns to normal.
-(15:57:17) Noodle is resistant to fire and cold.
-(15:57:17) Cigar's mana recovery increases.
-(15:57:17) WizKILLifa looks much faster!
-(15:57:17) WizKILLifa looks much faster!
-(15:57:17) Bukk assumes Offensive Stance.
-(15:57:17) DrStrange looks more agile!
-(15:57:17) DrStrange looks stronger!
-(15:57:17) DrStrange's mana recovery increases.
-(15:57:17) DrStrange looks smarter and glows with an inner light.
-(15:57:17) DrStrange looks healthier!
-(15:57:17) DrStrange attacks more quickly.
-(15:57:17) DrStrange looks smarter and glows with an inner light.
-(15:57:17) DrStrange feels warded from harm.
-(15:57:17) Cigar feels warded from harm.
-(15:57:17)  Log Stopped
+Version  :: 0.0.3.2
+DateTime :: 11/4/2023 12:28:41 AM
+(00:28:45) You attack more quickly!
+(00:28:45) Your mana recovery increases.
+(00:28:45) You feel warded from harm.
+(00:28:45) You feel warded from harm.
+(00:28:46) You feel stronger!
+(00:28:46) You feel healthier!
+(00:28:46) You feel more agile!
+(00:28:46) You attack more quickly!
+(00:28:46) Your mana recovery increases.
+(00:28:46) You feel warded from harm.
+(00:28:46) You feel stronger!
+(00:28:46) You feel healthier!
+(00:28:46) You feel more agile!
+(00:28:46) You block the Vashteera's Companion's attack!
+(00:28:46) You parry the Vashteera's Companion's attack!
+(00:28:46) Aphro Ditty misses YOU!
+(00:28:46) You block the Vashteera's Companion's attack!
+(00:28:46) The Vashteera's Companion misses YOU!
+(00:28:46) You block Aphro Ditty's attack!
+(00:28:46) You parry the Vashteera's Companion's attack!
+(00:28:46) You block the Vashteera's Companion's attack!
+(00:28:46) You block Aphro Ditty's attack!
+(00:28:46) You block Aphro Ditty's attack!
+(00:28:46) You block Aphro Ditty's attack!
+(00:28:46) Aphro Ditty misses YOU!
+(00:28:46) You parry the Vashteera's Companion's attack!
+(00:28:46) You block Aphro Ditty's attack!
+(00:28:46) You block Aphro Ditty's attack!
+(00:28:47) You block Aphro Ditty's attack!
+(00:28:47) You block Aphro Ditty's attack!
+(00:28:47) The Vashteera's Companion misses YOU!
+(00:28:47) You parry the Vashteera's Companion's attack!
+(00:28:47) You block Aphro Ditty's attack!
+(00:28:47) You block Aphro Ditty's attack!
+(00:28:47) You block Aphro Ditty's attack!
+(00:28:47) You block Aphro Ditty's attack!
+(00:28:47) You parry the Vashteera's Companion's attack!
+(00:28:47) Aphro enters a berserker rage!
+(00:28:47) You block Aphro Ditty's attack!
+(00:28:47) You stumble and slow.
+(00:28:47) Aphro Ditty misses YOU!
+(00:28:47) You block the Vashteera's Companion's attack!
+(00:28:47) You block the Vashteera's Companion's attack!
+(00:28:47) You block Aphro Ditty's attack!
+(00:28:47) You stop stumbling.
+(00:28:47) Your stun immunity has worn off.
+(00:28:47) Your stun immunity has worn off.
+(00:28:47) You parry the Vashteera's Companion's attack!
+(00:28:47) You block Aphro Ditty's attack!
+(00:28:47) You block Aphro Ditty's attack!
+(00:28:47) You block Aphro Ditty's attack!
+(00:28:47) You block Aphro Ditty's attack!
+(00:28:47) You block Aphro Ditty's attack!
+(00:28:47) You block Aphro Ditty's attack!
+(00:28:47) You parry the Vashteera's Companion's attack!
+(00:28:47) You block Aphro Ditty's attack!
+(00:28:47) You block Aphro Ditty's attack!
+(00:28:48) You block Aphro Ditty's attack!
+(00:28:48) You block Aphro Ditty's attack!
+(00:28:48) Aphro executes a Naargal's Dart!
+(00:28:48) You are poisoned!
+(00:28:48) You block Aphro Ditty's attack!
+(00:28:48) You block the Vashteera's Companion's attack!
+(00:28:48) You block Aphro Ditty's attack!
+(00:28:48) You block Aphro Ditty's attack!
+(00:28:48) You block the Vashteera's Companion's attack!
+(00:28:48) Aphro Ditty misses YOU!
+(00:28:48) Aphro executes a Shot to the Leg!
+(00:28:48) You stumble and slow.
+(00:28:48) You block the Vashteera's Companion's attack!
+(00:28:48) You block Aphro Ditty's attack!
+(00:28:48) You block Aphro Ditty's attack!
+(00:28:48) You block the Vashteera's Companion's attack!
+(00:28:48) Aphro executes a Wicked Barb!
+(00:28:48) You start bleeding!
+(00:28:48) You take 23 points of damage from bleeding!
+(00:28:48) You block Aphro Ditty's attack!
+(00:28:48) You regain your footing.
+(00:28:48) You take 20 points of damage from bleeding!
+(00:28:48) You block Aphro Ditty's attack!
+(00:28:48) You take 27 points of damage from bleeding!
+(00:28:48) The poison has run its course.
+(00:28:48) You block the Vashteera's Companion's attack!
+(00:28:48) You block Aphro Ditty's attack!
+(00:28:48) Aphro's rage subsides.
+(00:28:48) You block Aphro Ditty's attack!
+(00:28:48) You take 36 points of damage from bleeding!
+(00:28:48) Aphro Ditty misses YOU!
+(00:28:48) You take 19 points of damage from bleeding!
+(00:28:48) You take 38 points of damage from bleeding!
+(00:28:48) Aphro Ditty misses YOU!
+(00:28:48) You block the Vashteera's Companion's attack!
+(00:28:48) You block Aphro Ditty's attack!
+(00:28:48) You take 40 points of damage from bleeding!
+(00:28:48) You block Aphro Ditty's attack!
+(00:28:49) You take 25 points of damage from bleeding!
+(00:28:49) You block Aphro Ditty's attack!
+(00:28:49) You take 30 points of damage from bleeding!
+(00:28:49) You block Aphro Ditty's attack!
+(00:28:49) You take 34 points of damage from bleeding!
+(00:28:49) You block the Vashteera's Companion's attack!
+(00:28:49) You take 32 points of damage from bleeding!
+(00:28:49) Aphro Ditty misses YOU!
+(00:28:49) You take 18 points of damage from bleeding!
+(00:28:49) You block Aphro Ditty's attack!
+(00:28:49) You take 26 points of damage from bleeding!
+(00:28:49) You block Aphro Ditty's attack!
+(00:28:49) You parry the Vashteera's Companion's attack!
+(00:28:49) Aphro executes a Naargal's Dart!
+(00:28:49) You are poisoned!
+(00:28:49) The bleeding stops.
+(00:28:49) You block Aphro Ditty's attack!
+(00:28:49) You block the Vashteera's Companion's attack!
+(00:28:49) You block Aphro Ditty's attack!
+(00:28:49) You block Aphro Ditty's attack!
+(00:28:49) You block Aphro Ditty's attack!
+(00:28:49) You block Aphro Ditty's attack!
+(00:28:49) You block Aphro Ditty's attack!
+(00:28:50) You block Aphro Ditty's attack!
+(00:28:50) The poison has run its course.
+(00:28:50) You block Aphro Ditty's attack!
+(00:28:50) You block the Vashteera's Companion's attack!
+(00:28:50) You block Aphro Ditty's attack!
+(00:28:50) You block the Vashteera's Companion's attack!
+(00:28:50) The Vashteera's Companion misses YOU!
+(00:28:50) Aphro Ditty misses YOU!
+(00:28:50) You block the Vashteera's Companion's attack!
+(00:28:50) You block Aphro Ditty's attack!
+(00:28:50) You block the Vashteera's Companion's attack!
+(00:28:50) You block Aphro Ditty's attack!
+(00:28:50) You parry the Vashteera's Companion's attack!
+(00:28:50) You parry the Vashteera's Companion's attack!
+(00:28:50) You block Aphro Ditty's attack!
+(00:28:50) You block the Vashteera's Companion's attack!
+(00:28:50) You block Aphro Ditty's attack!
+(00:28:50) You block Aphro Ditty's attack!
+(00:28:50) You stumble and slow.
+(00:28:50) You block Aphro Ditty's attack!
+(00:28:50) You block Aphro Ditty's attack!
+(00:28:50) You block Aphro Ditty's attack!
+(00:28:50) You block the Vashteera's Companion's attack!
+(00:28:51) Aphro assumes a new shape.
+(00:28:51) Aphro assumes a new shape.
+(00:28:51) Your stun immunity has worn off.
+(00:28:51) Your stun immunity has worn off.
+(00:28:51) Aphro attacks, ripping into her target!
+(00:28:51) You stop stumbling.
+(00:28:51) Aphro attacks, ripping into her target!
+(00:28:51) Aphro executes a Growl!
+(00:28:51) Your attacks cannot find their mark.
+(00:28:51) You block Aphro Ditty's attack!
+(00:28:51) Aphro bites into her target's leg!
+(00:28:51) Aphro moves more slowly!
+(00:28:51) You parry the Vashteera's Companion's attack!
+(00:28:51) Aphro movement returns to normal.
+(00:28:51) You tendon has been ripped!
+(00:28:51) You block Aphro Ditty's attack!
+(00:28:51) You parry the Vashteera's Companion's attack!
+(00:28:51) You block Aphro Ditty's attack!
+(00:28:51) You block Aphro Ditty's attack!
+(00:28:51) You block Aphro Ditty's attack!
+(00:28:51) Aphro Ditty misses YOU!
+(00:28:51) The Vashteera's Companion misses YOU!
+(00:28:51) You block Aphro Ditty's attack!
+(00:28:51) You parry the Vashteera's Companion's attack!
+(00:28:51) Your movement returns to normal.
+(00:28:51) Your precision returns.
+(00:28:51) Aphro attacks, ripping into her target!
+(00:28:51) Aphro executes a Rip!
+(00:28:51) You are bleeding!
+(00:28:51) You block Aphro Ditty's attack!
+(00:28:51) Aphro attacks, ripping into her target!
+(00:28:51) Aphro executes a Shred!
+(00:28:51) Your defense falters.
+(00:28:51) You block Aphro Ditty's attack!
+(00:28:51) You block Aphro Ditty's attack!
+(00:28:51) You block Aphro Ditty's attack!
+(00:28:52) You block Aphro Ditty's attack!
+(00:28:52) You block Aphro Ditty's attack!
+(00:28:52) Your defenses reassert themselves.
+(00:28:52) You block Aphro Ditty's attack!
+(00:28:52) Aphro attacks, ripping into her target!
+(00:28:52) Aphro executes a Claw!
+(00:28:52) You are exposed to slashing attacks!
+(00:28:52) Aphro attacks, ripping into her target!
+(00:28:52) You block Aphro Ditty's attack!
+(00:28:52) The bleeding has stopped.
+(00:28:52) Aphro executes a Growl!
+(00:28:52) Your attacks cannot find their mark.
+(00:28:52) You block Aphro Ditty's attack!
+(00:28:52) Aphro Ditty misses YOU!
+(00:28:52) Aphro bites into her target's leg!
+(00:28:52) Aphro moves more slowly!
+(00:28:52) Aphro movement returns to normal.
+(00:28:52) You tendon has been ripped!
+(00:28:52) You block Aphro Ditty's attack!
+(00:28:52) You block Aphro Ditty's attack!
+(00:28:52) You no longer feel exposed.
+(00:28:52) You block Aphro Ditty's attack!
+(00:28:52) Aphro attacks, ripping into her target!
+(00:28:52) Aphro executes a Shred!
+(00:28:52) Your defense falters.
+(00:28:52) You block Aphro Ditty's attack!
+(00:28:52) Your precision returns.
+(00:28:52) Aphro Ditty misses YOU!
+(00:28:52) Aphro attacks, ripping into her target!
+(00:28:52) Your movement returns to normal.
+(00:28:52) Aphro executes a Rip!
+(00:28:52) You are bleeding!
+(00:28:52) Aphro Ditty misses YOU!
+(00:28:52) Aphro returns to normal.
+(00:28:52) Aphro returns to normal.
+(00:28:52) You block Aphro Ditty's attack!
+(00:28:53) You stumble and slow.
+(00:28:53) You block Aphro Ditty's attack!
+(00:28:53) Your defenses reassert themselves.
+(00:28:53) You block Aphro Ditty's attack!
+(00:28:53) Aphro Ditty misses YOU!
+(00:28:53) You block Aphro Ditty's attack!
+(00:28:53) Your stun immunity has worn off.
+(00:28:53) Your stun immunity has worn off.
+(00:28:53) You stop stumbling.
+(00:28:53) You block Aphro Ditty's attack!
+(00:28:53) You block Aphro Ditty's attack!
+(00:28:53) You block Aphro Ditty's attack!
+(00:28:53) The bleeding has stopped.
+(00:28:53) You block Aphro Ditty's attack!
+(00:28:53) You block Aphro Ditty's attack!
+(00:28:53) You block Aphro Ditty's attack!
+(00:28:53) slide is steeled with Dark Fortitude!
+(00:28:53) You block Aphro Ditty's attack!
+(00:28:53) You parry the Vashteera's Thrall's attack!
+(00:28:53) You block Aphro Ditty's attack!
+(00:28:53) You block the Vashteera's Thrall's attack!
+(00:28:53) You block Aphro Ditty's attack!
+(00:28:53) You block Aphro Ditty's attack!
+(00:28:53) You block Aphro Ditty's attack!
+(00:28:53) You block Aphro Ditty's attack!
+(00:28:54) You parry the Vashteera's Thrall's attack!
+(00:28:54) You block Aphro Ditty's attack!
+(00:28:54) You parry the Vashteera's Thrall's attack!
+(00:28:54) You parry the Vashteera's Thrall's attack!
+(00:28:54) You block Aphro Ditty's attack!
+(00:28:54) You parry the Vashteera's Thrall's attack!
+(00:28:54) You block Aphro Ditty's attack!
+(00:28:54) You block Aphro Ditty's attack!
+(00:28:54) You block the Vashteera's Thrall's attack!
+(00:28:54) You block Aphro Ditty's attack!
+(00:28:54) You block Aphro Ditty's attack!
+(00:28:54) You block Aphro Ditty's attack!
+(00:28:54) You block Aphro Ditty's attack!
+(00:28:54) You parry the Vashteera's Thrall's attack!
+(00:28:54) You block Aphro Ditty's attack!
+(00:28:54) You block Aphro Ditty's attack!
+(00:28:54) You parry the Vashteera's Thrall's attack!
+(00:28:54) You block Aphro Ditty's attack!
+(00:28:54) You block the Vashteera's Thrall's attack!
+(00:28:54) The Vashteera's Thrall misses YOU!
+(00:28:54) You block Aphro Ditty's attack!
+(00:28:54) You block Aphro Ditty's attack!
+(00:28:54) You block Aphro Ditty's attack!
+(00:28:54) Aphro executes a Kick!
+(00:28:54) You block Aphro Ditty's attack!
+(00:28:54) Aphro Ditty misses YOU!
+(00:28:55) You block Aphro Ditty's attack!
+(00:28:55) You block Aphro Ditty's attack!
+(00:28:55) You block the Vashteera's Thrall's attack!
+(00:28:55) You parry the Vashteera's Thrall's attack!
+(00:28:55) You block Aphro Ditty's attack!
+(00:28:55) You stumble and slow.
+(00:28:55) You block Aphro Ditty's attack!
+(00:28:55) Your stun immunity has worn off.
+(00:28:55) Your stun immunity has worn off.
+(00:28:55) You block Aphro Ditty's attack!
+(00:28:55) You stop stumbling.
+(00:28:55) Aphro executes a Naargal's Dart!
+(00:28:55) You are poisoned!
+(00:28:55) You block Aphro Ditty's attack!
+(00:28:55) You block the Vashteera's Thrall's attack!
+(00:28:55) You block the Vashteera's Thrall's attack!
+(00:28:55) You block Aphro Ditty's attack!
+(00:28:55) You block Aphro Ditty's attack!
+(00:28:55) You block Aphro Ditty's attack!
+(00:28:55) You block Aphro Ditty's attack!
+(00:28:55) You parry the Vashteera's Thrall's attack!
+(00:28:55) The poison has run its course.
+(00:28:55)  Log Stopped
