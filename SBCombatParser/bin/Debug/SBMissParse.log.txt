@@ -612,3 +612,5 @@ DateTime :: 11/5/2023 04:48:34 AM
 (04:49:38) Cigar feels warded from harm.
 (04:49:38)  Log Stopped
 (04:49:38) CLC LogFile Stop :: .\LogFiles\Input\Combat1.log.txt
+Version  :: 0.0.7.0
+DateTime :: 11/5/2023 05:05:39 AM

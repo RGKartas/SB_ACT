@@ -61865,3 +61865,35 @@ DeInitPlugin :: RegEx Use :: 3 :: Use power -- use :: \((?<time>\d*\:\d*\:\d*)\)
 DeInitPlugin :: RegEx Use :: 0 :: Use power -- execute :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<type>execute)s? [\Wa]?(?<ability>.*)[\.!]
 DeInitPlugin :: RegEx Use :: 31 :: Taunt :: \((?<time>\d*\:\d*\:\d*)\)\W*\[Combat\] Info\: (?<target>.*) (?<type>[atck]*)s? (?<source>.*)
 DeInitPlugin :: RegEx Use :: 120 :: Death :: \((?<time>\d*\:\d*\:\d*)\)\W*\[Combat\] Info\: (?<source>.*) [hasve]* (?<type>die).*!
+InitPlugin :: InitPlugin !!!!
+InitPlugin :: Version  :: 0.0.7.0
+InitPlugin :: DateTime :: 11/5/2023 05:05:39 AM
+DeInitPlugin :: DeInitPlugin !!!!
+DeInitPlugin :: RegEx Use :: 0 :: CLC Event :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>CLC) (?<type>.*) (?<event_type>.*) \:\: (?<event_detail>.*)
+DeInitPlugin :: RegEx Use :: 0 :: Heal Apos:: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)'s (?<ability>.*'+.*) (?<type>heal)s (?<target>.*) for (?<value>\d*) points\.
+DeInitPlugin :: RegEx Use :: 0 :: Heal :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)'s (?<ability>.*) (?<type>heal)s (?<target>.*) for (?<value>\d*) points.
+DeInitPlugin :: RegEx Use :: 0 :: Drain :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>.*)s (?<value>\d*) points of [helthman]* from (?<target>.*) with(?<ability>.*)[\.!]
+DeInitPlugin :: RegEx Use :: 0 :: Drain you - Vamp Kiss :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)'s (?<ability>.*'+.*) (?<type>.*)s (?<value>\d*) points of [helthman]* from (?<target>.*)[\.!]
+DeInitPlugin :: RegEx Use :: 0 :: Drain - Needs Of the One :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)'s (?<ability>.*) (?<type>.*)s (?<value>\d*) points of [helthman]* from (?<target>.*)[\.!]
+DeInitPlugin :: RegEx Use :: 0 :: DMG - Call the Sky's Fury :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)'s (?<ability>Call the Sky.*) (?<type>.{3,8})s (?<target>.*) for (?<value>\d*) .*[\.!]
+DeInitPlugin :: RegEx Use :: 0 :: DMG - Saint Malorn's Wrath :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>\w*)[r's]* (?<ability>Saint.*'.*) (?<type>.{3,8})s (?<target>.*) for (?<value>\d*) .*[\.!]
+DeInitPlugin :: RegEx Use :: 0 :: Dmg melee - hit :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>hit)[s]? (?<target>.*) for (?<value>\d*) .*[\.!]
+DeInitPlugin :: RegEx Use :: 0 :: Dmg spell RtL:: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)'s (?<ability>.*) (?<type>.{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+DeInitPlugin :: RegEx Use :: 0 :: Hit You :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>hit)s (?<target>.*) for (?<value>\d*) .*[\.!]
+DeInitPlugin :: RegEx Use :: 0 :: Spell Hit You :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>take) (?<value>\d*) .* from (?<source>.*)[\.!]
+DeInitPlugin :: RegEx Use :: 0 :: Proc Dmg - You :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>[The]*) (?<ability>.*) (?<type>.*)s (?<target>.*) for (?<value>\d*) .*[\.!]
+DeInitPlugin :: RegEx Use :: 0 :: Proc Dmg :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)'s (?<type>.*) (?<ability>.*)s (?<target>.*) for (?<value>\d*) .*!
+DeInitPlugin :: RegEx Use :: 0 :: Bleed Dmg :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) takes? (?<value>\d*) .*(?<source>damage) from (?<type>.*)ing[\.!]
+DeInitPlugin :: RegEx Use :: 0 :: Miss Melee  :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>miss)[es]* (?<target>.*)[\.!]
+DeInitPlugin :: RegEx Use :: 0 :: You Block :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>block) (?<source>.*)'s .*[\.!]
+DeInitPlugin :: RegEx Use :: 0 :: Parry :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>parr)[yies]+ (?<source>.*)'s .*[\.!]
+DeInitPlugin :: RegEx Use :: 0 :: Dodge :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>dodge)s? (?<source>.*?)[r's]+.*[\.!]
+DeInitPlugin :: RegEx Use :: 0 :: Shadow Mantle :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) [areis]+ (?<type>surround)ed by a (?<source>.*)[\.!]
+DeInitPlugin :: RegEx Use :: 0 :: Blind :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>kick[s]? dirt) .* (?<target>\w*)[r's]+ .*[\.!]
+DeInitPlugin :: RegEx Use :: 0 :: Use power - enter :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<type>enter)s? [\Wa]?(?<ability>.*)[\.!]
+DeInitPlugin :: RegEx Use :: 0 :: Use power -- Cast :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<type>cast)s? [\Wa]?(?<ability>.*)[\.!]
+DeInitPlugin :: RegEx Use :: 0 :: Use power -- assume :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<type>assume)s? [\Wa]?(?<ability>.*)[\.!]
+DeInitPlugin :: RegEx Use :: 0 :: Use power -- use :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<type>use)s? [\Wa]?(?<ability>.*)[\.!]
+DeInitPlugin :: RegEx Use :: 0 :: Use power -- execute :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<type>execute)s? [\Wa]?(?<ability>.*)[\.!]
+DeInitPlugin :: RegEx Use :: 0 :: Taunt :: \((?<time>\d*\:\d*\:\d*)\)\W*\[Combat\] Info\: (?<target>.*) (?<type>[atck]*)s? (?<source>.*)
+DeInitPlugin :: RegEx Use :: 0 :: Death :: \((?<time>\d*\:\d*\:\d*)\)\W*\[Combat\] Info\: (?<source>.*) [hasve]* (?<type>die).*!
