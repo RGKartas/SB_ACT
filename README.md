@@ -11,7 +11,7 @@ It is still a work in progress.
 Please feel free to submit your logs of Mines / Banes by emailing them to me !
 The more logs I have the better and more accurate the parsing will be.
 
-Shadowbane setup:
+## Shadowbane setup:
 	1. Make a new chat window (or repurpose an old one).
 	2. Got to the windows properties icon
 		a. Click Channels
