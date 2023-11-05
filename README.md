@@ -5,7 +5,7 @@ Written By: Kartas Starfurie (kstarfurie@yahoo.com)
 
 Assisted By: Soulkeeper
 
-This is a Parser for the game ShadowBane !
+This is a ACT Plugin for the game ShadowBane !
 
 It is still a work in progress.
 
