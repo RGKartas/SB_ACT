@@ -5,7 +5,7 @@ Written By: Kartas Starfurie (kstarfurie@yahoo.com)
 
 Assisted By: Soulkeeper
 
-This is a ACT Plugin for the game ShadowBane !
+This is an ACT Plugin for the game ShadowBane ! https://advancedcombattracker.com/download.php
 
 It is still a work in progress.
 
