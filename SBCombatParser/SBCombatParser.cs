@@ -11,6 +11,8 @@ using System.IO;
 using System.Runtime.CompilerServices;
 using System.Globalization;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.TaskbarClock;
+using Microsoft.Win32;
+using System.Windows.Forms.VisualStyles;
 
 namespace SBCombatParser
 {
@@ -22,7 +24,7 @@ namespace SBCombatParser
         static public string unkFilePath = "SBUnkParse.log.txt";
         static public string unkPBFilePath = "SBUnkPB.log.txt";
 
-        static public string version = "0.0.5.0";
+        static public string version = "0.0.6.5";
         static public readonly object fileLock = new object();
         static public readonly object missFilelock = new object();
         static public readonly object unkFilelock = new object();
@@ -95,6 +97,7 @@ namespace SBCombatParser
             public static List<Regex> buffLines;
             public static List<Regex> buffStopLines;
             public static List<Regex> oddLines;
+            public static List<Regex> clcEvents;
 
             public SBSetupHelper()
             {
@@ -107,16 +110,23 @@ namespace SBCombatParser
                 buffLines = new List<Regex>();
                 buffStopLines = new List<Regex>();
                 oddLines = new List<Regex>();
+                clcEvents = new List<Regex>();
 
+                allRegEx.Add(clcEvents);
                 allRegEx.Add(healLines);
                 allRegEx.Add(damageLines);
                 allRegEx.Add(evadedLines);
                 allRegEx.Add(diedLines);
                 allRegEx.Add(buffLines);
-                allRegEx.Add(buffStopLines);
                 allRegEx.Add(oddLines);
+                allRegEx.Add(buffStopLines);
 
                 String myRegEx = "";
+
+
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>CLC) (?<type>.*) (?<event_type>.*) \:\: (?<event_detail>.*)";
+                regExDesc.Add("CLC Event :: " + myRegEx);
+                clcEvents.Add(new Regex(myRegEx, RegexOptions.Compiled));
 
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)'s (?<ability>.*'+.*) (?<type>heal)s (?<target>.*) for (?<value>\d*) points\.";
                 regExDesc.Add("Heal Apos:: " + myRegEx);
@@ -144,8 +154,8 @@ namespace SBCombatParser
                 //damageLines.Add(new Regex("\\((?<time>\\d*\\:\\d*\\:\\d*)\\)\\W*(?<source>.*)'s (?<ability>.*) (?<type>smite)s (?<target>.*) for (?<value>\\d*) .*.", RegexOptions.Compiled));
 
                 //Call the Sky's Fury Damage
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)'s (?<ability>Call.*) (?<type>.{3,8})s (?<target>.*) for (?<value>\d*) .*[\.!]";
-                regExDesc.Add("Proc Dmg :: " + myRegEx);
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)'s (?<ability>Call the Sky.*) (?<type>.{3,8})s (?<target>.*) for (?<value>\d*) .*[\.!]";
+                regExDesc.Add("DMG - Call the Sky's Fury :: " + myRegEx);
                 damageLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
                 
                 //Matches hurt, shock, smite, heal
@@ -167,7 +177,7 @@ namespace SBCombatParser
                 regExDesc.Add("Hit You :: " + myRegEx);
                 damageLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
 
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>take) (?<value>\d*) .* from (?<source>.*)\.";
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>take) (?<value>\d*) .* from (?<source>.*)[\.!]";
                 regExDesc.Add("Spell Hit You :: " + myRegEx);
                 damageLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
 
@@ -182,7 +192,7 @@ namespace SBCombatParser
                 damageLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
 
                 //Miss
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>miss)es (?<target>.*)\.";
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>miss)es (?<target>.*)[\.!]";
                 regExDesc.Add("Miss Melee  :: " + myRegEx);
                 evadedLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
 
@@ -192,7 +202,7 @@ namespace SBCombatParser
                 evadedLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
 
                 //You Parry
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>parry) (?<source>.*)'s .*\.";
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>parry) (?<source>.*)'s .*[\.!]";
                 regExDesc.Add("You Parry :: " + myRegEx);
                 evadedLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
 
@@ -206,22 +216,11 @@ namespace SBCombatParser
                 regExDesc.Add("Shadow Mantle :: " + myRegEx);
                 buffLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
 
-                /*
-                //Casts a spell
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>cast)s (?<ability>.*)\.";
-                regExDesc.Add("Cast spell :: " + myRegEx);
-                oddLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
-                //Use a skill
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>use)s (?<ability>.*)\.";
-                regExDesc.Add("Use skill :: " + myRegEx);
-                oddLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-                */
-
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>[asumect]+)s (?<ability>.*)\.";
+                //Use Power -- cast, assume, use, execute
+                //myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>[asumectxu]+)s? (?<ability>.*)[\.!]";
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>[asumectxu]+)s? [\Wa]?(?<ability>.*)[\.!]";
                 regExDesc.Add("Use power :: " + myRegEx);
-                oddLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
+                oddLines.Add(new Regex(myRegEx, RegexOptions.Compiled | RegexOptions.RightToLeft));
 
                 //Taunt
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*\[Combat\] Info\: (?<target>.*) (?<type>[atck]*)s? (?<source>.*)";
@@ -233,6 +232,15 @@ namespace SBCombatParser
                 regExDesc.Add("Death :: " + myRegEx);
                 oddLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
 
+                //Buff Stops - Fade, returns
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>\w*)+ (?<ability>.*) (?<type>.*)[\.!]+";
+                regExDesc.Add("Buff Stop - Fades :: " + myRegEx);
+                buffStopLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
+
+                //Buff Stops - Fade, returns
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>\w*)[r's]+ (?<ability>.*) (?<type>.*)[\.!]+";
+                regExDesc.Add("Buff Stop - Fades Apos :: " + myRegEx);
+                buffStopLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
 
 
             }
@@ -919,6 +927,7 @@ namespace SBCombatParser
             GlobalVariables.WriteLineToDebugLog(log.logLine);
             
             LogLine line = new LogLine(log.logLine);
+
             if (line.valid)
             {
                 /*if (log.logLine.Contains("{836045448945490}")) // Exit Combat
@@ -972,10 +981,18 @@ namespace SBCombatParser
                     case "smite":
                     case "shock":
                     case "hurt":
-                        log.detectedType = Color.Orange.ToArgb();
-                        //type = DMG;
-                        //type = (int)SwingTypeEnum.NonMelee;
-                        type = (int)SwingTypeEnum.Melee;
+                        if (line.ability.Equals("resist"))
+                        {
+                            log.detectedType = Color.Yellow.ToArgb();
+                            type = (int)SwingTypeEnum.NonMelee;
+                        } 
+                        else 
+                        {
+                            log.detectedType = Color.Orange.ToArgb();
+                            //type = DMG;
+                            //type = (int)SwingTypeEnum.NonMelee;
+                            type = (int)SwingTypeEnum.Melee;
+                        }
                         break;
 
                     case "drain":
@@ -1026,6 +1043,7 @@ namespace SBCombatParser
                         }
                         break;
 
+                    case "execute":
                     case "assume":
                     case "use":
                     case "cast":
@@ -1037,6 +1055,12 @@ namespace SBCombatParser
                     case "attack":
                         log.detectedType = Color.Blue.ToArgb();
                         //type = THREAT;
+                        type = (int)SwingTypeEnum.NonMelee;
+                        break;
+
+                    case "fades":
+                    case "returns":
+                        log.detectedType |= Color.Purple.ToArgb();
                         type = (int)SwingTypeEnum.NonMelee;
                         break;
 
@@ -1265,12 +1289,43 @@ namespace SBCombatParser
                 this.time = groups["time"].Value.Trim(' ', '"');
                 this.source = groups["source"].Value.Replace("The ", "").Replace("the ", "").Trim(' ', '"');
                 this.value_type = groups["type"].Value.Trim(' ', '"');
-                this.event_type = "none";
+                this.event_type = groups["event_type"].Value.Trim(' ', '"');
+                this.event_detail = groups["event_detail"].Value.Trim(' ', '"');
                 this.regExIndx = whichRegex;
 
 
                 switch (this.value_type)
                 {
+                    case "LogFile":
+                        switch (this.event_type) 
+                        {
+                            case "Start":
+                                if (ActGlobals.oFormActMain.InCombat == true)
+                                { 
+                                    GlobalVariables.WriteLineToDebugLog("LogFile Action - Start :: Ending Combat");
+                                    ActGlobals.oFormActMain.EndCombat(true);
+                                }
+
+                                GlobalVariables.WriteLineToDebugLog("LogFile Action :: Changing Zone to " + this.event_detail);
+                                ActGlobals.oFormActMain.ChangeZone(this.event_detail);
+                                break;
+                            
+                            case "Stop":
+                                if (ActGlobals.oFormActMain.InCombat == true)
+                                {
+                                    GlobalVariables.WriteLineToDebugLog("LogFile Action - Stop :: Ending Combat");
+                                    ActGlobals.oFormActMain.EndCombat(true);
+                                }
+                                break;
+
+                            default:
+                                GlobalVariables.WriteLineToDebugLog("LogFile Action :: UNKNOWN " + this.event_type + " :: " + this.event_detail);
+                                break;
+                            
+                        }
+                        this.valid = false;
+                        break;
+
                     case "surround":
                         if (this.source.Equals("black mantle"))
                         {
@@ -1328,8 +1383,48 @@ namespace SBCombatParser
                     case "hurt":
                     case "heal":
                         this.ability = groups["ability"].Value.Trim(' ', '"');
-                        this.target = groups["target"].Value.Replace("The ", "").Replace("the ", "").Trim(' ', '"');
-                        this.value = Convert.ToInt32(groups["value"].Value.Trim(' ', '"'));
+                        switch (this.ability)
+                        {
+                            case "is resistant to":
+                                this.ability = "resist";
+                                this.target = "none";
+                                this.value = 0;
+                                break;
+
+                            case "blade now glistens with":
+                                this.ability = "UNKNOWN";
+                                this.source = "UNKNOWN";
+                                this.target = "blade";
+                                this.value = 0;
+                                this.valid = false; 
+                                break;
+
+                            default:
+                                this.target = groups["target"].Value.Replace("The ", "").Replace("the ", "").Trim(' ', '"');
+                                try
+                                {
+                                    this.value = Convert.ToInt32(groups["value"].Value.Trim(' ', '"'));
+                                }
+                                catch (FormatException ex)
+                                {
+                                    GlobalVariables.WriteLineToDebugLog("FormatException :: Message    = " + ex.Message);
+                                    GlobalVariables.WriteLineToDebugLog("FormatException :: groups[\"value\"].Value = " + groups["value"].Value.Trim(' ', '"'));
+                                    GlobalVariables.WriteLineToDebugLog("FormatException :: Valid      = " + this.valid.ToString());
+                                    GlobalVariables.WriteLineToDebugLog("FormatException :: Time       = " + this.time);
+                                    GlobalVariables.WriteLineToDebugLog("FormatException :: Source     = " + this.source);
+                                    GlobalVariables.WriteLineToDebugLog("FormatException :: Ability    = " + this.ability);
+                                    GlobalVariables.WriteLineToDebugLog("FormatException :: Target     = " + this.target);
+                                    GlobalVariables.WriteLineToDebugLog("FormatException :: Value      = " + this.value.ToString());
+                                    GlobalVariables.WriteLineToDebugLog("FormatException :: Value_Type = " + this.value_type);
+                                    GlobalVariables.WriteLineToDebugLog("FormatException :: Event_Type = " + this.event_type);
+                                    GlobalVariables.WriteLineToDebugLog("FormatException :: Event_Deta = " + this.event_detail);
+                                    GlobalVariables.WriteLineToDebugLog("FormatException :: RegExIndx  = " + this.regExIndx);
+                                    GlobalVariables.WriteLineToDebugLog("FormatException :: RegExDesc  = " + GlobalVariables.SBSetupHelper.regExDesc[this.regExIndx]);
+
+                                    this.value = 0;
+                                }
+                                break;
+                        }
                         break;
 
                     case "die":
@@ -1345,14 +1440,29 @@ namespace SBCombatParser
                         this.value = 0;
                         break;
 
+                    case "execute":
                     case "assume":
                     case "use":
                     case "cast":
-                        this.ability = groups["ability"].Value.Trim(' ', '"');
+                        this.ability = groups["ability"].Value.Replace("a ", "").Trim(' ', '"');
                         this.target = "none";
                         this.value = 0;
+
+                        if (this.source.Contains("can no longer"))
+                        {
+                            this.valid = false;
+                        }
+
                         break;
 
+                    case "returns":
+                    case "fades":
+                        this.ability = groups["ability"].Value.Trim(' ', '"');
+                        this.target = groups["source"].Value.Replace("The ", "").Replace("the ", "").Trim(' ', '"'); 
+                        this.value = 0;
+                        this.source = "none";
+                        break;
+                        
                     default:
                         this.ability = "UNKNOWN"; 
                         this.target = "";
@@ -1362,7 +1472,7 @@ namespace SBCombatParser
                         GlobalVariables.WriteLineToUnknownParse("UNKOWN :: RegExDesc :: " + GlobalVariables.SBSetupHelper.regExDesc[this.regExIndx]);
 
                         GlobalVariables.WriteLineToUnknownPBLog(line);
-
+                        this.valid = false;
                         break;
                 };
 
@@ -1373,6 +1483,8 @@ namespace SBCombatParser
                 GlobalVariables.WriteLineToDebugLog("RegEx Match :: Target     = " + this.target);
                 GlobalVariables.WriteLineToDebugLog("RegEx Match :: Value      = " + this.value.ToString());
                 GlobalVariables.WriteLineToDebugLog("RegEx Match :: Value_Type = " + this.value_type);
+                GlobalVariables.WriteLineToDebugLog("RegEx Match :: Event_Type = " + this.event_type);
+                GlobalVariables.WriteLineToDebugLog("RegEx Match :: Event_Deta = " + this.event_detail);
                 GlobalVariables.WriteLineToDebugLog("RegEx Match :: RegExIndx  = " + this.regExIndx);
                 GlobalVariables.WriteLineToDebugLog("RegEx Match :: RegExDesc  = " + GlobalVariables.SBSetupHelper.regExDesc[this.regExIndx]);
 
