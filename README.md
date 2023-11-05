@@ -2,6 +2,7 @@
 Shadowbane ACT PlugIn
 
 Written By: Kartas Starfurie (kstarfurie@yahoo.com)
+
 Assisted By: Soulkeeper
 
 This is a Parser for the game ShadowBane !
@@ -9,6 +10,7 @@ This is a Parser for the game ShadowBane !
 It is still a work in progress.
 
 Please feel free to submit your logs of Mines / Banes by emailing them to me !
+
 The more logs I have the better and more accurate the parsing will be.
 
 ## Shadowbane setup:
