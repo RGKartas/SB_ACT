@@ -72,7 +72,7 @@ namespace SBCombatParser
         static public string unkFilePath = "SBUnkParse.log.txt";
         static public string unkPBFilePath = "SBUnkPB.log.txt";
 
-        static public string version = "0.0.8.2";
+        static public string version = "0.0.9.0";
         static public readonly object fileLock = new object();
         static public readonly object missFilelock = new object();
         static public readonly object unkFilelock = new object();
@@ -210,73 +210,36 @@ namespace SBCombatParser
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>CLC) (?<type>.*) (?<event_type>.*) \:\: (?<event_detail>.*)";
                 highPriorityRegEx.Add(new SBregExUsage("CLC", "Event", myRegEx, RegexOptions.Compiled, false));
 
-                //regExDesc.Add("CLC Event :: " + myRegEx);
-                //regExUse.Add(0);
-                //clcEvents.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)'s (?<ability>.*'+.*) (?<type>heal)s (?<target>.*) for (?<value>\d*) points\.";
                 normalPriorityRegEx.Add(new SBregExUsage("Heal","Apos",myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("Heal Apos:: " + myRegEx);
-                //regExUse.Add(0);
-                //healLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
+               
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)'s (?<ability>.*) (?<type>heal)s (?<target>.*?)'?s? (?<event_type>.*) for (?<value>\d*) points[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Heal", "Stamina", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("Heal -- Stamina:: " + myRegEx);
-                //regExUse.Add(0);
-                //healLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
-                //myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)'s (?<ability>.*) (?<type>heal)s (?<target>.*) for (?<value>\d*) points.";
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r's]* (?<ability>.*) (?<type>heal)s (?<target>.*) for (?<value>\d*) points[\.!]";
-                normalPriorityRegEx.Add(new SBregExUsage("Heal", "CatchAll", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("Heal :: " + myRegEx);
-                //regExUse.Add(0);
-                //healLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
-                //myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>.*)s (?<value>\d*) points of mana from (?<target>.*) with(?<ability>.*).";
+               
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']?[s]? (?<ability>.*) (?<type>heal)s (?<target>.*) for (?<value>\d*) points[\.!]";
+                normalPriorityRegEx.Add(new SBregExUsage("Heal", "CatchAll", myRegEx, RegexOptions.Compiled, true));
+                
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>.*)s (?<value>\d*) points of [helthman]* from (?<target>.*) with(?<ability>.*)[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Drain", "CatchAll", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("Drain :: " + myRegEx);
-                //regExUse.Add(0);
-                //healLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
+                
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)'s (?<ability>.*'+.*) (?<type>.*)s (?<value>\d*) points of [helthman]* from (?<target>.*)[\.!]";
-                normalPriorityRegEx.Add(new SBregExUsage("Drain", "VampKiss", myRegEx, RegexOptions.Compiled, true));
-                //regExDesc.Add("Drain you - Vamp Kiss :: " + myRegEx);
-                //regExUse.Add(0);
-                //healLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)'s (?<ability>.*) (?<type>.*)s (?<value>\d*) points of [helthman]* from (?<target>.*)[\.!]";
+                normalPriorityRegEx.Add(new SBregExUsage("Drain", "VampKiss", myRegEx, RegexOptions.Compiled, false));
+                
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)'s (?<ability>Needs.*One) (?<type>.*)s (?<value>\d*) points of [helthman]* from (?<target>.*)[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Drain", "Needs Of The One", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("Drain - Needs Of the One :: " + myRegEx);
-                //regExUse.Add(0);
-                //healLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
-                //damageLines.Add(new Regex("\\((?<time>\\d*\\:\\d*\\:\\d*)\\)\\W*(?<source>.*)'s (?<ability>.*) (?<type>hurt)s (?<target>.*) for (?<value>\\d*) .*.", RegexOptions.Compiled));
-                //damageLines.Add(new Regex("\\((?<time>\\d*\\:\\d*\\:\\d*)\\)\\W*(?<source>.*)'s (?<ability>.*) (?<type>shock)s (?<target>.*) for (?<value>\\d*) .*.", RegexOptions.Compiled));
-                //damageLines.Add(new Regex("\\((?<time>\\d*\\:\\d*\\:\\d*)\\)\\W*(?<source>.*)'s (?<ability>.*) (?<type>smite)s (?<target>.*) for (?<value>\\d*) .*.", RegexOptions.Compiled));
-
+                
                 //Call the Sky's Fury Damage
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)'s (?<ability>Call the Sky.*) (?<type>.{3,8})s (?<target>.*) for (?<value>\d*) .*[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Damage", "Call the Sky's Fury", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("DMG - Call the Sky's Fury :: " + myRegEx);
-                //regExUse.Add(0);
-                //damageLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
+                
                 //Saint Malorn's Wrath
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>\w*)[r's]* (?<ability>Saint.*'.*) (?<type>.{3,8})s (?<target>.*) for (?<value>\d*) .*[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Damage", "Saint Malorn's Wrath", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("DMG - Saint Malorn's Wrath :: " + myRegEx);
-                //regExUse.Add(0);
-                //damageLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
+                
                 //Darius' Fist
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']?[s]? (?<ability>Darius' Fist) (?<type>.{3,11}?)s? (?<target>.*) for (?<value>\d*) .*[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Damage", "Darius' Fist", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("DMG - Darius' Fist :: " + myRegEx);
-                //regExUse.Add(0);
-                //damageLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
+                
                 //Pallando's Pernicious Puns
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>Pallando.*Puns) (?<type>\w{3,11}?) (?<target>.*) for (?<value>\d*) .*[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Damage", "Pallando's Pernicious Puns", myRegEx, RegexOptions.Compiled, true));
@@ -284,187 +247,98 @@ namespace SBCombatParser
                 //Stamina Damage
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<event_type>Stamina) Damage (?<type>hit)[s]? (?<target>.*) for (?<value>\d*) .*[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Damage", "Stamina hit", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("Dmg - Stamina - hit :: " + myRegEx);
-                //regExUse.Add(0);
-                //damageLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
+                
                 //myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>hit)s the (?<target>.*) for (?<value>\d*) .*\.";
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>hit)[s]? (?<target>.*) for (?<value>\d*) .*[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Damage", "Melee hit", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("Dmg melee - hit :: " + myRegEx);
-                //regExUse.Add(0);
-                //damageLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
-
+               
                 //Matches hurt, shock, smite, heal
-                //myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)'s (?<ability>.*) (?<type>.{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]";
-                //myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)'s (?<ability>.*) (?<type>.{3,11}?)s? (?<target>.*) for (?<value>\d*) .*[\.!]";
-                //myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)[s]? (?<target>.*) for (?<value>\d*) .*[\.!]";
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]";
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']{1}[s]* (?<ability>.*?) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Damage", "Spell", myRegEx, RegexOptions.Compiled, true));
-                //regExDesc.Add("Dmg spell RtL??:: " + myRegEx);
-                //regExUse.Add(0);
-                //damageLines.Add(new Regex(myRegEx, RegexOptions.Compiled)); // | RegexOptions.RightToLeft));
-
-                //myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)'s (?<ability>.*) (?<type>.{3,8})s (?<target>.*) for (?<value>\d*) .*\.";
-                //regExDesc.Add("Dmg spell LtR:: " + myRegEx);
-                //damageLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
+                
                 //target = YOU
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>hit)s (?<target>.*) for (?<value>\d*) .*[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Damage", "Hit You", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("Hit You :: " + myRegEx);
-                //regExUse.Add(0);
-                //damageLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
+               
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>take) (?<value>\d*) .* from (?<source>.*)[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Damage", "Spell Hit You", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("Spell Hit You :: " + myRegEx);
-                //regExUse.Add(0);
-                //damageLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
+                
                 //Proc Damage - You
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>[The]*) (?<ability>.*) (?<type>.*)s (?<target>.*) for (?<value>\d*) .*[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Damage", "Proc You", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("Proc Dmg - You :: " + myRegEx);
-                //regExUse.Add(0);
-                //damageLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
+                
                 //Proc Damage
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)'s (?<type>.*) (?<ability>.*)s (?<target>.*) for (?<value>\d*) .*!";
                 normalPriorityRegEx.Add(new SBregExUsage("Damage", "Proc", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("Proc Dmg :: " + myRegEx);
-                //regExUse.Add(0);
-                //damageLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
+               
                 //Bleed Damage
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) takes? (?<value>\d*) .*(?<source>damage) from (?<type>.*)ing[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Damage", "Bleed", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("Bleed Dmg :: " + myRegEx);
-                //regExUse.Add(0);
-                //damageLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
+               
                 //Miss -- Power
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r's]? power (?<type>miss)[es]* (?<target>.*)[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Evade", "Miss Power", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("Miss -- Power  :: " + myRegEx);
-                //regExUse.Add(0);
-                //evadedLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
+                
                 //Miss
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>miss)[es]* (?<target>.*)[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Evade", "Miss Melee", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("Miss -- Melee  :: " + myRegEx);
-                //regExUse.Add(0);
-                //evadedLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
+                
                 //You Block
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>block) (?<source>.*)'s .*[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Evade", "Block You", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("You Block :: " + myRegEx);
-                //regExUse.Add(0);
-                //evadedLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
-                //You Parry
-                //myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>parry) (?<source>.*)'s .*[\.!]";
-                //regExDesc.Add("You Parry :: " + myRegEx);
-                //regExUse.Add(0);
-                //evadedLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
+                
                 //Parry
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>parr)[yies]+ (?<source>.*)'s .*[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Evade", "Parry", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("Parry :: " + myRegEx);
-                //regExUse.Add(0);
-                //evadedLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
+               
                 //All Dodge
-                //myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>dodge)s? (?<source>.*)'s.*[\.!]";
-                //myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>dodge)s? (?<source>\w*)[r's]+.*[\.!]";
-                //myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>dodge)s? (?<source>.*?)[r's]+.*[\.!]";
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>dodge)s? (?<source>.*?)[r's]+ attack[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Evade", "Dodge", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("Dodge :: " + myRegEx);
-                //regExUse.Add(0);
-                //evadedLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
+                
                 //Shadow Mantle
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) [areis]+ (?<type>surround)ed by a (?<source>.*)[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Debuff", "Shadow Mantle", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("Shadow Mantle :: " + myRegEx);
-                //regExUse.Add(0);
-                //buffLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
+               
                 //Knavery (Blind)
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>kick[s]? dirt) .* (?<target>\w*)[r's]+ .*[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Debuff", "Blind", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("Blind :: " + myRegEx);
-                //regExUse.Add(0);
-                //buffLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
+               
                 //Use Power -- Error use
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*\[(?<event_type>Powers)\] (?<event_detail>.*):(?<source>.*?) (?<type>use)s? [\Wa]?(?<ability>.*)[\.!]";
                 lowPriorityRegEx.Add(new SBregExUsage("Power", "Error Use", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("Use power -- Error use :: " + myRegEx);
-                //regExUse.Add(0);
-                //oddLines.Add(new Regex(myRegEx, RegexOptions.Compiled | RegexOptions.RightToLeft));
-
+               
                 //Use Power -- Error cast
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*\[(?<event_type>Powers)\] (?<event_detail>.*):(?<source>.*?) (?<type>cast)s? [\Wa]?(?<ability>.*)[\.!]";
                 lowPriorityRegEx.Add(new SBregExUsage("Power", "Error Cast", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("Use power -- Error cast :: " + myRegEx);
-                //regExUse.Add(0);
-                //oddLines.Add(new Regex(myRegEx, RegexOptions.Compiled | RegexOptions.RightToLeft));
                 
                 //Use Power -- enter
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<type>enter)s? [\Wa]?(?<ability>.*)[\.!]";
                 lowPriorityRegEx.Add(new SBregExUsage("Power", "Enter", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("Use power - enter :: " + myRegEx);
-                //regExUse.Add(0);
-                //oddLines.Add(new Regex(myRegEx, RegexOptions.Compiled | RegexOptions.RightToLeft));
-
+               
                 //Use Power -- cast
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<type>cast)s? [\Wa]?(?<ability>.*)[\.!]";
                 lowPriorityRegEx.Add(new SBregExUsage("Power", "Cast", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("Use power -- Cast :: " + myRegEx);
-                //regExUse.Add(0);
-                //oddLines.Add(new Regex(myRegEx, RegexOptions.Compiled | RegexOptions.RightToLeft));
                 
                 //Use Power -- assume
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<type>assume)s? [\Wa]?(?<ability>.*)[\.!]";
                 lowPriorityRegEx.Add(new SBregExUsage("Power", "Assume", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("Use power -- assume :: " + myRegEx);
-                //regExUse.Add(0);
-                //oddLines.Add(new Regex(myRegEx, RegexOptions.Compiled | RegexOptions.RightToLeft));
                 
                 //Use Power -- use
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<type>use)s? [\Wa]?(?<ability>.*)[\.!]";
                 lowPriorityRegEx.Add(new SBregExUsage("Power", "Use", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("Use power -- use :: " + myRegEx);
-                //regExUse.Add(0);
-                //oddLines.Add(new Regex(myRegEx, RegexOptions.Compiled | RegexOptions.RightToLeft));
-                
+                 
                 //Use Power -- execute
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<type>execute)s? [\Wa]?(?<ability>.*)[\.!]";
                 lowPriorityRegEx.Add(new SBregExUsage("Power", "Execute", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("Use power -- execute :: " + myRegEx);
-                //regExUse.Add(0);
-                //oddLines.Add(new Regex(myRegEx, RegexOptions.Compiled | RegexOptions.RightToLeft));
-
+               
                 //Taunt
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*\[Combat\] Info\: (?<target>.*) (?<type>[atck]*)s? (?<source>.*)";
                 lowPriorityRegEx.Add(new SBregExUsage("Power", "Taunt", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("Taunt :: " + myRegEx);
-                //regExUse.Add(0);
-                //oddLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
+                
                 //has Died
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*\[Combat\] Info\: (?<source>.*) [hasve]* (?<type>die).*!";
                 lowPriorityRegEx.Add(new SBregExUsage("Combat", "Info Death", myRegEx, RegexOptions.Compiled, false));
-                //regExDesc.Add("Death :: " + myRegEx);
-                //regExUse.Add(0);
-                //oddLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
+                
 
                 //REDO They are TOO GENERIC ... its catching EVERYTHING
                 //Buff Stops - Fade, returns
