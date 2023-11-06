@@ -1,0 +1,7 @@
+Version     :: 0.0.9.8
+DateTime    :: 11/6/2023 08:27:49 AM
+RegExType   :: Evade :: Dodge
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>dodge)s? (?<source>.*?)[r']?[s]? attack[\.!]
+(08:29:01) DMT dodges Sithranis Silantaar's attack.
+(08:29:01) DMT dodges Jaz's attack.
+(08:29:01) DMT dodges Sithranis Silantaar's attack.

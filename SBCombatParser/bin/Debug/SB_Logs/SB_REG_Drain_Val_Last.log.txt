@@ -1,0 +1,9 @@
+Version     :: 0.0.9.8
+DateTime    :: 11/6/2023 08:27:49 AM
+RegExType   :: Drain :: Val Last
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']?[s]? (?<ability>.*) (?<type>.*)s (?<value>\d*) points of (?<event_type>[helthman]*) from (?<target>.*)[\.!]
+(08:28:21) chs's Exalted Word of Binding drains 104 points of mana from you.
+(08:28:22) Your Vampire's Kiss drains 559 points of health from TyypeVee.
+(08:28:22) Your Vampire's Kiss drains 559 points of health from BlackSele.
+(08:28:50) Your Vampire's Kiss drains 553 points of health from TyypeVee.
+(08:28:50) Your Vampire's Kiss drains 553 points of health from BlackSele.
