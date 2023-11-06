@@ -1,0 +1,275 @@
+Version  :: 0.0.8.1
+DateTime :: 11/5/2023 10:30:14 PM
+UNKOWN :: Line      :: (22:30:38) Tupac's Pallando's Pernicious Puns hurt BroYogi for 34 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:38) Tupac's Pallando's Pernicious Puns hurt Priest for 35 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:38) Tupac's Pallando's Pernicious Puns hurt POOPCUMPISS for 32 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:38) Tupac's Pallando's Pernicious Puns hurt Hellio for 41 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:38) Tupac's Pallando's Pernicious Puns hurt PYogi for 48 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:38) Tupac's Pallando's Pernicious Puns hurt DADDY for 14 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:41) Tupac's Pallando's Pernicious Puns hurt BroYogi for 21 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:41) Tupac's Pallando's Pernicious Puns hurt Priest for 26 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:41) Tupac's Pallando's Pernicious Puns hurt POOPCUMPISS for 26 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:41) Tupac's Pallando's Pernicious Puns hurt Hellio for 50 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:41) Tupac's Pallando's Pernicious Puns hurt DADDY for 17 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:41) Tupac's Pallando's Pernicious Puns hurt PYogi for 40 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:44) Tupac's Pallando's Pernicious Puns hurt Priest for 29 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:44) Tupac's Pallando's Pernicious Puns hurt BroYogi for 32 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:44) Tupac's Pallando's Pernicious Puns hurt Hellio for 31 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:44) Tupac's Pallando's Pernicious Puns hurt POOPCUMPISS for 30 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:44) Tupac's Pallando's Pernicious Puns hurt DADDY for 23 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:44) Tupac's Pallando's Pernicious Puns hurt PYogi for 34 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:47) Tupac's Pallando's Pernicious Puns hurt Priest for 33 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:47) Tupac's Pallando's Pernicious Puns hurt BroYogi for 38 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:47) Tupac's Pallando's Pernicious Puns hurt Hellio for 47 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:47) Tupac's Pallando's Pernicious Puns hurt POOPCUMPISS for 34 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:47) Tupac's Pallando's Pernicious Puns hurt PYogi for 38 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:47) Tupac's Pallando's Pernicious Puns hurt DADDY for 17 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:50) Tupac's Pallando's Pernicious Puns hurt BroYogi for 37 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:51) Tupac's Pallando's Pernicious Puns hurt Priest for 37 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:51) Tupac's Pallando's Pernicious Puns hurt Hellio for 35 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:51) Tupac's Pallando's Pernicious Puns hurt POOPCUMPISS for 35 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:51) Tupac's Pallando's Pernicious Puns hurt DADDY for 18 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:51) Tupac's Pallando's Pernicious Puns hurt PYogi for 31 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:54) Tupac's Pallando's Pernicious Puns hurt Priest for 33 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:54) Tupac's Pallando's Pernicious Puns hurt BroYogi for 39 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:54) Tupac's Pallando's Pernicious Puns hurt Hellio for 38 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:54) Tupac's Pallando's Pernicious Puns hurt POOPCUMPISS for 36 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:54) Tupac's Pallando's Pernicious Puns hurt DADDY for 13 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:54) Tupac's Pallando's Pernicious Puns hurt PYogi for 31 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:57) Tupac's Pallando's Pernicious Puns hurt BroYogi for 33 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:57) Tupac's Pallando's Pernicious Puns hurt Priest for 27 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:57) Tupac's Pallando's Pernicious Puns hurt Hellio for 40 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:57) Tupac's Pallando's Pernicious Puns hurt POOPCUMPISS for 28 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:57) Tupac's Pallando's Pernicious Puns hurt DADDY for 20 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:30:57) Tupac's Pallando's Pernicious Puns hurt PYogi for 34 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:31:55) Tupac's Pallando's Pernicious Puns hurt Jaz for 56 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:31:55) Tupac's Pallando's Pernicious Puns hurt ChopSuey for 40 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:31:55) Tupac's Pallando's Pernicious Puns hurt POOPCUMPISS for 33 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:31:55) Tupac's Pallando's Pernicious Puns hurt Hellio for 61 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:31:55) Tupac's Pallando's Pernicious Puns hurt Sax for 39 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:31:55) Tupac's Pallando's Pernicious Puns hurt Arry for 48 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:31:55) Tupac's Pallando's Pernicious Puns hurt you for 51 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:31:57) Tupac's Pallando's Pernicious Puns hurt Jaz for 51 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:31:57) Tupac's Pallando's Pernicious Puns hurt ChopSuey for 32 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:31:57) Tupac's Pallando's Pernicious Puns hurt POOPCUMPISS for 54 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:31:57) Tupac's Pallando's Pernicious Puns hurt Hellio for 44 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:31:57) Tupac's Pallando's Pernicious Puns hurt Sax for 38 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:31:57) Tupac's Pallando's Pernicious Puns hurt Arry for 61 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:31:57) Tupac's Pallando's Pernicious Puns hurt you for 36 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:31:59) Tupac's Pallando's Pernicious Puns hurt Jaz for 52 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:31:59) Tupac's Pallando's Pernicious Puns hurt ChopSuey for 52 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:31:59) Tupac's Pallando's Pernicious Puns hurt POOPCUMPISS for 33 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:31:59) Tupac's Pallando's Pernicious Puns hurt Hellio for 36 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:31:59) Tupac's Pallando's Pernicious Puns hurt Sax for 26 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:31:59) Tupac's Pallando's Pernicious Puns hurt Arry for 49 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:31:59) Tupac's Pallando's Pernicious Puns hurt you for 52 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:32:02) Tupac's Pallando's Pernicious Puns hurt Jaz for 43 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:32:02) Tupac's Pallando's Pernicious Puns hurt Hellio for 46 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:32:02) Tupac's Pallando's Pernicious Puns hurt ChopSuey for 53 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:32:02) Tupac's Pallando's Pernicious Puns hurt POOPCUMPISS for 41 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:32:02) Tupac's Pallando's Pernicious Puns hurt Arry for 70 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:32:02) Tupac's Pallando's Pernicious Puns hurt Sax for 55 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:32:02) Tupac's Pallando's Pernicious Puns hurt you for 47 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:32:05) Tupac's Pallando's Pernicious Puns hurt Jaz for 39 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:32:05) Tupac's Pallando's Pernicious Puns hurt ChopSuey for 42 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:32:05) Tupac's Pallando's Pernicious Puns hurt Hellio for 50 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:32:05) Tupac's Pallando's Pernicious Puns hurt POOPCUMPISS for 41 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:32:05) Tupac's Pallando's Pernicious Puns hurt Arry for 34 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:32:05) Tupac's Pallando's Pernicious Puns hurt Sax for 41 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:32:05) Tupac's Pallando's Pernicious Puns hurt you for 56 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:32:08) Tupac's Pallando's Pernicious Puns hurt Jaz for 60 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:32:08) Tupac's Pallando's Pernicious Puns hurt Hellio for 59 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:32:08) Tupac's Pallando's Pernicious Puns hurt ChopSuey for 39 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:32:08) Tupac's Pallando's Pernicious Puns hurt POOPCUMPISS for 31 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:32:08) Tupac's Pallando's Pernicious Puns hurt Sax for 51 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:32:08) Tupac's Pallando's Pernicious Puns hurt Arry for 54 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:32:08) Tupac's Pallando's Pernicious Puns hurt you for 39 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:32:11) Tupac's Pallando's Pernicious Puns hurt Jaz for 55 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:32:11) Tupac's Pallando's Pernicious Puns hurt ChopSuey for 28 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:32:11) Tupac's Pallando's Pernicious Puns hurt POOPCUMPISS for 43 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:32:11) Tupac's Pallando's Pernicious Puns hurt Hellio for 59 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:32:11) Tupac's Pallando's Pernicious Puns hurt you for 57 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:32:11) Tupac's Pallando's Pernicious Puns hurt Arry for 41 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+UNKOWN :: Line      :: (22:32:11) Tupac's Pallando's Pernicious Puns hurt Sax for 46 points of damage!
+UNKOWN :: RegExIndx :: {X=1,Y=11}
+UNKOWN :: RegExDesc :: Damage :: Spell :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]

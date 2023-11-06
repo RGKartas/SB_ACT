@@ -1,0 +1,2867 @@
+Version  :: 0.0.8.1
+DateTime :: 11/5/2023 10:30:14 PM
+(22:30:27) CLC LogFile Start :: .\LogFiles\Input\BroBane\bro_bane_6.txt
+(22:30:27) BlackSele's shielding fades.
+(22:30:27) Sax is overcome with righteous zeal!
+(22:30:27) Soda feels less deadly.
+(22:30:27) Tons feels less deadly.
+(22:30:27) DRChuckalot feels less deadly.
+(22:30:27) Bourbon feels less deadly.
+(22:30:27) Sauce feels less deadly.
+(22:30:27) pippo feels less deadly.
+(22:30:27) Kansus feels less deadly.
+(22:30:27) Arry feels less deadly.
+(22:30:27) You don't feel quite as deadly anymore.
+(22:30:27) Rokaw feels less deadly.
+(22:30:27) Jaz feels less deadly.
+(22:30:27) typeW feels less deadly.
+(22:30:27) Ninja feels less deadly.
+(22:30:27) Sax feels less deadly.
+(22:30:27) Sithranis feels less deadly.
+(22:30:27) Salamar feels less deadly.
+(22:30:27) PacMan feels less deadly.
+(22:30:27) ShiftyInc's shielding fades.
+(22:30:27) Bourbon begins actively blocking!
+(22:30:28) ShiftyInc begins actively blocking!
+(22:30:28) Arry begins actively blocking!
+(22:30:28) DeathieDS's shielding fades.
+(22:30:28) MacBeth's shielding fades.
+(22:30:28) BlackSele's shielding fades.
+(22:30:28) Priest's shielding fades.
+(22:30:28) BlackSele looks much faster!
+(22:30:28) WillPowder's shielding fades.
+(22:30:28) POOPCUMPISS's shielding fades.
+(22:30:28) POOPCUMPISS's speed returns to normal.
+(22:30:28) POOPCUMPISS's speed returns to normal.
+(22:30:28) DADDY's shielding fades.
+(22:30:28) POOPCUMPISS finds a weakness in Kansus's defenses.
+(22:30:28) Kansus begins to stumble.
+(22:30:28) Kansus slows down.
+(22:30:28) ShiftyInc's shielding fades.
+(22:30:28) Kansus seems more exposed to bludgeoning.
+(22:30:28) PYogi's shielding fades.
+(22:30:28) ShiftyInc blocks your attack!
+(22:30:28) Kansus blocks POOPCUMPISS's attack.
+(22:30:29) Trashcans's shielding fades.
+(22:30:29) Ninja begins to stumble.
+(22:30:29) Ninja slows down.
+(22:30:29) PacMan begins to stumble.
+(22:30:29) PacMan slows down.
+(22:30:29) Kansus begins to stumble.
+(22:30:29) Kansus slows down.
+(22:30:29) Arry begins to stumble.
+(22:30:29) Arry slows down.
+(22:30:29) DRChuckalot begins to stumble.
+(22:30:29) DRChuckalot slows down.
+(22:30:29) typeW begins to stumble.
+(22:30:29) typeW slows down.
+(22:30:29) Sithranis begins to stumble.
+(22:30:29) Sithranis slows down.
+(22:30:29) Kansus is exposed to a slashing attack.
+(22:30:29) ShiftyInc blocks Sax's attack.
+(22:30:29) ShiftyInc blocks typeW's attack.
+(22:30:29) ShiftyInc blocks Sithranis Silantaar's attack.
+(22:30:29) Kansus blocks Priest's attack.
+(22:30:29) ShiftyInc blocks Sauce's attack.
+(22:30:29) ShiftyInc blocks Rokaw's attack.
+(22:30:29) POOPCUMPISS looks exceptionally alert!
+(22:30:29) ShiftyInc blocks DRChuckalot's attack.
+(22:30:29) Kansus blocks BlackSele's attack.
+(22:30:29) ShiftyInc blocks pippo's attack.
+(22:30:29) ShiftyInc is poisoned!
+(22:30:30) ShiftyInc seems more exposed to bludgeoning.
+(22:30:30) Kansus is stunned!
+(22:30:30) ChopSuey's shielding fades.
+(22:30:30) chs's shielding fades.
+(22:30:30) BroYogi's shielding fades.
+(22:30:30) ShiftyInc can no longer use powers!
+(22:30:30) ShiftyInc blocks Jaz's attack.
+(22:30:30) ShiftyInc can no longer use powers!
+(22:30:30) Beerbaron's shielding fades.
+(22:30:30) Hellio's shielding fades.
+(22:30:30) MacBeth's shielding fades.
+(22:30:30) BroRoar's shielding fades.
+(22:30:30) Blue's shielding fades.
+(22:30:30) xReaLx's shielding fades.
+(22:30:30) Bourbon seems more exposed to bludgeoning.
+(22:30:30) Tupac's shielding fades.
+(22:30:30) ShiftyInc blocks Sithranis Silantaar's attack.
+(22:30:30) ShiftyInc blocks pippo's attack.
+(22:30:30) Kansus moves at normal speed again.
+(22:30:30) Kansus attacks more slowly.
+(22:30:30) Kansus can no longer use powers!
+(22:30:30) Kansus can no longer use powers!
+(22:30:30) ShiftyInc blocks Sauce's attack.
+(22:30:30) Kansus is resistant to heals!
+(22:30:30) Kansus attacks more slowly.
+(22:30:31) Bourbon blocks chs's attack.
+(22:30:31) Peking is steeled with Dark Fortitude!
+(22:30:31) Peking is surrounded by a protective shield.
+(22:30:31) Peking looks focused.
+(22:30:31) Kansus is no longer exposed.
+(22:30:31) ShiftyInc blocks Rokaw's attack.
+(22:30:31) ShiftyInc blocks DRChuckalot's attack.
+(22:30:31) ShiftyInc blocks Sauce's attack.
+(22:30:31) ShiftyInc blocks Sax's attack.
+(22:30:31) ShiftyInc blocks Jaz's attack.
+(22:30:31) ShiftyInc begins to stumble.
+(22:30:31) ShiftyInc blocks your attack!
+(22:30:31) Kansus is exposed to a pinpoint strike.
+(22:30:31) Kansus's powerblock immunity has worn off.
+(22:30:31) Kansus is no longer exposed.
+(22:30:32) DeathieDS's shielding fades.
+(22:30:32) ShiftyInc is no longer exposed.
+(22:30:32) Kansus's Unholy Fortitude falls.
+(22:30:32) ShiftyInc seems more exposed to bludgeoning.
+(22:30:32) Kansus is no longer exposed.
+(22:30:32) Kansus's power abilities return.
+(22:30:32) Kansus's stun immunity has worn off.
+(22:30:32) Kansus is no longer poisoned.
+(22:30:32) Kansus's heal resistance fades.
+(22:30:32) Kansus feels less deadly.
+(22:30:32) Kansus's attacks return to normal.
+(22:30:32) Kansus stops stumbling.
+(22:30:32) Kansus is no longer stunned.
+(22:30:32) Someone Misses Kansus.
+(22:30:32) BroYogi feels less deadly.
+(22:30:32) ChopSuey feels less deadly.
+(22:30:32) ShiftyInc blocks typeW's attack.
+(22:30:32) Trashcans feels less deadly.
+(22:30:32) MacBeth feels less deadly.
+(22:30:32) Beerbaron feels less deadly.
+(22:30:32) POOPCUMPISS feels less deadly.
+(22:30:32) Priest feels less deadly.
+(22:30:32) ShiftyInc blocks Ninja's attack.
+(22:30:32) DADDY feels less deadly.
+(22:30:32) PYogi feels less deadly.
+(22:30:32) Hellio feels less deadly.
+(22:30:32) chs's shielding fades.
+(22:30:32) Rokaw feels less deadly.
+(22:30:32) Jaz feels less deadly.
+(22:30:32) typeW feels less deadly.
+(22:30:32) Ninja feels less deadly.
+(22:30:32) Sax feels less deadly.
+(22:30:32) lover is steeled with Dark Fortitude!
+(22:30:32) lover is surrounded by a protective shield.
+(22:30:32) lover looks focused.
+(22:30:32) The blade now glistens with poison.
+(22:30:32) Sithranis feels less deadly.
+(22:30:32) Salamar feels less deadly.
+(22:30:32) Blue's shielding fades.
+(22:30:32) PacMan feels less deadly.
+(22:30:32) Eihortetung's shielding fades.
+(22:30:32) Your legs are no longer immobilized.
+(22:30:32) Your legs are no longer immobilized.
+(22:30:33) Jaz has succumb to a Violent Rage!
+(22:30:33) Blue feels less deadly.
+(22:30:33) Eihortetung feels less deadly.
+(22:30:33) Rokaw is no longer immobilized.
+(22:30:33) Bourbon blocks chs's attack.
+(22:30:34) Ninja moves at normal speed again.
+(22:30:34) Rokaw blocks POOPCUMPISS's attack.
+(22:30:34) Ninja attacks more slowly.
+(22:30:34) Peking is immobilized!
+(22:30:34) Bourbon can no longer use powers!
+(22:30:34) Ninja blocks Priest's attack.
+(22:30:34) Bourbon can no longer use powers!
+(22:30:34) Ninja blocks Priest's attack.
+(22:30:34) ShiftyInc's power abilities return.
+(22:30:34) Ninja blocks Priest's attack.
+(22:30:34) Ninja blocks Priest's attack.
+(22:30:34) Rokaw blocks POOPCUMPISS's attack.
+(22:30:34) Rokaw blocks POOPCUMPISS's attack.
+(22:30:34) Bourbon blocks chs's attack.
+(22:30:34) ShiftyInc's shielding fades.
+(22:30:35) ShiftyInc's attacks can't find the mark.
+(22:30:35) ShiftyInc's defenses falter.
+(22:30:35) Ninja blocks Priest's attack.
+(22:30:35) ShiftyInc blocks your attack!
+(22:30:35) Eihortetung's shielding fades.
+(22:30:35) WillPowder's shielding fades.
+(22:30:35) DeathieDS's shielding fades.
+(22:30:35) DeathieDS's speed returns to normal.
+(22:30:35) DeathieDS's speed returns to normal.
+(22:30:35) ShiftyInc blocks typeW's attack.
+(22:30:35) Priest looks much faster!
+(22:30:35) ShiftyInc is no longer exposed.
+(22:30:36) ShiftyInc blocks Rokaw's attack.
+(22:30:36) BroRoar's shielding fades.
+(22:30:36) ShiftyInc's powerblock immunity has worn off.
+(22:30:36) ShiftyInc can no longer use powers!
+(22:30:36) Peking is steeled with Dark Fortitude!
+(22:30:36) Peking is surrounded by a protective shield.
+(22:30:36) Peking looks focused.
+(22:30:36) ShiftyInc's precision returns.
+(22:30:36) ShiftyInc's attacks can't find the mark.
+(22:30:36) Peking is exposed to a pinpoint strike.
+(22:30:36) BlackSele's shielding fades.
+(22:30:36) xReaLx's shielding fades.
+(22:30:36) Tupac's shielding fades.
+(22:30:36) ShiftyInc blocks DRChuckalot's attack.
+(22:30:37) Ninja stops stumbling.
+(22:30:37) PacMan stops stumbling.
+(22:30:37) DRChuckalot stops stumbling.
+(22:30:37) Arry stops stumbling.
+(22:30:37) typeW stops stumbling.
+(22:30:37) Sithranis stops stumbling.
+(22:30:37) ShiftyInc stops stumbling.
+(22:30:37) ShiftyInc begins to stumble.
+(22:30:37) ShiftyInc blocks pippo's attack.
+(22:30:37) ShiftyInc begins to stumble.
+(22:30:37) ShiftyInc blocks your attack!
+(22:30:37) ShiftyInc's blows seem less effective.
+(22:30:38) Bourbon's power abilities return.
+(22:30:38) Peking looks much faster!
+(22:30:38) ShiftyInc blocks pippo's attack.
+(22:30:38) ShiftyInc seems more exposed to bludgeoning.
+(22:30:38) ShiftyInc blocks DRChuckalot's attack.
+(22:30:38) BroRoar's elemental resistance fades.
+(22:30:38) WillPowder's elemental resistance fades.
+(22:30:38) Blue's elemental resistance fades.
+(22:30:38) Eihortetung's elemental resistance fades.
+(22:30:38) ShiftyInc's elemental resistance fades.
+(22:30:38) ShiftyInc looks much faster!
+(22:30:38) DeathieDS's elemental resistance fades.
+(22:30:38) chs's elemental resistance fades.
+(22:30:38) xReaLx's elemental resistance fades.
+(22:30:38) BlackSele's elemental resistance fades.
+(22:30:38) Tupac's elemental resistance fades.
+(22:30:38) ShiftyInc attacks more slowly.
+(22:30:38) BroRoar feels less deadly.
+(22:30:38) WillPowder feels less deadly.
+(22:30:38) ShiftyInc is no longer exposed.
+(22:30:38) ShiftyInc feels less deadly.
+(22:30:38) ShiftyInc seems more exposed to bludgeoning.
+(22:30:38) DeathieDS feels less deadly.
+(22:30:38) xReaLx feels less deadly.
+(22:30:38) BlackSele feels less deadly.
+(22:30:38) Tupac feels less deadly.
+(22:30:38) ShiftyInc blocks your attack!
+(22:30:38) Tupac's Pallando's Pernicious Puns hurt BroYogi for 34 points of damage!
+(22:30:38) Tupac's Pallando's Pernicious Puns hurt Priest for 35 points of damage!
+(22:30:38) Tupac's Pallando's Pernicious Puns hurt POOPCUMPISS for 32 points of damage!
+(22:30:38) Tupac's Pallando's Pernicious Puns hurt Hellio for 41 points of damage!
+(22:30:38) BlackSele's speed returns to normal.
+(22:30:38) Tupac's Pallando's Pernicious Puns hurt PYogi for 48 points of damage!
+(22:30:38) BroRoar is stunned!
+(22:30:38) Tupac's Pallando's Pernicious Puns hurt DADDY for 14 points of damage!
+(22:30:39) BroYogi is stunned!
+(22:30:39) DADDY is stunned!
+(22:30:39) PYogi is stunned!
+(22:30:39) Tupac is stunned!
+(22:30:39) ShiftyInc blocks Sauce's attack.
+(22:30:39) ShiftyInc blocks Ninja's attack.
+(22:30:39) ShiftyInc blocks typeW's attack.
+(22:30:39) ShiftyInc is no longer exposed.
+(22:30:39) ShiftyInc blocks Rokaw's attack.
+(22:30:39) ShiftyInc begins to stumble.
+(22:30:39) ShiftyInc stops stumbling.
+(22:30:39) Blue's shielding fades.
+(22:30:39) chs's shielding fades.
+(22:30:40) ShiftyInc blocks Ninja's attack.
+(22:30:40) ShiftyInc blocks DRChuckalot's attack.
+(22:30:40) ShiftyInc blocks pippo's attack.
+(22:30:40) ShiftyInc blocks Sauce's attack.
+(22:30:40) CloudA is steeled with Dark Fortitude!
+(22:30:40) CloudA is surrounded by a protective shield.
+(22:30:40) CloudA looks focused.
+(22:30:40) The blade now glistens with poison.
+(22:30:40) ShiftyInc begins to stumble.
+(22:30:40) chs looks much faster!
+(22:30:40) ShiftyInc blocks Jaz's attack.
+(22:30:40) Bourbon is no longer exposed.
+(22:30:40) Soda feels less deadly.
+(22:30:40) Tons feels less deadly.
+(22:30:40) DRChuckalot feels less deadly.
+(22:30:40) Bourbon feels less deadly.
+(22:30:40) Sauce feels less deadly.
+(22:30:40) xReaLx looks much faster!
+(22:30:40) pippo feels less deadly.
+(22:30:40) Arry feels less deadly.
+(22:30:40) You don't feel quite as deadly anymore.
+(22:30:40) ShiftyInc's attacks return to normal.
+(22:30:40) Peking is no longer exposed.
+(22:30:40) Priest walks with a lighter step.
+(22:30:40) ShiftyInc's speed returns.
+(22:30:41) ShiftyInc's precision returns.
+(22:30:41) Tupac's Pallando's Pernicious Puns hurt BroYogi for 21 points of damage!
+(22:30:41) Tupac's Pallando's Pernicious Puns hurt Priest for 26 points of damage!
+(22:30:41) Tupac's Pallando's Pernicious Puns hurt POOPCUMPISS for 26 points of damage!
+(22:30:41) Tupac's Pallando's Pernicious Puns hurt Hellio for 50 points of damage!
+(22:30:41) Tupac's Pallando's Pernicious Puns hurt DADDY for 17 points of damage!
+(22:30:41) Tupac's Pallando's Pernicious Puns hurt PYogi for 40 points of damage!
+(22:30:41) ShiftyInc's defenses resume.
+(22:30:41) ShiftyInc begins to stumble.
+(22:30:41) xReaLx is stunned!
+(22:30:41) Tupac llooks less intelligent!
+(22:30:41) Peking can no longer use powers!
+(22:30:41) Peking is steeled with Dark Fortitude!
+(22:30:41) Peking can no longer use powers!
+(22:30:41) Peking is surrounded by a protective shield.
+(22:30:41) Peking looks focused.
+(22:30:41) Peking begins to stumble.
+(22:30:41) Peking looks much faster!
+(22:30:41) Rokaw feels less deadly.
+(22:30:41) Jaz feels less deadly.
+(22:30:41) typeW feels less deadly.
+(22:30:42) Ninja feels less deadly.
+(22:30:42) Sax feels less deadly.
+(22:30:42) Sithranis feels less deadly.
+(22:30:42) Salamar feels less deadly.
+(22:30:42) PacMan feels less deadly.
+(22:30:42) Rokaw blocks POOPCUMPISS's attack.
+(22:30:42) ShiftyInc blocks Jaz's attack.
+(22:30:42) Rokaw blocks POOPCUMPISS's attack.
+(22:30:42) Bourbon's powerblock immunity has worn off.
+(22:30:42) BroRoar is no longer stunned.
+(22:30:42) Tupac is no longer stunned.
+(22:30:42) ShiftyInc stops stumbling.
+(22:30:42) ShiftyInc blocks Jaz's attack.
+(22:30:42) lover is steeled with Dark Fortitude!
+(22:30:42) lover is surrounded by a protective shield.
+(22:30:42) lover looks focused.
+(22:30:42) The blade now glistens with poison.
+(22:30:42) Rokaw begins to stumble.
+(22:30:42) Trashcans's stun immunity has worn off.
+(22:30:42) BlackSele attacks more slowly.
+(22:30:42) Rokaw begins to stumble.
+(22:30:42) Rokaw looks winded!
+(22:30:42) BroYogi is no longer stunned.
+(22:30:42) DADDY is no longer stunned.
+(22:30:43) PYogi is no longer stunned.
+(22:30:43) POOPCUMPISS is immobilized!
+(22:30:43) Blue attacks more slowly.
+(22:30:43) ShiftyInc's attacks regain their potency.
+(22:30:43) Peking seems more exposed to bludgeoning.
+(22:30:43) Rokaw blocks POOPCUMPISS's attack.
+(22:30:43) Blue seems more exposed to bludgeoning.
+(22:30:43) Peking is no longer exposed.
+(22:30:43) Peking seems more exposed to bludgeoning.
+(22:30:43) POOPCUMPISS is no longer immobilized.
+(22:30:44) BlackSele gives forth a mighty shout!
+(22:30:44) Priest is stunned!
+(22:30:44) Blue can no longer use powers!
+(22:30:44) Blue can no longer use powers!
+(22:30:44) Tupac's Pallando's Pernicious Puns hurt Priest for 29 points of damage!
+(22:30:44) Tupac's Pallando's Pernicious Puns hurt BroYogi for 32 points of damage!
+(22:30:44) Tupac's Pallando's Pernicious Puns hurt Hellio for 31 points of damage!
+(22:30:44) Rokaw blocks POOPCUMPISS's attack.
+(22:30:44) Tupac's Pallando's Pernicious Puns hurt POOPCUMPISS for 30 points of damage!
+(22:30:44) Tupac's Pallando's Pernicious Puns hurt DADDY for 23 points of damage!
+(22:30:44) Tupac's Pallando's Pernicious Puns hurt PYogi for 34 points of damage!
+(22:30:44) Peking is no longer exposed.
+(22:30:44) POOPCUMPISS is stunned!
+(22:30:44) Blue's attacks return to normal.
+(22:30:44) Blue attacks more slowly.
+(22:30:44) ShiftyInc's powerblock immunity has worn off.
+(22:30:44) Tupac looks weaker and more clumsy!
+(22:30:44) Blue's attacks return to normal.
+(22:30:44) Blue attacks more slowly.
+(22:30:44) PacMan moves at normal speed again.
+(22:30:44) Arry moves at normal speed again.
+(22:30:45) Blue begins to stumble.
+(22:30:45) DRChuckalot moves at normal speed again.
+(22:30:45) typeW moves at normal speed again.
+(22:30:45) Sithranis moves at normal speed again.
+(22:30:45) DRChuckalot blocks ChopSuey's attack.
+(22:30:45) Tons's stun immunity has worn off.
+(22:30:45) Hellio's stun immunity has worn off.
+(22:30:45) Blue is no longer exposed.
+(22:30:45) Blue seems more exposed to bludgeoning.
+(22:30:45) DRChuckalot is exposed to a pinpoint strike.
+(22:30:45) DRChuckalot blocks ChopSuey's attack.
+(22:30:45) DRChuckalot blocks ChopSuey's attack.
+(22:30:45) Hellio feels less deadly.
+(22:30:45) BroYogi feels less deadly.
+(22:30:45) ChopSuey feels less deadly.
+(22:30:45) Trashcans feels less deadly.
+(22:30:46) MacBeth feels less deadly.
+(22:30:46) Beerbaron feels less deadly.
+(22:30:46) POOPCUMPISS feels less deadly.
+(22:30:46) DADDY feels less deadly.
+(22:30:46) PYogi feels less deadly.
+(22:30:46) Peking's power abilities return.
+(22:30:46) POOPCUMPISS is no longer stunned.
+(22:30:46) Peking stops stumbling.
+(22:30:46) DRChuckalot begins to stumble.
+(22:30:46) Blue is poisoned!
+(22:30:46) Priest's speed returns to normal.
+(22:30:46) Peking is immobilized!
+(22:30:46) Tupac begins to stumble.
+(22:30:46) Tupac looks winded!
+(22:30:46) Rokaw blocks POOPCUMPISS's attack.
+(22:30:47) Rokaw blocks POOPCUMPISS's attack.
+(22:30:47) Tupac stops stumbling.
+(22:30:47) DRChuckalot blocks ChopSuey's attack.
+(22:30:47) Tupac's Pallando's Pernicious Puns hurt Priest for 33 points of damage!
+(22:30:47) Tupac's Pallando's Pernicious Puns hurt BroYogi for 38 points of damage!
+(22:30:47) Tupac's Pallando's Pernicious Puns hurt Hellio for 47 points of damage!
+(22:30:47) Tupac's Pallando's Pernicious Puns hurt POOPCUMPISS for 34 points of damage!
+(22:30:47) Tupac's Pallando's Pernicious Puns hurt PYogi for 38 points of damage!
+(22:30:47) Tupac's Pallando's Pernicious Puns hurt DADDY for 17 points of damage!
+(22:30:47) Blue starts bleeding!
+(22:30:47) Tupac begins to stumble.
+(22:30:47) Tupac looks winded!
+(22:30:47) DRChuckalot's attacks can't find the mark.
+(22:30:47) Peking begins to stumble.
+(22:30:47) Peking slows down.
+(22:30:47) Blue is no longer exposed.
+(22:30:47) Blue seems more exposed to bludgeoning.
+(22:30:47) Peking is no longer immobilized.
+(22:30:47) lover is immobilized!
+(22:30:47) Blue's attacks can't find the mark.
+(22:30:47) DRChuckalot starts bleeding!
+(22:30:48) DRChuckalot blocks ChopSuey's attack.
+(22:30:48) DRChuckalot blocks BroYogi's attack.
+(22:30:48) DRChuckalot's precision returns.
+(22:30:48) DRChuckalot's attacks can't find the mark.
+(22:30:48) Peking is wrapped in spectral bonds!
+(22:30:48) Peking is no longer bound.
+(22:30:48) DRChuckalot stops bleeding.
+(22:30:48) Tupac stops stumbling.
+(22:30:48) WillPowder blocks Ninja's attack.
+(22:30:48) DRChuckalot blocks ChopSuey's attack.
+(22:30:48) Peking moves at normal speed again.
+(22:30:48) Peking attacks more slowly.
+(22:30:48) DRChuckalot blocks ChopSuey's attack.
+(22:30:48) DRChuckalot's blows seem less effective.
+(22:30:49) ShiftyInc is no longer poisoned.
+(22:30:49) Blue begins to stumble.
+(22:30:49) Blue's powerblock immunity has worn off.
+(22:30:49) Blue stops bleeding.
+(22:30:49) Blue's power abilities return.
+(22:30:49) Blue's enhanced strength fades.
+(22:30:49) Blue's enhanced strength fades.
+(22:30:49) Blue is no longer exposed.
+(22:30:49) Blue feels less deadly.
+(22:30:49) Blue's attacks return to normal.
+(22:30:49) Blue's precision returns.
+(22:30:49) Blue stops stumbling.
+(22:30:49) Blue is no longer poisoned.
+(22:30:49) Someone Misses Blue Dots.
+(22:30:49) Peking starts bleeding!
+(22:30:49) Peking's attacks return to normal.
+(22:30:49) Peking attacks more slowly.
+(22:30:49) Tupac's strength and agility returns.
+(22:30:49) Tupac's regains mental faculties.
+(22:30:49) Priest's stun immunity has worn off.
+(22:30:49) Peking is exposed to a pinpoint strike.
+(22:30:50) Peking's powerblock immunity has worn off.
+(22:30:50) Peking can no longer use powers!
+(22:30:50) Peking's blows seem less effective.
+(22:30:50) Peking's speed returns to normal.
+(22:30:50) Hellio's elemental resistance fades.
+(22:30:50) BroYogi's elemental resistance fades.
+(22:30:50) ChopSuey's elemental resistance fades.
+(22:30:50) Trashcans's elemental resistance fades.
+(22:30:50) MacBeth's elemental resistance fades.
+(22:30:50) Beerbaron's elemental resistance fades.
+(22:30:50) POOPCUMPISS's elemental resistance fades.
+(22:30:50) Priest's elemental resistance fades.
+(22:30:50) DADDY's elemental resistance fades.
+(22:30:50) PYogi's elemental resistance fades.
+(22:30:50) DRChuckalot blocks ChopSuey's attack.
+(22:30:50) Peking stops bleeding.
+(22:30:50) Peking starts bleeding!
+(22:30:50) ShiftyInc's speed returns to normal.
+(22:30:50) Eihortetung's stun immunity has worn off.
+(22:30:50) Salamar is overcome with righteous zeal!
+(22:30:50) DRChuckalot's speed returns.
+(22:30:50) Eihortetung feels less deadly.
+(22:30:50) DRChuckalot attacks more slowly.
+(22:30:50) WillPowder blocks Ninja's attack.
+(22:30:50) Tupac's Pallando's Pernicious Puns hurt BroYogi for 37 points of damage!
+(22:30:51) Tupac's Pallando's Pernicious Puns hurt Priest for 37 points of damage!
+(22:30:51) Tupac's Pallando's Pernicious Puns hurt Hellio for 35 points of damage!
+(22:30:51) Tupac's Pallando's Pernicious Puns hurt POOPCUMPISS for 35 points of damage!
+(22:30:51) Tupac is no longer poisoned.
+(22:30:51) Tupac's Pallando's Pernicious Puns hurt DADDY for 18 points of damage!
+(22:30:51) Peking looks weaker and less agile!
+(22:30:51) Tupac's Pallando's Pernicious Puns hurt PYogi for 31 points of damage!
+(22:30:51) Peking is no longer exposed.
+(22:30:51) Peking is exposed to a pinpoint strike.
+(22:30:51) Peking's powerblock immunity has worn off.
+(22:30:51) Peking's attacks regain their potency.
+(22:30:51) Peking is no longer exposed.
+(22:30:51) Peking's Dark Fortitude falls.
+(22:30:51) Peking stops bleeding.
+(22:30:51) Peking's shielding fades.
+(22:30:51) Peking is no longer focused.
+(22:30:51) Peking's attacks return to normal.
+(22:30:51) Peking's strength and agility returns.
+(22:30:51) Peking stops stumbling.
+(22:30:51) Someone Misses Peking Duck.
+(22:30:51) Ninja's attacks return to normal.
+(22:30:51) DRChuckalot is exposed to a slashing attack.
+(22:30:51) BroYogi begins to stumble.
+(22:30:51) lover is immobilized!
+(22:30:51) ChopSuey's rage subsides.
+(22:30:51) BroYogi can no longer use powers!
+(22:30:52) BroYogi can no longer use powers!
+(22:30:52) xReaLx is no longer stunned.
+(22:30:52) DRChuckalot blocks Rokaw's attack.
+(22:30:52) xReaLx's rage subsides.
+(22:30:52) Salamar begins actively blocking!
+(22:30:52) DRChuckalot blocks ChopSuey's attack.
+(22:30:52) WillPowder blocks Jaz's attack.
+(22:30:52) DRChuckalot blocks ChopSuey's attack.
+(22:30:52) WillPowder blocks Jaz's attack.
+(22:30:52) chs's speed returns to normal.
+(22:30:52) Rokaw stops stumbling.
+(22:30:52) BroYogi's power abilities return.
+(22:30:53) lover is steeled with Dark Fortitude!
+(22:30:53) lover is surrounded by a protective shield.
+(22:30:53) lover looks focused.
+(22:30:53) The blade now glistens with poison.
+(22:30:53) xReaLx's speed returns to normal.
+(22:30:53) Tupac seems more exposed to bludgeoning.
+(22:30:53) BroYogi seems more exposed to bludgeoning.
+(22:30:53) BroYogi is exposed to a slashing attack.
+(22:30:53) BroRoar's stun immunity has worn off.
+(22:30:53) BroYogi's stun immunity has worn off.
+(22:30:53) DRChuckalot is resistant to heals!
+(22:30:53) PYogi's stun immunity has worn off.
+(22:30:53) DADDY's stun immunity has worn off.
+(22:30:53) DRChuckalot blocks ChopSuey's attack.
+(22:30:53) Tupac's stun immunity has worn off.
+(22:30:53) DRChuckalot blocks ChopSuey's attack.
+(22:30:53) DRChuckalot blocks Rokaw's attack.
+(22:30:54) WillPowder blocks Jaz's attack.
+(22:30:54) Tupac llooks less intelligent!
+(22:30:54) Bourbon's stun immunity has worn off.
+(22:30:54) Tupac's Pallando's Pernicious Puns hurt Priest for 33 points of damage!
+(22:30:54) Tupac's Pallando's Pernicious Puns hurt BroYogi for 39 points of damage!
+(22:30:54) Tupac's Pallando's Pernicious Puns hurt Hellio for 38 points of damage!
+(22:30:54) BroYogi is stunned!
+(22:30:54) Tupac's Pallando's Pernicious Puns hurt POOPCUMPISS for 36 points of damage!
+(22:30:54) Tupac's Pallando's Pernicious Puns hurt DADDY for 13 points of damage!
+(22:30:54) Tupac's Pallando's Pernicious Puns hurt PYogi for 31 points of damage!
+(22:30:54) Tupac is no longer exposed.
+(22:30:54) BroYogi is no longer exposed.
+(22:30:54) BroYogi is no longer exposed.
+(22:30:54) WillPowder blocks Jaz's attack.
+(22:30:54) BroYogi is exposed to a slashing attack.
+(22:30:54) BroYogi's defenses falter.
+(22:30:54) ShiftyInc's stun immunity has worn off.
+(22:30:54) CloudA looks much faster!
+(22:30:54) BroYogi begins to stumble.
+(22:30:54) Tupac's regains mental faculties.
+(22:30:54) DRChuckalot blocks ChopSuey's attack.
+(22:30:54) BroYogi seems more exposed to bludgeoning.
+(22:30:54) Priest feels less deadly.
+(22:30:55) pippo starts bleeding!
+(22:30:55) POOPCUMPISS looks much faster!
+(22:30:55) Sithranis starts bleeding!
+(22:30:55) DRChuckalot blocks ChopSuey's attack.
+(22:30:55) DRChuckalot blocks ChopSuey's attack.
+(22:30:55) Tupac is stunned!
+(22:30:55) Sithranis Silantaar blocks DADDY's attack.
+(22:30:55) Tupac is no longer stunned.
+(22:30:55) DRChuckalot's attacks regain their potency.
+(22:30:55) BroYogi's powerblock immunity has worn off.
+(22:30:55) BroYogi can no longer use powers!
+(22:30:55) Sithranis Silantaar blocks DADDY's attack.
+(22:30:55) BroYogi is no longer stunned.
+(22:30:55) DRChuckalot blocks Rokaw's attack.
+(22:30:56) BroYogi is no longer exposed.
+(22:30:56) Soda is overcome with righteous zeal!
+(22:30:56) BroYogi seems more exposed to bludgeoning.
+(22:30:56) DRChuckalot blocks ChopSuey's attack.
+(22:30:56) lover begins to stumble.
+(22:30:56) lover looks winded!
+(22:30:56) chs is being charged by chs!
+(22:30:56) BroYogi's stun immunity has worn off.
+(22:30:56) Soda begins actively blocking!
+(22:30:57) Tupac's Pallando's Pernicious Puns hurt BroYogi for 33 points of damage!
+(22:30:57) Tupac's Pallando's Pernicious Puns hurt Priest for 27 points of damage!
+(22:30:57) chs is wrapped in spectral bonds!
+(22:30:57) Tupac's Pallando's Pernicious Puns hurt Hellio for 40 points of damage!
+(22:30:57) DRChuckalot is no longer exposed.
+(22:30:57) Tupac's Pallando's Pernicious Puns hurt POOPCUMPISS for 28 points of damage!
+(22:30:57) Tupac's Pallando's Pernicious Puns hurt DADDY for 20 points of damage!
+(22:30:57) BroYogi begins to stumble.
+(22:30:57) Tupac's Pallando's Pernicious Puns hurt PYogi for 34 points of damage!
+(22:30:57) BroYogi's attacks can't find the mark.
+(22:30:57) Sax is no longer actively blocking.
+(22:30:57) BroYogi's precision returns.
+(22:30:57) BroYogi's attacks can't find the mark.
+(22:30:57) BroYogi attacks more slowly.
+(22:30:57) BroYogi's powerblock immunity has worn off.
+(22:30:57) BroYogi is no longer exposed.
+(22:30:57) BroYogi is no longer exposed.
+(22:30:57) BroYogi's stun immunity has worn off.
+(22:30:57) BroYogi feels less deadly.
+(22:30:57) BroYogi's attacks return to normal.
+(22:30:57) BroYogi's elemental resistance fades.
+(22:30:57) BroYogi's precision returns.
+(22:30:58) BroYogi returns to normal.
+(22:30:58) BroYogi stops stumbling.
+(22:30:58) BroYogi's defenses resume.
+(22:30:58) Someone Misses BroYogi.
+(22:30:58) DRChuckalot is no longer exposed.
+(22:30:58) WillPowder blocks Jaz's attack.
+(22:30:58) BlackSele's stun immunity has worn off.
+(22:30:58) DRChuckalot blocks ChopSuey's attack.
+(22:30:58) DRChuckalot blocks ChopSuey's attack.
+(22:30:58) BlackSele is stunned!
+(22:30:58) ChopSuey feels less deadly.
+(22:30:58) Trashcans feels less deadly.
+(22:30:58) Beerbaron feels less deadly.
+(22:30:59) DADDY feels less deadly.
+(22:30:59) DRChuckalot's attacks return to normal.
+(22:30:59) PYogi feels less deadly.
+(22:30:59) Soda feels less deadly.
+(22:30:59) Tons feels less deadly.
+(22:30:59) DRChuckalot feels less deadly.
+(22:30:59) Bourbon feels less deadly.
+(22:30:59) Sauce feels less deadly.
+(22:30:59) pippo feels less deadly.
+(22:30:59) You don't feel quite as deadly anymore.
+(22:30:59) Arry feels less deadly.
+(22:30:59) DRChuckalot's heal resistance fades.
+(22:30:59) ChopSuey feels less deadly.
+(22:30:59) Trashcans feels less deadly.
+(22:30:59) Beerbaron feels less deadly.
+(22:30:59) Priest feels less deadly.
+(22:30:59) DADDY feels less deadly.
+(22:30:59) BlackSele's attacks can't find the mark.
+(22:30:59) chs is no longer bound.
+(22:30:59) lover is steeled with Dark Fortitude!
+(22:30:59) lover is surrounded by a protective shield.
+(22:30:59) lover looks focused.
+(22:30:59) lover begins to stumble.
+(22:30:59) The blade now glistens with poison.
+(22:30:59) BlackSele's attacks return to normal.
+(22:30:59) BlackSele attacks more slowly.
+(22:30:59) Priest is stunned!
+(22:30:59) WillPowder blocks Jaz's attack.
+(22:30:59) BlackSele is no longer stunned.
+(22:31:00) Tupac's stun immunity has worn off.
+(22:31:00) Soda blocks BlackSele's attack.
+(22:31:00) Rokaw feels less deadly.
+(22:31:00) Jaz feels less deadly.
+(22:31:00) typeW feels less deadly.
+(22:31:00) Ninja feels less deadly.
+(22:31:00) Sax feels less deadly.
+(22:31:00) Sithranis feels less deadly.
+(22:31:00) BlackSele begins to stumble.
+(22:31:00) Salamar feels less deadly.
+(22:31:00) PacMan feels less deadly.
+(22:31:00) Priest attacks more slowly.
+(22:31:00) Soda blocks BlackSele's attack.
+(22:31:00) Bourbon is no longer actively blocking.
+(22:31:00) lover looks much faster!
+(22:31:00) pippo stops bleeding.
+(22:31:00) ShiftyInc is no longer actively blocking.
+(22:31:00) BlackSele's stun immunity has worn off.
+(22:31:01) Arry is no longer actively blocking.
+(22:31:01) Priest is no longer stunned.
+(22:31:01) BlackSele's precision returns.
+(22:31:01) BlackSele's attacks can't find the mark.
+(22:31:01) lover is exposed to a slashing attack.
+(22:31:01) Priest's attacks return to normal.
+(22:31:01) WillPowder's attacks can't find the mark.
+(22:31:01) BlackSele's attacks return to normal.
+(22:31:01) BlackSele attacks more slowly.
+(22:31:01) The charge is at an end.
+(22:31:01) MacBeth looks much faster!
+(22:31:01) Soda is exposed to a slashing attack.
+(22:31:01) BlackSele's precision returns.
+(22:31:01) BlackSele's attacks can't find the mark.
+(22:31:02) Tupac looks much faster!
+(22:31:02) WillPowder blocks Rokaw's attack.
+(22:31:02) Rokaw's attacks can't find the mark.
+(22:31:02) BroRoar's elemental resistance fades.
+(22:31:02) WillPowder's elemental resistance fades.
+(22:31:02) lover starts dancing like an imbecile!
+(22:31:02) Rokaw blocks Sauce's attack.
+(22:31:02) BlackSele can no longer use powers!
+(22:31:02) BlackSele can no longer use powers!
+(22:31:02) lover can no longer use powers!
+(22:31:02) lover can no longer use powers!
+(22:31:02) lover stops dancing.
+(22:31:03) BlackSele's speed returns.
+(22:31:03) BlackSele begins to stumble.
+(22:31:03) Soda attacks more slowly.
+(22:31:03) Rokaw is no longer poisoned.
+(22:31:03) Hellio feels less deadly.
+(22:31:03) MacBeth feels less deadly.
+(22:31:03) POOPCUMPISS feels less deadly.
+(22:31:03) Priest's stun immunity has worn off.
+(22:31:03) Priest is stunned!
+(22:31:04) lover stops stumbling.
+(22:31:04) lover begins to stumble.
+(22:31:04) lover looks winded!
+(22:31:04) BlackSele's stun immunity has worn off.
+(22:31:04) Rokaw attacks more slowly.
+(22:31:04) POOPCUMPISS's speed returns to normal.
+(22:31:05) DRChuckalot's precision returns.
+(22:31:05) Priest is no longer stunned.
+(22:31:05) BlackSele seems more exposed to bludgeoning.
+(22:31:05) lover is wrapped in spectral bonds!
+(22:31:05) WillPowder's precision returns.
+(22:31:05) BlackSele is no longer exposed.
+(22:31:05) lover is no longer focused.
+(22:31:05) lover looks weaker and less agile!
+(22:31:05) lover is no longer bound.
+(22:31:05) BlackSele's power abilities return.
+(22:31:05) Soda is no longer exposed.
+(22:31:05) BlackSele's precision returns.
+(22:31:05) Jaz's stun immunity has worn off.
+(22:31:06) pippo is stunned!
+(22:31:06) Rokaw's precision returns.
+(22:31:06) BlackSele's attacks return to normal.
+(22:31:06) Rokaw begins to stumble.
+(22:31:06) Ninja begins to stumble.
+(22:31:06) Tons begins to stumble.
+(22:31:06) Sax begins to stumble.
+(22:31:06) Sithranis begins to stumble.
+(22:31:06) typeW begins to stumble.
+(22:31:06) You stumble and slow.
+(22:31:06) lover is wrapped in spectral bonds!
+(22:31:06) Soda feels less deadly.
+(22:31:06) Tons feels less deadly.
+(22:31:06) lover's power abilities return.
+(22:31:06) DRChuckalot feels less deadly.
+(22:31:06) Bourbon feels less deadly.
+(22:31:06) Sauce feels less deadly.
+(22:31:06) pippo feels less deadly.
+(22:31:06) Arry feels less deadly.
+(22:31:06) You don't feel quite as deadly anymore.
+(22:31:06) lover is no longer bound.
+(22:31:06) [Powers] Info: You begin casting Vampire's Kiss.
+(22:31:07) BlackSele's stun immunity has worn off.
+(22:31:07) xReaLx's stun immunity has worn off.
+(22:31:07) pippo is no longer stunned.
+(22:31:07) Rokaw feels less deadly.
+(22:31:07) Jaz feels less deadly.
+(22:31:07) Salamar feels less deadly.
+(22:31:07) PacMan feels less deadly.
+(22:31:07) typeW feels less deadly.
+(22:31:07) Ninja feels less deadly.
+(22:31:07) Sax feels less deadly.
+(22:31:07) Sithranis feels less deadly.
+(22:31:07) PYogi looks much faster!
+(22:31:07) Trashcans blocks Jaz's attack.
+(22:31:07) BlackSele's speed returns.
+(22:31:07) lover begins to stumble.
+(22:31:07) lover looks winded!
+(22:31:07) pippo blocks chs's attack.
+(22:31:08) DeathieDS is stunned!
+(22:31:08) Trashcans begins to stumble.
+(22:31:08) DeathieDS blocks Rokaw's attack.
+(22:31:08) DeathieDS can no longer use powers!
+(22:31:08) DeathieDS can no longer use powers!
+(22:31:08) ChopSuey feels less deadly.
+(22:31:08) Trashcans feels less deadly.
+(22:31:08) lover starts bleeding!
+(22:31:08) DeathieDS is immobilized!
+(22:31:08) DeathieDS seems more exposed to bludgeoning.
+(22:31:08) DeathieDS is no longer immobilized.
+(22:31:08) DeathieDS's powerblock immunity has worn off.
+(22:31:08) DeathieDS can no longer use powers!
+(22:31:08) DeathieDS is no longer exposed.
+(22:31:08) DeathieDS begins to stumble.
+(22:31:08) pippo's stun immunity has worn off.
+(22:31:09) lover is no longer poisoned.
+(22:31:09) DeathieDS seems more exposed to bludgeoning.
+(22:31:09) BlackSele's elemental resistance fades.
+(22:31:09) POOPCUMPISS's stun immunity has worn off.
+(22:31:09) ShiftyInc's elemental resistance fades.
+(22:31:09) Eihortetung feels less deadly.
+(22:31:09) DeathieDS feels less deadly.
+(22:31:09) DeathieDS is no longer exposed.
+(22:31:09) DeathieDS seems more exposed to bludgeoning.
+(22:31:09) DeathieDS is poisoned!
+(22:31:09) DeathieDS is no longer exposed.
+(22:31:09) WillPowder looks much faster!
+(22:31:09) lover's strength and agility returns.
+(22:31:09) lover stops stumbling.
+(22:31:09) lover's speed returns to normal.
+(22:31:09) Someone Misses lover.
+(22:31:09) Trashcans looks much faster!
+(22:31:10) DeathieDS is exposed to a slashing attack.
+(22:31:10) ChopSuey's elemental resistance fades.
+(22:31:10) Trashcans's elemental resistance fades.
+(22:31:10) MacBeth's elemental resistance fades.
+(22:31:10) Priest's elemental resistance fades.
+(22:31:10) PYogi's elemental resistance fades.
+(22:31:10) BlackSele's powerblock immunity has worn off.
+(22:31:10) DeathieDS is no longer exposed.
+(22:31:10) DeathieDS's power abilities return.
+(22:31:10) DeathieDS's powerblock immunity has worn off.
+(22:31:10) DeathieDS's stun immunity has worn off.
+(22:31:10) DeathieDS feels less deadly.
+(22:31:10) DeathieDS's speed returns.
+(22:31:10) DeathieDS is no longer stunned.
+(22:31:10) DeathieDS is no longer poisoned.
+(22:31:10) Someone Misses DeathieDS.
+(22:31:11) MacBeth's speed returns to normal.
+(22:31:11) Tupac's speed returns to normal.
+(22:31:11) [Powers] Info: You begin casting Sprint.
+(22:31:11) Beerbaron looks much faster!
+(22:31:11) Soda feels less deadly.
+(22:31:11) Tons feels less deadly.
+(22:31:11) DRChuckalot feels less deadly.
+(22:31:11) Bourbon feels less deadly.
+(22:31:11) Sauce feels less deadly.
+(22:31:11) pippo feels less deadly.
+(22:31:11) Arry feels less deadly.
+(22:31:11) You don't feel quite as deadly anymore.
+(22:31:11) You feel much faster!
+(22:31:11) Soda's attacks return to normal.
+(22:31:11) Bourbon looks much faster!
+(22:31:11) Rokaw feels less deadly.
+(22:31:11) Jaz feels less deadly.
+(22:31:11) Salamar feels less deadly.
+(22:31:11) PacMan feels less deadly.
+(22:31:11) typeW feels less deadly.
+(22:31:11) Ninja feels less deadly.
+(22:31:11) Sax feels less deadly.
+(22:31:11) Sithranis feels less deadly.
+(22:31:11) PYogi feels less deadly.
+(22:31:11) Soda feels less deadly.
+(22:31:12) Tons feels less deadly.
+(22:31:12) DRChuckalot feels less deadly.
+(22:31:12) Bourbon feels less deadly.
+(22:31:12) Sauce feels less deadly.
+(22:31:12) pippo feels less deadly.
+(22:31:12) Arry feels less deadly.
+(22:31:12) You don't feel quite as deadly anymore.
+(22:31:12) Rokaw looks much faster!
+(22:31:12) Priest feels less deadly.
+(22:31:12) Beerbaron feels less deadly.
+(22:31:12) DADDY feels less deadly.
+(22:31:12) Jaz looks much faster!
+(22:31:12) ShiftyInc is stunned!
+(22:31:12) ShiftyInc is grounded!
+(22:31:12) chs is stunned!
+(22:31:12) Trashcans feels less deadly.
+(22:31:12) POOPCUMPISS feels less deadly.
+(22:31:12) Rokaw stops stumbling.
+(22:31:12) Ninja stops stumbling.
+(22:31:12) Tons stops stumbling.
+(22:31:12) Sax stops stumbling.
+(22:31:12) Ninja looks much faster!
+(22:31:12) Sithranis stops stumbling.
+(22:31:12) You stop stumbling.
+(22:31:12) typeW stops stumbling.
+(22:31:12) ShiftyInc is no longer grounded.
+(22:31:12) BlackSele feels less deadly.
+(22:31:12) WillPowder feels less deadly.
+(22:31:12) xReaLx feels less deadly.
+(22:31:12) chs begins to stumble.
+(22:31:12) Sithranis looks much faster!
+(22:31:13) ShiftyInc is no longer grounded.
+(22:31:13) ShiftyInc seems more exposed to bludgeoning.
+(22:31:13) ShiftyInc is no longer exposed.
+(22:31:13) ShiftyInc seems more exposed to bludgeoning.
+(22:31:13) chs is exposed to a slashing attack.
+(22:31:13) Trashcans stops stumbling.
+(22:31:13) ShiftyInc attacks more slowly.
+(22:31:13) Eihortetung looks much faster!
+(22:31:13) chs's attacks can't find the mark.
+(22:31:13) ShiftyInc begins to stumble.
+(22:31:13) Sauce blocks xReaLx's attack.
+(22:31:14) ShiftyInc blocks pippo's attack.
+(22:31:14) Sauce blocks Priest's attack.
+(22:31:14) chs can no longer use powers!
+(22:31:14) chs can no longer use powers!
+(22:31:14) ShiftyInc can no longer use powers!
+(22:31:14) ShiftyInc can no longer use powers!
+(22:31:14) Sauce blocks POOPCUMPISS's attack.
+(22:31:14) Sauce blocks POOPCUMPISS's attack.
+(22:31:14) ShiftyInc blocks Jaz's attack.
+(22:31:14) Sauce blocks xReaLx's attack.
+(22:31:14) Sauce blocks xReaLx's attack.
+(22:31:14) Sauce is stunned!
+(22:31:14) ShiftyInc starts bleeding!
+(22:31:14) WillPowder is stunned!
+(22:31:14) Trashcans is stunned!
+(22:31:14) POOPCUMPISS is stunned!
+(22:31:14) ShiftyInc blocks Sithranis Silantaar's attack.
+(22:31:14) Sauce is exposed to a pinpoint strike.
+(22:31:14) PYogi is stunned!
+(22:31:14) DADDY is stunned!
+(22:31:14) ShiftyInc blocks pippo's attack.
+(22:31:14) Sauce seems more exposed to bludgeoning.
+(22:31:14) Sauce blocks MacBeth's attack.
+(22:31:15) chs's precision returns.
+(22:31:15) chs's attacks can't find the mark.
+(22:31:15) PYogi's speed returns to normal.
+(22:31:15) Soda feels less deadly.
+(22:31:15) Tons feels less deadly.
+(22:31:15) DRChuckalot feels less deadly.
+(22:31:15) pippo feels less deadly.
+(22:31:15) Arry feels less deadly.
+(22:31:15) You don't feel quite as deadly anymore.
+(22:31:15) Bourbon feels less deadly.
+(22:31:15) Sauce feels less deadly.
+(22:31:15) Sauce is exposed to a slashing attack.
+(22:31:15) Sauce attacks more slowly.
+(22:31:15) BlackSele gives forth a mighty shout!
+(22:31:15) pippo is stunned!
+(22:31:15) Jaz is stunned!
+(22:31:15) Tons is stunned!
+(22:31:15) Sithranis is stunned!
+(22:31:15) ShiftyInc blocks your attack!
+(22:31:15) Sauce is no longer exposed.
+(22:31:15) Sauce is exposed to a pinpoint strike.
+(22:31:15) ShiftyInc blocks pippo's attack.
+(22:31:15) Sauce begins to stumble.
+(22:31:16) chs's precision returns.
+(22:31:16) ShiftyInc blocks Sithranis Silantaar's attack.
+(22:31:16) chs's attacks can't find the mark.
+(22:31:16) Sauce is no longer exposed.
+(22:31:16) Sauce's Dark Fortitude falls.
+(22:31:16) Sauce is no longer exposed.
+(22:31:16) Sauce is no longer exposed.
+(22:31:16) Sauce's stun immunity has worn off.
+(22:31:16) Sauce feels less deadly.
+(22:31:16) Sauce's attacks return to normal.
+(22:31:16) Sauce's speed returns.
+(22:31:16) Sauce is no longer stunned.
+(22:31:16) Someone Misses Sauce.
+(22:31:16) ShiftyInc is no longer exposed.
+(22:31:16) chs's powerblock immunity has worn off.
+(22:31:16) chs can no longer use powers!
+(22:31:16) ShiftyInc stops bleeding.
+(22:31:16) chs's precision returns.
+(22:31:16) chs's attacks can't find the mark.
+(22:31:16) BroRoar is stunned!
+(22:31:16) ShiftyInc's attacks can't find the mark.
+(22:31:16) ShiftyInc blocks Ninja's attack.
+(22:31:16) chs is no longer exposed.
+(22:31:17) You are exposed to a pinpoint strike!
+(22:31:17) BroRoar is no longer stunned.
+(22:31:17) WillPowder is no longer stunned.
+(22:31:17) chs is no longer stunned.
+(22:31:17) ShiftyInc blocks Ninja's attack.
+(22:31:17) chs's speed returns.
+(22:31:17) chs begins to stumble.
+(22:31:17) WillPowder's speed returns to normal.
+(22:31:17) ShiftyInc's power abilities return.
+(22:31:17) chs's power abilities return.
+(22:31:17) Trashcans's speed returns to normal.
+(22:31:17) DADDY's elemental resistance fades.
+(22:31:17) chs's blows seem less effective.
+(22:31:17) Ninja blocks BroRoar's attack.
+(22:31:17) ShiftyInc blocks Ninja's attack.
+(22:31:17) ShiftyInc stops stumbling.
+(22:31:18) pippo attacks more slowly.
+(22:31:18) Jaz's rage subsides.
+(22:31:18) chs's defenses falter.
+(22:31:18) chs's speed returns.
+(22:31:18) ShiftyInc's attacks return to normal.
+(22:31:18) chs seems more exposed to bludgeoning.
+(22:31:18) chs is no longer exposed.
+(22:31:18) chs seems more exposed to bludgeoning.
+(22:31:18) typeW attacks more slowly.
+(22:31:18) chs begins to stumble.
+(22:31:18) Ninja blocks BroRoar's attack.
+(22:31:18) Trashcans is no longer stunned.
+(22:31:18) POOPCUMPISS is no longer stunned.
+(22:31:18) PYogi is no longer stunned.
+(22:31:18) DADDY is no longer stunned.
+(22:31:18) You feel resistant to heals!
+(22:31:18) Ninja blocks BroRoar's attack.
+(22:31:18) chs begins to stumble.
+(22:31:18) You can no longer use powers!
+(22:31:18) You can no longer use powers!
+(22:31:19) Beerbaron's speed returns to normal.
+(22:31:19) CloudA is steeled with Dark Fortitude!
+(22:31:19) CloudA is surrounded by a protective shield.
+(22:31:19) CloudA looks focused.
+(22:31:19) The blade now glistens with poison.
+(22:31:19) pippo's stun immunity has worn off.
+(22:31:19) Jaz's stun immunity has worn off.
+(22:31:19) ShiftyInc's precision returns.
+(22:31:19) Tons's stun immunity has worn off.
+(22:31:19) Sithranis's stun immunity has worn off.
+(22:31:19) Ninja can no longer use powers!
+(22:31:19) Ninja can no longer use powers!
+(22:31:19) chs is poisoned!
+(22:31:19) chs's powerblock immunity has worn off.
+(22:31:19) Salamar is no longer actively blocking.
+(22:31:19) chs can no longer use powers!
+(22:31:19) Sithranis stops bleeding.
+(22:31:19) Your enhanced speed fades.
+(22:31:19) You start bleeding!
+(22:31:19) You are exposed to a well-placed bludgeon attack!
+(22:31:20) chs's powerblock immunity has worn off.
+(22:31:20) chs's attacks regain their potency.
+(22:31:20) chs feels less deadly.
+(22:31:20) chs's enhanced strength fades.
+(22:31:20) chs's enhanced strength fades.
+(22:31:20) chs is no longer exposed.
+(22:31:20) chs's stun immunity has worn off.
+(22:31:20) chs feels less deadly.
+(22:31:20) chs's elemental resistance fades.
+(22:31:20) chs's precision returns.
+(22:31:20) chs's defenses resume.
+(22:31:20) chs stops stumbling.
+(22:31:20) chs is no longer poisoned.
+(22:31:20) Someone Misses chs.
+(22:31:20) ShiftyInc llooks less intelligent!
+(22:31:20) Bourbon's speed returns to normal.
+(22:31:20) Rokaw feels less deadly.
+(22:31:20) BlackSele gives forth a mighty shout!
+(22:31:20) Rokaw is stunned!
+(22:31:20) Jaz feels less deadly.
+(22:31:20) Ninja is stunned!
+(22:31:20) typeW feels less deadly.
+(22:31:20) Tons is stunned!
+(22:31:20) Soda is stunned!
+(22:31:20) Ninja feels less deadly.
+(22:31:20) DRChuckalot is stunned!
+(22:31:20) Arry is stunned!
+(22:31:20) Sax feels less deadly.
+(22:31:20) Sithranis feels less deadly.
+(22:31:20) Salamar feels less deadly.
+(22:31:20) PacMan feels less deadly.
+(22:31:20) You are overwhelmed with the irresistable urge to dance!
+(22:31:20) ShiftyInc looks weaker and more clumsy!
+(22:31:21) Rokaw's speed returns to normal.
+(22:31:21) ShiftyInc blocks CloudA's attack.
+(22:31:21) You no longer feel exposed.
+(22:31:21) You are exposed to a pinpoint strike!
+(22:31:21) The urge to dance fades.
+(22:31:21) The urge to dance fades.
+(22:31:21) ChopSuey feels less deadly.
+(22:31:21) You stumble and slow.
+(22:31:21) Your defense falters.
+(22:31:21) PacMan's stun immunity has worn off.
+(22:31:21) Trashcans feels less deadly.
+(22:31:21) Ninja's speed returns to normal.
+(22:31:21) POOPCUMPISS feels less deadly.
+(22:31:21) DADDY feels less deadly.
+(22:31:21) PYogi feels less deadly.
+(22:31:21) Hellio feels less deadly.
+(22:31:21) ShiftyInc's powerblock immunity has worn off.
+(22:31:21) Eihortetung feels less deadly.
+(22:31:21) ShiftyInc feels less deadly.
+(22:31:21) The bleeding stops.
+(22:31:21) You start bleeding!
+(22:31:22) ShiftyInc's strength and agility returns.
+(22:31:22) You no longer feel exposed.
+(22:31:22) You are exposed to a pinpoint strike!
+(22:31:22) Sithranis's speed returns to normal.
+(22:31:22) [Powers] Error: You are in the wrong mode.
+(22:31:22) BroRoar begins to stumble.
+(22:31:22) Bourbon blocks xReaLx's attack.
+(22:31:22) BroRoar seems more exposed to bludgeoning.
+(22:31:22) DRChuckalot blocks WillPowder's attack.
+(22:31:22) Bourbon is stunned!
+(22:31:23) Your power abilities return.
+(22:31:23) ShiftyInc begins to stumble.
+(22:31:23) ShiftyInc looks winded!
+(22:31:23) Eihortetung's speed returns to normal.
+(22:31:23) ShiftyInc blocks CloudA's attack.
+(22:31:23) Priest's stun immunity has worn off.
+(22:31:23) PYogi begins to stumble.
+(22:31:23) Ninja's power abilities return.
+(22:31:23) Soda is no longer actively blocking.
+(22:31:23) The Trebuchet attacks more ferociously.
+(22:31:23) You begin actively blocking!
+(22:31:23) BroRoar is exposed to a slashing attack.
+(22:31:24) You regain your footing.
+(22:31:24) Tons OfHp blocks MacBeth's attack.
+(22:31:24) Tons OfHp blocks MacBeth's attack.
+(22:31:24) Bourbon is no longer stunned.
+(22:31:24) Rokaw's stun immunity has worn off.
+(22:31:24) Ninja's stun immunity has worn off.
+(22:31:24) Tons's stun immunity has worn off.
+(22:31:24) Soda's stun immunity has worn off.
+(22:31:24) DRChuckalot's stun immunity has worn off.
+(22:31:24) Arry's stun immunity has worn off.
+(22:31:24) pippo begins to stumble.
+(22:31:24) pippo slows down.
+(22:31:24) Ninja begins to stumble.
+(22:31:24) Ninja slows down.
+(22:31:24) PacMan begins to stumble.
+(22:31:24) PacMan slows down.
+(22:31:24) xReaLx begins to stumble.
+(22:31:24) xReaLx slows down.
+(22:31:24) Eihortetung begins to stumble.
+(22:31:24) Eihortetung slows down.
+(22:31:24) Arry begins to stumble.
+(22:31:24) Arry slows down.
+(22:31:24) Tupac begins to stumble.
+(22:31:24) Tupac slows down.
+(22:31:24) BroRoar can no longer use powers!
+(22:31:25) BroRoar can no longer use powers!
+(22:31:25) Soda feels less deadly.
+(22:31:25) Tons feels less deadly.
+(22:31:25) DRChuckalot feels less deadly.
+(22:31:25) pippo feels less deadly.
+(22:31:25) Arry feels less deadly.
+(22:31:25) You don't feel quite as deadly anymore.
+(22:31:25) Bourbon feels less deadly.
+(22:31:25) Tons OfHp blocks MacBeth's attack.
+(22:31:25) The Trebuchet attacks more ferociously.
+(22:31:25) The Trebuchet attacks more ferociously.
+(22:31:25) ShiftyInc stops stumbling.
+(22:31:25) MacBeth feels less deadly.
+(22:31:25) You no longer feel exposed.
+(22:31:25) BroRoar's defenses falter.
+(22:31:25) ShiftyInc's regains mental faculties.
+(22:31:26) PacMan is stunned!
+(22:31:26) BroRoar's attacks can't find the mark.
+(22:31:26) Tons OfHp blocks MacBeth's attack.
+(22:31:26) You are stunned!
+(22:31:26) BroRoar attacks more slowly.
+(22:31:26) You are wrapped in spectral bonds!
+(22:31:26) Sax's zeal subsides.
+(22:31:26) WillPowder's stun immunity has worn off.
+(22:31:26) POOPCUMPISS's stun immunity has worn off.
+(22:31:26) Trashcans's stun immunity has worn off.
+(22:31:26) PYogi's stun immunity has worn off.
+(22:31:26) DADDY's stun immunity has worn off.
+(22:31:26) Your heal resistance fades.
+(22:31:26) Your bonds fade.
+(22:31:26) Your bonds fade.
+(22:31:26) Your powerblock immunity has worn off.
+(22:31:26) You feel winded!
+(22:31:26) BroRoar's precision returns.
+(22:31:26) BroRoar's attacks can't find the mark.
+(22:31:27) You are exposed to a well-placed bludgeon attack!
+(22:31:27) Ninja's powerblock immunity has worn off.
+(22:31:27) Bourbon's stun immunity has worn off.
+(22:31:27) Tons OfHp blocks MacBeth's attack.
+(22:31:27) ShiftyInc is no longer poisoned.
+(22:31:27) BroRoar's precision returns.
+(22:31:27) BroRoar's attacks can't find the mark.
+(22:31:27) BroRoar's powerblock immunity has worn off.
+(22:31:27) BroRoar can no longer use powers!
+(22:31:27) PYogi begins to stumble.
+(22:31:27) BroRoar's powerblock immunity has worn off.
+(22:31:27) BroRoar can no longer use powers!
+(22:31:27) You are no longer stunned.
+(22:31:27) You are no longer stunned.
+(22:31:28) BroRoar's powerblock immunity has worn off.
+(22:31:28) BroRoar is no longer exposed.
+(22:31:28) BroRoar's power abilities return.
+(22:31:28) BroRoar's enhanced strength fades.
+(22:31:28) BroRoar's enhanced strength fades.
+(22:31:28) BroRoar is no longer exposed.
+(22:31:28) BroRoar's stun immunity has worn off.
+(22:31:28) BroRoar's attacks return to normal.
+(22:31:28) BroRoar's elemental resistance fades.
+(22:31:28) BroRoar's precision returns.
+(22:31:28) BroRoar returns to normal.
+(22:31:28) BroRoar's speed returns.
+(22:31:28) BroRoar's defenses resume.
+(22:31:28) Someone Misses BroRoar.
+(22:31:28) Trebuchet's attacks return to normal.
+(22:31:28) typeW's attacks return to normal.
+(22:31:28) MacBeth seems more exposed to bludgeoning.
+(22:31:28) PacMan is no longer stunned.
+(22:31:28) Your defenses reassert themselves.
+(22:31:28) Arry is stunned!
+(22:31:28) Your attacks slow.
+(22:31:28) Tons OfHp blocks MacBeth's attack.
+(22:31:28) Sithranis begins to stumble.
+(22:31:28) Sithranis slows down.
+(22:31:28) Sithranis Silantaar blocks ChopSuey's attack.
+(22:31:29) Sithranis Silantaar blocks ChopSuey's attack.
+(22:31:29) MacBeth is no longer exposed.
+(22:31:29) The bleeding stops.
+(22:31:29) Sithranis Silantaar blocks BlackSele's attack.
+(22:31:29) You can no longer use powers!
+(22:31:29) You can no longer use powers!
+(22:31:29) POOPCUMPISS's alertness fades.
+(22:31:29) WillPowder's blows seem less effective.
+(22:31:29) WillPowder's attacks can't find the mark.
+(22:31:29) Trebuchet's attacks return to normal.
+(22:31:29) You no longer feel exposed.
+(22:31:29) Sithranis Silantaar blocks POOPCUMPISS's attack.
+(22:31:29) Arry is no longer stunned.
+(22:31:29) Sithranis Silantaar blocks POOPCUMPISS's attack.
+(22:31:30) DADDY finds a weakness in Sithranis's defenses.
+(22:31:30) WillPowder blocks Jaz's attack.
+(22:31:30) Rokaw feels less deadly.
+(22:31:30) Jaz feels less deadly.
+(22:31:30) typeW feels less deadly.
+(22:31:30) BlackSele gives forth a mighty shout!
+(22:31:30) Jaz is stunned!
+(22:31:30) Ninja feels less deadly.
+(22:31:30) ChopSuey is stunned!
+(22:31:30) Soda is stunned!
+(22:31:30) Sax feels less deadly.
+(22:31:30) WillPowder blocks Ninja's attack.
+(22:31:30) Tons is stunned!
+(22:31:30) Sax is stunned!
+(22:31:30) Sithranis feels less deadly.
+(22:31:30) Sithranis Silantaar blocks DADDY's attack.
+(22:31:30) DRChuckalot is stunned!
+(22:31:30) Salamar feels less deadly.
+(22:31:30) Sithranis is stunned!
+(22:31:30) PacMan feels less deadly.
+(22:31:30) Sithranis is resistant to heals!
+(22:31:30) Your stun immunity has worn off.
+(22:31:30) Your stun immunity has worn off.
+(22:31:30) Priest is stunned!
+(22:31:30) The Trebuchet attacks more ferociously.
+(22:31:30) PYogi stops stumbling.
+(22:31:30) Rokaw's attacks return to normal.
+(22:31:30) Your power abilities return.
+(22:31:30) xReaLx stops stumbling.
+(22:31:31) Priest is no longer stunned.
+(22:31:31) WillPowder begins to stumble.
+(22:31:31) Sithranis is exposed to a slashing attack.
+(22:31:31) You no longer feel exposed.
+(22:31:31) pippo stops stumbling.
+(22:31:31) Ninja stops stumbling.
+(22:31:31) PacMan stops stumbling.
+(22:31:31) Arry stops stumbling.
+(22:31:31) Eihortetung stops stumbling.
+(22:31:31) Tupac stops stumbling.
+(22:31:31) Sithranis's Dark Fortitude falls.
+(22:31:31) Sithranis is no longer exposed.
+(22:31:31) Sithranis's stun immunity has worn off.
+(22:31:31) Sithranis's heal resistance fades.
+(22:31:31) Sithranis feels less deadly.
+(22:31:31) Sithranis moves at normal speed again.
+(22:31:31) Sithranis stops stumbling.
+(22:31:31) Someone Misses Sithranis Silantaar.
+(22:31:31) Sithranis Silantaar blocks Priest's attack.
+(22:31:31) Soda blocks WillPowder's attack.
+(22:31:31) Sithranis Silantaar blocks Priest's attack.
+(22:31:31) Priest seems more exposed to bludgeoning.
+(22:31:32) You feel less intelligent!
+(22:31:32) Priest starts bleeding!
+(22:31:32) The Trebuchet attacks more ferociously.
+(22:31:32) Priest is no longer exposed.
+(22:31:32) Soda feels less deadly.
+(22:31:32) Tons feels less deadly.
+(22:31:32) DRChuckalot feels less deadly.
+(22:31:32) pippo feels less deadly.
+(22:31:32) Arry feels less deadly.
+(22:31:32) You don't feel quite as deadly anymore.
+(22:31:32) Bourbon feels less deadly.
+(22:31:32) You feel weaker and clumsy!
+(22:31:32) You regain your swiftness in combat.
+(22:31:32) Soda can no longer use powers!
+(22:31:32) Soda can no longer use powers!
+(22:31:32) Priest is poisoned!
+(22:31:32) Arry's stun immunity has worn off.
+(22:31:32) typeW attacks more slowly.
+(22:31:32) Soda blocks WillPowder's attack.
+(22:31:32) Priest begins to stumble.
+(22:31:32) You stumble and slow.
+(22:31:32) You feel Yourself slowing down.
+(22:31:32) WillPowder is exposed to a slashing attack.
+(22:31:33) Priest's stun immunity has worn off.
+(22:31:33) Soda blocks WillPowder's attack.
+(22:31:33) Priest's speed returns.
+(22:31:33) CloudA is steeled with Dark Fortitude!
+(22:31:33) CloudA is surrounded by a protective shield.
+(22:31:33) CloudA looks focused.
+(22:31:33) The blade now glistens with poison.
+(22:31:33) You stop stumbling.
+(22:31:33) typeW's attacks return to normal.
+(22:31:33) WillPowder's precision returns.
+(22:31:33) ChopSuey's stun immunity has worn off.
+(22:31:33) Jaz's stun immunity has worn off.
+(22:31:33) Soda's stun immunity has worn off.
+(22:31:33) Tons's stun immunity has worn off.
+(22:31:33) DRChuckalot's stun immunity has worn off.
+(22:31:33) Sax's stun immunity has worn off.
+(22:31:33) typeW blocks DADDY's attack.
+(22:31:33) You move at normal speed again.
+(22:31:33) Priest begins to stumble.
+(22:31:34) PYogi seems more exposed to bludgeoning.
+(22:31:34) Priest attacks more slowly.
+(22:31:34) ShiftyInc llooks less intelligent!
+(22:31:34) WillPowder's attacks regain their potency.
+(22:31:34) WillPowder is no longer exposed.
+(22:31:34) Eihortetung moves at normal speed again.
+(22:31:34) xReaLx moves at normal speed again.
+(22:31:34) Tupac moves at normal speed again.
+(22:31:34) Priest stops stumbling.
+(22:31:34) typeW blocks DADDY's attack.
+(22:31:34) ShiftyInc looks weaker and more clumsy!
+(22:31:34) WillPowder attacks more slowly.
+(22:31:34) typeW blocks DADDY's attack.
+(22:31:34) typeW is exposed to a pinpoint strike.
+(22:31:34) Priest's attacks return to normal.
+(22:31:34) Soda blocks WillPowder's attack.
+(22:31:34) Priest stops bleeding.
+(22:31:34) Your strength and agility returns.
+(22:31:34) typeW is no longer exposed.
+(22:31:34) PYogi is stunned!
+(22:31:34) typeW's blows seem less effective.
+(22:31:35) BlackSele gives forth a mighty shout!
+(22:31:35) ChopSuey is stunned!
+(22:31:35) Trashcans is stunned!
+(22:31:35) DADDY is stunned!
+(22:31:35) typeW blocks ChopSuey's attack.
+(22:31:35) Sax is stunned!
+(22:31:35) Arry is stunned!
+(22:31:35) typeW blocks ChopSuey's attack.
+(22:31:35) typeW is stunned!
+(22:31:35) WillPowder blocks DRChuckalot's attack.
+(22:31:35) Bourbon is stunned!
+(22:31:35) ChopSuey feels less deadly.
+(22:31:35) Soda is stunned!
+(22:31:35) Trashcans feels less deadly.
+(22:31:35) Beerbaron feels less deadly.
+(22:31:35) POOPCUMPISS feels less deadly.
+(22:31:35) You regain your mental faculties.
+(22:31:35) DADDY feels less deadly.
+(22:31:35) PYogi feels less deadly.
+(22:31:35) Hellio feels less deadly.
+(22:31:35) Trebuchet's attacks return to normal.
+(22:31:35) ShiftyInc begins to stumble.
+(22:31:35) ShiftyInc looks winded!
+(22:31:35) WillPowder can no longer use powers!
+(22:31:35) WillPowder can no longer use powers!
+(22:31:35) Soda's power abilities return.
+(22:31:35) ChopSuey's elemental resistance fades.
+(22:31:35) MacBeth's elemental resistance fades.
+(22:31:35) Trashcans's elemental resistance fades.
+(22:31:35) POOPCUMPISS's elemental resistance fades.
+(22:31:35) Priest's elemental resistance fades.
+(22:31:35) PYogi's elemental resistance fades.
+(22:31:35) DADDY's elemental resistance fades.
+(22:31:35) WillPowder blocks DRChuckalot's attack.
+(22:31:35) CloudA is immobilized!
+(22:31:36) Soda is no longer stunned.
+(22:31:36) PYogi is no longer stunned.
+(22:31:36) typeW looks weaker and less agile!
+(22:31:36) typeW blocks ChopSuey's attack.
+(22:31:36) PYogi can no longer use powers!
+(22:31:36) PYogi can no longer use powers!
+(22:31:36) typeW's strength and agility returns.
+(22:31:36) Trebuchet's attacks return to normal.
+(22:31:36) Soda blocks WillPowder's attack.
+(22:31:36) typeW blocks DADDY's attack.
+(22:31:36) typeW starts bleeding!
+(22:31:36) Your powerblock immunity has worn off.
+(22:31:36) pippo blocks PYogi's attack.
+(22:31:37) Priest begins to stumble.
+(22:31:37) PYogi attacks more slowly.
+(22:31:37) WillPowder's speed returns.
+(22:31:37) ShiftyInc blocks CloudA's attack.
+(22:31:37) typeW blocks DADDY's attack.
+(22:31:37) typeW is exposed to a pinpoint strike.
+(22:31:37) typeW blocks ChopSuey's attack.
+(22:31:37) typeW blocks ChopSuey's attack.
+(22:31:37) typeW blocks BlackSele's attack.
+(22:31:37) BlackSele inspires the troops with power.
+(22:31:37) Soda's stun immunity has worn off.
+(22:31:37) PYogi begins to stumble.
+(22:31:37) Soda blocks WillPowder's attack.
+(22:31:37) PYogi's attacks can't find the mark.
+(22:31:37) PYogi's powerblock immunity has worn off.
+(22:31:37) PYogi can no longer use powers!
+(22:31:38) typeW blocks ChopSuey's attack.
+(22:31:38) pippo moves at normal speed again.
+(22:31:38) Ninja moves at normal speed again.
+(22:31:38) typeW blocks DADDY's attack.
+(22:31:38) PacMan moves at normal speed again.
+(22:31:38) typeW blocks ChopSuey's attack.
+(22:31:38) Arry moves at normal speed again.
+(22:31:38) Priest looks much faster!
+(22:31:38) ShiftyInc stops stumbling.
+(22:31:38) typeW blocks POOPCUMPISS's attack.
+(22:31:38) Rokaw attacks more slowly.
+(22:31:38) typeW blocks POOPCUMPISS's attack.
+(22:31:38) typeW is resistant to heals!
+(22:31:38) typeW blocks ChopSuey's attack.
+(22:31:38) ShiftyInc blocks CloudA's attack.
+(22:31:38) typeW is no longer exposed.
+(22:31:38) typeW is exposed to a pinpoint strike.
+(22:31:38) PYogi's stun immunity has worn off.
+(22:31:38) typeW blocks POOPCUMPISS's attack.
+(22:31:38) WillPowder's power abilities return.
+(22:31:38) PYogi is stunned!
+(22:31:38) ChopSuey's stun immunity has worn off.
+(22:31:38) Soda's powerblock immunity has worn off.
+(22:31:38) Trashcans's stun immunity has worn off.
+(22:31:38) Sax's stun immunity has worn off.
+(22:31:38) DADDY's stun immunity has worn off.
+(22:31:38) Arry's stun immunity has worn off.
+(22:31:39) typeW's stun immunity has worn off.
+(22:31:39) Bourbon's stun immunity has worn off.
+(22:31:39) Priest stops stumbling.
+(22:31:39) typeW blocks BlackSele's attack.
+(22:31:39) PYogi begins to stumble.
+(22:31:39) Rokaw feels less deadly.
+(22:31:39) Jaz feels less deadly.
+(22:31:39) typeW feels less deadly.
+(22:31:39) typeW blocks DADDY's attack.
+(22:31:39) Ninja feels less deadly.
+(22:31:39) Sax feels less deadly.
+(22:31:39) Salamar feels less deadly.
+(22:31:39) PacMan feels less deadly.
+(22:31:39) typeW blocks ChopSuey's attack.
+(22:31:39) typeW blocks POOPCUMPISS's attack.
+(22:31:39) PYogi's powerblock immunity has worn off.
+(22:31:39) PYogi can no longer use powers!
+(22:31:39) ShiftyInc's strength and agility returns.
+(22:31:39) Jaz's speed returns to normal.
+(22:31:39) Jaz can no longer use powers!
+(22:31:39) Jaz can no longer use powers!
+(22:31:39) typeW's attacks regain their potency.
+(22:31:39) PYogi is no longer stunned.
+(22:31:39) typeW blocks ChopSuey's attack.
+(22:31:39) typeW blocks POOPCUMPISS's attack.
+(22:31:40) typeW blocks BlackSele's attack.
+(22:31:40) PYogi's power abilities return.
+(22:31:40) PYogi's precision returns.
+(22:31:40) PYogi's attacks can't find the mark.
+(22:31:40) ShiftyInc's regains mental faculties.
+(22:31:40) PYogi is no longer exposed.
+(22:31:40) PYogi seems more exposed to bludgeoning.
+(22:31:40) PYogi's powerblock immunity has worn off.
+(22:31:40) PYogi can no longer use powers!
+(22:31:40) DRChuckalot is stunned!
+(22:31:40) The black mantle fades.
+(22:31:40) typeW blocks POOPCUMPISS's attack.
+(22:31:40) typeW blocks POOPCUMPISS's attack.
+(22:31:41) PYogi morphs into a bear!
+(22:31:41) typeW blocks BlackSele's attack.
+(22:31:41) typeW's heal resistance fades.
+(22:31:41) typeW is resistant to heals!
+(22:31:41) typeW blocks POOPCUMPISS's attack.
+(22:31:41) WillPowder's attacks return to normal.
+(22:31:41) typeW blocks BlackSele's attack.
+(22:31:41) typeW blocks ChopSuey's attack.
+(22:31:41) PYogi's attacks return to normal.
+(22:31:41) PYogi attacks more slowly.
+(22:31:41) Soda feels less deadly.
+(22:31:41) Tons feels less deadly.
+(22:31:41) DRChuckalot feels less deadly.
+(22:31:41) typeW blocks ChopSuey's attack.
+(22:31:41) pippo feels less deadly.
+(22:31:41) Arry feels less deadly.
+(22:31:41) You don't feel quite as deadly anymore.
+(22:31:41) Bourbon feels less deadly.
+(22:31:41) typeW blocks POOPCUMPISS's attack.
+(22:31:41) typeW blocks POOPCUMPISS's attack.
+(22:31:41) PYogi's stun immunity has worn off.
+(22:31:41) Soda blocks WillPowder's attack.
+(22:31:42) Soda feels less deadly.
+(22:31:42) Tons feels less deadly.
+(22:31:42) DRChuckalot feels less deadly.
+(22:31:42) pippo feels less deadly.
+(22:31:42) Arry feels less deadly.
+(22:31:42) DRChuckalot is no longer stunned.
+(22:31:42) You don't feel quite as deadly anymore.
+(22:31:42) Bourbon feels less deadly.
+(22:31:42) typeW's attacks can't find the mark.
+(22:31:42) Jaz starts bleeding!
+(22:31:42) PYogi's attacks return to normal.
+(22:31:42) PYogi attacks more slowly.
+(22:31:42) typeW begins to stumble.
+(22:31:42) PYogi is stunned!
+(22:31:42) typeW blocks POOPCUMPISS's attack.
+(22:31:42) WillPowder's powerblock immunity has worn off.
+(22:31:42) Trebuchet's attacks return to normal.
+(22:31:42) typeW blocks ChopSuey's attack.
+(22:31:42) Soda blocks WillPowder's attack.
+(22:31:42) typeW blocks BlackSele's attack.
+(22:31:42) typeW blocks ChopSuey's attack.
+(22:31:42) typeW blocks ChopSuey's attack.
+(22:31:42) PYogi's stun immunity has worn off.
+(22:31:42) PYogi's precision returns.
+(22:31:42) PYogi's attacks can't find the mark.
+(22:31:42) typeW blocks POOPCUMPISS's attack.
+(22:31:43) The poison has run its course.
+(22:31:43) Jaz seems more exposed to bludgeoning.
+(22:31:43) PYogi is no longer exposed.
+(22:31:43) PYogi seems more exposed to bludgeoning.
+(22:31:43) typeW stops bleeding.
+(22:31:43) typeW's precision returns.
+(22:31:43) typeW's attacks can't find the mark.
+(22:31:43) PYogi is no longer stunned.
+(22:31:43) Jaz's power abilities return.
+(22:31:43) typeW blocks ChopSuey's attack.
+(22:31:43) typeW blocks BlackSele's attack.
+(22:31:43) typeW blocks POOPCUMPISS's attack.
+(22:31:43) typeW blocks ChopSuey's attack.
+(22:31:43) PYogi's powerblock immunity has worn off.
+(22:31:43) typeW blocks POOPCUMPISS's attack.
+(22:31:43) PYogi is no longer exposed.
+(22:31:43) PYogi's stun immunity has worn off.
+(22:31:43) typeW's heal resistance fades.
+(22:31:43) PYogi's attacks return to normal.
+(22:31:43) PYogi's elemental resistance fades.
+(22:31:43) PYogi's precision returns.
+(22:31:43) PYogi stops stumbling.
+(22:31:43) PYogi returns to normal.
+(22:31:43) Someone Misses PYogi.
+(22:31:44) typeW blocks ChopSuey's attack.
+(22:31:44) Ninja blocks DADDY's attack.
+(22:31:44) typeW blocks POOPCUMPISS's attack.
+(22:31:44) typeW blocks POOPCUMPISS's attack.
+(22:31:44) typeW blocks ChopSuey's attack.
+(22:31:44) typeW blocks ChopSuey's attack.
+(22:31:44) Sax blocks BlackSele's attack.
+(22:31:44) typeW attacks more slowly.
+(22:31:44) Soda blocks WillPowder's attack.
+(22:31:44) typeW blocks POOPCUMPISS's attack.
+(22:31:44) typeW blocks POOPCUMPISS's attack.
+(22:31:44) BlackSele gives forth a mighty shout!
+(22:31:44) ChopSuey is stunned!
+(22:31:44) typeW blocks POOPCUMPISS's attack.
+(22:31:44) Trashcans is stunned!
+(22:31:44) Arry Potta blocks BlackSele's attack.
+(22:31:44) Tons is stunned!
+(22:31:44) DADDY is stunned!
+(22:31:44) Sax is stunned!
+(22:31:44) Arry is stunned!
+(22:31:44) Jaz is stunned!
+(22:31:45) Bourbon begins to stumble.
+(22:31:45) WillPowder's attacks can't find the mark.
+(22:31:45) typeW blocks POOPCUMPISS's attack.
+(22:31:45) typeW blocks POOPCUMPISS's attack.
+(22:31:45) typeW blocks POOPCUMPISS's attack.
+(22:31:45) CloudA is steeled with Dark Fortitude!
+(22:31:45) CloudA is surrounded by a protective shield.
+(22:31:45) CloudA is immobilized!
+(22:31:45) CloudA looks focused.
+(22:31:45) typeW blocks POOPCUMPISS's attack.
+(22:31:45) The blade now glistens with poison.
+(22:31:45) typeW is no longer exposed.
+(22:31:45) Priest begins to stumble.
+(22:31:45) Bourbon blocks your attack!
+(22:31:45) Trebuchet's attacks return to normal.
+(22:31:45) CloudA is no longer immobilized.
+(22:31:45) typeW blocks POOPCUMPISS's attack.
+(22:31:46) WillPowder blocks Ninja's attack.
+(22:31:46) Bourbon can no longer use powers!
+(22:31:46) Bourbon can no longer use powers!
+(22:31:46) MacBeth's blows seem less effective.
+(22:31:46) Jaz is no longer stunned.
+(22:31:46) Salamar's zeal subsides.
+(22:31:46) Arry Potta blocks BlackSele's attack.
+(22:31:46) typeW blocks ChopSuey's attack.
+(22:31:46) Bourbon blocks MacBeth's attack.
+(22:31:46) typeW blocks ChopSuey's attack.
+(22:31:46) Ninja begins to stumble.
+(22:31:46) Ninja slows down.
+(22:31:46) Priest can no longer use powers!
+(22:31:46) Priest can no longer use powers!
+(22:31:46) Jaz's powerblock immunity has worn off.
+(22:31:46) Ninja blocks DADDY's attack.
+(22:31:46) Bourbon blocks MacBeth's attack.
+(22:31:46) typeW blocks POOPCUMPISS's attack.
+(22:31:46) Bourbon blocks MacBeth's attack.
+(22:31:46) typeW blocks POOPCUMPISS's attack.
+(22:31:46) Soda is stunned!
+(22:31:46) MacBeth can no longer use powers!
+(22:31:46) typeW blocks ChopSuey's attack.
+(22:31:46) Jaz is exposed to a pinpoint strike.
+(22:31:46) MacBeth can no longer use powers!
+(22:31:47) MacBeth's power abilities return.
+(22:31:47) Priest's power abilities return.
+(22:31:47) [Powers] Info: You begin casting Vampire's Kiss.
+(22:31:47) WillPowder blocks Ninja's attack.
+(22:31:47) Priest's speed returns to normal.
+(22:31:47) Ninja blocks POOPCUMPISS's attack.
+(22:31:47) Ninja blocks DADDY's attack.
+(22:31:47) Jaz's defenses falter.
+(22:31:47) Ninja is stunned!
+(22:31:47) typeW blocks ChopSuey's attack.
+(22:31:47) typeW's speed returns.
+(22:31:47) Bourbon blocks MacBeth's attack.
+(22:31:47) MacBeth's powerblock immunity has worn off.
+(22:31:47) MacBeth can no longer use powers!
+(22:31:47) MacBeth seems more exposed to bludgeoning.
+(22:31:48) MacBeth begins to stumble.
+(22:31:48) Ninja is wrapped in spectral bonds!
+(22:31:48) typeW blocks BlackSele's attack.
+(22:31:48) Ninja starts bleeding!
+(22:31:48) Rokaw feels less deadly.
+(22:31:48) Ninja is no longer bound.
+(22:31:48) Jaz feels less deadly.
+(22:31:48) typeW feels less deadly.
+(22:31:48) Ninja feels less deadly.
+(22:31:48) Sax feels less deadly.
+(22:31:48) Salamar feels less deadly.
+(22:31:48) PacMan feels less deadly.
+(22:31:48) Priest is no longer poisoned.
+(22:31:48) ShiftyInc begins to stumble.
+(22:31:48) ShiftyInc looks winded!
+(22:31:48) ChopSuey's stun immunity has worn off.
+(22:31:48) Trashcans's stun immunity has worn off.
+(22:31:48) Tons's stun immunity has worn off.
+(22:31:48) Sax's stun immunity has worn off.
+(22:31:48) DADDY's stun immunity has worn off.
+(22:31:48) Arry's stun immunity has worn off.
+(22:31:48) DRChuckalot's stun immunity has worn off.
+(22:31:48) Ninja starts dancing like an imbecile!
+(22:31:48) ShiftyInc's stun immunity has worn off.
+(22:31:48) ShiftyInc looks much faster!
+(22:31:49) Ninja stops dancing.
+(22:31:49) MacBeth attacks more slowly.
+(22:31:49) WillPowder's precision returns.
+(22:31:49) Bourbon blocks MacBeth's attack.
+(22:31:49) typeW blocks BlackSele's attack.
+(22:31:49) Ninja is no longer stunned.
+(22:31:49) typeW blocks ChopSuey's attack.
+(22:31:49) Jaz's stun immunity has worn off.
+(22:31:49) PacMan's stun immunity has worn off.
+(22:31:49) Jaz returns to normal.
+(22:31:49) Jaz returns to normal.
+(22:31:49) Ninja blocks POOPCUMPISS's attack.
+(22:31:49) Ninja is wrapped in spectral bonds!
+(22:31:50) Ninja blocks Tupac Shakur's attack.
+(22:31:50) Ninja blocks Tupac Shakur's attack.
+(22:31:50) Jaz is no longer exposed.
+(22:31:50) MacBeth's attacks can't find the mark.
+(22:31:50) Ninja is no longer bound.
+(22:31:50) ShiftyInc stops stumbling.
+(22:31:50) Bourbon's power abilities return.
+(22:31:50) Ninja blocks MacBeth's attack.
+(22:31:50) Ninja blocks POOPCUMPISS's attack.
+(22:31:50) Ninja blocks POOPCUMPISS's attack.
+(22:31:50) Tupac finds a weakness in Ninja's defenses.
+(22:31:50) typeW's attacks return to normal.
+(22:31:50) Ninja blocks xReaLx's attack.
+(22:31:50) Ninja blocks xReaLx's attack.
+(22:31:50) pippo blocks ChopSuey's attack.
+(22:31:50) Ninja blocks MacBeth's attack.
+(22:31:50) Rokaw begins to stumble.
+(22:31:50) pippo blocks ChopSuey's attack.
+(22:31:50) Rokaw slows down.
+(22:31:50) Salamar begins to stumble.
+(22:31:50) Salamar slows down.
+(22:31:50) Eihortetung begins to stumble.
+(22:31:50) Eihortetung slows down.
+(22:31:50) xReaLx begins to stumble.
+(22:31:50) xReaLx slows down.
+(22:31:51) Tons begins to stumble.
+(22:31:51) Tons slows down.
+(22:31:51) Bourbon begins to stumble.
+(22:31:51) Soda's zeal subsides.
+(22:31:51) Bourbon slows down.
+(22:31:51) typeW begins to stumble.
+(22:31:51) typeW slows down.
+(22:31:51) MacBeth's precision returns.
+(22:31:51) MacBeth's attacks can't find the mark.
+(22:31:51) Ninja blocks Tupac Shakur's attack.
+(22:31:51) Soda feels less deadly.
+(22:31:51) Ninja can no longer use powers!
+(22:31:51) Ninja can no longer use powers!
+(22:31:51) Tons feels less deadly.
+(22:31:51) DRChuckalot feels less deadly.
+(22:31:51) Ninja blocks xReaLx's attack.
+(22:31:51) pippo feels less deadly.
+(22:31:51) Arry feels less deadly.
+(22:31:51) You don't feel quite as deadly anymore.
+(22:31:51) Bourbon feels less deadly.
+(22:31:51) Soda is no longer stunned.
+(22:31:51) POOPCUMPISS looks much faster!
+(22:31:51) MacBeth's attacks regain their potency.
+(22:31:51) Ninja llooks less intelligent!
+(22:31:51) You are no longer actively blocking.
+(22:31:51) MacBeth is immobilized!
+(22:31:51) pippo blocks ChopSuey's attack.
+(22:31:51) Ninja's attacks can't find the mark.
+(22:31:52) pippo blocks ChopSuey's attack.
+(22:31:52) pippo blocks ChopSuey's attack.
+(22:31:52) Ninja blocks xReaLx's attack.
+(22:31:52) BlackSele's attacks return to normal.
+(22:31:52) Bourbon blocks Priest's attack.
+(22:31:52) WillPowder's attacks return to normal.
+(22:31:52) xReaLx's attacks return to normal.
+(22:31:52) Eihortetung's attacks return to normal.
+(22:31:52) Tupac's attacks return to normal.
+(22:31:52) Priest's speed returns.
+(22:31:52) Ninja blocks DADDY's attack.
+(22:31:52) Ninja blocks Tupac Shakur's attack.
+(22:31:52) Jaz is no longer exposed.
+(22:31:52) MacBeth's attacks return to normal.
+(22:31:52) MacBeth attacks more slowly.
+(22:31:52) Ninja is exposed to a pinpoint strike.
+(22:31:52) Ninja blocks xReaLx's attack.
+(22:31:52) Rokaw feels less deadly.
+(22:31:52) Jaz feels less deadly.
+(22:31:53) typeW feels less deadly.
+(22:31:53) Ninja feels less deadly.
+(22:31:53) Ninja looks weaker and more clumsy!
+(22:31:53) Sax feels less deadly.
+(22:31:53) Salamar feels less deadly.
+(22:31:53) PacMan feels less deadly.
+(22:31:53) MacBeth's defenses falter.
+(22:31:53) Bourbon's powerblock immunity has worn off.
+(22:31:53) Bourbon can no longer use powers!
+(22:31:53) MacBeth is no longer immobilized.
+(22:31:53) Ninja blocks ChopSuey's attack.
+(22:31:53) CloudA is steeled with Dark Fortitude!
+(22:31:53) CloudA is surrounded by a protective shield.
+(22:31:53) CloudA looks focused.
+(22:31:53) The blade now glistens with poison.
+(22:31:53) MacBeth begins to stumble.
+(22:31:53) Ninja blocks ChopSuey's attack.
+(22:31:53) Ninja blocks Tupac Shakur's attack.
+(22:31:53) Ninja seems more exposed to bludgeoning.
+(22:31:53) MacBeth's powerblock immunity has worn off.
+(22:31:53) MacBeth's Dark Fortitude falls.
+(22:31:53) Ninja blocks Tupac Shakur's attack.
+(22:31:53) MacBeth is no longer exposed.
+(22:31:53) MacBeth is no longer focused.
+(22:31:53) MacBeth feels less deadly.
+(22:31:53) MacBeth's attacks return to normal.
+(22:31:53) MacBeth's elemental resistance fades.
+(22:31:53) MacBeth's precision returns.
+(22:31:53) MacBeth stops stumbling.
+(22:31:53) MacBeth's defenses resume.
+(22:31:54) Someone Misses MacBeth.
+(22:31:54) Ninja stops bleeding.
+(22:31:54) ChopSuey is stunned!
+(22:31:54) Tons is stunned!
+(22:31:54) POOPCUMPISS is stunned!
+(22:31:54) Hellio is stunned!
+(22:31:54) Arry is stunned!
+(22:31:54) Bourbon is stunned!
+(22:31:54) Ninja stops stumbling.
+(22:31:54) ShiftyInc is stunned!
+(22:31:54) Ninja blocks Tupac Shakur's attack.
+(22:31:54) ChopSuey's elemental resistance fades.
+(22:31:54) Ninja blocks xReaLx's attack.
+(22:31:54) Hellio's elemental resistance fades.
+(22:31:54) Trashcans's elemental resistance fades.
+(22:31:54) Beerbaron's elemental resistance fades.
+(22:31:54) POOPCUMPISS's elemental resistance fades.
+(22:31:54) DADDY's elemental resistance fades.
+(22:31:54) Ninja moves at normal speed again.
+(22:31:54) Ninja attacks more slowly.
+(22:31:55) Tupac's Pallando's Pernicious Puns hurt Jaz for 56 points of damage!
+(22:31:55) Tupac's Pallando's Pernicious Puns hurt ChopSuey for 40 points of damage!
+(22:31:55) Tupac's Pallando's Pernicious Puns hurt POOPCUMPISS for 33 points of damage!
+(22:31:55) Tupac's Pallando's Pernicious Puns hurt Hellio for 61 points of damage!
+(22:31:55) Tupac's Pallando's Pernicious Puns hurt Sax for 39 points of damage!
+(22:31:55) Tupac's Pallando's Pernicious Puns hurt Arry for 48 points of damage!
+(22:31:55) Ninja blocks Tupac Shakur's attack.
+(22:31:55) Tupac's Pallando's Pernicious Puns hurt you for 51 points of damage!
+(22:31:55) Priest's powerblock immunity has worn off.
+(22:31:55) Ninja's stun immunity has worn off.
+(22:31:55) Ninja blocks Priest's attack.
+(22:31:55) Ninja's power abilities return.
+(22:31:55) Beerbaron is poisoned!
+(22:31:55) Ninja is no longer exposed.
+(22:31:55) Ninja seems more exposed to bludgeoning.
+(22:31:55) Jaz's defenses resume.
+(22:31:55) Ninja blocks Tupac Shakur's attack.
+(22:31:55) Ninja blocks xReaLx's attack.
+(22:31:55) Ninja's stun immunity has worn off.
+(22:31:55) Ninja blocks xReaLx's attack.
+(22:31:55) Trashcans's blows seem less effective.
+(22:31:55) Ninja blocks Priest's attack.
+(22:31:55) Trashcans is stunned!
+(22:31:56) BlackSele gives forth a mighty shout!
+(22:31:56) DADDY is stunned!
+(22:31:56) DRChuckalot is stunned!
+(22:31:56) typeW is stunned!
+(22:31:56) Ninja begins actively blocking!
+(22:31:56) Ninja blocks DADDY's attack.
+(22:31:56) Ninja's attacks return to normal.
+(22:31:56) Ninja attacks more slowly.
+(22:31:56) Ninja blocks Priest's attack.
+(22:31:56) Ninja blocks Priest's attack.
+(22:31:56) Ninja starts bleeding!
+(22:31:56) Beerbaron begins to stumble.
+(22:31:56) Ninja blocks Priest's attack.
+(22:31:56) Ninja blocks Priest's attack.
+(22:31:56) Trashcans is no longer stunned.
+(22:31:56) Ninja blocks Priest's attack.
+(22:31:56) Ninja blocks Tupac Shakur's attack.
+(22:31:56) Ninja blocks xReaLx's attack.
+(22:31:56) Trashcans blocks your attack!
+(22:31:56) Ninja blocks Priest's attack.
+(22:31:56) Ninja blocks xReaLx's attack.
+(22:31:56) ChopSuey is no longer stunned.
+(22:31:56) Tons is no longer stunned.
+(22:31:56) POOPCUMPISS is no longer stunned.
+(22:31:56) Hellio is no longer stunned.
+(22:31:56) Arry is no longer stunned.
+(22:31:56) Ninja blocks xReaLx's attack.
+(22:31:57) Bourbon is no longer stunned.
+(22:31:57) Beerbaron is no longer poisoned.
+(22:31:57) typeW's precision returns.
+(22:31:57) Ninja blocks Tupac Shakur's attack.
+(22:31:57) Tupac's Pallando's Pernicious Puns hurt Jaz for 51 points of damage!
+(22:31:57) Tupac's Pallando's Pernicious Puns hurt ChopSuey for 32 points of damage!
+(22:31:57) Bourbon blocks WillPowder's attack.
+(22:31:57) Tupac's Pallando's Pernicious Puns hurt POOPCUMPISS for 54 points of damage!
+(22:31:57) Tupac's Pallando's Pernicious Puns hurt Hellio for 44 points of damage!
+(22:31:57) Ninja begins to stumble.
+(22:31:57) Tupac's Pallando's Pernicious Puns hurt Sax for 38 points of damage!
+(22:31:57) Tupac's Pallando's Pernicious Puns hurt Arry for 61 points of damage!
+(22:31:57) Ninja blocks Priest's attack.
+(22:31:57) Tupac's Pallando's Pernicious Puns hurt you for 36 points of damage!
+(22:31:57) Trebuchet's attacks return to normal.
+(22:31:57) BlackSele attacks more slowly.
+(22:31:57) Ninja blocks Priest's attack.
+(22:31:57) Ninja blocks ChopSuey's attack.
+(22:31:57) Ninja blocks ChopSuey's attack.
+(22:31:57) Ninja blocks ChopSuey's attack.
+(22:31:57) Ninja blocks ChopSuey's attack.
+(22:31:57) Ninja blocks Tupac Shakur's attack.
+(22:31:57) Salamar stops stumbling.
+(22:31:57) Rokaw stops stumbling.
+(22:31:57) Ninja blocks Tupac Shakur's attack.
+(22:31:57) Eihortetung stops stumbling.
+(22:31:57) Tons stops stumbling.
+(22:31:57) xReaLx stops stumbling.
+(22:31:58) Bourbon stops stumbling.
+(22:31:58) Trashcans blocks DRChuckalot's attack.
+(22:31:58) Ninja blocks xReaLx's attack.
+(22:31:58) typeW stops stumbling.
+(22:31:58) Ninja blocks xReaLx's attack.
+(22:31:58) ShiftyInc is no longer stunned.
+(22:31:58) Ninja blocks Priest's attack.
+(22:31:58) Ninja blocks Tupac Shakur's attack.
+(22:31:58) Ninja blocks Priest's attack.
+(22:31:58) Ninja blocks Priest's attack.
+(22:31:58) Ninja is resistant to heals!
+(22:31:58) Beerbaron stops stumbling.
+(22:31:58) Bourbon blocks WillPowder's attack.
+(22:31:58) Ninja blocks ChopSuey's attack.
+(22:31:58) BlackSele seems more exposed to bludgeoning.
+(22:31:58) Trashcans's stun immunity has worn off.
+(22:31:58) Ninja blocks ChopSuey's attack.
+(22:31:59) BlackSele begins to stumble.
+(22:31:59) Ninja's powerblock immunity has worn off.
+(22:31:59) DRChuckalot blocks Priest's attack.
+(22:31:59) DRChuckalot llooks less intelligent!
+(22:31:59) Ninja blocks xReaLx's attack.
+(22:31:59) Ninja blocks ChopSuey's attack.
+(22:31:59) Ninja blocks Tupac Shakur's attack.
+(22:31:59) ShiftyInc is no longer poisoned.
+(22:31:59) Trashcans seems more exposed to bludgeoning.
+(22:31:59) Tupac's Pallando's Pernicious Puns hurt Jaz for 52 points of damage!
+(22:31:59) Tupac's Pallando's Pernicious Puns hurt ChopSuey for 52 points of damage!
+(22:31:59) Tupac's Pallando's Pernicious Puns hurt POOPCUMPISS for 33 points of damage!
+(22:31:59) Tupac's Pallando's Pernicious Puns hurt Hellio for 36 points of damage!
+(22:31:59) Tupac's Pallando's Pernicious Puns hurt Sax for 26 points of damage!
+(22:31:59) Tupac's Pallando's Pernicious Puns hurt Arry for 49 points of damage!
+(22:31:59) Tupac's Pallando's Pernicious Puns hurt you for 52 points of damage!
+(22:31:59) Bourbon is exposed to a slashing attack.
+(22:31:59) DRChuckalot is exposed to a pinpoint strike.
+(22:31:59) Ninja blocks ChopSuey's attack.
+(22:31:59) BlackSele is no longer exposed.
+(22:31:59) BlackSele seems more exposed to bludgeoning.
+(22:31:59) Trashcans blocks Rokaw's attack.
+(22:32:00) BlackSele's attacks can't find the mark.
+(22:32:00) Trashcans blocks DRChuckalot's attack.
+(22:32:00) DRChuckalot blocks Priest's attack.
+(22:32:00) DRChuckalot's defenses falter.
+(22:32:00) DRChuckalot blocks Priest's attack.
+(22:32:00) DRChuckalot blocks Priest's attack.
+(22:32:00) Ninja blocks Tupac Shakur's attack.
+(22:32:00) Ninja's stun immunity has worn off.
+(22:32:00) DADDY's stun immunity has worn off.
+(22:32:00) DRChuckalot's stun immunity has worn off.
+(22:32:00) typeW's stun immunity has worn off.
+(22:32:00) BlackSele is no longer exposed.
+(22:32:00) Beerbaron is exposed to a slashing attack.
+(22:32:00) Bourbon's powerblock immunity has worn off.
+(22:32:00) BlackSele's elemental resistance fades.
+(22:32:00) DRChuckalot blocks ChopSuey's attack.
+(22:32:00) WillPowder's elemental resistance fades.
+(22:32:00) Eihortetung's elemental resistance fades.
+(22:32:00) WillPowder feels less deadly.
+(22:32:00) xReaLx's elemental resistance fades.
+(22:32:00) Eihortetung feels less deadly.
+(22:32:00) Tupac's elemental resistance fades.
+(22:32:00) ShiftyInc feels less deadly.
+(22:32:00) Trashcans's attacks regain their potency.
+(22:32:01) DRChuckalot blocks ChopSuey's attack.
+(22:32:01) Ninja is no longer exposed.
+(22:32:01) DRChuckalot starts bleeding!
+(22:32:01) Beerbaron blocks DRChuckalot's attack.
+(22:32:01) POOPCUMPISS's speed returns to normal.
+(22:32:01) BlackSele begins to stumble.
+(22:32:01) BlackSele seems more exposed to bludgeoning.
+(22:32:01) BlackSele is no longer exposed.
+(22:32:01) Beerbaron blocks DRChuckalot's attack.
+(22:32:01) BlackSele can no longer use powers!
+(22:32:01) BlackSele can no longer use powers!
+(22:32:01) chs feels more deadly!
+(22:32:01) chs looks much faster!
+(22:32:01) chs looks stronger!
+(22:32:01) chs looks stronger!
+(22:32:01) chs feels more deadly!
+(22:32:01) chs looks much faster!
+(22:32:01) 's weapon glows with the light of purity.
+(22:32:01) DRChuckalot is no longer exposed.
+(22:32:01) Ninja blocks Tupac Shakur's attack.
+(22:32:01) DRChuckalot is exposed to a pinpoint strike.
+(22:32:01) Ninja blocks Tupac Shakur's attack.
+(22:32:01) Bourbon is no longer exposed.
+(22:32:02) BlackSele's precision returns.
+(22:32:02) BlackSele's attacks can't find the mark.
+(22:32:02) Bourbon moves at normal speed again.
+(22:32:02) DRChuckalot blocks POOPCUMPISS's attack.
+(22:32:02) Tupac's Pallando's Pernicious Puns hurt Jaz for 43 points of damage!
+(22:32:02) Tupac's Pallando's Pernicious Puns hurt Hellio for 46 points of damage!
+(22:32:02) DRChuckalot blocks POOPCUMPISS's attack.
+(22:32:02) Tupac's Pallando's Pernicious Puns hurt ChopSuey for 53 points of damage!
+(22:32:02) Tupac's Pallando's Pernicious Puns hurt POOPCUMPISS for 41 points of damage!
+(22:32:02) Tupac's Pallando's Pernicious Puns hurt Arry for 70 points of damage!
+(22:32:02) Tupac's Pallando's Pernicious Puns hurt Sax for 55 points of damage!
+(22:32:02) Tupac's Pallando's Pernicious Puns hurt you for 47 points of damage!
+(22:32:02) DRChuckalot blocks Priest's attack.
+(22:32:02) DRChuckalot stops bleeding.
+(22:32:02) DRChuckalot starts bleeding!
+(22:32:02) DRChuckalot blocks ChopSuey's attack.
+(22:32:02) DRChuckalot is resistant to heals!
+(22:32:02) Beerbaron is no longer exposed.
+(22:32:02) DRChuckalot begins to stumble.
+(22:32:02) DRChuckalot slows down.
+(22:32:02) DRChuckalot blocks Priest's attack.
+(22:32:02) DRChuckalot blocks Priest's attack.
+(22:32:03) Ninja blocks Tupac Shakur's attack.
+(22:32:03) BlackSele's precision returns.
+(22:32:03) Ninja blocks Tupac Shakur's attack.
+(22:32:03) DRChuckalot blocks xReaLx's attack.
+(22:32:03) BlackSele's attacks can't find the mark.
+(22:32:03) BlackSele seems more exposed to bludgeoning.
+(22:32:03) DRChuckalot blocks ChopSuey's attack.
+(22:32:03) chs's speed returns to normal.
+(22:32:03) chs's speed returns to normal.
+(22:32:03) DRChuckalot's defenses resume.
+(22:32:03) DRChuckalot's defenses falter.
+(22:32:03) DRChuckalot blocks xReaLx's attack.
+(22:32:03) BlackSele's attacks return to normal.
+(22:32:03) BlackSele attacks more slowly.
+(22:32:03) DRChuckalot blocks Priest's attack.
+(22:32:03) Ninja is no longer exposed.
+(22:32:03) DRChuckalot blocks Priest's attack.
+(22:32:03) DRChuckalot's heal resistance fades.
+(22:32:03) Tons OfHp blocks chs's attack.
+(22:32:03) DRChuckalot is wrapped in spectral bonds!
+(22:32:03) BlackSele's attacks return to normal.
+(22:32:03) BlackSele attacks more slowly.
+(22:32:03) DRChuckalot is no longer bound.
+(22:32:03) DRChuckalot blocks Priest's attack.
+(22:32:03) DRChuckalot blocks xReaLx's attack.
+(22:32:04) BlackSele is no longer exposed.
+(22:32:04) BlackSele begins to stumble.
+(22:32:04) DRChuckalot is no longer exposed.
+(22:32:04) DRChuckalot's Dark Fortitude falls.
+(22:32:04) DRChuckalot stops bleeding.
+(22:32:04) DRChuckalot's regains mental faculties.
+(22:32:04) DRChuckalot feels less deadly.
+(22:32:04) DRChuckalot moves at normal speed again.
+(22:32:04) DRChuckalot's defenses resume.
+(22:32:04) DRChuckalot stops stumbling.
+(22:32:04) Someone Misses DRChuckalot.
+(22:32:04) Tons seems more exposed to bludgeoning.
+(22:32:04) BlackSele's power abilities return.
+(22:32:04) Ninja blocks Tupac Shakur's attack.
+(22:32:04) BlackSele seems more exposed to bludgeoning.
+(22:32:04) Ninja's speed returns.
+(22:32:04) Ninja blocks Tupac Shakur's attack.
+(22:32:04) Ninja blocks Tupac Shakur's attack.
+(22:32:04) Vashteera's Companion begins to stumble.
+(22:32:04) Salamar begins to stumble.
+(22:32:04) Beerbaron begins to stumble.
+(22:32:04) Tons begins to stumble.
+(22:32:05) Hellio begins to stumble.
+(22:32:05) DADDY begins to stumble.
+(22:32:05) Arry begins to stumble.
+(22:32:05) pippo blocks POOPCUMPISS's attack.
+(22:32:05) PacMan is stunned!
+(22:32:05) Tupac's Pallando's Pernicious Puns hurt Jaz for 39 points of damage!
+(22:32:05) Tupac's Pallando's Pernicious Puns hurt ChopSuey for 42 points of damage!
+(22:32:05) Tupac's Pallando's Pernicious Puns hurt Hellio for 50 points of damage!
+(22:32:05) Tupac's Pallando's Pernicious Puns hurt POOPCUMPISS for 41 points of damage!
+(22:32:05) Tupac's Pallando's Pernicious Puns hurt Arry for 34 points of damage!
+(22:32:05) BlackSele is no longer exposed.
+(22:32:05) Tupac's Pallando's Pernicious Puns hurt Sax for 41 points of damage!
+(22:32:05) Tupac's Pallando's Pernicious Puns hurt you for 56 points of damage!
+(22:32:05) pippo blocks POOPCUMPISS's attack.
+(22:32:06) BlackSele stops stumbling.
+(22:32:06) Eihortetung moves at normal speed again.
+(22:32:06) xReaLx moves at normal speed again.
+(22:32:06) ChopSuey's stun immunity has worn off.
+(22:32:06) Tons's stun immunity has worn off.
+(22:32:06) POOPCUMPISS's stun immunity has worn off.
+(22:32:06) Hellio's stun immunity has worn off.
+(22:32:06) Bourbon's stun immunity has worn off.
+(22:32:06) Arry's stun immunity has worn off.
+(22:32:06) BlackSele begins to stumble.
+(22:32:06) pippo is exposed to a pinpoint strike.
+(22:32:06) Ninja blocks Tupac Shakur's attack.
+(22:32:06) Ninja blocks Tupac Shakur's attack.
+(22:32:06) pippo blocks POOPCUMPISS's attack.
+(22:32:06) BlackSele gives forth a mighty shout!
+(22:32:06) Ninja is stunned!
+(22:32:06) Jaz is stunned!
+(22:32:06) ChopSuey is stunned!
+(22:32:06) Priest is stunned!
+(22:32:06) [Powers] Info: You begin casting Vampire's Kiss.
+(22:32:06) Hellio is stunned!
+(22:32:06) DADDY is stunned!
+(22:32:06) Bourbon is stunned!
+(22:32:06) Tons is stunned!
+(22:32:06) Rokaw moves at normal speed again.
+(22:32:06) Salamar moves at normal speed again.
+(22:32:07) Tons moves at normal speed again.
+(22:32:07) BlackSele stops stumbling.
+(22:32:07) typeW moves at normal speed again.
+(22:32:07) BlackSele's attacks return to normal.
+(22:32:07) Soda feels less deadly.
+(22:32:07) Tons feels less deadly.
+(22:32:07) pippo feels less deadly.
+(22:32:07) Arry feels less deadly.
+(22:32:07) You don't feel quite as deadly anymore.
+(22:32:07) Bourbon feels less deadly.
+(22:32:07) BlackSele seems more exposed to bludgeoning.
+(22:32:07) Hellio feels less deadly.
+(22:32:07) Tons can no longer use powers!
+(22:32:07) ChopSuey feels less deadly.
+(22:32:07) Tons can no longer use powers!
+(22:32:07) Trashcans feels less deadly.
+(22:32:07) Beerbaron feels less deadly.
+(22:32:07) POOPCUMPISS feels less deadly.
+(22:32:07) Priest feels less deadly.
+(22:32:07) DADDY feels less deadly.
+(22:32:07) Salamar llooks less intelligent!
+(22:32:07) Ninja's regains mental faculties.
+(22:32:08) Tons's powerblock immunity has worn off.
+(22:32:08) Tons can no longer use powers!
+(22:32:08) Ninja's precision returns.
+(22:32:08) Salamar is immobilized!
+(22:32:08) Salamar is no longer immobilized.
+(22:32:08) PacMan is no longer stunned.
+(22:32:08) Tupac's Pallando's Pernicious Puns hurt Jaz for 60 points of damage!
+(22:32:08) Tupac's Pallando's Pernicious Puns hurt Hellio for 59 points of damage!
+(22:32:08) Tupac's Pallando's Pernicious Puns hurt ChopSuey for 39 points of damage!
+(22:32:08) Tupac's Pallando's Pernicious Puns hurt POOPCUMPISS for 31 points of damage!
+(22:32:08) Tupac's Pallando's Pernicious Puns hurt Sax for 51 points of damage!
+(22:32:08) Tupac's Pallando's Pernicious Puns hurt Arry for 54 points of damage!
+(22:32:08) Tupac's Pallando's Pernicious Puns hurt you for 39 points of damage!
+(22:32:08) Ninja blocks Tupac Shakur's attack.
+(22:32:08) BlackSele's precision returns.
+(22:32:08) Salamar begins to stumble.
+(22:32:08) Salamar slows down.
+(22:32:08) BlackSele is no longer exposed.
+(22:32:08) Rokaw feels less deadly.
+(22:32:08) Jaz feels less deadly.
+(22:32:09) typeW feels less deadly.
+(22:32:09) Ninja feels less deadly.
+(22:32:09) Sax feels less deadly.
+(22:32:09) Salamar feels less deadly.
+(22:32:09) PacMan feels less deadly.
+(22:32:09) Salamar is wrapped in spectral bonds!
+(22:32:09) Tons is no longer stunned.
+(22:32:09) You feel weaker and clumsy!
+(22:32:09) You start bleeding!
+(22:32:09) Tons is no longer exposed.
+(22:32:09) Trashcans is no longer exposed.
+(22:32:09) Ninja blocks Tupac Shakur's attack.
+(22:32:09) You are exposed to a well-placed bludgeon attack!
+(22:32:10) Salamar looks weaker and more clumsy!
+(22:32:10) Ninja blocks Tupac Shakur's attack.
+(22:32:10) Tons OfHp blocks xReaLx's attack.
+(22:32:10) Beerbaron blocks Salamar's attack.
+(22:32:10) Ninja's heal resistance fades.
+(22:32:10) Beerbaron stops stumbling.
+(22:32:10) Tons OfHp blocks ChopSuey's attack.
+(22:32:10) BlackSele attacks more slowly.
+(22:32:10) BlackSele's rage subsides.
+(22:32:10) BlackSele's stun immunity has worn off.
+(22:32:11) BlackSele begins to stumble.
+(22:32:11) Ninja blocks Tupac Shakur's attack.
+(22:32:11) Tons OfHp blocks xReaLx's attack.
+(22:32:11) Tons's power abilities return.
+(22:32:11) Ninja blocks Tupac Shakur's attack.
+(22:32:11) Hellio stops stumbling.
+(22:32:11) DADDY stops stumbling.
+(22:32:11) BlackSele's powerblock immunity has worn off.
+(22:32:11) Tupac's Pallando's Pernicious Puns hurt Jaz for 55 points of damage!
+(22:32:11) Tupac's Pallando's Pernicious Puns hurt ChopSuey for 28 points of damage!
+(22:32:11) Tupac's Pallando's Pernicious Puns hurt POOPCUMPISS for 43 points of damage!
+(22:32:11) Tupac's Pallando's Pernicious Puns hurt Hellio for 59 points of damage!
+(22:32:11) Tupac's Pallando's Pernicious Puns hurt you for 57 points of damage!
+(22:32:11) Soda's stun immunity has worn off.
+(22:32:11) Tupac's Pallando's Pernicious Puns hurt Arry for 41 points of damage!
+(22:32:11) Tupac's Pallando's Pernicious Puns hurt Sax for 46 points of damage!
+(22:32:11) You are exposed to a pinpoint strike!
+(22:32:11) Tons is exposed to a pinpoint strike.
+(22:32:11) Tons's attacks can't find the mark.
+(22:32:11) Ninja's stun immunity has worn off.
+(22:32:11) Tons OfHp blocks ChopSuey's attack.
+(22:32:11) Jaz's stun immunity has worn off.
+(22:32:11) BlackSele stops stumbling.
+(22:32:11) ChopSuey's stun immunity has worn off.
+(22:32:11) Priest's stun immunity has worn off.
+(22:32:12) Hellio's stun immunity has worn off.
+(22:32:12) DADDY's stun immunity has worn off.
+(22:32:12) Salamar is no longer bound.
+(22:32:12) Beerbaron blocks Salamar's attack.
+(22:32:12) BlackSele starts bleeding!
+(22:32:12) BlackSele stops bleeding.
+(22:32:12) Tons OfHp blocks xReaLx's attack.
+(22:32:12) BlackSele's enhanced strength fades.
+(22:32:12) BlackSele's enhanced strength fades.
+(22:32:12) BlackSele's attacks return to normal.
+(22:32:12) Tons OfHp blocks xReaLx's attack.
+(22:32:12) BlackSele's elemental resistance fades.
+(22:32:12) Someone Misses BlackSele.
+(22:32:12) Ninja blocks Tupac Shakur's attack.
+(22:32:12) Tons OfHp blocks chs's attack.
+(22:32:13) Tons OfHp blocks ChopSuey's attack.
+(22:32:13) Tons OfHp blocks ChopSuey's attack.
+(22:32:13) Tons stops stumbling.
+(22:32:13) Tons OfHp blocks xReaLx's attack.
+(22:32:13) Trashcans begins to stumble.
+(22:32:13) Trashcans feels less deadly.
+(22:32:13) Hellio feels less deadly.
+(22:32:13) Beerbaron feels less deadly.
+(22:32:13) Tons OfHp blocks ChopSuey's attack.
+(22:32:13) Tons OfHp blocks xReaLx's attack.
+(22:32:13) Trashcans seems more exposed to bludgeoning.
+(22:32:13) Ninja blocks Tupac Shakur's attack.
+(22:32:13) Ninja's attacks return to normal.
+(22:32:13) Ninja blocks Tupac Shakur's attack.
+(22:32:14) You are overwhelmed with the irresistable urge to dance!
+(22:32:14) Salamar is stunned!
+(22:32:14) Tons's stun immunity has worn off.
+(22:32:14) Trashcans blocks pippo's attack.
+(22:32:14) Vashteera's Companion stops stumbling.
+(22:32:14) The urge to dance fades.
+(22:32:14) The urge to dance fades.
+(22:32:14) Arry stops stumbling.
+(22:32:14) Priest begins to stumble.
+(22:32:14) Trashcans's attacks can't find the mark.
+(22:32:14) Ninja blocks Tupac Shakur's attack.
+(22:32:14) Ninja blocks Tupac Shakur's attack.
+(22:32:14) Tons OfHp blocks ChopSuey's attack.
+(22:32:14) Tons is no longer exposed.
+(22:32:14) Your attacks slow.
+(22:32:14) xReaLx is poisoned!
+(22:32:15) Tons OfHp blocks chs's attack.
+(22:32:15) Tons OfHp blocks xReaLx's attack.
+(22:32:15) Trashcans can no longer use powers!
+(22:32:15) Trashcans can no longer use powers!
+(22:32:15) Tons OfHp blocks xReaLx's attack.
+(22:32:15) Trashcans blocks typeW's attack.
+(22:32:15) Tons OfHp blocks xReaLx's attack.
+(22:32:15) You are stunned!
+(22:32:15) Ninja blocks Tupac Shakur's attack.
+(22:32:15) Tons OfHp blocks chs's attack.
+(22:32:15) pippo begins to stumble.
+(22:32:15) pippo slows down.
+(22:32:15) chs begins to stumble.
+(22:32:15) chs slows down.
+(22:32:15) Jaz begins to stumble.
+(22:32:15) Jaz slows down.
+(22:32:15) PacMan begins to stumble.
+(22:32:15) PacMan slows down.
+(22:32:15) Tons begins to stumble.
+(22:32:15) Tons slows down.
+(22:32:15) Arry begins to stumble.
+(22:32:15) Arry slows down.
+(22:32:15) Bourbon begins to stumble.
+(22:32:15) Ninja blocks Tupac Shakur's attack.
+(22:32:15) Bourbon slows down.
+(22:32:15) [Powers] Error: You are stunned and cannot act.
+(22:32:15) You feel resistant to heals!
+(22:32:16) Salamar is no longer stunned.
+(22:32:16) Trashcans blocks Ninja's attack.
+(22:32:16) [Powers] Error: You are stunned and cannot act.
+(22:32:16) Trashcans blocks Jaz's attack.
+(22:32:16) The bleeding stops.
+(22:32:16) You start bleeding!
+(22:32:16) You can no longer use powers!
+(22:32:16) You can no longer use powers!
+(22:32:16) xReaLx begins to stumble.
+(22:32:16) Ninja's strength and agility returns.
+(22:32:16) [Powers] Error: You are stunned and cannot act.
+(22:32:16) Trashcans is stunned!
+(22:32:16) Tons OfHp blocks chs's attack.
+(22:32:16) Beerbaron begins to stumble.
+(22:32:16) [Powers] Error: You are stunned and cannot act.
+(22:32:17) Your powerblock immunity has worn off.
+(22:32:17) pippo is no longer exposed.
+(22:32:17) You no longer feel exposed.
+(22:32:17) Your Unholy Fortitude falls.
+(22:32:17) The bleeding stops.
+(22:32:17) Your power abilities return.
+(22:32:17) You no longer feel exposed.
+(22:32:17) Your stun immunity has worn off.
+(22:32:17) Your stun immunity has worn off.
+(22:32:17) Your heal resistance fades.
+(22:32:17) You regain your swiftness in combat.
+(22:32:17) Your strength and agility returns.
+(22:32:17) You are no longer stunned.
+(22:32:17) You are no longer stunned.
+(22:32:17) Ninja blocks Tupac Shakur's attack.
+(22:32:17) Ninja blocks Tupac Shakur's attack.
+(22:32:17) [Combat] Info: You are DEAD!
+(22:32:17) Beerbaron blocks Rokaw's attack.
+(22:32:17) Trashcans's stun immunity has worn off.
+(22:32:17) Salamar stops stumbling.
+(22:32:17) Tons seems more exposed to bludgeoning.
+(22:32:17) Eihortetung blocks xReaLx's attack.
+(22:32:17) Tons's powerblock immunity has worn off.
+(22:32:17) Eihortetung blocks xReaLx's attack.
+(22:32:17) Arry stops stumbling.
+(22:32:17) Ninja blocks Tupac Shakur's attack.
+(22:32:17) Tons OfHp blocks chs's attack.
+(22:32:17) Trashcans is no longer exposed.
+(22:32:17) Trashcans seems more exposed to bludgeoning.
+(22:32:17) xReaLx stops stumbling.
+(22:32:17) Beerbaron's speed returns.
+(22:32:18) Trashcans is no longer stunned.
+(22:32:18) Tons OfHp blocks chs's attack.
+(22:32:18) Eihortetung blocks xReaLx's attack.
+(22:32:18) Trashcans begins to stumble.
+(22:32:18) Ninja blocks Tupac Shakur's attack.
+(22:32:18) Ninja blocks Tupac Shakur's attack.
+(22:32:18) Trashcans's stun immunity has worn off.
+(22:32:18) Jaz stops bleeding.
+(22:32:18) Salamar's stun immunity has worn off.
+(22:32:18) Trashcans's precision returns.
+(22:32:18) Trashcans blocks Jaz's attack.
+(22:32:18) Kansus is steeled with Unholy Fortitude!
+(22:32:18) Kansus is immobilized!
+(22:32:18) Trashcans's power abilities return.
+(22:32:18) Kansus is no longer immobilized.
+(22:32:18) Kansus blocks POOPCUMPISS's attack.
+(22:32:18) Kansus blocks POOPCUMPISS's attack.
+(22:32:18) Eihortetung blocks xReaLx's attack.
+(22:32:19) Kansus blocks POOPCUMPISS's attack.
+(22:32:19) Eihortetung blocks xReaLx's attack.
+(22:32:19) Trashcans's powerblock immunity has worn off.
+(22:32:19) Eihortetung blocks xReaLx's attack.
+(22:32:19) Trashcans is no longer exposed.
+(22:32:19) Trashcans's stun immunity has worn off.
+(22:32:19) Beerbaron blocks Rokaw's attack.
+(22:32:19) Trashcans feels less deadly.
+(22:32:19) Trashcans's elemental resistance fades.
+(22:32:19) Bourbon blocks chs's attack.
+(22:32:19) Trashcans stops stumbling.
+(22:32:19) Someone Misses Trashcans.
+(22:32:19) Trashcans blocks Jaz's attack.
+(22:32:19) typeW blocks xReaLx's attack.
+(22:32:19) Kansus is exposed to a pinpoint strike.
+(22:32:19) Kansus blocks POOPCUMPISS's attack.
+(22:32:19) Bourbon blocks WillPowder's attack.
+(22:32:19) typeW blocks xReaLx's attack.
+(22:32:19) typeW blocks xReaLx's attack.
+(22:32:19) Kansus blocks POOPCUMPISS's attack.
+(22:32:19) Bourbon can no longer use powers!
+(22:32:19) Bourbon can no longer use powers!
+(22:32:19) Bourbon blocks WillPowder's attack.
+(22:32:19) Tupac can no longer use powers!
+(22:32:20) Priest's speed returns.
+(22:32:20) typeW blocks xReaLx's attack.
+(22:32:20) Kansus begins to stumble.
+(22:32:20) Kansus slows down.
+(22:32:20) Hellio is stunned!
+(22:32:20) typeW blocks xReaLx's attack.
+(22:32:20) ShiftyInc's speed returns to normal.
+(22:32:20) Kansus blocks POOPCUMPISS's attack.
+(22:32:20) Kansus blocks POOPCUMPISS's attack.
+(22:32:20) Tupac is stunned!
+(22:32:20) Bourbon blocks WillPowder's attack.
+(22:32:20) Kansus blocks POOPCUMPISS's attack.
+(22:32:20) typeW blocks xReaLx's attack.
+(22:32:20) Kansus blocks Priest's attack.
+(22:32:20) Bourbon blocks chs's attack.
+(22:32:21) typeW blocks xReaLx's attack.
+(22:32:22) [Powers] Info: You begin casting Unholy Fortitude.
+(22:32:22) You are steeled with Unholy Fortitude!
+(22:32:22) [Powers] Info: You begin casting Traveling Stance.
+(22:32:22) You feel much faster!
+(22:32:22) You feel much faster!
+(22:32:22) Sithranis is steeled with Dark Fortitude!
+(22:32:22) Sithranis looks much faster!
+(22:32:22) Sithranis looks much faster!
+(22:32:22) Ninja is steeled with Unholy Fortitude!
+(22:32:22) Ninja is stunned!
+(22:32:22) Jaz is instilled with Phaedra's Fury!
+(22:32:22) Jaz is instilled with Phaedra's Fury!
+(22:32:22) Jaz is instilled with Phaedra's Fury!
+(22:32:22) Jaz starts shooting more accurately!
+(22:32:22) Rokaw is steeled with Unholy Fortitude!
+(22:32:22) Rokaw slows down.
+(22:32:22) Rokaw looks much faster!
+(22:32:22) Peking is steeled with Dark Fortitude!
+(22:32:22) Peking looks focused.
+(22:32:22) Peking looks much faster!
+(22:32:22) pippo is steeled with Dark Fortitude!
+(22:32:22) pippo slows down.
+(22:32:22) typeW is steeled with Unholy Fortitude!
+(22:32:22) typeW slows down.
+(22:32:22) Kansus is steeled with Unholy Fortitude!
+(22:32:23) Sauce is steeled with Dark Fortitude!
+(22:32:23) Sauce slows down.
+(22:32:23) Eihortetung looks stronger!
+(22:32:23) Eihortetung looks stronger!
+(22:32:23) Eihortetung slows down.
+(22:32:23) Eihortetung looks much faster!
+(22:32:23) Eihortetung is stunned!
+(22:32:23) PacMan slows down.
+(22:32:23) lover is steeled with Dark Fortitude!
+(22:32:23) lover is surrounded by a protective shield.
+(22:32:23) lover looks focused.
+(22:32:23) The blade now glistens with poison.
+(22:32:23) ShiftyInc looks stronger!
+(22:32:23) ShiftyInc looks stronger!
+(22:32:23) ShiftyInc looks much faster!
+(22:32:23) Vashteera's Companion's pet looks stronger, healthier, and more vicious!
+(22:32:23) Vashteera's Companion slows down.
+(22:32:23) Beerbaron looks much faster!
+(22:32:23) 's weapon glows with the light of purity.
+(22:32:23) DADDY is surrounded by a protective shield.
+(22:32:23) DADDY begins to stumble.
+(22:32:23) DADDY looks much faster!
+(22:32:23) DeathieDS is overcome with righteous zeal!
+(22:32:23) DeathieDS looks much faster!
+(22:32:23) Blue attacks more slowly.
+(22:32:23) Blue looks much faster!
+(22:32:23) BroRoar looks much faster!
+(22:32:23) BroRoar looks much faster!
+(22:32:23) Ninja is no longer stunned.
+(22:32:23) Priest attacks more slowly.
+(22:32:23) DADDY stops stumbling.
+(22:32:23) ChopSuey feels less deadly.
+(22:32:23) Trashcans feels less deadly.
+(22:32:23) Beerbaron feels less deadly.
+(22:32:23) Priest feels less deadly.
+(22:32:23) DADDY feels less deadly.
+(22:32:23) Peking's speed returns to normal.
+(22:32:23) ShiftyInc blocks Jaz's attack.
+(22:32:23) ShiftyInc begins to stumble.
+(22:32:23) ShiftyInc looks winded!
+(22:32:23) Eihortetung is no longer stunned.
+(22:32:24) Priest is immobilized!
+(22:32:24) ShiftyInc begins to stumble.
+(22:32:24) Priest begins to stumble.
+(22:32:24) Priest is no longer immobilized.
+(22:32:24) Priest looks winded!
+(22:32:24) Priest stops stumbling.
+(22:32:24) Eihortetung moves at normal speed again.
+(22:32:24) Priest seems more exposed to bludgeoning.
+(22:32:24) typeW stops bleeding.
+(22:32:24) ShiftyInc stops stumbling.
+(22:32:24) ShiftyInc begins to stumble.
+(22:32:24) DeathieDS's speed returns to normal.
+(22:32:24) Eihortetung blocks Kansus's attack.
+(22:32:24) Eihortetung blocks Ninja's attack.
+(22:32:24) Priest looks much faster!
+(22:32:24) pippo is immobilized!
+(22:32:25) ShiftyInc's speed returns.
+(22:32:25) ShiftyInc blocks Jaz's attack.
+(22:32:25) Blue's speed returns to normal.
+(22:32:25) Peking is no longer focused.
+(22:32:25) ShiftyInc begins to stumble.
+(22:32:25) Peking feels less deadly.
+(22:32:25) Kansus feels less deadly.
+(22:32:25) pippo feels less deadly.
+(22:32:25) Bourbon feels less deadly.
+(22:32:25) Sauce feels less deadly.
+(22:32:25) lover is no longer focused.
+(22:32:25) Your enhanced speed fades.
+(22:32:25) Your enhanced speed fades.
+(22:32:25) ShiftyInc seems more exposed to bludgeoning.
+(22:32:25) pippo is no longer immobilized.
+(22:32:25) Jaz's enhanced precision fades.
+(22:32:25) Peking is no longer poisoned.
+(22:32:25) Eihortetung's speed returns to normal.
+(22:32:25) Sithranis is steeled with Dark Fortitude!
+(22:32:25) Sithranis looks much faster!
+(22:32:25) Sithranis looks much faster!
+(22:32:25) Rokaw moves at normal speed again.
+(22:32:25) Vashteera's Companion moves at normal speed again.
+(22:32:25) Sauce moves at normal speed again.
+(22:32:26) pippo moves at normal speed again.
+(22:32:26) PacMan moves at normal speed again.
+(22:32:26) typeW moves at normal speed again.
+(22:32:26) ShiftyInc begins to stumble.
+(22:32:26) Jaz feels less deadly.
+(22:32:26) ShiftyInc looks winded!
+(22:32:26) PacMan feels less deadly.
+(22:32:26) lover feels less deadly.
+(22:32:26) Sax feels less deadly.
+(22:32:26) DeathieDS feels less deadly.
+(22:32:26) Soda looks much faster!
+(22:32:26) Rokaw's speed returns to normal.
+(22:32:26) Ninja feels less deadly.
+(22:32:26) The pet looks weaker and less vicious.
+(22:32:26) Salamar looks much faster!
+(22:32:26) Bourbon looks much faster!
+(22:32:26) Priest's attacks return to normal.
+(22:32:26) BroRoar's speed returns to normal.
+(22:32:26) BroRoar's speed returns to normal.
+(22:32:26) ShiftyInc can no longer use powers!
+(22:32:26) ShiftyInc can no longer use powers!
+(22:32:26) ShiftyInc's stun immunity has worn off.
+(22:32:26) Jaz looks much faster!
+(22:32:26) Sax looks much faster!
+(22:32:26) Ninja looks much faster!
+(22:32:27) BroRoar looks much faster!
+(22:32:27) Your legs are immobilized!
+(22:32:27) ShiftyInc's speed returns to normal.
+(22:32:27) PacMan's stun immunity has worn off.
+(22:32:27) Blue looks much faster!
+(22:32:27) Blue looks much faster!
+(22:32:27) Ninja's stun immunity has worn off.
+(22:32:27) Priest is no longer exposed.
+(22:32:27) Sithranis looks much faster!
+(22:32:27) ShiftyInc is stunned!
+(22:32:27) Eihortetung looks much faster!
+(22:32:27) Your legs are no longer immobilized.
+(22:32:27) Your legs are no longer immobilized.
+(22:32:27) Eihortetung is wrapped in spectral bonds!
+(22:32:27) Rokaw feels less deadly.
+(22:32:27) Salamar feels less deadly.
+(22:32:27) typeW feels less deadly.
+(22:32:27) Eihortetung is no longer bound.
+(22:32:27) DADDY is no longer poisoned.
+(22:32:27) ShiftyInc is no longer stunned.
+(22:32:27) ShiftyInc's power abilities return.
+(22:32:27) ShiftyInc is immobilized!
+(22:32:27) ShiftyInc is no longer immobilized.
+(22:32:27) BroYogi's elemental resistance fades.
+(22:32:28) Trashcans's elemental resistance fades.
+(22:32:28) DADDY's elemental resistance fades.
+(22:32:28) ShiftyInc's powerblock immunity has worn off.
+(22:32:28) ShiftyInc can no longer use powers!
+(22:32:28) ShiftyInc is no longer exposed.
+(22:32:28) ShiftyInc seems more exposed to bludgeoning.
+(22:32:28) ShiftyInc blocks Ninja's attack.
+(22:32:28) Priest's speed returns to normal.
+(22:32:28) ShiftyInc blocks Ninja's attack.
+(22:32:28) ShiftyInc blocks typeW's attack.
+(22:32:28) ShiftyInc stops stumbling.
+(22:32:28) ShiftyInc blocks Peking Duck's attack.
+(22:32:28) Soda feels less deadly.
+(22:32:28) Tons feels less deadly.
+(22:32:28) Arry feels less deadly.
+(22:32:28) ShiftyInc's stun immunity has worn off.
+(22:32:28) ShiftyInc blocks Ninja's attack.
+(22:32:28) Eihortetung begins to stumble.
+(22:32:28) Eihortetung is no longer poisoned.
+(22:32:28) ShiftyInc blocks typeW's attack.
+(22:32:28) ShiftyInc begins to stumble.
+(22:32:29) Trashcans looks much faster!
+(22:32:29) ShiftyInc attacks more slowly.
+(22:32:29) ShiftyInc is no longer exposed.
+(22:32:29) ShiftyInc seems more exposed to bludgeoning.
+(22:32:29) ShiftyInc blocks typeW's attack.
+(22:32:29) ShiftyInc's attacks can't find the mark.
+(22:32:29) ShiftyInc blocks pippo's attack.
+(22:32:29) Beerbaron looks much faster!
+(22:32:29) ShiftyInc is no longer exposed.
+(22:32:29) ShiftyInc seems more exposed to bludgeoning.
+(22:32:29) ShiftyInc's powerblock immunity has worn off.
+(22:32:29) ShiftyInc's enhanced strength fades.
+(22:32:29) ShiftyInc's enhanced strength fades.
+(22:32:29) ShiftyInc is no longer exposed.
+(22:32:29) ShiftyInc's stun immunity has worn off.
+(22:32:29) ShiftyInc is no longer poisoned.
+(22:32:29) ShiftyInc's attacks return to normal.
+(22:32:29) ShiftyInc's precision returns.
+(22:32:29) ShiftyInc's speed returns.
+(22:32:29) Someone Misses ShiftyInc.
+(22:32:29) Sithranis's speed returns to normal.
+(22:32:29) Eihortetung's attacks can't find the mark.
+(22:32:29) ShiftyInc blocks lover's attack.
+(22:32:29) Jaz feels less deadly.
+(22:32:29) lover feels less deadly.
+(22:32:29) Sax feels less deadly.
+(22:32:29) DeathieDS feels less deadly.
+(22:32:29) Soda's speed returns to normal.
+(22:32:29) Salamar's speed returns to normal.
+(22:32:29) Bourbon's speed returns to normal.
+(22:32:30) Eihortetung seems more exposed to bludgeoning.
+(22:32:30) Sauce looks much faster!
+(22:32:30) Eihortetung blocks Rokaw's attack.
+(22:32:30) Tons looks much faster!
+(22:32:30) Sax's speed returns to normal.
+(22:32:30) Ninja's speed returns to normal.
+(22:32:30) Priest is no longer poisoned.
+(22:32:30) Arry looks much faster!
+(22:32:30) Arry looks much faster!
+(22:32:30) Eihortetung's precision returns.
+(22:32:30) Ninja looks much faster!
+(22:32:30) Ninja looks much faster!
+(22:32:30) BroYogi looks much faster!
+(22:32:30) Sithranis's speed returns to normal.
+(22:32:30) Sithranis is immobilized!
+(22:32:30) Eihortetung is immobilized!
+(22:32:30) Eihortetung is no longer immobilized.
+(22:32:30) PacMan feels less deadly.
+(22:32:30) pippo is steeled with Dark Fortitude!
+(22:32:30) Kansus looks much faster!
+(22:32:30) DRChuckalot is steeled with Dark Fortitude!
+(22:32:30) [Powers] Info: You begin casting Traveling Stance.
+(22:32:30) Eihortetung stops stumbling.
+(22:32:30) Jaz feels less deadly.
+(22:32:30) Sax feels less deadly.
+(22:32:30) typeW feels less deadly.
+(22:32:30) Priest's stun immunity has worn off.
+(22:32:30) Jaz looks much faster!
+(22:32:30) Sauce is stunned!
+(22:32:31) lover looks much faster!
+(22:32:31) BlackSele is stunned!
+(22:32:31) pippo looks much faster!
+(22:32:31) pippo looks much faster!
+(22:32:31) You feel much faster!
+(22:32:31) You feel much faster!
+(22:32:31) Sithranis is no longer immobilized.
+(22:32:31) Bourbon looks much faster!
+(22:32:31) BlackSele begins to stumble.
+(22:32:31) BlackSele looks winded!
+(22:32:31) BlackSele stops stumbling.
+(22:32:31) BlackSele begins to stumble.
+(22:32:31) Beerbaron's speed returns to normal.
+(22:32:31) PacMan looks much faster!
+(22:32:31) PacMan looks much faster!
+(22:32:31) Eihortetung is no longer exposed.
+(22:32:31) DRChuckalot looks much faster!
+(22:32:31) DRChuckalot looks much faster!
+(22:32:31) BlackSele seems more exposed to bludgeoning.
+(22:32:31) BlackSele is no longer exposed.
+(22:32:31) BlackSele seems more exposed to bludgeoning.
+(22:32:32) Sauce's speed returns to normal.
+(22:32:32) BlackSele attacks more slowly.
+(22:32:32) Tons's speed returns to normal.
+(22:32:32) Your enhanced speed fades.
+(22:32:32) Your enhanced speed fades.
+(22:32:32) BlackSele's attacks return to normal.
+(22:32:32) BlackSele attacks more slowly.
+(22:32:32) BlackSele begins to stumble.
+(22:32:32) BlackSele's attacks can't find the mark.
+(22:32:32) Arry's speed returns to normal.
+(22:32:32) Arry's speed returns to normal.
+(22:32:32) Sauce is no longer stunned.
+(22:32:32) DMT looks more alert!
+(22:32:32) DMT feels more deadly!
+(22:32:32) DMT looks healthier!
+(22:32:32) Sithranis looks much faster!
+(22:32:32) Sithranis looks much faster!
+(22:32:32) Sauce's attack falters.
+(22:32:32) pippo's attack falters.
+(22:32:32) Jaz's attack falters.
+(22:32:32) Salamar's attack falters.
+(22:32:32) Soda's attack falters.
+(22:32:33) Arry's attack falters.
+(22:32:33) Your attack falters.
+(22:32:33) Peking's attack falters.
+(22:32:33) BlackSele is poisoned!
+(22:32:33) pippo's speed returns to normal.
+(22:32:33) pippo's speed returns to normal.
+(22:32:33) BlackSele's attacks return to normal.
+(22:32:33) BlackSele attacks more slowly.
+(22:32:33) BlackSele is no longer exposed.
+(22:32:33) BlackSele's stun immunity has worn off.
+(22:32:33) BlackSele is no longer poisoned.
+(22:32:33) BlackSele's attacks return to normal.
+(22:32:33) BlackSele's precision returns.
+(22:32:33) BlackSele stops stumbling.
+(22:32:33) BlackSele is no longer stunned.
+(22:32:33) BlackSele is no longer poisoned.
+(22:32:33) DMT starts bleeding!
+(22:32:33) Sauce's attack returns to normal.
+(22:32:33) pippo's attack returns to normal.
+(22:32:33) Jaz's attack returns to normal.
+(22:32:33) Salamar's attack returns to normal.
+(22:32:33) Soda's attack returns to normal.
+(22:32:33) Arry's attack returns to normal.
+(22:32:33) Your attack returns to normal.
+(22:32:33) Peking's attack returns to normal.
+(22:32:33) Sithranis's speed returns to normal.
+(22:32:33) Sithranis's speed returns to normal.
+(22:32:33) Ninja feels less deadly.
+(22:32:33) lover feels less deadly.
+(22:32:33) Kansus's speed returns to normal.
+(22:32:33) Jaz feels less deadly.
+(22:32:33) Salamar feels less deadly.
+(22:32:33) typeW feels less deadly.
+(22:32:33) DMT begins to stumble.
+(22:32:33) DMT is immobilized!
+(22:32:33) Sax feels less deadly.
+(22:32:34) Sauce feels less deadly.
+(22:32:34) Kansus feels less deadly.
+(22:32:34) Soda feels less deadly.
+(22:32:34) Bourbon feels less deadly.
+(22:32:34) Ninja's speed returns to normal.
+(22:32:34) Ninja's speed returns to normal.
+(22:32:34) DMT is no longer immobilized.
+(22:32:34) DMT is stunned!
+(22:32:34) Soda looks much faster!
+(22:32:34) Soda looks much faster!
+(22:32:34) Jaz's speed returns to normal.
+(22:32:34) DMT attacks more slowly.
+(22:32:34) Sax looks much faster!
+(22:32:34) Sax looks much faster!
+(22:32:34) DMT's defenses falter.
+(22:32:34) lover's speed returns to normal.
+(22:32:34) DMT is wrapped in spectral bonds!
+(22:32:34) DMT is no longer bound.
+(22:32:34) DMT stops bleeding.
+(22:32:34) DMT's stun immunity has worn off.
+(22:32:34) DMT feels less deadly.
+(22:32:34) DMT's attacks return to normal.
+(22:32:34) DMT stops stumbling.
+(22:32:34) DMT's defenses resume.
+(22:32:34) DMT's enhanced health fades.
+(22:32:34) DMT is no longer stunned.
+(22:32:34) Someone Misses DMT.
+(22:32:34) Tons looks much faster!
+(22:32:34) Tons looks much faster!
+(22:32:34) PacMan's speed returns to normal.
+(22:32:34) PacMan's speed returns to normal.
+(22:32:34) typeW looks much faster!
+(22:32:34) typeW looks much faster!
+(22:32:35) Rokaw looks much faster!
+(22:32:35) Rokaw looks much faster!
+(22:32:35) Bourbon looks much faster!
+(22:32:35) Bourbon looks much faster!
+(22:32:35) lover looks much faster!
+(22:32:35) lover looks much faster!
+(22:32:35) Kansus looks much faster!
+(22:32:35) Kansus looks much faster!
+(22:32:35) PacMan looks much faster!
+(22:32:35) Sauce looks much faster!
+(22:32:35) Sauce looks much faster!
+(22:32:35) Salamar looks much faster!
+(22:32:35) Salamar looks much faster!
+(22:32:35) Salamar feels less deadly.
+(22:32:36) Sauce is steeled with Dark Fortitude!
+(22:32:36) Sauce looks much faster!
+(22:32:36) Sauce looks much faster!
+(22:32:36) Rokaw feels less deadly.
+(22:32:36) typeW feels less deadly.
+(22:32:36) Ninja feels less deadly.
+(22:32:36) Sax feels less deadly.
+(22:32:36) Sithranis feels less deadly.
+(22:32:36) Soda's speed returns to normal.
+(22:32:36) Soda's speed returns to normal.
+(22:32:36) Jaz is instilled with Phaedra's Fury!
+(22:32:36) Jaz looks much faster!
+(22:32:36) Jaz is instilled with Phaedra's Fury!
+(22:32:36) Jaz is instilled with Phaedra's Fury!
+(22:32:36) Jaz looks much faster!
+(22:32:36) Sax's speed returns to normal.
+(22:32:36) Sax's speed returns to normal.
+(22:32:36) DRChuckalot's speed returns to normal.
+(22:32:36) DRChuckalot's speed returns to normal.
+(22:32:36) Salamar feels less deadly.
+(22:32:36) CloudA is steeled with Dark Fortitude!
+(22:32:36) CloudA is surrounded by a protective shield.
+(22:32:37) Salamar's speed returns to normal.
+(22:32:37) Salamar's speed returns to normal.
+(22:32:37) Ninja feels less deadly.
+(22:32:37) Salamar feels less deadly.
+(22:32:37) PacMan feels less deadly.
+(22:32:37) Sax feels less deadly.
+(22:32:37) Siege Tent bursts into flames!
+(22:32:37) Sauce's speed returns to normal.
+(22:32:37) Sauce's speed returns to normal.
+(22:32:37) Soda feels less deadly.
+(22:32:38) Kansus's speed returns to normal.
+(22:32:38) Kansus's speed returns to normal.
+(22:32:38) typeW's speed returns to normal.
+(22:32:38) typeW's speed returns to normal.
+(22:32:38) lover looks focused.
+(22:32:38) lover's speed returns to normal.
+(22:32:38) lover's speed returns to normal.
+(22:32:38) Rokaw's speed returns to normal.
+(22:32:38) Rokaw's speed returns to normal.
+(22:32:38) Soda feels less deadly.
+(22:32:38) DRChuckalot feels less deadly.
+(22:32:38) Peking feels less deadly.
+(22:32:38) Sauce feels less deadly.
+(22:32:38) pippo feels less deadly.
+(22:32:39) Siege Tent is now more vulnerable to siege weaponry!
+(22:32:39) Jaz's speed returns to normal.
+(22:32:39) Jaz's speed returns to normal.
+(22:32:39) Salamar feels less deadly.
+(22:32:39) PacMan feels less deadly.
+(22:32:39) lover feels less deadly.
+(22:32:40) Ninja feels less deadly.
+(22:32:40) Sax feels less deadly.
+(22:32:40) Sithranis feels less deadly.
+(22:32:40) PacMan's speed returns to normal.
+(22:32:40) Soda feels less deadly.
+(22:32:40) DRChuckalot feels less deadly.
+(22:32:40) Peking feels less deadly.
+(22:32:40) Sauce feels less deadly.
+(22:32:40) pippo feels less deadly.
+(22:32:40) Arry feels less deadly.
+(22:32:41) Bourbon looks much faster!
+(22:32:42) Bourbon looks much faster!
+(22:32:42) Rokaw feels less deadly.
+(22:32:42) Jaz feels less deadly.
+(22:32:42) Salamar feels less deadly.
+(22:32:42) PacMan feels less deadly.
+(22:32:42) lover feels less deadly.
+(22:32:42) typeW feels less deadly.
+(22:32:42) Ninja feels less deadly.
+(22:32:42) Sax feels less deadly.
+(22:32:42) Sithranis feels less deadly.
+(22:32:42) Bourbon looks much faster!
+(22:32:42) Bourbon's speed returns to normal.
+(22:32:42) Bourbon looks much faster!
+(22:32:43) Soda feels less deadly.
+(22:32:43) DRChuckalot feels less deadly.
+(22:32:43) Peking feels less deadly.
+(22:32:43) Sauce feels less deadly.
+(22:32:43) pippo feels less deadly.
+(22:32:43) Arry feels less deadly.
+(22:32:43) Rokaw feels less deadly.
+(22:32:43) Jaz feels less deadly.
+(22:32:43) Salamar feels less deadly.
+(22:32:43) PacMan feels less deadly.
+(22:32:43) lover feels less deadly.
+(22:32:43) typeW feels less deadly.
+(22:32:43) Ninja feels less deadly.
+(22:32:43) Sax feels less deadly.
+(22:32:43) Sithranis feels less deadly.
+(22:32:45) Soda feels less deadly.
+(22:32:45) DRChuckalot feels less deadly.
+(22:32:45) Sauce feels less deadly.
+(22:32:45) pippo feels less deadly.
+(22:32:45) Arry feels less deadly.
+(22:32:46) You don't feel quite as deadly anymore.
+(22:32:46) Rokaw feels less deadly.
+(22:32:46) Jaz feels less deadly.
+(22:32:46) Salamar feels less deadly.
+(22:32:46) PacMan feels less deadly.
+(22:32:46) lover feels less deadly.
+(22:32:46) typeW feels less deadly.
+(22:32:46) Ninja feels less deadly.
+(22:32:46) Sax feels less deadly.
+(22:32:46) Sithranis feels less deadly.
+(22:32:47) Soda feels less deadly.
+(22:32:47) DRChuckalot feels less deadly.
+(22:32:47) Sauce feels less deadly.
+(22:32:47) pippo feels less deadly.
+(22:32:47) Arry feels less deadly.
+(22:32:47) You don't feel quite as deadly anymore.
+(22:32:47) Peking feels less deadly.
+(22:32:47) Tons's speed returns to normal.
+(22:32:47) Tons's speed returns to normal.
+(22:32:48) Kansus is steeled with Unholy Fortitude!
+(22:32:49) Bulwark bursts into flames!
+(22:32:49) Rokaw feels less deadly.
+(22:32:49) Jaz feels less deadly.
+(22:32:49) Salamar feels less deadly.
+(22:32:49) PacMan feels less deadly.
+(22:32:49) Ninja feels less deadly.
+(22:32:49) Sax feels less deadly.
+(22:32:49) Sithranis feels less deadly.
+(22:32:49) CloudA is steeled with Dark Fortitude!
+(22:32:49) CloudA is surrounded by a protective shield.
+(22:32:49) CloudA looks focused.
+(22:32:49) Soda feels less deadly.
+(22:32:49) DRChuckalot feels less deadly.
+(22:32:49) Sauce feels less deadly.
+(22:32:49) pippo feels less deadly.
+(22:32:49) Arry feels less deadly.
+(22:32:50) You don't feel quite as deadly anymore.
+(22:32:50) CloudA is surrounded by a protective shield.
+(22:32:50) lover feels less deadly.
+(22:32:50) typeW feels less deadly.
+(22:32:50) CloudA is steeled with Dark Fortitude!
+(22:32:50) Sauce looks much faster!
+(22:32:50) CloudA is surrounded by a protective shield.
+(22:32:50) PacMan looks much faster!
+(22:32:50) lover is steeled with Dark Fortitude!
+(22:32:50) lover is surrounded by a protective shield.
+(22:32:50) lover looks focused.
+(22:32:50) The blade now glistens with poison.
+(22:32:50) Rokaw feels less deadly.
+(22:32:50) Salamar feels less deadly.
+(22:32:50) Jaz feels less deadly.
+(22:32:50) PacMan feels less deadly.
+(22:32:50) Ninja feels less deadly.
+(22:32:50) Sax feels less deadly.
+(22:32:50) Sithranis feels less deadly.
+(22:32:50) pippo feels less deadly.
+(22:32:50) Kansus feels less deadly.
+(22:32:50) Soda feels less deadly.
+(22:32:50) Tons feels less deadly.
+(22:32:50) Arry feels less deadly.
+(22:32:50) Bulwark bursts into flames!
+(22:32:50) Sauce's speed returns to normal.
+(22:32:50) DRChuckalot feels less deadly.
+(22:32:50) Bourbon feels less deadly.
+(22:32:50) Sauce feels less deadly.
+(22:32:50) You don't feel quite as deadly anymore.
+(22:32:51) PacMan's speed returns to normal.
+(22:32:51) lover is no longer focused.
+(22:32:51) Rokaw feels less deadly.
+(22:32:51) Salamar feels less deadly.
+(22:32:51) Jaz feels less deadly.
+(22:32:51) PacMan feels less deadly.
+(22:32:51) Ninja feels less deadly.
+(22:32:51) Sax feels less deadly.
+(22:32:51) Sithranis feels less deadly.
+(22:32:51) Soda feels less deadly.
+(22:32:51) Tons feels less deadly.
+(22:32:51) pippo feels less deadly.
+(22:32:51) Kansus feels less deadly.
+(22:32:51) Arry feels less deadly.
+(22:32:52) [Combat] Info: 
+(22:32:52) typeW looks much faster!
+(22:32:52) Rokaw feels less deadly.
+(22:32:52) Salamar feels less deadly.
+(22:32:52) Jaz feels less deadly.
+(22:32:52) typeW feels less deadly.
+(22:32:52) Ninja feels less deadly.
+(22:32:52) Sax feels less deadly.
+(22:32:52) Sithranis feels less deadly.
+(22:32:53) Rokaw looks much faster!
+(22:32:53) [Powers] Info: You begin casting Traveling Stance.
+(22:32:53) Soda feels less deadly.
+(22:32:53) DRChuckalot feels less deadly.
+(22:32:53) Peking feels less deadly.
+(22:32:53) Sauce feels less deadly.
+(22:32:53) pippo feels less deadly.
+(22:32:53) Kansus feels less deadly.
+(22:32:53) Arry feels less deadly.
+(22:32:53) Bulwark is now more vulnerable to siege weaponry!
+(22:32:53) Sauce looks much faster!
+(22:32:53) Sauce looks much faster!
+(22:32:53) Arry looks much faster!
+(22:32:53) Arry looks much faster!
+(22:32:53) Sithranis looks much faster!
+(22:32:53) Sithranis looks much faster!
+(22:32:53) Soda looks much faster!
+(22:32:53) Soda looks much faster!
+(22:32:53) Ninja looks much faster!
+(22:32:53) Ninja looks much faster!
+(22:32:53) You feel much faster!
+(22:32:53) You feel much faster!
+(22:32:53) DRChuckalot looks much faster!
+(22:32:53) DRChuckalot looks much faster!
+(22:32:53) Kansus looks much faster!
+(22:32:53) Kansus looks much faster!
+(22:32:53) Sax looks much faster!
+(22:32:53) Sax looks much faster!
+(22:32:53) lover looks focused.
+(22:32:53) Bulwark bursts into flames!
+(22:32:53) PacMan feels less deadly.
+(22:32:53) DRChuckalot's speed returns to normal.
+(22:32:53) DRChuckalot's speed returns to normal.
+(22:32:53) Tons feels less deadly.
+(22:32:53) You don't feel quite as deadly anymore.
+(22:32:54) lover looks much faster!
+(22:32:54) lover looks much faster!
+(22:32:54) typeW's speed returns to normal.
+(22:32:54) Salamar feels less deadly.
+(22:32:54) Soda feels less deadly.
+(22:32:54) typeW feels less deadly.
+(22:32:54) Ninja feels less deadly.
+(22:32:54) Sax feels less deadly.
+(22:32:54) Sithranis feels less deadly.
+(22:32:54) Sauce feels less deadly.
+(22:32:54) Kansus feels less deadly.
+(22:32:54) Arry feels less deadly.
+(22:32:54) Ninja's speed returns to normal.
+(22:32:54) Ninja's speed returns to normal.
+(22:32:54) CLC LogFile Stop :: .\LogFiles\Input\BroBane\bro_bane_6.txt
