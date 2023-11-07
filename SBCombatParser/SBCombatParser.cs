@@ -26,8 +26,12 @@ namespace SBCombatParser
         public delegate string SBregExHelper_PreParse(string str);
         public delegate Dictionary<string, string> SBregExHelper_PostParse( Dictionary<string, string> dic );
 
+        public static List<SBregExHelperFuncs.SBregExHelper_PreParse> GlobalPreParseFuncList = new List<SBregExHelperFuncs.SBregExHelper_PreParse>();
+        public static List<SBregExHelperFuncs.SBregExHelper_PostParse> GlobalPostParseFuncList = new List<SBregExHelperFuncs.SBregExHelper_PostParse>();
+
         public static string SBregExHelper_PreParse_YouCaseReplace(string str)
         {
+            
             string ret = str.Replace(" you ", " You ").Replace(" YOU ", " You ");
 
             SBregExHelper_PreParse_LogWriter(str, ret);
@@ -37,20 +41,26 @@ namespace SBCombatParser
 
         public static string SBregExHelper_PreParse_YourAre(string str)
         {
-            string ret = str.Replace(" Your ", " You ").Replace(" are ", " is ");
+            string ret;
+            string regEx = "(you)[r]?";
+            string replace = "You";
+            ret = Regex.Replace(str, regEx, replace);
+
+            ret = Regex.Replace(ret, " (are) ", " is ");
+            //string ret = str.Replace(" Your ", " You ").Replace(" are ", " is ");
 
             SBregExHelper_PreParse_LogWriter(str, ret);
 
             return ret;
         }
 
-        private static void SBregExHelper_PreParse_LogWriter(string original, string after)
+        private static void SBregExHelper_PreParse_LogWriter(string original, string after, [CallerMemberName] string callingMethod = "")
         {
             if (!after.Equals(original))
             {
-                GlobalVariables.WriteLineToPreParseLog("Before : " + original);
-                GlobalVariables.WriteLineToPreParseLog("After  : " + after);
-                GlobalVariables.WriteLineToPreParseLog("");
+                GlobalVariables.WriteLineToPreParseLog("Before : " + original, callingMethod);
+                GlobalVariables.WriteLineToPreParseLog("After  : " + after, callingMethod);
+                GlobalVariables.WriteLineToPreParseLog("", callingMethod);
             }
         }
 
@@ -394,8 +404,8 @@ namespace SBCombatParser
                 //myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>hit)s the (?<target>.*) for (?<value>\d*) .*\.";
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)[r']?[s]? (?<type>hit)[s]? (?<target>.*) for (?<value>\d*) .*[\.!]";
                 SBregExUsage sbreu = new SBregExUsage("Damage", "Melee hit", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
-                sbreu.regPreParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PreParse_YouCaseReplace);
-                sbreu.regPreParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PreParse_YourAre);
+                //sbreu.regPreParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PreParse_YouCaseReplace);
+                //sbreu.regPreParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PreParse_YourAre);
                 normalPriorityRegEx.Add(sbreu);
                
                 //Matches hurt, shock, smite, heal
@@ -587,6 +597,13 @@ namespace SBCombatParser
                     s.InitLog();
                 }
             }
+
+            // Add Global Pre Parsing Helpers Here
+            SBregExHelperFuncs.GlobalPreParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PreParse_YouCaseReplace);
+            SBregExHelperFuncs.GlobalPreParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PreParse_YourAre);
+
+            // Add Global Post Parsing Helpers Here
+            // None
 
             this.SetupSBEnvironment();
             ActGlobals.oFormActMain.LogPathHasCharName = false;
@@ -1231,13 +1248,13 @@ namespace SBCombatParser
 
         private void ParseLine(bool isImport, LogLineEventArgs log)
         {
-            ActGlobals.oFormActMain.GlobalTimeSorter++;
+            int actGTS = ActGlobals.oFormActMain.GlobalTimeSorter++;
             log.detectedType = Color.Black.ToArgb();
             DateTime time = ActGlobals.oFormActMain.LastKnownTime;
             
             GlobalVariables.WriteLineToDebugLog(log.logLine);
-            
-            LogLine line = new LogLine(log.logLine);
+
+            LogLine line = new LogLine(log.logLine, actGTS);
 
             if (line.valid)
             {
@@ -1577,6 +1594,7 @@ namespace SBCombatParser
         public string value_type = string.Empty;
         public int threat = 0;
         public Point regExIndx = new Point(-1,-1);
+        public int globalTimeSorter = 0;
 
         /*
         static Regex regex = 
@@ -1594,8 +1612,16 @@ namespace SBCombatParser
 
 
 
-        public LogLine(string line)
+        public LogLine(string line, int actGTS)
         {
+            this.globalTimeSorter = actGTS;
+
+            //Processing Global Pre Parse Functions (string Modifications)
+            foreach (var GlobalPreParseFunc in SBregExHelperFuncs.GlobalPreParseFuncList)
+            {
+                line = GlobalPreParseFunc(line);
+            }
+
             GlobalVariables.WriteLineToDebugLog(line);
             
             this.valid = false;
@@ -1626,8 +1652,16 @@ namespace SBCombatParser
                 }
             }
 
+            //Processing Global Post Parse Functions (Dictionary Modifications)
+            foreach (var GlobalPostParseFunc in SBregExHelperFuncs.GlobalPostParseFuncList)
+            {
+                dict = GlobalPostParseFunc(dict);
+            }
+
             if (dict != null && dict.Count > 0)
             {
+             
+                
                 GlobalVariables.WriteLineToDebugLog("RegEx Match :: " + line);
                 this.valid = true;
                 this.time = dict["time"];
