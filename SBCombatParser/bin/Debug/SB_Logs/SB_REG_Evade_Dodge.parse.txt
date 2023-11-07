@@ -1,0 +1,18 @@
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
+RegExType   :: Evade :: Dodge
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>dodge)s? (?<source>.*?)[r']?[s]? attack[\.!]
+
+Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
+01:42:14 : dodge      : Dispel Cobra              : DMT                       :                           :              :              :       
+01:42:44 : dodge      : Dispel Cobra              : Octavius                  :                           :              :              :       
+01:42:44 : dodge      : Dispel Cobra              : Octavius                  :                           :              :              :       
+01:42:45 : dodge      : Dispel Cobra              : Octavius                  :                           :              :              :       
+01:42:50 : dodge      : Dispel Cobra              : xinyu                     :                           :              :              :       
+01:42:50 : dodge      : HuntyPet Cobra            : Rylix                     :                           :              :              :       
+01:42:50 : dodge      : HuntyPet Cobra            : Rylix                     :                           :              :              :       
+01:43:22 : dodge      : TyyppVee                  : kwx                       :                           :              :              :       
+01:43:22 : dodge      : TyyppVee                  : kwx                       :                           :              :              :       
+01:43:45 : dodge      : TyyppVee                  : DayWalker                 :                           :              :              :       
+01:43:45 : dodge      : TyyppVee                  : DayWalker                 :                           :              :              :       
+01:43:45 : dodge      : TyyppVee                  : DayWalker                 :                           :              :              :       

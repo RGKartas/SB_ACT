@@ -1,511 +1,171 @@
-Version     :: 0.0.9.8
-DateTime    :: 11/6/2023 08:27:49 AM
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
 RegExType   :: Evade :: Block You
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>block)[s]? (?<source>.*)'s .*[\.!]
-(08:28:04) Kansus blocks POOPCUMPISS's attack.
-(08:28:04) ShiftyInc blocks Sax's attack.
-(08:28:04) ShiftyInc blocks typeW's attack.
-(08:28:04) ShiftyInc blocks Sithranis Silantaar's attack.
-(08:28:04) Kansus blocks Priest's attack.
-(08:28:04) ShiftyInc blocks Sauce's attack.
-(08:28:04) ShiftyInc blocks Rokaw's attack.
-(08:28:04) ShiftyInc blocks DRChuckalot's attack.
-(08:28:04) Kansus blocks BlackSele's attack.
-(08:28:04) ShiftyInc blocks pippo's attack.
-(08:28:05) ShiftyInc blocks Jaz's attack.
-(08:28:05) ShiftyInc blocks Sithranis Silantaar's attack.
-(08:28:05) ShiftyInc blocks pippo's attack.
-(08:28:05) ShiftyInc blocks Sauce's attack.
-(08:28:05) Bourbon blocks chs's attack.
-(08:28:05) ShiftyInc blocks Rokaw's attack.
-(08:28:05) ShiftyInc blocks DRChuckalot's attack.
-(08:28:05) ShiftyInc blocks Sauce's attack.
-(08:28:05) ShiftyInc blocks Sax's attack.
-(08:28:05) ShiftyInc blocks Jaz's attack.
-(08:28:05) ShiftyInc blocks typeW's attack.
-(08:28:06) ShiftyInc blocks Ninja's attack.
-(08:28:06) Bourbon blocks chs's attack.
-(08:28:06) Rokaw blocks POOPCUMPISS's attack.
-(08:28:06) Ninja blocks Priest's attack.
-(08:28:06) Ninja blocks Priest's attack.
-(08:28:07) Ninja blocks Priest's attack.
-(08:28:07) Ninja blocks Priest's attack.
-(08:28:07) Rokaw blocks POOPCUMPISS's attack.
-(08:28:07) Rokaw blocks POOPCUMPISS's attack.
-(08:28:07) Bourbon blocks chs's attack.
-(08:28:07) Ninja blocks Priest's attack.
-(08:28:07) ShiftyInc blocks typeW's attack.
-(08:28:07) ShiftyInc blocks Rokaw's attack.
-(08:28:08) ShiftyInc blocks DRChuckalot's attack.
-(08:28:08) ShiftyInc blocks pippo's attack.
-(08:28:08) ShiftyInc blocks pippo's attack.
-(08:28:08) ShiftyInc blocks DRChuckalot's attack.
-(08:28:09) ShiftyInc blocks Sauce's attack.
-(08:28:09) ShiftyInc blocks Ninja's attack.
-(08:28:09) ShiftyInc blocks typeW's attack.
-(08:28:09) ShiftyInc blocks Rokaw's attack.
-(08:28:09) ShiftyInc blocks Ninja's attack.
-(08:28:09) ShiftyInc blocks DRChuckalot's attack.
-(08:28:09) ShiftyInc blocks pippo's attack.
-(08:28:09) ShiftyInc blocks Sauce's attack.
-(08:28:09) ShiftyInc blocks Jaz's attack.
-(08:28:10) Rokaw blocks POOPCUMPISS's attack.
-(08:28:10) ShiftyInc blocks Jaz's attack.
-(08:28:10) Rokaw blocks POOPCUMPISS's attack.
-(08:28:10) ShiftyInc blocks Jaz's attack.
-(08:28:11) Rokaw blocks POOPCUMPISS's attack.
-(08:28:11) Rokaw blocks POOPCUMPISS's attack.
-(08:28:11) DRChuckalot blocks ChopSuey's attack.
-(08:28:12) DRChuckalot blocks ChopSuey's attack.
-(08:28:12) DRChuckalot blocks ChopSuey's attack.
-(08:28:12) Rokaw blocks POOPCUMPISS's attack.
-(08:28:12) Rokaw blocks POOPCUMPISS's attack.
-(08:28:12) DRChuckalot blocks ChopSuey's attack.
-(08:28:13) DRChuckalot blocks ChopSuey's attack.
-(08:28:13) DRChuckalot blocks BroYogi's attack.
-(08:28:13) WillPowder blocks Ninja's attack.
-(08:28:13) DRChuckalot blocks ChopSuey's attack.
-(08:28:13) DRChuckalot blocks ChopSuey's attack.
-(08:28:14) DRChuckalot blocks ChopSuey's attack.
-(08:28:14) WillPowder blocks Ninja's attack.
-(08:28:15) DRChuckalot blocks Rokaw's attack.
-(08:28:15) DRChuckalot blocks ChopSuey's attack.
-(08:28:15) WillPowder blocks Jaz's attack.
-(08:28:15) DRChuckalot blocks ChopSuey's attack.
-(08:28:15) WillPowder blocks Jaz's attack.
-(08:28:15) DRChuckalot blocks ChopSuey's attack.
-(08:28:15) DRChuckalot blocks ChopSuey's attack.
-(08:28:15) DRChuckalot blocks Rokaw's attack.
-(08:28:15) WillPowder blocks Jaz's attack.
-(08:28:16) WillPowder blocks Jaz's attack.
-(08:28:16) DRChuckalot blocks ChopSuey's attack.
-(08:28:16) DRChuckalot blocks ChopSuey's attack.
-(08:28:16) DRChuckalot blocks ChopSuey's attack.
-(08:28:16) Sithranis Silantaar blocks DADDY's attack.
-(08:28:16) Sithranis Silantaar blocks DADDY's attack.
-(08:28:16) DRChuckalot blocks Rokaw's attack.
-(08:28:16) DRChuckalot blocks ChopSuey's attack.
-(08:28:17) WillPowder blocks Jaz's attack.
-(08:28:18) DRChuckalot blocks ChopSuey's attack.
-(08:28:18) DRChuckalot blocks ChopSuey's attack.
-(08:28:18) WillPowder blocks Jaz's attack.
-(08:28:18) Soda blocks BlackSele's attack.
-(08:28:18) Soda blocks BlackSele's attack.
-(08:28:19) WillPowder blocks Rokaw's attack.
-(08:28:19) Rokaw blocks Sauce's attack.
-(08:28:22) Trashcans blocks Jaz's attack.
-(08:28:22) pippo blocks chs's attack.
-(08:28:22) DeathieDS blocks Rokaw's attack.
-(08:28:24) Sauce blocks xReaLx's attack.
-(08:28:25) ShiftyInc blocks pippo's attack.
-(08:28:25) Sauce blocks Priest's attack.
-(08:28:25) Sauce blocks POOPCUMPISS's attack.
-(08:28:25) Sauce blocks POOPCUMPISS's attack.
-(08:28:25) ShiftyInc blocks Jaz's attack.
-(08:28:25) Sauce blocks xReaLx's attack.
-(08:28:25) Sauce blocks xReaLx's attack.
-(08:28:25) ShiftyInc blocks Sithranis Silantaar's attack.
-(08:28:25) ShiftyInc blocks pippo's attack.
-(08:28:25) Sauce blocks MacBeth's attack.
-(08:28:25) ShiftyInc blocks pippo's attack.
-(08:28:25) ShiftyInc blocks Sithranis Silantaar's attack.
-(08:28:26) ShiftyInc blocks Ninja's attack.
-(08:28:26) ShiftyInc blocks Ninja's attack.
-(08:28:26) You block Priest's attack!
-(08:28:26) Ninja blocks BroRoar's attack.
-(08:28:26) You block Priest's attack!
-(08:28:26) ShiftyInc blocks Ninja's attack.
-(08:28:27) Ninja blocks BroRoar's attack.
-(08:28:27) You block Priest's attack!
-(08:28:27) Ninja blocks BroRoar's attack.
-(08:28:27) You block POOPCUMPISS's attack!
-(08:28:27) You block DADDY's attack!
-(08:28:27) You block Priest's attack!
-(08:28:27) You block Priest's attack!
-(08:28:27) You block Priest's attack!
-(08:28:27) You block Priest's attack!
-(08:28:27) You block Priest's attack!
-(08:28:27) You block ChopSuey's attack!
-(08:28:27) You block ChopSuey's attack!
-(08:28:27) You block POOPCUMPISS's attack!
-(08:28:28) You block DADDY's attack!
-(08:28:28) You block Priest's attack!
-(08:28:28) ShiftyInc blocks CloudA's attack.
-(08:28:28) You block ChopSuey's attack!
-(08:28:28) You block POOPCUMPISS's attack!
-(08:28:28) You block Priest's attack!
-(08:28:28) You block POOPCUMPISS's attack!
-(08:28:28) You block Priest's attack!
-(08:28:28) You block POOPCUMPISS's attack!
-(08:28:28) You block Priest's attack!
-(08:28:28) You block DADDY's attack!
-(08:28:28) You block ChopSuey's attack!
-(08:28:28) You block POOPCUMPISS's attack!
-(08:28:28) Bourbon blocks xReaLx's attack.
-(08:28:28) You block Priest's attack!
-(08:28:29) You block POOPCUMPISS's attack!
-(08:28:29) DRChuckalot blocks WillPowder's attack.
-(08:28:29) You block ChopSuey's attack!
-(08:28:29) ShiftyInc blocks CloudA's attack.
-(08:28:29) You block Priest's attack!
-(08:28:29) You block Priest's attack!
-(08:28:29) You block ChopSuey's attack!
-(08:28:29) You block POOPCUMPISS's attack!
-(08:28:29) You block POOPCUMPISS's attack!
-(08:28:29) You block ChopSuey's attack!
-(08:28:29) You block ChopSuey's attack!
-(08:28:29) You block POOPCUMPISS's attack!
-(08:28:29) Tons OfHp blocks MacBeth's attack.
-(08:28:29) You block POOPCUMPISS's attack!
-(08:28:29) Tons OfHp blocks MacBeth's attack.
-(08:28:29) You block xReaLx's attack!
-(08:28:30) You block ChopSuey's attack!
-(08:28:30) Tons OfHp blocks MacBeth's attack.
-(08:28:30) You block ChopSuey's attack!
-(08:28:30) You block ChopSuey's attack!
-(08:28:30) Tons OfHp blocks MacBeth's attack.
-(08:28:31) Tons OfHp blocks MacBeth's attack.
-(08:28:31) You block ChopSuey's attack!
-(08:28:31) You block Priest's attack!
-(08:28:31) You block Priest's attack!
-(08:28:31) You block POOPCUMPISS's attack!
-(08:28:31) You block Priest's attack!
-(08:28:31) Tons OfHp blocks MacBeth's attack.
-(08:28:31) Sithranis Silantaar blocks ChopSuey's attack.
-(08:28:31) Sithranis Silantaar blocks ChopSuey's attack.
-(08:28:31) You block Priest's attack!
-(08:28:32) You block Priest's attack!
-(08:28:32) You block Priest's attack!
-(08:28:32) Sithranis Silantaar blocks BlackSele's attack.
-(08:28:32) Sithranis Silantaar blocks POOPCUMPISS's attack.
-(08:28:32) Sithranis Silantaar blocks POOPCUMPISS's attack.
-(08:28:32) You block xReaLx's attack!
-(08:28:32) You block xReaLx's attack!
-(08:28:32) WillPowder blocks Jaz's attack.
-(08:28:32) WillPowder blocks Ninja's attack.
-(08:28:32) Sithranis Silantaar blocks DADDY's attack.
-(08:28:33) Sithranis Silantaar blocks Priest's attack.
-(08:28:33) Soda blocks WillPowder's attack.
-(08:28:33) Sithranis Silantaar blocks Priest's attack.
-(08:28:33) Soda blocks WillPowder's attack.
-(08:28:33) Soda blocks WillPowder's attack.
-(08:28:33) typeW blocks DADDY's attack.
-(08:28:34) typeW blocks DADDY's attack.
-(08:28:34) typeW blocks DADDY's attack.
-(08:28:34) Soda blocks WillPowder's attack.
-(08:28:34) typeW blocks ChopSuey's attack.
-(08:28:34) typeW blocks ChopSuey's attack.
-(08:28:34) WillPowder blocks DRChuckalot's attack.
-(08:28:34) WillPowder blocks DRChuckalot's attack.
-(08:28:35) typeW blocks ChopSuey's attack.
-(08:28:35) Soda blocks WillPowder's attack.
-(08:28:35) typeW blocks DADDY's attack.
-(08:28:35) pippo blocks PYogi's attack.
-(08:28:35) ShiftyInc blocks CloudA's attack.
-(08:28:35) typeW blocks DADDY's attack.
-(08:28:35) typeW blocks ChopSuey's attack.
-(08:28:35) typeW blocks ChopSuey's attack.
-(08:28:35) typeW blocks BlackSele's attack.
-(08:28:35) Soda blocks WillPowder's attack.
-(08:28:35) typeW blocks ChopSuey's attack.
-(08:28:35) typeW blocks DADDY's attack.
-(08:28:35) typeW blocks ChopSuey's attack.
-(08:28:36) typeW blocks POOPCUMPISS's attack.
-(08:28:36) typeW blocks POOPCUMPISS's attack.
-(08:28:36) typeW blocks ChopSuey's attack.
-(08:28:36) ShiftyInc blocks CloudA's attack.
-(08:28:36) typeW blocks POOPCUMPISS's attack.
-(08:28:36) typeW blocks BlackSele's attack.
-(08:28:36) typeW blocks DADDY's attack.
-(08:28:36) typeW blocks ChopSuey's attack.
-(08:28:36) typeW blocks POOPCUMPISS's attack.
-(08:28:36) typeW blocks ChopSuey's attack.
-(08:28:36) typeW blocks POOPCUMPISS's attack.
-(08:28:36) typeW blocks BlackSele's attack.
-(08:28:37) typeW blocks POOPCUMPISS's attack.
-(08:28:37) typeW blocks POOPCUMPISS's attack.
-(08:28:37) typeW blocks BlackSele's attack.
-(08:28:37) typeW blocks POOPCUMPISS's attack.
-(08:28:37) typeW blocks BlackSele's attack.
-(08:28:37) typeW blocks ChopSuey's attack.
-(08:28:37) typeW blocks ChopSuey's attack.
-(08:28:37) typeW blocks POOPCUMPISS's attack.
-(08:28:37) typeW blocks POOPCUMPISS's attack.
-(08:28:37) Soda blocks WillPowder's attack.
-(08:28:38) typeW blocks POOPCUMPISS's attack.
-(08:28:38) typeW blocks ChopSuey's attack.
-(08:28:38) Soda blocks WillPowder's attack.
-(08:28:38) typeW blocks BlackSele's attack.
-(08:28:38) typeW blocks ChopSuey's attack.
-(08:28:38) typeW blocks ChopSuey's attack.
-(08:28:38) typeW blocks POOPCUMPISS's attack.
-(08:28:38) typeW blocks ChopSuey's attack.
-(08:28:38) typeW blocks BlackSele's attack.
-(08:28:38) typeW blocks POOPCUMPISS's attack.
-(08:28:38) typeW blocks ChopSuey's attack.
-(08:28:38) typeW blocks POOPCUMPISS's attack.
-(08:28:38) typeW blocks ChopSuey's attack.
-(08:28:38) Ninja blocks DADDY's attack.
-(08:28:38) typeW blocks POOPCUMPISS's attack.
-(08:28:38) typeW blocks POOPCUMPISS's attack.
-(08:28:38) typeW blocks ChopSuey's attack.
-(08:28:38) typeW blocks ChopSuey's attack.
-(08:28:38) Sax blocks BlackSele's attack.
-(08:28:38) Soda blocks WillPowder's attack.
-(08:28:38) typeW blocks POOPCUMPISS's attack.
-(08:28:38) typeW blocks POOPCUMPISS's attack.
-(08:28:38) typeW blocks POOPCUMPISS's attack.
-(08:28:39) Arry Potta blocks BlackSele's attack.
-(08:28:39) typeW blocks POOPCUMPISS's attack.
-(08:28:39) typeW blocks POOPCUMPISS's attack.
-(08:28:39) typeW blocks POOPCUMPISS's attack.
-(08:28:39) typeW blocks POOPCUMPISS's attack.
-(08:28:39) You block MacBeth's attack!
-(08:28:39) typeW blocks POOPCUMPISS's attack.
-(08:28:39) WillPowder blocks Ninja's attack.
-(08:28:39) Arry Potta blocks BlackSele's attack.
-(08:28:39) typeW blocks ChopSuey's attack.
-(08:28:39) Bourbon blocks MacBeth's attack.
-(08:28:39) typeW blocks ChopSuey's attack.
-(08:28:39) Ninja blocks DADDY's attack.
-(08:28:39) Bourbon blocks MacBeth's attack.
-(08:28:39) typeW blocks POOPCUMPISS's attack.
-(08:28:39) Bourbon blocks MacBeth's attack.
-(08:28:39) typeW blocks POOPCUMPISS's attack.
-(08:28:39) typeW blocks ChopSuey's attack.
-(08:28:40) WillPowder blocks Ninja's attack.
-(08:28:40) Ninja blocks POOPCUMPISS's attack.
-(08:28:40) Ninja blocks DADDY's attack.
-(08:28:40) typeW blocks ChopSuey's attack.
-(08:28:40) Bourbon blocks MacBeth's attack.
-(08:28:40) typeW blocks BlackSele's attack.
-(08:28:41) Bourbon blocks MacBeth's attack.
-(08:28:41) typeW blocks BlackSele's attack.
-(08:28:41) typeW blocks ChopSuey's attack.
-(08:28:41) Ninja blocks POOPCUMPISS's attack.
-(08:28:41) Ninja blocks Tupac Shakur's attack.
-(08:28:41) Ninja blocks Tupac Shakur's attack.
-(08:28:41) Ninja blocks MacBeth's attack.
-(08:28:41) Ninja blocks POOPCUMPISS's attack.
-(08:28:41) Ninja blocks POOPCUMPISS's attack.
-(08:28:41) Ninja blocks xReaLx's attack.
-(08:28:41) Ninja blocks xReaLx's attack.
-(08:28:41) pippo blocks ChopSuey's attack.
-(08:28:41) Ninja blocks MacBeth's attack.
-(08:28:41) pippo blocks ChopSuey's attack.
-(08:28:41) Ninja blocks Tupac Shakur's attack.
-(08:28:42) Ninja blocks xReaLx's attack.
-(08:28:42) pippo blocks ChopSuey's attack.
-(08:28:42) pippo blocks ChopSuey's attack.
-(08:28:42) pippo blocks ChopSuey's attack.
-(08:28:42) Ninja blocks xReaLx's attack.
-(08:28:42) Bourbon blocks Priest's attack.
-(08:28:42) Ninja blocks DADDY's attack.
-(08:28:42) Ninja blocks Tupac Shakur's attack.
-(08:28:42) Ninja blocks xReaLx's attack.
-(08:28:42) Ninja blocks ChopSuey's attack.
-(08:28:43) Ninja blocks ChopSuey's attack.
-(08:28:43) Ninja blocks Tupac Shakur's attack.
-(08:28:43) Ninja blocks Tupac Shakur's attack.
-(08:28:43) Ninja blocks Tupac Shakur's attack.
-(08:28:43) Ninja blocks xReaLx's attack.
-(08:28:43) Ninja blocks Tupac Shakur's attack.
-(08:28:43) Ninja blocks Priest's attack.
-(08:28:43) Ninja blocks Tupac Shakur's attack.
-(08:28:44) Ninja blocks xReaLx's attack.
-(08:28:44) Ninja blocks xReaLx's attack.
-(08:28:44) Ninja blocks Priest's attack.
-(08:28:44) Ninja blocks DADDY's attack.
-(08:28:44) Ninja blocks Priest's attack.
-(08:28:44) Ninja blocks Priest's attack.
-(08:28:44) Ninja blocks Priest's attack.
-(08:28:44) Ninja blocks Priest's attack.
-(08:28:44) Ninja blocks Priest's attack.
-(08:28:44) Ninja blocks Tupac Shakur's attack.
-(08:28:44) Ninja blocks xReaLx's attack.
-(08:28:44) Ninja blocks Priest's attack.
-(08:28:44) Ninja blocks xReaLx's attack.
-(08:28:44) Ninja blocks xReaLx's attack.
-(08:28:44) Ninja blocks Tupac Shakur's attack.
-(08:28:44) Bourbon blocks WillPowder's attack.
-(08:28:44) Ninja blocks Priest's attack.
-(08:28:44) Ninja blocks Priest's attack.
-(08:28:44) Ninja blocks ChopSuey's attack.
-(08:28:44) Ninja blocks ChopSuey's attack.
-(08:28:44) Ninja blocks ChopSuey's attack.
-(08:28:44) Ninja blocks ChopSuey's attack.
-(08:28:44) Ninja blocks Tupac Shakur's attack.
-(08:28:44) Ninja blocks Tupac Shakur's attack.
-(08:28:45) Trashcans blocks DRChuckalot's attack.
-(08:28:45) Ninja blocks xReaLx's attack.
-(08:28:45) Ninja blocks xReaLx's attack.
-(08:28:45) Ninja blocks Priest's attack.
-(08:28:45) Ninja blocks Tupac Shakur's attack.
-(08:28:45) Ninja blocks Priest's attack.
-(08:28:45) Ninja blocks Priest's attack.
-(08:28:45) Bourbon blocks WillPowder's attack.
-(08:28:45) Ninja blocks ChopSuey's attack.
-(08:28:45) Ninja blocks ChopSuey's attack.
-(08:28:45) DRChuckalot blocks Priest's attack.
-(08:28:45) Ninja blocks xReaLx's attack.
-(08:28:45) Ninja blocks ChopSuey's attack.
-(08:28:45) Ninja blocks Tupac Shakur's attack.
-(08:28:45) Ninja blocks ChopSuey's attack.
-(08:28:45) Trashcans blocks Rokaw's attack.
-(08:28:45) Trashcans blocks DRChuckalot's attack.
-(08:28:45) DRChuckalot blocks Priest's attack.
-(08:28:46) DRChuckalot blocks Priest's attack.
-(08:28:46) DRChuckalot blocks Priest's attack.
-(08:28:46) Ninja blocks Tupac Shakur's attack.
-(08:28:46) DRChuckalot blocks ChopSuey's attack.
-(08:28:46) DRChuckalot blocks ChopSuey's attack.
-(08:28:46) Beerbaron blocks DRChuckalot's attack.
-(08:28:46) Beerbaron blocks DRChuckalot's attack.
-(08:28:46) Ninja blocks Tupac Shakur's attack.
-(08:28:46) Ninja blocks Tupac Shakur's attack.
-(08:28:46) DRChuckalot blocks POOPCUMPISS's attack.
-(08:28:46) DRChuckalot blocks POOPCUMPISS's attack.
-(08:28:47) DRChuckalot blocks Priest's attack.
-(08:28:47) DRChuckalot blocks ChopSuey's attack.
-(08:28:47) DRChuckalot blocks Priest's attack.
-(08:28:47) DRChuckalot blocks Priest's attack.
-(08:28:47) Ninja blocks Tupac Shakur's attack.
-(08:28:47) Ninja blocks Tupac Shakur's attack.
-(08:28:47) DRChuckalot blocks xReaLx's attack.
-(08:28:47) DRChuckalot blocks ChopSuey's attack.
-(08:28:47) DRChuckalot blocks xReaLx's attack.
-(08:28:47) DRChuckalot blocks Priest's attack.
-(08:28:47) DRChuckalot blocks Priest's attack.
-(08:28:47) Tons OfHp blocks chs's attack.
-(08:28:47) DRChuckalot blocks Priest's attack.
-(08:28:47) DRChuckalot blocks xReaLx's attack.
-(08:28:47) Ninja blocks Tupac Shakur's attack.
-(08:28:48) Ninja blocks Tupac Shakur's attack.
-(08:28:48) Ninja blocks Tupac Shakur's attack.
-(08:28:48) pippo blocks POOPCUMPISS's attack.
-(08:28:48) pippo blocks POOPCUMPISS's attack.
-(08:28:48) Ninja blocks Tupac Shakur's attack.
-(08:28:48) Ninja blocks Tupac Shakur's attack.
-(08:28:48) pippo blocks POOPCUMPISS's attack.
-(08:28:49) You block POOPCUMPISS's attack!
-(08:28:49) Ninja blocks Tupac Shakur's attack.
-(08:28:49) You block POOPCUMPISS's attack!
-(08:28:49) You block POOPCUMPISS's attack!
-(08:28:50) You block Priest's attack!
-(08:28:50) You block Priest's attack!
-(08:28:50) You block POOPCUMPISS's attack!
-(08:28:50) Ninja blocks Tupac Shakur's attack.
-(08:28:50) Ninja blocks Tupac Shakur's attack.
-(08:28:50) Tons OfHp blocks xReaLx's attack.
-(08:28:50) You block BlackSele's attack!
-(08:28:50) You block POOPCUMPISS's attack!
-(08:28:50) Beerbaron blocks Salamar's attack.
-(08:28:50) You block Priest's attack!
-(08:28:50) You block Priest's attack!
-(08:28:50) Tons OfHp blocks ChopSuey's attack.
-(08:28:50) You block Priest's attack!
-(08:28:50) You block BlackSele's attack!
-(08:28:51) Ninja blocks Tupac Shakur's attack.
-(08:28:51) Tons OfHp blocks xReaLx's attack.
-(08:28:51) Ninja blocks Tupac Shakur's attack.
-(08:28:51) You block POOPCUMPISS's attack!
-(08:28:51) You block POOPCUMPISS's attack!
-(08:28:51) You block BlackSele's attack!
-(08:28:51) Tons OfHp blocks ChopSuey's attack.
-(08:28:51) Beerbaron blocks Salamar's attack.
-(08:28:51) Tons OfHp blocks xReaLx's attack.
-(08:28:51) Tons OfHp blocks xReaLx's attack.
-(08:28:51) Ninja blocks Tupac Shakur's attack.
-(08:28:51) Tons OfHp blocks chs's attack.
-(08:28:51) You block POOPCUMPISS's attack!
-(08:28:51) You block DADDY's attack!
-(08:28:51) Tons OfHp blocks ChopSuey's attack.
-(08:28:51) Tons OfHp blocks ChopSuey's attack.
-(08:28:52) Tons OfHp blocks xReaLx's attack.
-(08:28:52) You block POOPCUMPISS's attack!
-(08:28:52) Tons OfHp blocks ChopSuey's attack.
-(08:28:52) Tons OfHp blocks xReaLx's attack.
-(08:28:52) Ninja blocks Tupac Shakur's attack.
-(08:28:52) Ninja blocks Tupac Shakur's attack.
-(08:28:52) You block POOPCUMPISS's attack!
-(08:28:52) You block POOPCUMPISS's attack!
-(08:28:52) You block DADDY's attack!
-(08:28:52) Trashcans blocks pippo's attack.
-(08:28:52) You block Priest's attack!
-(08:28:52) You block Priest's attack!
-(08:28:52) You block Priest's attack!
-(08:28:52) Ninja blocks Tupac Shakur's attack.
-(08:28:52) Ninja blocks Tupac Shakur's attack.
-(08:28:52) Tons OfHp blocks ChopSuey's attack.
-(08:28:52) You block DADDY's attack!
-(08:28:52) You block POOPCUMPISS's attack!
-(08:28:52) You block POOPCUMPISS's attack!
-(08:28:52) You block POOPCUMPISS's attack!
-(08:28:52) You block ChopSuey's attack!
-(08:28:52) Tons OfHp blocks chs's attack.
-(08:28:52) You block DADDY's attack!
-(08:28:52) Tons OfHp blocks xReaLx's attack.
-(08:28:52) Tons OfHp blocks xReaLx's attack.
-(08:28:52) Trashcans blocks typeW's attack.
-(08:28:52) Tons OfHp blocks xReaLx's attack.
-(08:28:52) Ninja blocks Tupac Shakur's attack.
-(08:28:53) Tons OfHp blocks chs's attack.
-(08:28:53) You block Priest's attack!
-(08:28:53) Ninja blocks Tupac Shakur's attack.
-(08:28:53) Trashcans blocks Ninja's attack.
-(08:28:53) You block Priest's attack!
-(08:28:53) You block Priest's attack!
-(08:28:53) Trashcans blocks Jaz's attack.
-(08:28:53) Tons OfHp blocks chs's attack.
-(08:28:53) Ninja blocks Tupac Shakur's attack.
-(08:28:53) Ninja blocks Tupac Shakur's attack.
-(08:28:53) Beerbaron blocks Rokaw's attack.
-(08:28:53) Eihortetung blocks xReaLx's attack.
-(08:28:53) Eihortetung blocks xReaLx's attack.
-(08:28:54) Ninja blocks Tupac Shakur's attack.
-(08:28:54) Tons OfHp blocks chs's attack.
-(08:28:54) Tons OfHp blocks chs's attack.
-(08:28:54) Eihortetung blocks xReaLx's attack.
-(08:28:54) Ninja blocks Tupac Shakur's attack.
-(08:28:54) Ninja blocks Tupac Shakur's attack.
-(08:28:54) Trashcans blocks Jaz's attack.
-(08:28:54) Kansus blocks POOPCUMPISS's attack.
-(08:28:54) Kansus blocks POOPCUMPISS's attack.
-(08:28:54) Eihortetung blocks xReaLx's attack.
-(08:28:54) Kansus blocks POOPCUMPISS's attack.
-(08:28:54) Eihortetung blocks xReaLx's attack.
-(08:28:54) Eihortetung blocks xReaLx's attack.
-(08:28:54) Beerbaron blocks Rokaw's attack.
-(08:28:54) Bourbon blocks chs's attack.
-(08:28:54) Trashcans blocks Jaz's attack.
-(08:28:54) typeW blocks xReaLx's attack.
-(08:28:54) Kansus blocks POOPCUMPISS's attack.
-(08:28:54) Bourbon blocks WillPowder's attack.
-(08:28:54) typeW blocks xReaLx's attack.
-(08:28:54) typeW blocks xReaLx's attack.
-(08:28:54) Kansus blocks POOPCUMPISS's attack.
-(08:28:54) Bourbon blocks WillPowder's attack.
-(08:28:55) typeW blocks xReaLx's attack.
-(08:28:55) typeW blocks xReaLx's attack.
-(08:28:55) Kansus blocks POOPCUMPISS's attack.
-(08:28:55) Kansus blocks POOPCUMPISS's attack.
-(08:28:55) Bourbon blocks WillPowder's attack.
-(08:28:55) Kansus blocks POOPCUMPISS's attack.
-(08:28:55) typeW blocks xReaLx's attack.
-(08:28:55) Kansus blocks Priest's attack.
-(08:28:55) Bourbon blocks chs's attack.
-(08:28:55) typeW blocks xReaLx's attack.
-(08:28:56) ShiftyInc blocks Jaz's attack.
-(08:28:57) Eihortetung blocks Kansus's attack.
-(08:28:57) Eihortetung blocks Ninja's attack.
-(08:28:57) ShiftyInc blocks Jaz's attack.
-(08:28:58) ShiftyInc blocks Ninja's attack.
-(08:28:58) ShiftyInc blocks Ninja's attack.
-(08:28:58) ShiftyInc blocks typeW's attack.
-(08:28:58) ShiftyInc blocks Peking Duck's attack.
-(08:28:59) ShiftyInc blocks Ninja's attack.
-(08:28:59) ShiftyInc blocks typeW's attack.
-(08:28:59) ShiftyInc blocks typeW's attack.
-(08:28:59) ShiftyInc blocks pippo's attack.
-(08:28:59) ShiftyInc blocks lover's attack.
-(08:28:59) Eihortetung blocks Rokaw's attack.
+
+
+(01:41:52) BigBlackBen blocks Miha's attack.
+(01:41:52) BigBlackBen blocks HuntyPet Cobra's attack.
+(01:41:52) BigBlackBen blocks Miha's attack.
+(01:41:52) BigBlackBen blocks HuntyPet Cobra's attack.
+(01:41:52) Long blocks Dispel Cobra's attack.
+(01:41:52) Long blocks Dispel Cobra's attack.
+(01:41:57) BigBlackBen blocks lover's attack.
+(01:41:57) BigBlackBen blocks lover's attack.
+(01:41:57) Sax blocks WillPowder's attack.
+(01:41:58) Sax blocks WillPowder's attack.
+(01:42:00) Saas y blocks Tupac Shakur's attack.
+(01:42:00) Long blocks HuntyPet Cobra's attack.
+(01:42:01) Long blocks HuntyPet Cobra's attack.
+(01:42:03) BigBlackBen blocks HuntyPet Cobra's attack.
+(01:42:03) BigBlackBen blocks HuntyPet Cobra's attack.
+(01:42:03) Sax blocks the Vashteera's Companion's attack.
+(01:42:03) BigBlackBen blocks Dispel Cobra's attack.
+(01:42:03) BigBlackBen blocks HuntyPet Cobra's attack.
+(01:42:03) BigBlackBen blocks HuntyPet Cobra's attack.
+(01:42:04) BigBlackBen blocks Dispel Cobra's attack.
+(01:42:04) BigBlackBen blocks lover's attack.
+(01:42:04) BigBlackBen blocks HuntyPet Cobra's attack.
+(01:42:04) BigBlackBen blocks lover's attack.
+(01:42:04) BigBlackBen blocks Miha's attack.
+(01:42:04) BigBlackBen blocks HuntyPet Cobra's attack.
+(01:42:05) Sax blocks the Vashteera's Companion's attack.
+(01:42:05) Long blocks HuntyPet Cobra's attack.
+(01:42:05) Long blocks HuntyPet Cobra's attack.
+(01:42:05) Sax blocks the Vashteera's Companion's attack.
+(01:42:05) Drooley blocks Dispel Cobra's attack.
+(01:42:06) Drooley blocks HuntyPet Cobra's attack.
+(01:42:06) Drooley blocks HuntyPet Cobra's attack.
+(01:42:06) Drooley blocks lover's attack.
+(01:42:06) Drooley blocks Dispel Cobra's attack.
+(01:42:06) Drooley blocks the Vashteera's Companion's attack.
+(01:42:07) Sax blocks the Vashteera's Companion's attack.
+(01:42:07) Sax blocks the Vashteera's Companion's attack.
+(01:42:15) Fkrah blocks HuntyPet Cobra's attack.
+(01:42:15) Fkrah blocks HuntyPet Cobra's attack.
+(01:42:16) Fkrah blocks HuntyPet Cobra's attack.
+(01:42:17) Fkrah blocks HuntyPet Cobra's attack.
+(01:42:21) deez nuts blocks HuntyPet Cobra's attack.
+(01:42:21) deez nuts blocks HuntyPet Cobra's attack.
+(01:42:21) deez nuts blocks HuntyPet Cobra's attack.
+(01:42:21) deez nuts blocks the Vashteera's Companion's attack.
+(01:42:21) Fkrah blocks HuntyPet Cobra's attack.
+(01:42:21) Fkrah blocks HuntyPet Cobra's attack.
+(01:42:26) First Aid blocks lover's attack.
+(01:42:30) Noodle blocks lover's attack.
+(01:42:31) Noodle blocks lover's attack.
+(01:42:31) First Aid blocks the Slime Demon's attack.
+(01:42:31) Fkrah blocks lover's attack.
+(01:42:31) Fkrah blocks lover's attack.
+(01:42:32) Fkrah blocks lover's attack.
+(01:42:32) Noodle blocks lover's attack.
+(01:42:32) Noodle blocks lover's attack.
+(01:42:32) First Aid blocks the Slime Demon's attack.
+(01:42:33) First Aid blocks the Slime Demon's attack.
+(01:42:33) First Aid blocks the Slime Demon's attack.
+(01:42:34) Fkrah blocks HuntyPet Cobra's attack.
+(01:42:34) Fkrah blocks Miha's attack.
+(01:42:34) Fkrah blocks lover's attack.
+(01:42:34) Noodle blocks HuntyPet Cobra's attack.
+(01:42:34) Noodle blocks HuntyPet Cobra's attack.
+(01:42:34) sudo blocks the Slime Demon's attack.
+(01:42:34) Noodle blocks Miha's attack.
+(01:42:35) Noodle blocks HuntyPet Cobra's attack.
+(01:42:41) Imagine Defense lol blocks TyyppVee's attack.
+(01:42:42) Imagine Defense lol blocks TyyppVee's attack.
+(01:42:43) Hunger blocks HuntyPet Cobra's attack.
+(01:42:46) CJW CN blocks HuntyPet Cobra's attack.
+(01:42:47) CJW CN blocks HuntyPet Cobra's attack.
+(01:42:48) CJW CN blocks the Vashteera's Companion's attack.
+(01:42:48) CJW CN blocks TyyppVee's attack.
+(01:42:48) CJW CN blocks HuntyPet Cobra's attack.
+(01:42:48) CJW CN blocks HuntyPet Cobra's attack.
+(01:43:06) KSlater Up In The Sky blocks TyyppVee's attack.
+(01:43:06) KSlater Up In The Sky blocks TyyppVee's attack.
+(01:43:06) KSlater Up In The Sky blocks TyyppVee's attack.
+(01:43:06) KSlater Up In The Sky blocks TyyppVee's attack.
+(01:43:06) KSlater Up In The Sky blocks TyyppVee's attack.
+(01:43:08) KSlater Up In The Sky blocks HuntyPet Cobra's attack.
+(01:43:08) KSlater Up In The Sky blocks HuntyPet Cobra's attack.
+(01:43:08) KSlater Up In The Sky blocks HuntyPet Cobra's attack.
+(01:43:12) sudo blocks Dispel Cobra's attack.
+(01:43:12) sudo blocks Dispel Cobra's attack.
+(01:43:12) sudo blocks Dispel Cobra's attack.
+(01:43:12) sudo blocks Dispel Cobra's attack.
+(01:43:12) sudo blocks Dispel Cobra's attack.
+(01:43:12) sudo blocks Dispel Cobra's attack.
+(01:43:12) sudo blocks Dispel Cobra's attack.
+(01:43:12) sudo blocks Dispel Cobra's attack.
+(01:43:12) sudo blocks Dispel Cobra's attack.
+(01:43:16) sudo blocks someone's attack.
+(01:43:19) KSlater Up In The Sky blocks HuntyPet Cobra's attack.
+(01:43:19) KSlater Up In The Sky blocks HuntyPet Cobra's attack.
+(01:43:20) KSlater Up In The Sky blocks HuntyPet Cobra's attack.
+(01:43:20) KSlater Up In The Sky blocks HuntyPet Cobra's attack.
+(01:43:20) KSlater Up In The Sky blocks Dispel Cobra's attack.
+(01:43:20) KSlater Up In The Sky blocks HuntyPet Cobra's attack.
+(01:43:30) syszj BH blocks Dispel Cobra's attack.
+(01:43:30) syszj BH blocks HuntyPet Cobra's attack.
+(01:43:30) syszj BH blocks HuntyPet Cobra's attack.
+(01:43:30) syszj BH blocks Dispel Cobra's attack.
+(01:43:30) syszj BH blocks TyyppVee's attack.
+(01:43:30) syszj BH blocks TyyppVee's attack.
+(01:43:30) syszj BH blocks HuntyPet Cobra's attack.
+(01:43:30) syszj BH blocks Dispel Cobra's attack.
+(01:43:30) syszj BH blocks Dispel Cobra's attack.
+(01:43:31) MDAZJ BH blocks Dispel Cobra's attack.
+(01:43:31) MDAZJ BH blocks TyyppVee's attack.
+(01:43:31) MDAZJ BH blocks TyyppVee's attack.
+(01:43:31) MDAZJ BH blocks Dispel Cobra's attack.
+(01:43:32) MDAZJ BH blocks the Vashteera's Companion's attack.
+(01:43:32) SPF � BH blocks TyyppVee's attack.
+(01:43:33) FYasz BH blocks Dispel Cobra's attack.
+(01:43:33) FYasz BH blocks HuntyPet Cobra's attack.
+(01:43:33) FYasz BH blocks HuntyPet Cobra's attack.
+(01:43:34) SPF � BH blocks Dispel Cobra's attack.
+(01:43:34) SPF � BH blocks TyyppVee's attack.
+(01:43:43) Ponch blocks lover's attack.
+(01:43:43) Ponch blocks CloudA's attack.
+(01:43:43) CountHyde blocks Bearable's attack.
+(01:43:43) CountHyde blocks DayWalker's attack.
+(01:43:44) DRChuckIt blocks Bearable's attack.
+(01:43:44) Marco blocks CloudA's attack.
+(01:43:45) DRChuckIt blocks Bearable's attack.
+(01:43:46) Marco blocks CloudA's attack.
+(01:43:46) DRChuckIt blocks MyosMoo's attack.
+(01:43:46) Marco blocks TyyppVee's attack.
+(01:43:47) Marco blocks TyyppVee's attack.
+(01:43:56) ysmf T� blocks vVv's attack.
+(01:43:57) ysmf T� blocks vVv's attack.
+(01:43:57) ysmf T� blocks vVv's attack.
+(01:43:58) ysmf T� blocks vVv's attack.
+(01:44:00) syq blocks vVv's attack.
+(01:44:03) SWK blocks CloudA's attack.
+(01:44:03) ysmf T� blocks Sithranis's attack.
+(01:44:03) ysmf T� blocks Sithranis's attack.
+(01:44:04) SWK blocks CloudA's attack.
+(01:44:04) syq blocks vVv's attack.
+(01:44:04) SWK blocks CloudA's attack.
+(01:44:08) Prodriver blocks Soda's attack.
+(01:44:09) Sax blocks HolyThug's attack.
+(01:44:09) Sax blocks HolyThug's attack.
+(01:44:12) Liquid Snacks blocks vVv's attack.
+(01:44:15) Prodriver blocks Soda's attack.
+(01:44:15) HolyThug blocks Soda's attack.
+(01:44:15) Soda blocks HolyThug's attack.
+(01:44:15) Soda blocks Moony's attack.
+(01:44:16) Soda blocks Moony's attack.
+(01:44:16) Soda blocks Moony's attack.
+(01:44:16) Soda blocks Moony's attack.
+(01:44:16) Soda blocks Moony's attack.
+(01:44:17) Uther Eats blocks Moony's attack.
+(01:44:18) Healn blocks Sithranis's attack.
+(01:44:25) MDAZJ BH blocks Rokaw's attack.
+(01:44:25) MDAZJ BH blocks Typechi's attack.
+(01:44:28) HHDD k� BH blocks Typechi's attack.
+(01:44:28) HHDD k� BH blocks Typechi's attack.
+(01:44:29) HHDD k� BH blocks Sasss y's attack.
+(01:44:30) FYms BH blocks Typechi's attack.
+(01:44:30) Typechi blocks someone's attack.
+(01:44:31) Typechi blocks lii's attack.
+(01:44:31) You block eka BH's attack!

@@ -1,68 +1,118 @@
-Version     :: 0.0.9.8
-DateTime    :: 11/6/2023 08:27:49 AM
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
 RegExType   :: Drain :: Val First
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>drain)s (?<value>\d*) points of (?<event_type>[helthman]*) from (?<target>.*) with (?<ability>.*)[\.!]
-(08:28:05) typeW drains 580 points of health from typeW with Vampire's Kiss.
-(08:28:05) typeW drains 580 points of health from ShiftyInc with Vampire's Kiss.
-(08:28:05) Sauce drains 498 points of health from Sauce with Vampire's Kiss.
-(08:28:05) Sauce drains 498 points of health from ShiftyInc with Vampire's Kiss.
-(08:28:08) Ninja drains 558 points of health from Ninja with Vampire's Kiss.
-(08:28:08) Ninja drains 558 points of health from ShiftyInc with Vampire's Kiss.
-(08:28:09) chs drains 101 points of mana from chs with Exalted Word of Binding.
-(08:28:11) lover drains 748 points of health from lover with Vampire's Kiss.
-(08:28:11) lover drains 748 points of health from Tupac with Vampire's Kiss.
-(08:28:11) CloudA drains 1034 points of health from CloudA with Vampire's Kiss.
-(08:28:11) CloudA drains 1034 points of health from Tupac with Vampire's Kiss.
-(08:28:20) Ninja drains 571 points of health from Ninja with Vampire's Kiss.
-(08:28:20) Ninja drains 571 points of health from BlackSele with Vampire's Kiss.
-(08:28:21) chs drains 104 points of mana from chs with Exalted Word of Binding.
-(08:28:21) chs drains 104 points of mana from Rokaw with Exalted Word of Binding.
-(08:28:21) chs drains 102 points of mana from chs with Exalted Word of Binding.
-(08:28:21) chs drains 102 points of mana from Ninja with Exalted Word of Binding.
-(08:28:21) chs drains 106 points of mana from chs with Exalted Word of Binding.
-(08:28:21) chs drains 106 points of mana from Tons with Exalted Word of Binding.
-(08:28:21) chs drains 105 points of mana from chs with Exalted Word of Binding.
-(08:28:21) chs drains 105 points of mana from Sax with Exalted Word of Binding.
-(08:28:21) chs drains 101 points of mana from chs with Exalted Word of Binding.
-(08:28:21) chs drains 101 points of mana from Sithranis with Exalted Word of Binding.
-(08:28:21) chs drains 104 points of mana from chs with Exalted Word of Binding.
-(08:28:21) chs drains 104 points of mana from typeW with Exalted Word of Binding.
-(08:28:21) chs drains 104 points of mana from chs with Exalted Word of Binding.
-(08:28:21) typeW drains 556 points of health from typeW with Vampire's Kiss.
-(08:28:21) typeW drains 556 points of health from BlackSele with Vampire's Kiss.
-(08:28:23) pippo drains 585 points of health from pippo with Vampire's Kiss.
-(08:28:23) pippo drains 585 points of health from DeathieDS with Vampire's Kiss.
-(08:28:23) Sauce drains 229 points of health from Sauce with Vampire's Kiss.
-(08:28:23) Sauce drains 496 points of health from DeathieDS with Vampire's Kiss.
-(08:28:28) CloudA drains 1005 points of health from CloudA with Vampire's Kiss.
-(08:28:28) CloudA drains 1005 points of health from ShiftyInc with Vampire's Kiss.
-(08:28:37) Ninja drains 564 points of health from Ninja with Vampire's Kiss.
-(08:28:37) Ninja drains 564 points of health from PYogi with Vampire's Kiss.
-(08:28:41) pippo drains 535 points of health from pippo with Vampire's Kiss.
-(08:28:41) pippo drains 535 points of health from MacBeth with Vampire's Kiss.
-(08:28:41) Rokaw drains 560 points of health from Rokaw with Vampire's Kiss.
-(08:28:41) Rokaw drains 560 points of health from MacBeth with Vampire's Kiss.
-(08:28:48) chs drains 105 points of mana from chs with Exalted Word of Binding.
-(08:28:48) chs drains 105 points of mana from Vashteera's Companion with Exalted Word of Binding.
-(08:28:48) chs drains 107 points of mana from chs with Exalted Word of Binding.
-(08:28:48) chs drains 107 points of mana from Salamar with Exalted Word of Binding.
-(08:28:48) chs drains 100 points of mana from chs with Exalted Word of Binding.
-(08:28:48) chs drains 100 points of mana from Beerbaron with Exalted Word of Binding.
-(08:28:48) chs drains 84 points of mana from chs with Exalted Word of Binding.
-(08:28:48) chs drains 103 points of mana from Tons with Exalted Word of Binding.
-(08:28:48) chs drains 104 points of mana from chs with Exalted Word of Binding.
-(08:28:48) chs drains 104 points of mana from Hellio with Exalted Word of Binding.
-(08:28:48) chs drains 104 points of mana from chs with Exalted Word of Binding.
-(08:28:48) chs drains 104 points of mana from DADDY with Exalted Word of Binding.
-(08:28:48) chs drains 101 points of mana from chs with Exalted Word of Binding.
-(08:28:48) chs drains 101 points of mana from Arry with Exalted Word of Binding.
-(08:28:49) typeW drains 573 points of health from typeW with Vampire's Kiss.
-(08:28:49) typeW drains 573 points of health from BlackSele with Vampire's Kiss.
-(08:28:50) Rokaw drains 567 points of health from Rokaw with Vampire's Kiss.
-(08:28:50) Rokaw drains 567 points of health from BlackSele with Vampire's Kiss.
-(08:28:50) pippo drains 576 points of health from pippo with Vampire's Kiss.
-(08:28:50) pippo drains 576 points of health from BlackSele with Vampire's Kiss.
-(08:28:50) Ninja drains 578 points of health from Ninja with Vampire's Kiss.
-(08:28:50) Ninja drains 578 points of health from BlackSele with Vampire's Kiss.
-(08:28:57) Sauce drains 514 points of health from Sauce with Vampire's Kiss.
-(08:28:57) Sauce drains 514 points of health from Priest with Vampire's Kiss.
+
+
+(01:41:55) BigBlackBen drains 179 points of health from BigBlackBen with Consume Wickedness.
+(01:41:55) BigBlackBen drains 179 points of health from lover with Consume Wickedness.
+(01:41:55) BigBlackBen drains 189 points of health from BigBlackBen with Consume Wickedness.
+(01:41:55) BigBlackBen drains 189 points of health from lover with Consume Wickedness.
+(01:41:56) BigBlackBen drains 203 points of health from BigBlackBen with Consume Wickedness.
+(01:41:56) BigBlackBen drains 203 points of health from lover with Consume Wickedness.
+(01:41:57) BigBlackBen drains 199 points of health from BigBlackBen with Consume Wickedness.
+(01:41:57) BigBlackBen drains 199 points of health from lover with Consume Wickedness.
+(01:41:58) BigBlackBen drains 203 points of health from BigBlackBen with Consume Wickedness.
+(01:41:58) BigBlackBen drains 203 points of health from lover with Consume Wickedness.
+(01:41:59) BigBlackBen drains 198 points of health from BigBlackBen with Consume Wickedness.
+(01:41:59) BigBlackBen drains 198 points of health from lover with Consume Wickedness.
+(01:41:59) BigBlackBen drains 202 points of health from BigBlackBen with Consume Wickedness.
+(01:41:59) BigBlackBen drains 202 points of health from lover with Consume Wickedness.
+(01:42:03) lover drains 638 points of health from lover with Vampire's Kiss.
+(01:42:03) lover drains 638 points of health from Tupac with Vampire's Kiss.
+(01:42:17) lover drains 372 points of health from lover with Vampire's Kiss.
+(01:42:17) lover drains 372 points of health from Guru with Vampire's Kiss.
+(01:42:26) lover drains 414 points of health from lover with Vampire's Kiss.
+(01:42:26) lover drains 752 points of health from SeeNo with Vampire's Kiss.
+(01:42:32) lover drains 736 points of health from lover with Vampire's Kiss.
+(01:42:32) lover drains 736 points of health from Bog with Vampire's Kiss.
+(01:42:41) TyyppVee drains 912 points of health from TyyppVee with Vampire's Kiss.
+(01:42:41) TyyppVee drains 912 points of health from Imagine with Vampire's Kiss.
+(01:42:45) xinyu drains 480 points of health from xinyu with Vampire's Kiss.
+(01:42:48) xinyu drains 491 points of health from xinyu with Vampire's Kiss.
+(01:42:49) dnst drains 274 points of health from dnst with Consume Wickedness.
+(01:42:49) dnst drains 274 points of health from Vashteera's Companion with Consume Wickedness.
+(01:42:49) TyyppVee drains 857 points of health from TyyppVee with Vampire's Kiss.
+(01:42:49) TyyppVee drains 857 points of health from hta with Vampire's Kiss.
+(01:42:49) dnst drains 277 points of health from dnst with Consume Wickedness.
+(01:42:49) dnst drains 277 points of health from Vashteera's Companion with Consume Wickedness.
+(01:42:50) dnst drains 274 points of health from dnst with Consume Wickedness.
+(01:42:50) dnst drains 274 points of health from Vashteera's Companion with Consume Wickedness.
+(01:42:50) dnst drains 96 points of health from dnst with Consume Wickedness.
+(01:42:50) dnst drains 267 points of health from Vashteera's Companion with Consume Wickedness.
+(01:42:51) dnst drains 446 points of health from dnst with Purge Sin.
+(01:42:51) dnst drains 446 points of health from Dispel with Purge Sin.
+(01:42:51) xinyu drains 372 points of health from xinyu with The Lesser Kiss.
+(01:42:51) xinyu drains 372 points of health from Mud Fiend with The Lesser Kiss.
+(01:42:56) TyyppVee drains 772 points of health from TyyppVee with Vampire's Kiss.
+(01:42:56) TyyppVee drains 772 points of health from dnst with Vampire's Kiss.
+(01:43:06) TyyppVee drains 848 points of health from TyyppVee with Vampire's Kiss.
+(01:43:06) TyyppVee drains 848 points of health from KSlater with Vampire's Kiss.
+(01:43:17) blackgurl drains 41 points of mana from blackgurl with Consume the Will.
+(01:43:17) blackgurl drains 100 points of mana from HuntyPet with Consume the Will.
+(01:43:22) TyyppVee drains 27 points of health from TyyppVee with Vampire's Kiss.
+(01:43:22) TyyppVee drains 586 points of health from kwx with Vampire's Kiss.
+(01:43:43) TyyppVee drains 126 points of health from TyyppVee with Vampire's Kiss.
+(01:43:43) TyyppVee drains 707 points of health from Ponch with Vampire's Kiss.
+(01:43:45) Peking drains 612 points of health from Peking with Vampire's Kiss.
+(01:43:45) Peking drains 612 points of health from Bearable with Vampire's Kiss.
+(01:43:45) Ninja drains 577 points of health from Ninja with Vampire's Kiss.
+(01:43:45) Ninja drains 577 points of health from Bearable with Vampire's Kiss.
+(01:44:02) JMc drains 507 points of health from JMc with Vampire's Kiss.
+(01:44:08) Liquid drains 127 points of mana from Liquid with Exalted Word of Binding.
+(01:44:08) Liquid drains 155 points of mana from Sax with Exalted Word of Binding.
+(01:44:08) Liquid drains 126 points of mana from Liquid with Exalted Word of Binding.
+(01:44:08) Liquid drains 154 points of mana from Uther with Exalted Word of Binding.
+(01:44:08) Liquid drains 133 points of mana from Liquid with Exalted Word of Binding.
+(01:44:08) Liquid drains 125 points of mana from Liquid with Exalted Word of Binding.
+(01:44:08) Liquid drains 153 points of mana from Soda with Exalted Word of Binding.
+(01:44:08) Liquid drains 127 points of mana from Liquid with Exalted Word of Binding.
+(01:44:08) Liquid drains 155 points of mana from Sithranis with Exalted Word of Binding.
+(01:44:08) Liquid drains 132 points of mana from Liquid with Exalted Word of Binding.
+(01:44:08) Liquid drains 161 points of mana from vVv with Exalted Word of Binding.
+(01:44:08) Liquid drains 128 points of mana from Liquid with Exalted Word of Binding.
+(01:44:08) Prodriver drains 145 points of mana from Prodriver with Exalted Word of Binding.
+(01:44:08) Prodriver drains 145 points of mana from Uther with Exalted Word of Binding.
+(01:44:08) Prodriver drains 151 points of mana from Prodriver with Exalted Word of Binding.
+(01:44:08) Prodriver drains 151 points of mana from Sax with Exalted Word of Binding.
+(01:44:08) Prodriver drains 162 points of mana from Prodriver with Exalted Word of Binding.
+(01:44:08) Prodriver drains 162 points of mana from tickles with Exalted Word of Binding.
+(01:44:08) Prodriver drains 155 points of mana from Prodriver with Exalted Word of Binding.
+(01:44:08) Prodriver drains 155 points of mana from Sithranis with Exalted Word of Binding.
+(01:44:08) Prodriver drains 152 points of mana from Prodriver with Exalted Word of Binding.
+(01:44:08) Prodriver drains 152 points of mana from champagne with Exalted Word of Binding.
+(01:44:08) Prodriver drains 149 points of mana from Prodriver with Exalted Word of Binding.
+(01:44:08) Prodriver drains 149 points of mana from vVv with Exalted Word of Binding.
+(01:44:08) Prodriver drains 161 points of mana from Prodriver with Exalted Word of Binding.
+(01:44:08) Prodriver drains 161 points of mana from Hold with Exalted Word of Binding.
+(01:44:08) CaliSent drains 115 points of mana from CaliSent with Exalted Word of Binding.
+(01:44:08) CaliSent drains 115 points of mana from Uther with Exalted Word of Binding.
+(01:44:08) CaliSent drains 108 points of mana from CaliSent with Exalted Word of Binding.
+(01:44:09) CaliSent drains 108 points of mana from tickles with Exalted Word of Binding.
+(01:44:09) CaliSent drains 110 points of mana from CaliSent with Exalted Word of Binding.
+(01:44:09) CaliSent drains 110 points of mana from Sithranis with Exalted Word of Binding.
+(01:44:09) CaliSent drains 115 points of mana from CaliSent with Exalted Word of Binding.
+(01:44:09) CaliSent drains 115 points of mana from Soda with Exalted Word of Binding.
+(01:44:09) CaliSent drains 118 points of mana from CaliSent with Exalted Word of Binding.
+(01:44:09) CaliSent drains 118 points of mana from champagne with Exalted Word of Binding.
+(01:44:09) CaliSent drains 119 points of mana from CaliSent with Exalted Word of Binding.
+(01:44:09) CaliSent drains 119 points of mana from vVv with Exalted Word of Binding.
+(01:44:09) CaliSent drains 112 points of mana from CaliSent with Exalted Word of Binding.
+(01:44:09) CaliSent drains 112 points of mana from Hold with Exalted Word of Binding.
+(01:44:12) Liquid drains 127 points of mana from Liquid with Exalted Word of Binding.
+(01:44:13) Liquid drains 155 points of mana from Uther with Exalted Word of Binding.
+(01:44:13) Liquid drains 135 points of mana from Liquid with Exalted Word of Binding.
+(01:44:13) Liquid drains 134 points of mana from Liquid with Exalted Word of Binding.
+(01:44:13) Liquid drains 164 points of mana from tickles with Exalted Word of Binding.
+(01:44:13) Liquid drains 132 points of mana from Liquid with Exalted Word of Binding.
+(01:44:13) Liquid drains 161 points of mana from champagne with Exalted Word of Binding.
+(01:44:13) Liquid drains 125 points of mana from Liquid with Exalted Word of Binding.
+(01:44:13) Liquid drains 153 points of mana from Sithranis with Exalted Word of Binding.
+(01:44:13) Liquid drains 122 points of mana from Liquid with Exalted Word of Binding.
+(01:44:13) Liquid drains 149 points of mana from Hold with Exalted Word of Binding.
+(01:44:13) Liquid drains 127 points of mana from Liquid with Exalted Word of Binding.
+(01:44:13) Liquid drains 155 points of mana from vVv with Exalted Word of Binding.
+(01:44:15) CloudA drains 900 points of health from CloudA with Vampire's Kiss.
+(01:44:15) CloudA drains 900 points of health from Prodriver with Vampire's Kiss.
+(01:44:24) Sasss drains 448 points of health from Sasss with Vampire's Kiss.
+(01:44:24) Sasss drains 548 points of health from SYgzs with Vampire's Kiss.

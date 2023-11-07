@@ -1,0 +1,16 @@
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
+RegExType   :: Damage :: Spell Hit You
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*)[r']?[s]? (?<type>take) (?<value>\d*) .* from (?<source>.*)[\.!]
+
+
+(01:41:54) You take 47 points of damage from bleeding!
+(01:42:43) You take 31 points of damage from bleeding!
+(01:42:44) You take 25 points of damage from bleeding!
+(01:42:45) You take 51 points of damage from bleeding!
+(01:42:45) You take 31 points of damage from bleeding!
+(01:42:46) You take 46 points of damage from bleeding!
+(01:42:48) You take 30 points of damage from bleeding!
+(01:42:49) You take 34 points of damage from bleeding!
+(01:42:50) You take 51 points of damage from bleeding!
+(01:42:50) You take 28 points of damage from bleeding!

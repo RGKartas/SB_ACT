@@ -1,0 +1,11 @@
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
+RegExType   :: Damage :: Proc You
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>[The]*) (?<ability>.*) (?<type>.*)s (?<target>.*) for (?<value>\d*) .*[\.!]
+
+Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
+01:43:57 : burn       : The                       : SWK                       : fire                      :              :              : 266   
+01:43:57 : burn       : The                       : Szmz                      : fire                      :              :              : 479   
+01:43:58 : burn       : The                       : Szmz                      : fire                      :              :              : 438   
+01:44:02 : burn       : The                       : JMc                       : fire                      :              :              : 373   
+01:44:17 : burn       : The                       : Healn                     : fire                      :              :              : 574   

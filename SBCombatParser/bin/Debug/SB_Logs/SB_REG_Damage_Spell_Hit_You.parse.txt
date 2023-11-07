@@ -1,0 +1,16 @@
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
+RegExType   :: Damage :: Spell Hit You
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*)[r']?[s]? (?<type>take) (?<value>\d*) .* from (?<source>.*)[\.!]
+
+Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
+01:41:54 : take       : bleeding                  : You                       :                           :              :              : 47    
+01:42:43 : take       : bleeding                  : You                       :                           :              :              : 31    
+01:42:44 : take       : bleeding                  : You                       :                           :              :              : 25    
+01:42:45 : take       : bleeding                  : You                       :                           :              :              : 51    
+01:42:45 : take       : bleeding                  : You                       :                           :              :              : 31    
+01:42:46 : take       : bleeding                  : You                       :                           :              :              : 46    
+01:42:48 : take       : bleeding                  : You                       :                           :              :              : 30    
+01:42:49 : take       : bleeding                  : You                       :                           :              :              : 34    
+01:42:50 : take       : bleeding                  : You                       :                           :              :              : 51    
+01:42:50 : take       : bleeding                  : You                       :                           :              :              : 28    

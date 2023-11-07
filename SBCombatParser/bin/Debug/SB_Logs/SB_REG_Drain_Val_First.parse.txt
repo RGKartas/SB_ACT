@@ -1,0 +1,118 @@
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
+RegExType   :: Drain :: Val First
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>drain)s (?<value>\d*) points of (?<event_type>[helthman]*) from (?<target>.*) with (?<ability>.*)[\.!]
+
+Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
+01:41:55 : drain      : BigBlackBen               : BigBlackBen               : Consume Wickedness        : health       :              : 179   
+01:41:55 : drain      : BigBlackBen               : lover                     : Consume Wickedness        : health       :              : 179   
+01:41:55 : drain      : BigBlackBen               : BigBlackBen               : Consume Wickedness        : health       :              : 189   
+01:41:55 : drain      : BigBlackBen               : lover                     : Consume Wickedness        : health       :              : 189   
+01:41:56 : drain      : BigBlackBen               : BigBlackBen               : Consume Wickedness        : health       :              : 203   
+01:41:56 : drain      : BigBlackBen               : lover                     : Consume Wickedness        : health       :              : 203   
+01:41:57 : drain      : BigBlackBen               : BigBlackBen               : Consume Wickedness        : health       :              : 199   
+01:41:57 : drain      : BigBlackBen               : lover                     : Consume Wickedness        : health       :              : 199   
+01:41:58 : drain      : BigBlackBen               : BigBlackBen               : Consume Wickedness        : health       :              : 203   
+01:41:58 : drain      : BigBlackBen               : lover                     : Consume Wickedness        : health       :              : 203   
+01:41:59 : drain      : BigBlackBen               : BigBlackBen               : Consume Wickedness        : health       :              : 198   
+01:41:59 : drain      : BigBlackBen               : lover                     : Consume Wickedness        : health       :              : 198   
+01:41:59 : drain      : BigBlackBen               : BigBlackBen               : Consume Wickedness        : health       :              : 202   
+01:41:59 : drain      : BigBlackBen               : lover                     : Consume Wickedness        : health       :              : 202   
+01:42:03 : drain      : lover                     : lover                     : Vampire's Kiss            : health       :              : 638   
+01:42:03 : drain      : lover                     : Tupac                     : Vampire's Kiss            : health       :              : 638   
+01:42:17 : drain      : lover                     : lover                     : Vampire's Kiss            : health       :              : 372   
+01:42:17 : drain      : lover                     : Guru                      : Vampire's Kiss            : health       :              : 372   
+01:42:26 : drain      : lover                     : lover                     : Vampire's Kiss            : health       :              : 414   
+01:42:26 : drain      : lover                     : SeeNo                     : Vampire's Kiss            : health       :              : 752   
+01:42:32 : drain      : lover                     : lover                     : Vampire's Kiss            : health       :              : 736   
+01:42:32 : drain      : lover                     : Bog                       : Vampire's Kiss            : health       :              : 736   
+01:42:41 : drain      : TyyppVee                  : TyyppVee                  : Vampire's Kiss            : health       :              : 912   
+01:42:41 : drain      : TyyppVee                  : Imagine                   : Vampire's Kiss            : health       :              : 912   
+01:42:45 : drain      : xinyu                     : xinyu                     : Vampire's Kiss            : health       :              : 480   
+01:42:48 : drain      : xinyu                     : xinyu                     : Vampire's Kiss            : health       :              : 491   
+01:42:49 : drain      : dnst                      : dnst                      : Consume Wickedness        : health       :              : 274   
+01:42:49 : drain      : dnst                      : Vashteera's Companion     : Consume Wickedness        : health       :              : 274   
+01:42:49 : drain      : TyyppVee                  : TyyppVee                  : Vampire's Kiss            : health       :              : 857   
+01:42:49 : drain      : TyyppVee                  : hta                       : Vampire's Kiss            : health       :              : 857   
+01:42:49 : drain      : dnst                      : dnst                      : Consume Wickedness        : health       :              : 277   
+01:42:49 : drain      : dnst                      : Vashteera's Companion     : Consume Wickedness        : health       :              : 277   
+01:42:50 : drain      : dnst                      : dnst                      : Consume Wickedness        : health       :              : 274   
+01:42:50 : drain      : dnst                      : Vashteera's Companion     : Consume Wickedness        : health       :              : 274   
+01:42:50 : drain      : dnst                      : dnst                      : Consume Wickedness        : health       :              : 96    
+01:42:50 : drain      : dnst                      : Vashteera's Companion     : Consume Wickedness        : health       :              : 267   
+01:42:51 : drain      : dnst                      : dnst                      : Purge Sin                 : health       :              : 446   
+01:42:51 : drain      : dnst                      : Dispel                    : Purge Sin                 : health       :              : 446   
+01:42:51 : drain      : xinyu                     : xinyu                     : The Lesser Kiss           : health       :              : 372   
+01:42:51 : drain      : xinyu                     : Mud Fiend                 : The Lesser Kiss           : health       :              : 372   
+01:42:56 : drain      : TyyppVee                  : TyyppVee                  : Vampire's Kiss            : health       :              : 772   
+01:42:56 : drain      : TyyppVee                  : dnst                      : Vampire's Kiss            : health       :              : 772   
+01:43:06 : drain      : TyyppVee                  : TyyppVee                  : Vampire's Kiss            : health       :              : 848   
+01:43:06 : drain      : TyyppVee                  : KSlater                   : Vampire's Kiss            : health       :              : 848   
+01:43:17 : drain      : blackgurl                 : blackgurl                 : Consume the Will          : mana         :              : 41    
+01:43:17 : drain      : blackgurl                 : HuntyPet                  : Consume the Will          : mana         :              : 100   
+01:43:22 : drain      : TyyppVee                  : TyyppVee                  : Vampire's Kiss            : health       :              : 27    
+01:43:22 : drain      : TyyppVee                  : kwx                       : Vampire's Kiss            : health       :              : 586   
+01:43:43 : drain      : TyyppVee                  : TyyppVee                  : Vampire's Kiss            : health       :              : 126   
+01:43:43 : drain      : TyyppVee                  : Ponch                     : Vampire's Kiss            : health       :              : 707   
+01:43:45 : drain      : Peking                    : Peking                    : Vampire's Kiss            : health       :              : 612   
+01:43:45 : drain      : Peking                    : Bearable                  : Vampire's Kiss            : health       :              : 612   
+01:43:45 : drain      : Ninja                     : Ninja                     : Vampire's Kiss            : health       :              : 577   
+01:43:45 : drain      : Ninja                     : Bearable                  : Vampire's Kiss            : health       :              : 577   
+01:44:02 : drain      : JMc                       : JMc                       : Vampire's Kiss            : health       :              : 507   
+01:44:08 : drain      : Liquid                    : Liquid                    : Exalted Word of Binding   : mana         :              : 127   
+01:44:08 : drain      : Liquid                    : Sax                       : Exalted Word of Binding   : mana         :              : 155   
+01:44:08 : drain      : Liquid                    : Liquid                    : Exalted Word of Binding   : mana         :              : 126   
+01:44:08 : drain      : Liquid                    : Uther                     : Exalted Word of Binding   : mana         :              : 154   
+01:44:08 : drain      : Liquid                    : Liquid                    : Exalted Word of Binding   : mana         :              : 133   
+01:44:08 : drain      : Liquid                    : Liquid                    : Exalted Word of Binding   : mana         :              : 125   
+01:44:08 : drain      : Liquid                    : Soda                      : Exalted Word of Binding   : mana         :              : 153   
+01:44:08 : drain      : Liquid                    : Liquid                    : Exalted Word of Binding   : mana         :              : 127   
+01:44:08 : drain      : Liquid                    : Sithranis                 : Exalted Word of Binding   : mana         :              : 155   
+01:44:08 : drain      : Liquid                    : Liquid                    : Exalted Word of Binding   : mana         :              : 132   
+01:44:08 : drain      : Liquid                    : vVv                       : Exalted Word of Binding   : mana         :              : 161   
+01:44:08 : drain      : Liquid                    : Liquid                    : Exalted Word of Binding   : mana         :              : 128   
+01:44:08 : drain      : Prodriver                 : Prodriver                 : Exalted Word of Binding   : mana         :              : 145   
+01:44:08 : drain      : Prodriver                 : Uther                     : Exalted Word of Binding   : mana         :              : 145   
+01:44:08 : drain      : Prodriver                 : Prodriver                 : Exalted Word of Binding   : mana         :              : 151   
+01:44:08 : drain      : Prodriver                 : Sax                       : Exalted Word of Binding   : mana         :              : 151   
+01:44:08 : drain      : Prodriver                 : Prodriver                 : Exalted Word of Binding   : mana         :              : 162   
+01:44:08 : drain      : Prodriver                 : tickles                   : Exalted Word of Binding   : mana         :              : 162   
+01:44:08 : drain      : Prodriver                 : Prodriver                 : Exalted Word of Binding   : mana         :              : 155   
+01:44:08 : drain      : Prodriver                 : Sithranis                 : Exalted Word of Binding   : mana         :              : 155   
+01:44:08 : drain      : Prodriver                 : Prodriver                 : Exalted Word of Binding   : mana         :              : 152   
+01:44:08 : drain      : Prodriver                 : champagne                 : Exalted Word of Binding   : mana         :              : 152   
+01:44:08 : drain      : Prodriver                 : Prodriver                 : Exalted Word of Binding   : mana         :              : 149   
+01:44:08 : drain      : Prodriver                 : vVv                       : Exalted Word of Binding   : mana         :              : 149   
+01:44:08 : drain      : Prodriver                 : Prodriver                 : Exalted Word of Binding   : mana         :              : 161   
+01:44:08 : drain      : Prodriver                 : Hold                      : Exalted Word of Binding   : mana         :              : 161   
+01:44:08 : drain      : CaliSent                  : CaliSent                  : Exalted Word of Binding   : mana         :              : 115   
+01:44:08 : drain      : CaliSent                  : Uther                     : Exalted Word of Binding   : mana         :              : 115   
+01:44:08 : drain      : CaliSent                  : CaliSent                  : Exalted Word of Binding   : mana         :              : 108   
+01:44:09 : drain      : CaliSent                  : tickles                   : Exalted Word of Binding   : mana         :              : 108   
+01:44:09 : drain      : CaliSent                  : CaliSent                  : Exalted Word of Binding   : mana         :              : 110   
+01:44:09 : drain      : CaliSent                  : Sithranis                 : Exalted Word of Binding   : mana         :              : 110   
+01:44:09 : drain      : CaliSent                  : CaliSent                  : Exalted Word of Binding   : mana         :              : 115   
+01:44:09 : drain      : CaliSent                  : Soda                      : Exalted Word of Binding   : mana         :              : 115   
+01:44:09 : drain      : CaliSent                  : CaliSent                  : Exalted Word of Binding   : mana         :              : 118   
+01:44:09 : drain      : CaliSent                  : champagne                 : Exalted Word of Binding   : mana         :              : 118   
+01:44:09 : drain      : CaliSent                  : CaliSent                  : Exalted Word of Binding   : mana         :              : 119   
+01:44:09 : drain      : CaliSent                  : vVv                       : Exalted Word of Binding   : mana         :              : 119   
+01:44:09 : drain      : CaliSent                  : CaliSent                  : Exalted Word of Binding   : mana         :              : 112   
+01:44:09 : drain      : CaliSent                  : Hold                      : Exalted Word of Binding   : mana         :              : 112   
+01:44:12 : drain      : Liquid                    : Liquid                    : Exalted Word of Binding   : mana         :              : 127   
+01:44:13 : drain      : Liquid                    : Uther                     : Exalted Word of Binding   : mana         :              : 155   
+01:44:13 : drain      : Liquid                    : Liquid                    : Exalted Word of Binding   : mana         :              : 135   
+01:44:13 : drain      : Liquid                    : Liquid                    : Exalted Word of Binding   : mana         :              : 134   
+01:44:13 : drain      : Liquid                    : tickles                   : Exalted Word of Binding   : mana         :              : 164   
+01:44:13 : drain      : Liquid                    : Liquid                    : Exalted Word of Binding   : mana         :              : 132   
+01:44:13 : drain      : Liquid                    : champagne                 : Exalted Word of Binding   : mana         :              : 161   
+01:44:13 : drain      : Liquid                    : Liquid                    : Exalted Word of Binding   : mana         :              : 125   
+01:44:13 : drain      : Liquid                    : Sithranis                 : Exalted Word of Binding   : mana         :              : 153   
+01:44:13 : drain      : Liquid                    : Liquid                    : Exalted Word of Binding   : mana         :              : 122   
+01:44:13 : drain      : Liquid                    : Hold                      : Exalted Word of Binding   : mana         :              : 149   
+01:44:13 : drain      : Liquid                    : Liquid                    : Exalted Word of Binding   : mana         :              : 127   
+01:44:13 : drain      : Liquid                    : vVv                       : Exalted Word of Binding   : mana         :              : 155   
+01:44:15 : drain      : CloudA                    : CloudA                    : Vampire's Kiss            : health       :              : 900   
+01:44:15 : drain      : CloudA                    : Prodriver                 : Vampire's Kiss            : health       :              : 900   
+01:44:24 : drain      : Sasss                     : Sasss                     : Vampire's Kiss            : health       :              : 448   
+01:44:24 : drain      : Sasss                     : SYgzs                     : Vampire's Kiss            : health       :              : 548   

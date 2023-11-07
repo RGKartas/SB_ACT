@@ -1,0 +1,14 @@
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
+RegExType   :: Evade :: Miss Power
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r's]? power (?<type>miss)[es]* (?<target>.*)[\.!]
+
+
+(01:43:57) Your power misses the target.
+(01:43:57) Your power misses the target.
+(01:44:11) Your power misses the target.
+(01:44:12) Your power misses the target.
+(01:44:13) Your power misses the target.
+(01:44:13) Your power misses the target.
+(01:44:15) Your power misses the target.
+(01:44:16) Your power misses the target.

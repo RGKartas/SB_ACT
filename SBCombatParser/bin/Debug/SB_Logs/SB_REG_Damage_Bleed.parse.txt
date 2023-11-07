@@ -1,0 +1,37 @@
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
+RegExType   :: Damage :: Bleed
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) takes? (?<value>\d*) .*(?<source>damage) from (?<type>.*)ing[\.!]
+
+Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
+01:42:45 : bleed      : damage                    : Octavius                  :                           :              :              : 53    
+01:42:45 : bleed      : damage                    : Octavius                  :                           :              :              : 53    
+01:42:45 : bleed      : damage                    : TyyppVee                  :                           :              :              : 42    
+01:42:46 : bleed      : damage                    : TyyppVee                  :                           :              :              : 34    
+01:42:46 : bleed      : damage                    : xinyu                     :                           :              :              : 54    
+01:42:46 : bleed      : damage                    : TyyppVee                  :                           :              :              : 42    
+01:42:47 : bleed      : damage                    : xinyu                     :                           :              :              : 38    
+01:42:47 : bleed      : damage                    : xinyu                     :                           :              :              : 50    
+01:42:48 : bleed      : damage                    : xinyu                     :                           :              :              : 17    
+01:42:49 : bleed      : damage                    : xinyu                     :                           :              :              : 40    
+01:42:49 : bleed      : damage                    : xinyu                     :                           :              :              : 32    
+01:42:50 : bleed      : damage                    : xinyu                     :                           :              :              : 51    
+01:42:50 : bleed      : damage                    : xinyu                     :                           :              :              : 26    
+01:42:50 : bleed      : damage                    : xinyu                     :                           :              :              : 49    
+01:42:51 : bleed      : damage                    : xinyu                     :                           :              :              : 56    
+01:42:51 : bleed      : damage                    : xinyu                     :                           :              :              : 44    
+01:42:51 : bleed      : damage                    : xinyu                     :                           :              :              : 62    
+01:42:58 : bleed      : damage                    : Novac Bellugh Nuathal Priest :                           :              :              : 80    
+01:43:16 : bleed      : damage                    : Bambi                     :                           :              :              : 92    
+01:43:21 : bleed      : damage                    : Dispel                    :                           :              :              : 30    
+01:43:22 : bleed      : damage                    : HuntyPet                  :                           :              :              : 36    
+01:43:23 : bleed      : damage                    : HuntyPet                  :                           :              :              : 34    
+01:43:32 : bleed      : damage                    : FYasz                     :                           :              :              : 23    
+01:43:32 : bleed      : damage                    : FYasz                     :                           :              :              : 51    
+01:43:33 : bleed      : damage                    : FYasz                     :                           :              :              : 52    
+01:43:33 : bleed      : damage                    : FYasz                     :                           :              :              : 49    
+01:43:33 : bleed      : damage                    : FYasz                     :                           :              :              : 48    
+01:43:33 : bleed      : damage                    : FYasz                     :                           :              :              : 22    
+01:43:33 : bleed      : damage                    : FYasz                     :                           :              :              : 27    
+01:43:42 : bleed      : damage                    : Nibenay                   :                           :              :              : 54    
+01:43:46 : bleed      : damage                    : Mephistopheles            :                           :              :              : 44    

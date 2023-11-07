@@ -1,0 +1,10 @@
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
+RegExType   :: Evade :: Parry
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>parr)[yies]+ (?<source>.*)'s .*[\.!]
+
+Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
+01:42:51 : parr       : Mud Fiend                 : hta �C   NZSP             :                           :              :              :       
+01:43:44 : parr       : Soda                      : Bearable                  :                           :              :              :       
+01:43:45 : parr       : Soda                      : Bearable                  :                           :              :              :       
+01:43:45 : parr       : Soda                      : Bearable                  :                           :              :              :       

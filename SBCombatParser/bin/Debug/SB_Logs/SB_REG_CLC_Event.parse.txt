@@ -1,0 +1,19 @@
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
+RegExType   :: CLC :: Event
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>CLC) (?<type>.*) (?<event_type>.*) \:\: (?<event_detail>.*)
+
+Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
+01:41:50 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\10bro.txt :       
+01:42:07 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\10bro.txt :       
+01:42:12 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\10v14tomb.txt :       
+01:42:36 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\10v14tomb.txt :       
+01:42:41 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\1111.txt :       
+01:43:24 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\1111.txt :       
+01:43:29 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\11111.txt :       
+01:43:36 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\11111.txt :       
+01:43:41 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\122222.txt :       
+01:43:48 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\122222.txt :       
+01:43:53 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\123.txt :       
+01:44:19 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\123.txt :       
+01:44:24 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\1234.txt :       

@@ -1,0 +1,11 @@
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
+RegExType   :: Power :: Enter
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<type>enter)s? [\Wa]?(?<ability>.*)[\.!]
+
+
+(01:41:50) AlbiThere enters a berserker rage!
+(01:42:41) HuntyPet enters a berserker rage!
+(01:43:29) Dispel enters a berserker rage!
+(01:43:32) HuntyPet enters a berserker rage!
+(01:43:42) Bearable enters a berserker rage!

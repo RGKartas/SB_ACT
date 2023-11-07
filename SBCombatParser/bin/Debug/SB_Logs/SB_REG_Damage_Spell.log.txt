@@ -1,0 +1,1767 @@
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
+RegExType   :: Damage :: Spell
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']{1}[s]* (?<ability>.*?) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]
+
+
+(01:41:52) Sniper's Incendiary Blast burns Vashteera's Companion for 387 points of damage!
+(01:41:52) Sniper's Incendiary Blast burns Dispel for 203 points of damage!
+(01:41:52) Sniper's Incendiary Blast burns you for 235 points of damage!
+(01:41:52) Sniper's Incendiary Blast burns Saas for 218 points of damage!
+(01:41:52) Miha's Dread Dissonance hurts BigBlackBen for 448 points of damage!
+(01:41:52) Sax's Censure smites BigBlackBen for 444 points of damage!
+(01:41:53) Sniper's Incendiary Blast burns Vashteera's Companion for 324 points of damage!
+(01:41:53) Sniper's Incendiary Blast burns you for 112 points of damage!
+(01:41:53) Sniper's Incendiary Blast burns Dispel for 221 points of damage!
+(01:41:53) Sniper's Incendiary Blast burns Saas for 226 points of damage!
+(01:41:53) Dispel's holy weapon strikes Long for 146 points of damage!
+(01:41:53) lover's Steal Breath poisons Vashtur for 207 points of damage!
+(01:41:54) Sniper's Incendiary Blast burns Vashteera's Companion for 417 points of damage!
+(01:41:54) Sniper's Incendiary Blast burns you for 257 points of damage!
+(01:41:54) Sniper's Incendiary Blast burns Dispel for 167 points of damage!
+(01:41:54) Sniper's Incendiary Blast burns Saas for 203 points of damage!
+(01:41:54) Dispel's fire burns Vashtur for 764 points of damage!
+(01:41:54) BigBlackBen's Cleansing Flame burns lover for 117 points of damage!
+(01:41:54) BigBlackBen's Cleansing Flame burns BigBlackBen for 10 points of damage!
+(01:41:54) BigBlackBen's Cleansing Flame burns lover for 14 points of damage!
+(01:41:54) Sniper's Ignite burns Vashtur for 633 points of damage!
+(01:41:54) HuntyPet's fire burns Vashtur for 592 points of damage!
+(01:41:54) lover's Shadow Bolt freezes Vashtur for 315 points of damage!
+(01:41:54) Miha's Dread Dissonance hurts Vashtur for 383 points of damage!
+(01:41:54) lover's Steal Breath poisons Vashtur for 156 points of damage!
+(01:41:54) lover's darnkness engulfs Vashtur for 1022 points of damage!
+(01:41:55) Sniper's Ignite burns Vashtur for 197 points of damage!
+(01:41:55) Sniper's Incendiary Blast burns Vashteera's Companion for 427 points of damage!
+(01:41:55) Sniper's Incendiary Blast burns you for 160 points of damage!
+(01:41:55) Sniper's Incendiary Blast burns Dispel for 364 points of damage!
+(01:41:55) Sniper's Incendiary Blast burns Saas for 235 points of damage!
+(01:41:55) BigBlackBen's Cleansing Flame burns BigBlackBen for 17 points of damage!
+(01:41:55) BigBlackBen's Cleansing Flame burns lover for 95 points of damage!
+(01:41:55) BigBlackBen's Cleansing Flame burns lover for 23 points of damage!
+(01:41:55) Sniper's Fire Bolt burns Vashtur for 1438 points of damage!
+(01:41:55) Sniper's Incendiary Blast burns Miha for 301 points of damage!
+(01:41:55) Sniper's Incendiary Blast burns BigBlackBen for 344 points of damage!
+(01:41:55) Sniper's Incendiary Blast burns Dispel for 491 points of damage!
+(01:41:55) Sniper's Incendiary Blast burns Sax for 262 points of damage!
+(01:41:55) Sniper's Incendiary Blast burns PBAOE for 336 points of damage!
+(01:41:55) Sniper's Incendiary Blast burns HuntyPet for 370 points of damage!
+(01:41:55) Sniper's Incendiary Blast burns Vashteera's Companion for 275 points of damage!
+(01:41:55) Sniper's Incendiary Blast burns you for 144 points of damage!
+(01:41:55) Sniper's Incendiary Blast burns Saas for 286 points of damage!
+(01:41:55) BigBlackBen's Cleansing Flame burns BigBlackBen for 16 points of damage!
+(01:41:55) BigBlackBen's Cleansing Flame burns lover for 231 points of damage!
+(01:41:55) BigBlackBen's Cleansing Flame burns lover for 22 points of damage!
+(01:41:56) Sniper's Incendiary Blast burns Miha for 326 points of damage!
+(01:41:56) Sniper's Incendiary Blast burns Dispel for 288 points of damage!
+(01:41:56) Sniper's Incendiary Blast burns BigBlackBen for 468 points of damage!
+(01:41:56) Sniper's Incendiary Blast burns Sax for 484 points of damage!
+(01:41:56) Sniper's Incendiary Blast burns PBAOE for 376 points of damage!
+(01:41:56) Sniper's Incendiary Blast burns HuntyPet for 381 points of damage!
+(01:41:56) Sniper's Incendiary Blast burns Vashteera's Companion for 319 points of damage!
+(01:41:56) Sniper's Incendiary Blast burns you for 279 points of damage!
+(01:41:56) Sniper's Incendiary Blast burns Saas for 225 points of damage!
+(01:41:56) BigBlackBen's Fire Damage Over Time burns lover for 233 points of damage!
+(01:41:56) BigBlackBen's Cleansing Flame burns lover for 196 points of damage!
+(01:41:56) BigBlackBen's Cleansing Flame burns BigBlackBen for 18 points of damage!
+(01:41:56) BigBlackBen's Cleansing Flame burns lover for 24 points of damage!
+(01:41:57) Sniper's Ignite burns AlbiThere for 760 points of damage!
+(01:41:57) Miha's Dread Dissonance hurts Priest for 396 points of damage!
+(01:41:57) Sniper's Incendiary Blast burns Miha for 176 points of damage!
+(01:41:57) Sniper's Incendiary Blast burns BigBlackBen for 166 points of damage!
+(01:41:57) Sniper's Incendiary Blast burns Dispel for 303 points of damage!
+(01:41:57) Sniper's Incendiary Blast burns Sax for 160 points of damage!
+(01:41:57) Sniper's Incendiary Blast burns PBAOE for 252 points of damage!
+(01:41:57) Sniper's Incendiary Blast burns HuntyPet for 161 points of damage!
+(01:41:57) Sniper's Incendiary Blast burns Vashteera's Companion for 382 points of damage!
+(01:41:57) Sniper's Incendiary Blast burns you for 243 points of damage!
+(01:41:57) Sniper's Incendiary Blast burns Saas for 358 points of damage!
+(01:41:57) BigBlackBen's Fire Damage Over Time burns lover for 207 points of damage!
+(01:41:57) BigBlackBen's Cleansing Flame burns BigBlackBen for 18 points of damage!
+(01:41:57) BigBlackBen's Cleansing Flame burns lover for 24 points of damage!
+(01:41:57) Sniper's Ignite burns AlbiThere for 541 points of damage!
+(01:41:57) BigBlackBen's Cleansing Flame burns lover for 200 points of damage!
+(01:41:57) Sniper's Fire Bolt burns AlbiThere for 1374 points of damage!
+(01:41:58) Sniper's Incendiary Blast burns Miha for 179 points of damage!
+(01:41:58) Sniper's Incendiary Blast burns Dispel for 259 points of damage!
+(01:41:58) Sniper's Incendiary Blast burns BigBlackBen for 284 points of damage!
+(01:41:58) Sniper's Incendiary Blast burns Sax for 351 points of damage!
+(01:41:58) Sniper's Incendiary Blast burns PBAOE for 127 points of damage!
+(01:41:58) Sniper's Incendiary Blast burns HuntyPet for 448 points of damage!
+(01:41:58) BigBlackBen's Fire Damage Over Time burns lover for 146 points of damage!
+(01:41:58) BigBlackBen's Cleansing Flame burns BigBlackBen for 11 points of damage!
+(01:41:58) BigBlackBen's Cleansing Flame burns lover for 138 points of damage!
+(01:41:58) BigBlackBen's Cleansing Flame burns lover for 15 points of damage!
+(01:41:58) HuntyPet's fire burns Priest for 722 points of damage!
+(01:41:58) Sniper's Ignite burns AlbiThere for 461 points of damage!
+(01:41:58) Sniper's Incendiary Blast burns Miha for 231 points of damage!
+(01:41:58) Sniper's Incendiary Blast burns Dispel for 303 points of damage!
+(01:41:58) Sniper's Incendiary Blast burns BigBlackBen for 267 points of damage!
+(01:41:58) Sniper's Incendiary Blast burns Sax for 368 points of damage!
+(01:41:58) Sniper's Incendiary Blast burns PBAOE for 314 points of damage!
+(01:41:58) Sniper's Incendiary Blast burns HuntyPet for 172 points of damage!
+(01:41:59) Dispel's fire burns PBAOE for 357 points of damage!
+(01:41:59) Sniper's Fire Bolt burns AlbiThere for 746 points of damage!
+(01:41:59) BigBlackBen's Cleansing Flame burns BigBlackBen for 11 points of damage!
+(01:41:59) BigBlackBen's Cleansing Flame burns lover for 142 points of damage!
+(01:41:59) BigBlackBen's Cleansing Flame burns lover for 15 points of damage!
+(01:41:59) Sniper's Ignite burns AlbiThere for 534 points of damage!
+(01:41:59) Sniper's Incendiary Blast burns Miha for 192 points of damage!
+(01:41:59) Sniper's Incendiary Blast burns Dispel for 346 points of damage!
+(01:41:59) Sniper's Incendiary Blast burns BigBlackBen for 291 points of damage!
+(01:41:59) Sniper's Incendiary Blast burns PBAOE for 529 points of damage!
+(01:41:59) Sniper's Incendiary Blast burns Sax for 273 points of damage!
+(01:41:59) Sniper's Incendiary Blast burns HuntyPet for 401 points of damage!
+(01:41:59) BigBlackBen's Fire Damage Over Time burns lover for 197 points of damage!
+(01:41:59) Sniper's Ignite burns AlbiThere for 992 points of damage!
+(01:41:59) HuntyPet's Poison Damage Over Time poisons PBAOE for 270 points of damage!
+(01:42:00) Sniper's Ignite burns AlbiThere for 678 points of damage!
+(01:42:00) Sniper's Fire Bolt burns AlbiThere for 1712 points of damage!
+(01:42:00) HuntyPet's fire burns PBAOE for 652 points of damage!
+(01:42:00) Sniper's Incendiary Blast burns Miha for 152 points of damage!
+(01:42:00) Sniper's Incendiary Blast burns Dispel for 178 points of damage!
+(01:42:00) Sniper's Incendiary Blast burns BigBlackBen for 345 points of damage!
+(01:42:00) Sniper's Incendiary Blast burns PBAOE for 358 points of damage!
+(01:42:00) Sniper's Incendiary Blast burns Sax for 292 points of damage!
+(01:42:00) Sniper's Incendiary Blast burns HuntyPet for 240 points of damage!
+(01:42:00) BigBlackBen's Fire Damage Over Time burns lover for 109 points of damage!
+(01:42:00) BigBlackBen's Cleansing Flame burns lover for 134 points of damage!
+(01:42:00) BigBlackBen's Cleansing Flame burns BigBlackBen for 11 points of damage!
+(01:42:00) BigBlackBen's Cleansing Flame burns lover for 15 points of damage!
+(01:42:00) Sniper's Ignite burns BigBlackBen for 698 points of damage!
+(01:42:00) Sniper's Ignite burns AlbiThere for 169 points of damage!
+(01:42:01) BigBlackBen's Fire Damage Over Time burns lover for 191 points of damage!
+(01:42:01) BigBlackBen's Cleansing Flame burns lover for 162 points of damage!
+(01:42:01) BigBlackBen's Cleansing Flame burns BigBlackBen for 11 points of damage!
+(01:42:01) BigBlackBen's Cleansing Flame burns lover for 15 points of damage!
+(01:42:01) Sniper's Ignite burns BigBlackBen for 325 points of damage!
+(01:42:01) Sniper's Fire Bolt burns BigBlackBen for 1344 points of damage!
+(01:42:01) Sniper's Ignite burns AlbiThere for 527 points of damage!
+(01:42:01) BigBlackBen's Fire Damage Over Time burns lover for 131 points of damage!
+(01:42:01) BigBlackBen's Cleansing Flame burns lover for 104 points of damage!
+(01:42:01) BigBlackBen's Cleansing Flame burns BigBlackBen for 11 points of damage!
+(01:42:01) BigBlackBen's Cleansing Flame burns lover for 15 points of damage!
+(01:42:01) Miha's Dread Dissonance hurts Tupac for 259 points of damage!
+(01:42:02) Sniper's Ignite burns BigBlackBen for 1071 points of damage!
+(01:42:02) lover's Steal Breath poisons Tupac for 97 points of damage!
+(01:42:02) Someone's Ignite burns AlbiThere ForYou for 411 points of damage!
+(01:42:02) HuntyPet's fire burns AlbiThere for 735 points of damage!
+(01:42:02) Miha's Dread Dissonance hurts Tupac for 266 points of damage!
+(01:42:02) Someone's Ignite burns BigBlackBen for 278 points of damage!
+(01:42:02) BigBlackBen's Cleansing Flame burns lover for 65 points of damage!
+(01:42:02) lover's Steal Breath poisons Tupac for 151 points of damage!
+(01:42:02) BigBlackBen's Fire Damage Over Time burns lover for 171 points of damage!
+(01:42:03) Someone's Ignite burns AlbiThere ForYou for 253 points of damage!
+(01:42:03) Dispel's holy weapon strikes Tupac for 236 points of damage!
+(01:42:03) lover's poisonous weapon strikes Tupac for 747 points of damage!
+(01:42:03) Sniper's Ignite burns BigBlackBen for 404 points of damage!
+(01:42:03) BigBlackBen's Cleansing Flame burns lover for 168 points of damage!
+(01:42:03) BigBlackBen's Fire Damage Over Time burns lover for 110 points of damage!
+(01:42:03) Sniper's Ignite burns AlbiThere for 431 points of damage!
+(01:42:03) Sniper's Ignite burns BigBlackBen for 505 points of damage!
+(01:42:03) BigBlackBen's Cleansing Flame burns lover for 88 points of damage!
+(01:42:04) BigBlackBen's Fire Damage Over Time burns lover for 78 points of damage!
+(01:42:04) Sniper's Ignite burns Long for 678 points of damage!
+(01:42:04) lover's darnkness engulfs BigBlackBen for 544 points of damage!
+(01:42:04) lover's Steal Breath poisons BigBlackBen for 235 points of damage!
+(01:42:04) Sniper's Ignite burns BigBlackBen for 693 points of damage!
+(01:42:04) Miha's Dread Dissonance hurts BigBlackBen for 372 points of damage!
+(01:42:04) BigBlackBen's Cleansing Flame burns lover for 95 points of damage!
+(01:42:04) Sniper's Ignite burns Long for 469 points of damage!
+(01:42:04) lover's Shadow Bolt freezes BigBlackBen for 461 points of damage!
+(01:42:04) Sniper's Fire Bolt burns Long for 1718 points of damage!
+(01:42:04) BigBlackBen's Fire Damage Over Time burns lover for 82 points of damage!
+(01:42:04) lover's Shadow Bolt freezes BigBlackBen for 428 points of damage!
+(01:42:04) Miha's Dread Dissonance hurts BigBlackBen for 381 points of damage!
+(01:42:05) HuntyPet's Poison Damage Over Time poisons BigBlackBen for 345 points of damage!
+(01:42:05) lover's Steal Breath poisons Long for 157 points of damage!
+(01:42:05) Sniper's Ignite burns Long for 642 points of damage!
+(01:42:05) BigBlackBen's Fire Damage Over Time burns lover for 57 points of damage!
+(01:42:05) lover's Shadow Bolt freezes Long for 1054 points of damage!
+(01:42:05) lover's Shadow Bolt freezes Drooley for 303 points of damage!
+(01:42:05) lover's Steal Breath poisons Drooley for 186 points of damage!
+(01:42:05) BigBlackBen's Fire Damage Over Time burns lover for 62 points of damage!
+(01:42:06) lover's Shadow Bolt freezes Drooley for 285 points of damage!
+(01:42:06) Sniper's Ignite burns AlbiThere for 892 points of damage!
+(01:42:06) lover's Shadow Bolt freezes Drooley for 367 points of damage!
+(01:42:06) lover's Steal Breath poisons Drooley for 180 points of damage!
+(01:42:06) Sniper's Ignite burns AlbiThere for 623 points of damage!
+(01:42:06) Sniper's Fire Bolt burns AlbiThere for 1402 points of damage!
+(01:42:06) lover's Shadow Bolt freezes Drooley for 369 points of damage!
+(01:42:06) Miha's Dread Dissonance hurts Drooley for 538 points of damage!
+(01:42:06) Miha's Dread Dissonance hurts AlbiThere for 360 points of damage!
+(01:42:06) Sniper's Ignite burns AlbiThere for 560 points of damage!
+(01:42:06) Sniper's Ignite burns AlbiThere for 215 points of damage!
+(01:42:06) Sniper's Ignite burns AlbiThere for 418 points of damage!
+(01:42:07) Sniper's Ignite burns AlbiThere for 583 points of damage!
+(01:42:14) lover's Steal Breath poisons DMT for 175 points of damage!
+(01:42:14) Noodle's Censure smites you for 365 points of damage!
+(01:42:14) Fatherjoe's Censure smites you for 470 points of damage!
+(01:42:14) WoundedKnee's Mage Bolt strikes you for 172 points of damage!
+(01:42:14) lover's Steal Breath poisons DMT for 262 points of damage!
+(01:42:14) Miha's Dread Dissonance hurts DMT for 396 points of damage!
+(01:42:14) Dispel's fire burns DMT for 1234 points of damage!
+(01:42:14) Fkrah's Uvoriel's Judgment burns lover for 139 points of damage!
+(01:42:14) Guru's Sign of Sorthoth hurts lover for 172 points of damage!
+(01:42:14) Fatherjoe's Censure smites you for 599 points of damage!
+(01:42:14) HuntyPet's holy weapon strikes Guru for 711 points of damage!
+(01:42:14) WoundedKnee's Mage Bolt strikes you for 205 points of damage!
+(01:42:15) Fkrah's Uvoriel's Judgment burns lover for 206 points of damage!
+(01:42:15) deez's Censure smites you for 467 points of damage!
+(01:42:15) WoundedKnee's Mage Bolt strikes you for 240 points of damage!
+(01:42:15) Guru's Sign of Sorthoth hurts lover for 317 points of damage!
+(01:42:15) Fatherjoe's Censure smites you for 629 points of damage!
+(01:42:15) Bog's Unholy Blast strikes you for 620 points of damage!
+(01:42:15) Guru's Mage Bolt strikes lover for 576 points of damage!
+(01:42:15) PvPP's Mage Bolt strikes you for 444 points of damage!
+(01:42:15) WoundedKnee's Mage Bolt strikes you for 502 points of damage!
+(01:42:15) deez's Censure smites you for 698 points of damage!
+(01:42:15) Fkrah's Uvoriel's Judgment burns lover for 58 points of damage!
+(01:42:15) Guru's Sign of Sorthoth hurts lover for 236 points of damage!
+(01:42:15) PvPP's Mage Bolt strikes you for 594 points of damage!
+(01:42:15) Dispel's fire burns WoundedKnee for 155 points of damage!
+(01:42:15) lover's Shadow Bolt freezes Yuckfou for 146 points of damage!
+(01:42:16) Sniper's Incendiary Blast burns WoundedKnee for 100 points of damage!
+(01:42:16) Sniper's Incendiary Blast burns Vashteera's Companion for 272 points of damage!
+(01:42:16) Sniper's Incendiary Blast burns Fkrah for 236 points of damage!
+(01:42:16) Sniper's Incendiary Blast burns Fatherjoe for 315 points of damage!
+(01:42:16) Fkrah's Uvoriel's Judgment burns lover for 50 points of damage!
+(01:42:16) Guru's Sign of Sorthoth hurts lover for 192 points of damage!
+(01:42:16) Guru's Mage Bolt strikes lover for 417 points of damage!
+(01:42:16) Miha's Dread Dissonance hurts WoundedKnee for 242 points of damage!
+(01:42:16) Guru's Lesser Mage Bolt strikes lover for 94 points of damage!
+(01:42:16) deez's Censure smites Sax for 591 points of damage!
+(01:42:16) Dispel's Fury of Ice freezes WoundedKnee for 175 points of damage!
+(01:42:16) Sniper's Incendiary Blast burns Vashteera's Companion for 419 points of damage!
+(01:42:16) Sniper's Incendiary Blast burns Fkrah for 293 points of damage!
+(01:42:16) Sniper's Incendiary Blast burns WoundedKnee for 99 points of damage!
+(01:42:16) Sniper's Incendiary Blast burns Fatherjoe for 292 points of damage!
+(01:42:16) Guru's Mage Bolt strikes Bourbon for 269 points of damage!
+(01:42:16) Guru's Sign of Sorthoth hurts lover for 168 points of damage!
+(01:42:16) Miha's Dread Dissonance hurts Guru for 424 points of damage!
+(01:42:16) Fkrah's Uvoriel's Judgment burns lover for 70 points of damage!
+(01:42:16) Bog's Unholy Blast strikes HuntyPet for 658 points of damage!
+(01:42:16) PvPP's Mage Bolt strikes sudo for 419 points of damage!
+(01:42:17) lover's Shadow Bolt freezes Guru for 168 points of damage!
+(01:42:17) Sniper's Incendiary Blast burns Vashteera's Companion for 337 points of damage!
+(01:42:17) Sniper's Incendiary Blast burns WoundedKnee for 127 points of damage!
+(01:42:17) Sniper's Incendiary Blast burns Fkrah for 424 points of damage!
+(01:42:17) Sniper's Incendiary Blast burns Fatherjoe for 291 points of damage!
+(01:42:17) Dispel's fire burns Guru for 148 points of damage!
+(01:42:17) Miha's Dread Dissonance hurts Guru for 284 points of damage!
+(01:42:17) PvPP's Sign of Sorthoth hurts sudo for 357 points of damage!
+(01:42:17) Fkrah's Uvoriel's Judgment burns lover for 52 points of damage!
+(01:42:17) Guru's Sign of Sorthoth hurts lover for 121 points of damage!
+(01:42:17) Sniper's Fire Bolt burns WoundedKnee for 340 points of damage!
+(01:42:17) Sniper's Incendiary Blast burns WoundedKnee for 175 points of damage!
+(01:42:17) Sniper's Incendiary Blast burns Vashteera's Companion for 373 points of damage!
+(01:42:17) Sniper's Incendiary Blast burns Noodle for 248 points of damage!
+(01:42:17) Sniper's Incendiary Blast burns Fkrah for 222 points of damage!
+(01:42:17) Sniper's Incendiary Blast burns Fatherjoe for 333 points of damage!
+(01:42:17) Fkrah's Uvoriel's Judgment burns lover for 47 points of damage!
+(01:42:17) Guru's Sign of Sorthoth hurts lover for 157 points of damage!
+(01:42:17) PvPP's Sign of Sorthoth hurts sudo for 255 points of damage!
+(01:42:18) PvPP's Mage Bolt strikes sudo for 302 points of damage!
+(01:42:18) WoundedKnee's Mage Bolt strikes Sniper for 153 points of damage!
+(01:42:18) Miha's Dread Dissonance hurts LogicNC for 286 points of damage!
+(01:42:18) Yuckfou's Unholy Blast strikes Bourbon for 477 points of damage!
+(01:42:18) Bog's Unholy Blast strikes sudo for 717 points of damage!
+(01:42:18) Someone's Incendiary Blast burns Vashteera's Companion for 269 points of damage!
+(01:42:18) Someone's Incendiary Blast burns Noodle for 248 points of damage!
+(01:42:18) Someone's Incendiary Blast burns WoundedKnee for 308 points of damage!
+(01:42:18) Someone's Incendiary Blast burns Fkrah for 329 points of damage!
+(01:42:18) Someone's Incendiary Blast burns Fatherjoe for 459 points of damage!
+(01:42:18) PvPP's Sign of Sorthoth hurts sudo for 254 points of damage!
+(01:42:18) PvPP's Mage Bolt strikes Sax for 520 points of damage!
+(01:42:18) lover's Steal Breath poisons LogicNC for 65 points of damage!
+(01:42:18) Miha's Dread Dissonance hurts LogicNC for 180 points of damage!
+(01:42:18) WoundedKnee's Mage Bolt strikes WoundedKnee for 90 points of damage!
+(01:42:18) PvPP's Mage Bolt strikes Sax for 482 points of damage!
+(01:42:18) SeeNo's Steal Breath poisons Sax for 107 points of damage!
+(01:42:18) Someone's Incendiary Blast burns Vashteera's Companion for 213 points of damage!
+(01:42:18) Someone's Incendiary Blast burns WoundedKnee for 225 points of damage!
+(01:42:18) PvPP's Mage Bolt strikes Sax for 260 points of damage!
+(01:42:18) Someone's Incendiary Blast burns Fkrah for 131 points of damage!
+(01:42:18) Someone's Incendiary Blast burns Fatherjoe for 261 points of damage!
+(01:42:18) Someone's Incendiary Blast burns Noodle for 219 points of damage!
+(01:42:18) PvPP's Sign of Sorthoth hurts sudo for 163 points of damage!
+(01:42:19) Miha's Dread Dissonance hurts LogicNC for 257 points of damage!
+(01:42:19) lover's Steal Breath poisons LogicNC for 77 points of damage!
+(01:42:19) lover's Shadow Bolt freezes LogicNC for 48 points of damage!
+(01:42:19) Dispel's holy weapon strikes LogicNC for 417 points of damage!
+(01:42:19) Yuckfou's Unholy Blast strikes Dispel for 598 points of damage!
+(01:42:19) Bog's Unholy Blast strikes Sax for 481 points of damage!
+(01:42:19) HuntyPet's holy weapon strikes LogicNC for 398 points of damage!
+(01:42:19) Someone's Steal Breath poisons Sax for 137 points of damage!
+(01:42:19) Sniper's Incendiary Blast burns Vashteera's Companion for 401 points of damage!
+(01:42:19) Sniper's Incendiary Blast burns LogicNC for 73 points of damage!
+(01:42:19) Sniper's Incendiary Blast burns WoundedKnee for 196 points of damage!
+(01:42:19) Sniper's Incendiary Blast burns Noodle for 246 points of damage!
+(01:42:19) Sniper's Incendiary Blast burns Bog for 525 points of damage!
+(01:42:19) Sniper's Incendiary Blast burns PvPP for 199 points of damage!
+(01:42:19) Sniper's Incendiary Blast burns Fatherjoe for 241 points of damage!
+(01:42:19) Sniper's Incendiary Blast burns Fkrah for 347 points of damage!
+(01:42:19) PvPP's Sign of Sorthoth hurts sudo for 195 points of damage!
+(01:42:19) Yuckfou's Unholy Blast strikes Dispel for 434 points of damage!
+(01:42:19) Bog's Unholy Blast strikes Sax for 476 points of damage!
+(01:42:19) lover's Steal Breath poisons LogicNC for 73 points of damage!
+(01:42:19) Miha's Dread Dissonance hurts LogicNC for 269 points of damage!
+(01:42:19) HuntyPet's holy weapon strikes LogicNC for 320 points of damage!
+(01:42:20) lover's Shadow Bolt freezes LogicNC for 45 points of damage!
+(01:42:20) SeeNo's Steal Breath poisons Sax for 121 points of damage!
+(01:42:20) Yuckfou's Unholy Storm strikes Fkrah for 498 points of damage!
+(01:42:20) Yuckfou's Unholy Storm strikes Vashteera's Thrall for 555 points of damage!
+(01:42:20) Miha's Dread Dissonance hurts deez for 457 points of damage!
+(01:42:20) Yuckfou's Unholy Storm strikes Dispel for 564 points of damage!
+(01:42:20) Bog's Unholy Blast strikes Sax for 578 points of damage!
+(01:42:20) Sniper's Incendiary Blast burns Vashteera's Companion for 235 points of damage!
+(01:42:20) Sniper's Incendiary Blast burns SeeNo for 219 points of damage!
+(01:42:20) Sniper's Incendiary Blast burns LogicNC for 199 points of damage!
+(01:42:20) Sniper's Incendiary Blast burns Bog for 371 points of damage!
+(01:42:20) Sniper's Incendiary Blast burns Noodle for 145 points of damage!
+(01:42:20) Sniper's Incendiary Blast burns WoundedKnee for 232 points of damage!
+(01:42:20) Sniper's Incendiary Blast burns PvPP for 124 points of damage!
+(01:42:20) Yuckfou's Unholy Storm strikes Bourbon for 368 points of damage!
+(01:42:20) PvPP's Sign of Sorthoth hurts sudo for 262 points of damage!
+(01:42:20) lover's Shadow Bolt freezes LogicNC for 49 points of damage!
+(01:42:20) HuntyPet's holy weapon strikes LogicNC for 389 points of damage!
+(01:42:20) Yuckfou's Unholy Storm strikes Saas for 363 points of damage!
+(01:42:20) HuntyPet's fire burns deez for 625 points of damage!
+(01:42:20) lover's Steal Breath poisons LogicNC for 63 points of damage!
+(01:42:20) Sniper's Ignite burns Bog for 714 points of damage!
+(01:42:20) Fkrah's Uvoriel's Judgment burns Dispel for 145 points of damage!
+(01:42:20) lover's poisonous weapon strikes LogicNC for 309 points of damage!
+(01:42:20) lover's darnkness engulfs LogicNC for 236 points of damage!
+(01:42:20) Sniper's Ignite burns Bog for 378 points of damage!
+(01:42:20) lover's Steal Breath poisons deez for 97 points of damage!
+(01:42:21) Sniper's Incendiary Blast burns Vashteera's Companion for 394 points of damage!
+(01:42:21) Sniper's Incendiary Blast burns SeeNo for 319 points of damage!
+(01:42:21) Sniper's Incendiary Blast burns LogicNC for 141 points of damage!
+(01:42:21) Sniper's Incendiary Blast burns Bog for 397 points of damage!
+(01:42:21) Sniper's Incendiary Blast burns Noodle for 306 points of damage!
+(01:42:21) Sniper's Incendiary Blast burns WoundedKnee for 262 points of damage!
+(01:42:21) Sniper's Incendiary Blast burns PvPP for 320 points of damage!
+(01:42:21) PvPP's Sign of Sorthoth hurts sudo for 347 points of damage!
+(01:42:21) Yuckfou's Unholy Blast strikes deez for 514 points of damage!
+(01:42:21) lover's Steal Breath poisons LogicNC for 57 points of damage!
+(01:42:21) Fkrah's Uvoriel's Judgment burns Dispel for 130 points of damage!
+(01:42:21) Sniper's Incendiary Blast burns SeeNo for 344 points of damage!
+(01:42:21) Sniper's Incendiary Blast burns Soraka for 181 points of damage!
+(01:42:21) Sniper's Incendiary Blast burns LogicNC for 210 points of damage!
+(01:42:21) Sniper's Incendiary Blast burns Noodle for 297 points of damage!
+(01:42:21) Sniper's Incendiary Blast burns Bog for 215 points of damage!
+(01:42:21) Sniper's Ignite burns Bog for 539 points of damage!
+(01:42:21) Miha's Dread Dissonance hurts deez for 351 points of damage!
+(01:42:21) Yuckfou's Unholy Blast strikes Bourbon for 811 points of damage!
+(01:42:21) lover's poisonous weapon strikes deez for 362 points of damage!
+(01:42:21) lover's Steal Breath poisons deez for 109 points of damage!
+(01:42:21) lover's Shadow Bolt freezes deez for 157 points of damage!
+(01:42:21) Sniper's Incendiary Blast burns Vashteera's Companion for 266 points of damage!
+(01:42:21) Sniper's Incendiary Blast burns WoundedKnee for 429 points of damage!
+(01:42:21) Sniper's Incendiary Blast burns PvPP for 108 points of damage!
+(01:42:21) lover's Shadow Bolt freezes deez for 127 points of damage!
+(01:42:21) lover's Steal Breath poisons LogicNC for 61 points of damage!
+(01:42:21) HuntyPet's Poison Damage Over Time poisons deez for 123 points of damage!
+(01:42:21) PvPP's Mage Bolt strikes Sniper for 462 points of damage!
+(01:42:22) Fkrah's Uvoriel's Judgment burns Dispel for 127 points of damage!
+(01:42:22) Miha's Dread Dissonance hurts deez for 328 points of damage!
+(01:42:22) lover's Shadow Bolt freezes deez for 137 points of damage!
+(01:42:22) Sniper's Incendiary Blast burns Soraka for 168 points of damage!
+(01:42:22) Sniper's Incendiary Blast burns LogicNC for 174 points of damage!
+(01:42:22) Sniper's Incendiary Blast burns Bog for 452 points of damage!
+(01:42:22) Sniper's Incendiary Blast burns Noodle for 238 points of damage!
+(01:42:22) PvPP's Sign of Sorthoth hurts Sniper for 333 points of damage!
+(01:42:22) Fatherjoe's Censure smites Dispel for 519 points of damage!
+(01:42:22) lover's Steal Breath poisons deez for 99 points of damage!
+(01:42:22) Sniper's Ignite burns Bog for 444 points of damage!
+(01:42:22) Sniper's Incendiary Blast burns Vashteera's Companion for 309 points of damage!
+(01:42:22) Sniper's Incendiary Blast burns PvPP for 306 points of damage!
+(01:42:22) Yuckfou's Unholy Blast strikes Bourbon for 695 points of damage!
+(01:42:22) Miha's Dread Dissonance hurts Fkrah for 355 points of damage!
+(01:42:22) lover's Shadow Bolt freezes deez for 141 points of damage!
+(01:42:22) lover's Shadow Bolt freezes WoundedKnee for 187 points of damage!
+(01:42:22) HuntyPet's Poison Damage Over Time poisons deez for 206 points of damage!
+(01:42:22) lover's Steal Breath poisons LogicNC for 72 points of damage!
+(01:42:22) Sniper's Ignite burns First for 777 points of damage!
+(01:42:22) Fatherjoe's Censure smites Dispel for 545 points of damage!
+(01:42:22) Sniper's Ignite burns First for 239 points of damage!
+(01:42:22) Fkrah's Uvoriel's Judgment burns Dispel for 123 points of damage!
+(01:42:22) lover's Steal Breath poisons WoundedKnee for 103 points of damage!
+(01:42:23) Sniper's Incendiary Blast burns SeeNo for 101 points of damage!
+(01:42:23) Sniper's Incendiary Blast burns Soraka for 175 points of damage!
+(01:42:23) Sniper's Incendiary Blast burns LogicNC for 113 points of damage!
+(01:42:23) Sniper's Incendiary Blast burns Bog for 236 points of damage!
+(01:42:23) Sniper's Incendiary Blast burns Noodle for 117 points of damage!
+(01:42:23) Sniper's Ignite burns Bog for 307 points of damage!
+(01:42:23) Sniper's Incendiary Blast burns Vashteera's Companion for 258 points of damage!
+(01:42:23) Sniper's Incendiary Blast burns PvPP for 235 points of damage!
+(01:42:23) Miha's Dread Dissonance hurts WoundedKnee for 454 points of damage!
+(01:42:23) PvPP's Sign of Sorthoth hurts Sniper for 136 points of damage!
+(01:42:23) lover's Steal Breath poisons deez for 77 points of damage!
+(01:42:23) Fkrah's Uvoriel's Judgment burns Sniper for 61 points of damage!
+(01:42:23) Sniper's Fire Bolt burns First for 1433 points of damage!
+(01:42:23) PvPP's Mage Bolt strikes Sniper for 240 points of damage!
+(01:42:23) HuntyPet's Poison Damage Over Time poisons deez for 157 points of damage!
+(01:42:23) WoundedKnee's Mage Bolt strikes Sniper for 203 points of damage!
+(01:42:23) lover's Steal Breath poisons LogicNC for 126 points of damage!
+(01:42:24) SeeNo's Chill of the Grave freezes Dispel for 127 points of damage!
+(01:42:24) SeeNo's Chill of the Grave freezes Dispel for 31 points of damage!
+(01:42:24) lover's Steal Breath poisons LogicNC for 100 points of damage!
+(01:42:24) Someone's Incendiary Blast burns SeeNo Evil for 224 points of damage!
+(01:42:24) Someone's Incendiary Blast burns LogicNC for 75 points of damage!
+(01:42:24) Someone's Incendiary Blast burns Bog for 187 points of damage!
+(01:42:24) Someone's Incendiary Blast burns First Aid for 201 points of damage!
+(01:42:24) Someone's Incendiary Blast burns Fkrah for 249 points of damage!
+(01:42:24) SeeNo's Shadow Bolt freezes Dispel for 305 points of damage!
+(01:42:24) SeeNo's Steal Breath poisons Dispel for 101 points of damage!
+(01:42:24) lover's Steal Breath poisons First for 211 points of damage!
+(01:42:24) lover's Steal Breath poisons SeeNo for 168 points of damage!
+(01:42:24) SeeNo's Shadow Bolt freezes Dispel for 215 points of damage!
+(01:42:24) SeeNo's Chill of the Grave freezes Dispel for 13 points of damage!
+(01:42:24) SeeNo's Chill of the Grave freezes Dispel for 97 points of damage!
+(01:42:24) LogicNC's Unholy Blast strikes Dispel for 281 points of damage!
+(01:42:24) SeeNo's Shadow Bolt freezes Dispel for 173 points of damage!
+(01:42:24) lover's Steal Breath poisons LogicNC for 119 points of damage!
+(01:42:24) Yuckfou's Unholy Blast strikes Dispel for 401 points of damage!
+(01:42:24) Someone's Incendiary Blast burns Bog for 345 points of damage!
+(01:42:24) Someone's Incendiary Blast burns First Aid for 166 points of damage!
+(01:42:24) Someone's Incendiary Blast burns SeeNo Evil for 154 points of damage!
+(01:42:24) Someone's Incendiary Blast burns LogicNC for 74 points of damage!
+(01:42:24) SeeNo's Steal Breath poisons Dispel for 116 points of damage!
+(01:42:24) Someone's Incendiary Blast burns Fkrah for 139 points of damage!
+(01:42:24) Fkrah's Uvoriel's Judgment burns Dispel for 154 points of damage!
+(01:42:25) SeeNo's Shadow Bolt freezes Dispel for 186 points of damage!
+(01:42:25) lover's poisonous weapon strikes SeeNo for 737 points of damage!
+(01:42:25) lover's Steal Breath poisons First for 164 points of damage!
+(01:42:25) lover's Steal Breath poisons SeeNo for 148 points of damage!
+(01:42:25) Yuckfou's Unholy Blast strikes Vashteera's Thrall for 877 points of damage!
+(01:42:25) SeeNo's Chill of the Grave freezes Dispel for 8 points of damage!
+(01:42:25) SeeNo's Chill of the Grave freezes Dispel for 66 points of damage!
+(01:42:25) LogicNC's Unholy Blast strikes Dispel for 246 points of damage!
+(01:42:25) lover's Steal Breath poisons LogicNC for 123 points of damage!
+(01:42:25) Someone's Incendiary Blast burns SeeNo Evil for 130 points of damage!
+(01:42:25) Someone's Incendiary Blast burns LogicNC for 60 points of damage!
+(01:42:25) Someone's Incendiary Blast burns Fkrah for 214 points of damage!
+(01:42:25) Someone's Incendiary Blast burns Bog for 303 points of damage!
+(01:42:25) Someone's Incendiary Blast burns First Aid for 170 points of damage!
+(01:42:25) lover's Shadow Bolt freezes SeeNo for 281 points of damage!
+(01:42:25) SeeNo's Steal Breath poisons Dispel for 115 points of damage!
+(01:42:25) Fkrah's Uvoriel's Judgment burns Dispel for 153 points of damage!
+(01:42:25) Yuckfou's Unholy Blast strikes Dispel for 427 points of damage!
+(01:42:25) lover's Steal Breath poisons SeeNo for 233 points of damage!
+(01:42:25) lover's Steal Breath poisons SeeNo for 221 points of damage!
+(01:42:25) Yuckfou's Unholy Storm strikes Vashteera's Thrall for 679 points of damage!
+(01:42:25) SeeNo's Chill of the Grave freezes Dispel for 23 points of damage!
+(01:42:25) SeeNo's Chill of the Grave freezes Dispel for 45 points of damage!
+(01:42:25) lover's Steal Breath poisons LogicNC for 124 points of damage!
+(01:42:25) Bog's Unholy Blast strikes Dispel for 494 points of damage!
+(01:42:25) Yuckfou's Unholy Storm strikes Sax for 730 points of damage!
+(01:42:25) Yuckfou's Unholy Storm strikes Slime Demon for 540 points of damage!
+(01:42:25) Yuckfou's Unholy Storm strikes Bourbon for 501 points of damage!
+(01:42:25) Yuckfou's Unholy Storm strikes lover for 415 points of damage!
+(01:42:25) Yuckfou's Unholy Storm strikes Dispel for 390 points of damage!
+(01:42:26) LogicNC's Unholy Blast strikes Dispel for 249 points of damage!
+(01:42:26) Fkrah's Uvoriel's Judgment burns Dispel for 140 points of damage!
+(01:42:26) Fkrah's Brand the Wicked burns Dispel for 405 points of damage!
+(01:42:26) Your Call Storm shocks sudo for 218 points of damage!
+(01:42:26) Your Call Storm shocks LogicNC for 134 points of damage!
+(01:42:26) Your Call Storm shocks Fkrah for 305 points of damage!
+(01:42:26) Your Call Storm shocks First for 296 points of damage!
+(01:42:26) Your Call Storm shocks Saas for 259 points of damage!
+(01:42:26) Your Call Storm shocks HuntyPet for 219 points of damage!
+(01:42:26) Your Call Storm shocks Bog for 460 points of damage!
+(01:42:26) Your Call Storm shocks Noodle for 185 points of damage!
+(01:42:26) Your Call Storm shocks Yuckfou for 417 points of damage!
+(01:42:26) Yuckfou's Unholy Blast strikes Dispel for 475 points of damage!
+(01:42:26) SeeNo's Chill of the Grave freezes Dispel for 15 points of damage!
+(01:42:26) SeeNo's Chill of the Grave freezes Dispel for 52 points of damage!
+(01:42:26) LogicNC's Unholy Blast strikes Dispel for 239 points of damage!
+(01:42:26) lover's Steal Breath poisons LogicNC for 122 points of damage!
+(01:42:26) Bog's Unholy Blast strikes Dispel for 482 points of damage!
+(01:42:26) Fkrah's Brand the Wicked burns Dispel for 385 points of damage!
+(01:42:26) Fkrah's Uvoriel's Judgment burns Dispel for 132 points of damage!
+(01:42:26) Yuckfou's Unholy Blast strikes Dispel for 523 points of damage!
+(01:42:26) HuntyPet's fire burns Bog for 716 points of damage!
+(01:42:26) LogicNC's Unholy Blast strikes Dispel for 239 points of damage!
+(01:42:26) Fkrah's Brand the Wicked burns Dispel for 434 points of damage!
+(01:42:26) SeeNo's Chill of the Grave freezes Dispel for 19 points of damage!
+(01:42:26) SeeNo's Chill of the Grave freezes Dispel for 57 points of damage!
+(01:42:26) Yuckfou's Unholy Blast strikes Dispel for 429 points of damage!
+(01:42:26) Miha's Dread Dissonance hurts Bog for 307 points of damage!
+(01:42:27) lover's Steal Breath poisons LogicNC for 97 points of damage!
+(01:42:27) Fkrah's Brand the Wicked burns Dispel for 405 points of damage!
+(01:42:27) Fkrah's Uvoriel's Judgment burns Dispel for 166 points of damage!
+(01:42:27) LogicNC's Unholy Blast strikes Dispel for 274 points of damage!
+(01:42:27) SeeNo's Chill of the Grave freezes Dispel for 12 points of damage!
+(01:42:27) SeeNo's Chill of the Grave freezes Dispel for 75 points of damage!
+(01:42:27) HuntyPet's Poison Damage Over Time poisons Bog for 209 points of damage!
+(01:42:27) Fkrah's Brand the Wicked burns Dispel for 357 points of damage!
+(01:42:27) lover's Steal Breath poisons Bog for 268 points of damage!
+(01:42:27) Yuckfou's Unholy Blast strikes Dispel for 476 points of damage!
+(01:42:27) LogicNC's Unholy Blast strikes Dispel for 237 points of damage!
+(01:42:27) Fkrah's Uvoriel's Judgment burns Dispel for 106 points of damage!
+(01:42:27) Yuckfou's Unholy Blast strikes Dispel for 498 points of damage!
+(01:42:27) HuntyPet's Poison Damage Over Time poisons Bog for 263 points of damage!
+(01:42:27) lover's Steal Breath poisons Bog for 246 points of damage!
+(01:42:27) LogicNC's Unholy Blast strikes Dispel for 375 points of damage!
+(01:42:28) Fkrah's Uvoriel's Judgment burns Dispel for 160 points of damage!
+(01:42:28) Bog's Unholy Blast strikes Dispel for 811 points of damage!
+(01:42:28) lover's Shadow Bolt freezes Bog for 419 points of damage!
+(01:42:28) lover's Steal Breath poisons Bog for 246 points of damage!
+(01:42:28) HuntyPet's Poison Damage Over Time poisons Bog for 241 points of damage!
+(01:42:28) lover's Shadow Bolt freezes Bog for 418 points of damage!
+(01:42:28) lover's Steal Breath poisons Bog for 246 points of damage!
+(01:42:28) Your Fury of Ice freezes Bog for 647 points of damage!
+(01:42:28) Miha's Dread Dissonance hurts Bog for 379 points of damage!
+(01:42:28) lover's Shadow Bolt freezes Bog for 478 points of damage!
+(01:42:28) HuntyPet's Poison Damage Over Time poisons Bog for 254 points of damage!
+(01:42:28) lover's darnkness engulfs Bog for 682 points of damage!
+(01:42:28) Yuckfou's Unholy Blast strikes Dispel for 678 points of damage!
+(01:42:28) Your Fury of Ice freezes Bog for 692 points of damage!
+(01:42:29) lover's Steal Breath poisons Bog for 252 points of damage!
+(01:42:29) Yuckfou's Unholy Blast strikes Dispel for 697 points of damage!
+(01:42:29) lover's Shadow Bolt freezes Bog for 424 points of damage!
+(01:42:29) HuntyPet's Poison Damage Over Time poisons Bog for 241 points of damage!
+(01:42:29) LogicNC's Unholy Blast strikes Dispel for 409 points of damage!
+(01:42:29) Your Fury of Ice freezes Bog for 432 points of damage!
+(01:42:29) Fkrah's Uvoriel's Judgment burns Dispel for 184 points of damage!
+(01:42:29) lover's Steal Breath poisons Bog for 252 points of damage!
+(01:42:29) LogicNC's Unholy Blast strikes Dispel for 331 points of damage!
+(01:42:29) Your Fury of Ice freezes Bog for 487 points of damage!
+(01:42:29) HuntyPet's Poison Damage Over Time poisons Bog for 240 points of damage!
+(01:42:29) Yuckfou's Unholy Blast strikes Dispel for 902 points of damage!
+(01:42:29) lover's Shadow Bolt freezes Bog for 405 points of damage!
+(01:42:29) lover's Shadow Bolt freezes Bog for 434 points of damage!
+(01:42:29) Fkrah's Uvoriel's Judgment burns Dispel for 189 points of damage!
+(01:42:29) lover's Steal Breath poisons Bog for 301 points of damage!
+(01:42:29) LogicNC's Unholy Blast strikes Dispel for 592 points of damage!
+(01:42:29) Yuckfou's Unholy Blast strikes Dispel for 857 points of damage!
+(01:42:29) lover's Shadow Bolt freezes Bog for 375 points of damage!
+(01:42:30) LogicNC's Unholy Blast strikes Dispel for 837 points of damage!
+(01:42:30) Fkrah's Uvoriel's Judgment burns you for 49 points of damage!
+(01:42:30) lover's Shadow Bolt freezes Bog for 468 points of damage!
+(01:42:30) Your Fury of Ice freezes LogicNC for 822 points of damage!
+(01:42:30) HuntyPet's fire burns Bog for 652 points of damage!
+(01:42:30) Miha's Dread Dissonance hurts LogicNC for 148 points of damage!
+(01:42:30) lover's Steal Breath poisons Bog for 200 points of damage!
+(01:42:30) lover's Shadow Bolt freezes Fkrah for 344 points of damage!
+(01:42:30) Your Fury of Ice freezes LogicNC for 512 points of damage!
+(01:42:30) lover's Shadow Bolt freezes LogicNC for 378 points of damage!
+(01:42:30) Fkrah's Uvoriel's Judgment burns you for 63 points of damage!
+(01:42:30) lover's Steal Breath poisons Bog for 214 points of damage!
+(01:42:30) Your Fury of Ice freezes LogicNC for 652 points of damage!
+(01:42:30) Fkrah's Brand the Wicked burns you for 136 points of damage!
+(01:42:30) Yuckfou's Unholy Blast strikes Saas for 672 points of damage!
+(01:42:30) Fkrah's Uvoriel's Judgment burns you for 27 points of damage!
+(01:42:31) Fkrah's Brand the Wicked burns you for 136 points of damage!
+(01:42:31) lover's Steal Breath poisons Bog for 187 points of damage!
+(01:42:31) lover's Shadow Bolt freezes Noodle for 244 points of damage!
+(01:42:31) Fkrah's Uvoriel's Judgment burns you for 52 points of damage!
+(01:42:31) Miha's ice freezes Yuckfou for 260 points of damage!
+(01:42:31) Sniper's Ignite burns First for 720 points of damage!
+(01:42:31) lover's Steal Breath poisons Bog for 245 points of damage!
+(01:42:31) lover's Shadow Bolt freezes Fkrah for 360 points of damage!
+(01:42:31) Fkrah's Uvoriel's Judgment burns you for 36 points of damage!
+(01:42:31) HuntyPet's fire burns Yuckfou for 619 points of damage!
+(01:42:31) Sniper's Ignite burns First for 412 points of damage!
+(01:42:31) Sniper's Fire Bolt burns First for 1451 points of damage!
+(01:42:31) Miha's Dread Dissonance hurts Yuckfou for 340 points of damage!
+(01:42:32) Miha's ice freezes Yuckfou for 1265 points of damage!
+(01:42:32) lover's Steal Breath poisons Bog for 184 points of damage!
+(01:42:32) Fkrah's Uvoriel's Judgment burns you for 26 points of damage!
+(01:42:32) Sniper's Ignite burns First for 967 points of damage!
+(01:42:32) lover's Steal Breath poisons Noodle for 203 points of damage!
+(01:42:32) Sniper's Ignite burns First for 561 points of damage!
+(01:42:32) Fkrah's Uvoriel's Judgment burns you for 27 points of damage!
+(01:42:32) lover's Shadow Bolt freezes Bog for 429 points of damage!
+(01:42:32) lover's Steal Breath poisons Noodle for 141 points of damage!
+(01:42:32) Your Fury of Ice freezes Bog for 491 points of damage!
+(01:42:33) Sniper's Ignite burns First for 507 points of damage!
+(01:42:33) lover's Steal Breath poisons Noodle for 203 points of damage!
+(01:42:33) HuntyPet's Fury of Ice freezes Bog for 285 points of damage!
+(01:42:33) HuntyPet's holy weapon strikes Bog for 845 points of damage!
+(01:42:33) HuntyPet's holy weapon strikes Bog for 567 points of damage!
+(01:42:33) Sniper's Fire Bolt burns deez for 1075 points of damage!
+(01:42:33) lover's Steal Breath poisons Bog for 246 points of damage!
+(01:42:33) Your Fury of Ice freezes Bog for 582 points of damage!
+(01:42:33) HuntyPet's Fury of Ice freezes Bog for 323 points of damage!
+(01:42:33) Sniper's Ignite burns First for 448 points of damage!
+(01:42:33) lover's Steal Breath poisons Noodle for 179 points of damage!
+(01:42:33) HuntyPet's holy weapon strikes Bog for 288 points of damage!
+(01:42:33) lover's darnkness engulfs Bog for 454 points of damage!
+(01:42:34) lover's Shadow Bolt freezes Bog for 481 points of damage!
+(01:42:34) Sniper's Ignite burns First for 512 points of damage!
+(01:42:34) Sniper's Ignite burns Bog for 1156 points of damage!
+(01:42:34) Your Fury of Ice freezes Bog for 657 points of damage!
+(01:42:34) Fkrah's Uvoriel's Judgment burns lover for 135 points of damage!
+(01:42:34) lover's Steal Breath poisons Noodle for 197 points of damage!
+(01:42:34) lover's Steal Breath poisons Fkrah for 159 points of damage!
+(01:42:34) Sax's Censure smites Noodle for 637 points of damage!
+(01:42:34) Sniper's Ignite burns First for 718 points of damage!
+(01:42:34) lover's Shadow Bolt freezes Fkrah for 305 points of damage!
+(01:42:34) Miha's ice freezes Fkrah for 463 points of damage!
+(01:42:34) Miha's Dread Dissonance hurts Fkrah for 355 points of damage!
+(01:42:34) Fkrah's Uvoriel's Judgment burns lover for 73 points of damage!
+(01:42:34) lover's Steal Breath poisons Noodle for 187 points of damage!
+(01:42:34) Your Fury of Ice freezes First for 481 points of damage!
+(01:42:34) Sniper's Fire Bolt burns Fkrah for 1402 points of damage!
+(01:42:35) Someone's Uvoriel's Judgment burns lover for 73 points of damage!
+(01:42:35) lover's Steal Breath poisons Noodle for 148 points of damage!
+(01:42:35) lover's Steal Breath poisons Noodle for 201 points of damage!
+(01:42:35) Sniper's Ignite burns Noodle for 391 points of damage!
+(01:42:35) Someone's Uvoriel's Judgment burns lover for 70 points of damage!
+(01:42:35) Sniper's Fire Bolt burns Noodle for 1638 points of damage!
+(01:42:35) Sniper's Ignite burns Noodle for 568 points of damage!
+(01:42:35) lover's Steal Breath poisons Noodle for 281 points of damage!
+(01:42:35) lover's Shadow Bolt freezes Noodle for 561 points of damage!
+(01:42:35) Miha's Dread Dissonance hurts Noodle for 339 points of damage!
+(01:42:35) lover's Shadow Bolt freezes Noodle for 576 points of damage!
+(01:42:35) Someone's Uvoriel's Judgment burns lover for 116 points of damage!
+(01:42:35) Someone's Uvoriel's Judgment burns lover for 95 points of damage!
+(01:42:36) Someone's Uvoriel's Judgment burns lover for 96 points of damage!
+(01:42:41) Hunger's Censure smites Dispel for 453 points of damage!
+(01:42:41) Hunger's Censure smites Dispel for 484 points of damage!
+(01:42:41) Hunger's Censure smites Dispel for 465 points of damage!
+(01:42:42) HuntyPet's Poison Damage Over Time poisons Imagine for 233 points of damage!
+(01:42:42) Hunger's Censure smites Dispel for 450 points of damage!
+(01:42:42) TyyppVee's Steal Breath poisons Holger for 194 points of damage!
+(01:42:42) Hunger's Censure smites Dispel for 697 points of damage!
+(01:42:42) Rylix's Put to the Torch damages you for 97 points of damage!
+(01:42:42) TyyppVee's Steal Breath poisons Holger for 282 points of damage!
+(01:42:42) HuntyPet's holy weapon strikes Holger for 452 points of damage!
+(01:42:42) Dispel's fire burns Holger for 724 points of damage!
+(01:42:43) Rylix's Put to the Torch damages you for 81 points of damage!
+(01:42:43) Rylix's Fling Holy Water blasts you for 208 points of damage!
+(01:42:43) Dispel's Fury of Ice freezes Holger for 604 points of damage!
+(01:42:43) Hunger's Censure smites Dispel for 572 points of damage!
+(01:42:43) TyyppVee's Shadow Bolt freezes Holger for 586 points of damage!
+(01:42:43) TyyppVee's Shadow Bolt freezes Holger for 706 points of damage!
+(01:42:43) Rylix's holy weapon strikes you for 496 points of damage!
+(01:42:43) Rylix's Fling Holy Water blasts you for 225 points of damage!
+(01:42:43) HuntyPet's Fury of Ice freezes Holger for 614 points of damage!
+(01:42:43) Rylix's Fling Holy Water blasts you for 213 points of damage!
+(01:42:43) TyyppVee's poisonous weapon strikes Rylix for 761 points of damage!
+(01:42:43) Rylix's Put to the Torch damages you for 86 points of damage!
+(01:42:43) Rylix's Fling Holy Water blasts you for 174 points of damage!
+(01:42:43) Rylix's Fling Holy Water blasts you for 202 points of damage!
+(01:42:43) Hunger's Censure smites Dispel for 554 points of damage!
+(01:42:43) Rylix's holy weapon strikes you for 473 points of damage!
+(01:42:43) Rylix's Put to the Torch damages you for 107 points of damage!
+(01:42:43) Rylix's Fling Holy Water blasts you for 192 points of damage!
+(01:42:44) HuntyPet's fire burns Hunger for 811 points of damage!
+(01:42:44) Rylix's Put to the Torch damages you for 75 points of damage!
+(01:42:44) TyyppVee's Shadow Bolt freezes Hunger for 669 points of damage!
+(01:42:44) Someone's Put to the Torch damages you for 98 points of damage!
+(01:42:44) Someone's Put to the Torch damages you for 85 points of damage!
+(01:42:45) HuntyPet's Poison Damage Over Time poisons Octavius for 240 points of damage!
+(01:42:45) HuntyPet's Fury of Ice freezes Octavius for 539 points of damage!
+(01:42:45) HuntyPet's Poison Damage Over Time poisons Octavius for 345 points of damage!
+(01:42:46) CJW's Hedge of Thorns impales Vashteera's Companion for 249 points of damage!
+(01:42:46) CJW's Hedge of Thorns impales Dispel for 156 points of damage!
+(01:42:46) CJW's Hedge of Thorns impales sudo for 76 points of damage!
+(01:42:46) CJW's Hedge of Thorns impales you for 205 points of damage!
+(01:42:46) CJW's Hedge of Thorns impales TyyppVee for 47 points of damage!
+(01:42:46) CJW's Hedge of Thorns impales HuntyPet for 118 points of damage!
+(01:42:46) CJW's Hedge of Thorns impales Vashteera's Companion for 178 points of damage!
+(01:42:46) dnst's Cleansing Flame burns TyyppVee for 210 points of damage!
+(01:42:46) dnst's Cleansing Flame burns dnst for 20 points of damage!
+(01:42:46) dnst's Cleansing Flame burns TyyppVee for 28 points of damage!
+(01:42:46) CJW's Call Lightning shocks TyyppVee for 139 points of damage!
+(01:42:46) dnst's Cleansing Flame burns you for 226 points of damage!
+(01:42:46) dnst's Cleansing Flame burns dnst for 23 points of damage!
+(01:42:46) dnst's Cleansing Flame burns you for 31 points of damage!
+(01:42:46) CJW's Hedge of Thorns impales Vashteera's Companion for 204 points of damage!
+(01:42:46) CJW's Hedge of Thorns impales Dispel for 148 points of damage!
+(01:42:46) CJW's Hedge of Thorns impales sudo for 102 points of damage!
+(01:42:46) CJW's Hedge of Thorns impales you for 183 points of damage!
+(01:42:46) CJW's Hedge of Thorns impales TyyppVee for 63 points of damage!
+(01:42:46) CJW's Hedge of Thorns impales HuntyPet for 88 points of damage!
+(01:42:46) CJW's Hedge of Thorns impales Vashteera's Companion for 220 points of damage!
+(01:42:46) dnst's Cleansing Flame burns TyyppVee for 204 points of damage!
+(01:42:46) dnst's Cleansing Flame burns dnst for 21 points of damage!
+(01:42:46) dnst's Cleansing Flame burns TyyppVee for 29 points of damage!
+(01:42:46) CJW's Call Lightning shocks you for 770 points of damage!
+(01:42:46) CJW's Call Lightning shocks Vashteera's Companion for 634 points of damage!
+(01:42:46) CJW's Call Lightning shocks Vashteera's Companion for 588 points of damage!
+(01:42:46) CJW's Call Lightning shocks Dispel for 1022 points of damage!
+(01:42:46) kosnwa's Psychic Shout hurts Dispel for 477 points of damage!
+(01:42:46) kosnwa's Psychic Shout hurts sudo for 483 points of damage!
+(01:42:46) kosnwa's Psychic Shout hurts TyyppVee for 245 points of damage!
+(01:42:46) Your Call Storm shocks kosnwa for 203 points of damage!
+(01:42:46) Your Call Storm shocks CJW for 296 points of damage!
+(01:42:46) Your Call Storm shocks dnst for 441 points of damage!
+(01:42:46) CJW's Call Lightning shocks sudo for 369 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales Vashteera's Companion for 269 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales sudo for 87 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales Dispel for 114 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales you for 172 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales TyyppVee for 51 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales HuntyPet for 161 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales Vashteera's Companion for 176 points of damage!
+(01:42:47) dnst's Cleansing Flame burns you for 301 points of damage!
+(01:42:47) dnst's Cleansing Flame burns dnst for 20 points of damage!
+(01:42:47) dnst's Cleansing Flame burns you for 27 points of damage!
+(01:42:47) dnst's Cleansing Flame burns dnst for 19 points of damage!
+(01:42:47) dnst's Cleansing Flame burns TyyppVee for 145 points of damage!
+(01:42:47) dnst's Cleansing Flame burns TyyppVee for 26 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales Vashteera's Companion for 218 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales Dispel for 113 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales you for 137 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales sudo for 60 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales TyyppVee for 76 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales HuntyPet for 122 points of damage!
+(01:42:47) hta's Cold Damage Over Time freezes TyyppVee for 81 points of damage!
+(01:42:47) hta's Poison Damage Over Time poisons TyyppVee for 126 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales Vashteera's Companion for 159 points of damage!
+(01:42:47) dnst's Cleansing Flame burns you for 149 points of damage!
+(01:42:47) dnst's Cleansing Flame burns dnst for 23 points of damage!
+(01:42:47) dnst's Cleansing Flame burns you for 31 points of damage!
+(01:42:47) dnst's Cleansing Flame burns TyyppVee for 309 points of damage!
+(01:42:47) dnst's Cleansing Flame burns dnst for 21 points of damage!
+(01:42:47) dnst's Cleansing Flame burns TyyppVee for 29 points of damage!
+(01:42:47) Your Call Storm shocks dnst for 325 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales Vashteera's Companion for 168 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales you for 168 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales Dispel for 114 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales sudo for 59 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales TyyppVee for 87 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales HuntyPet for 151 points of damage!
+(01:42:48) hta's Cold Damage Over Time freezes TyyppVee for 84 points of damage!
+(01:42:48) kosnwa's Mind Strike hurts HuntyPet for 479 points of damage!
+(01:42:48) CJW's Call Lightning shocks HuntyPet for 676 points of damage!
+(01:42:48) CJW's Call Lightning shocks Dispel for 471 points of damage!
+(01:42:48) CJW's Call Lightning shocks TyyppVee for 139 points of damage!
+(01:42:48) Rylix's Put to the Torch damages TyyppVee for 114 points of damage!
+(01:42:48) CJW's Call Lightning shocks sudo for 493 points of damage!
+(01:42:48) hta's Poison Damage Over Time poisons TyyppVee for 120 points of damage!
+(01:42:48) CJW's Hedge of Thorns impales Vashteera's Companion for 136 points of damage!
+(01:42:48) dnst's Cleansing Flame burns you for 265 points of damage!
+(01:42:48) dnst's Cleansing Flame burns dnst for 24 points of damage!
+(01:42:48) dnst's Cleansing Flame burns you for 33 points of damage!
+(01:42:48) dnst's Cleansing Flame burns TyyppVee for 281 points of damage!
+(01:42:48) dnst's Cleansing Flame burns dnst for 15 points of damage!
+(01:42:48) dnst's Cleansing Flame burns TyyppVee for 27 points of damage!
+(01:42:48) kosnwa's Earthquake hurts kosnwa for 1 points of damage.
+(01:42:48) Rylix's holy weapon strikes TyyppVee for 358 points of damage!
+(01:42:48) kosnwa's Earthquake hurts kosnwa for 1 points of damage.
+(01:42:48) Dispel's fire burns hta for 418 points of damage!
+(01:42:48) CJW's Hedge of Thorns impales Vashteera's Companion for 160 points of damage!
+(01:42:48) CJW's Hedge of Thorns impales you for 167 points of damage!
+(01:42:48) CJW's Hedge of Thorns impales Dispel for 150 points of damage!
+(01:42:48) CJW's Hedge of Thorns impales sudo for 60 points of damage!
+(01:42:48) CJW's Hedge of Thorns impales TyyppVee for 67 points of damage!
+(01:42:48) CJW's Hedge of Thorns impales HuntyPet for 96 points of damage!
+(01:42:48) kosnwa's Earthquake hurts kosnwa for 1 points of damage.
+(01:42:48) hta's Cold Damage Over Time freezes TyyppVee for 61 points of damage!
+(01:42:48) kosnwa's Earthquake hurts kosnwa for 1 points of damage.
+(01:42:48) Rylix's Fling Holy Water blasts TyyppVee for 224 points of damage!
+(01:42:48) Rylix's Put to the Torch damages TyyppVee for 113 points of damage!
+(01:42:48) hta's Poison Damage Over Time poisons TyyppVee for 94 points of damage!
+(01:42:48) CJW's Hedge of Thorns impales Vashteera's Companion for 184 points of damage!
+(01:42:48) dnst's Cleansing Flame burns you for 249 points of damage!
+(01:42:48) dnst's Cleansing Flame burns dnst for 24 points of damage!
+(01:42:48) dnst's Cleansing Flame burns you for 32 points of damage!
+(01:42:48) kosnwa's Earthquake hurts kosnwa for 1 points of damage.
+(01:42:48) dnst's Cleansing Flame burns TyyppVee for 225 points of damage!
+(01:42:48) dnst's Cleansing Flame burns dnst for 0 points of damage!
+(01:42:48) dnst's Cleansing Flame burns TyyppVee for 28 points of damage!
+(01:42:48) Rylix's Fling Holy Water blasts TyyppVee for 205 points of damage!
+(01:42:48) Your Call Storm shocks CJW for 591 points of damage!
+(01:42:48) Your Call Storm shocks dnst for 236 points of damage!
+(01:42:48) kosnwa's Earthquake hurts kosnwa for 1 points of damage.
+(01:42:49) kosnwa's Earthquake hurts kosnwa for 1 points of damage.
+(01:42:49) Rylix's Fling Holy Water blasts TyyppVee for 194 points of damage!
+(01:42:49) CJW's Hedge of Thorns impales Vashteera's Companion for 157 points of damage!
+(01:42:49) CJW's Hedge of Thorns impales you for 172 points of damage!
+(01:42:49) CJW's Hedge of Thorns impales Dispel for 110 points of damage!
+(01:42:49) CJW's Hedge of Thorns impales sudo for 93 points of damage!
+(01:42:49) CJW's Hedge of Thorns impales HuntyPet for 96 points of damage!
+(01:42:49) CJW's Hedge of Thorns impales TyyppVee for 70 points of damage!
+(01:42:49) kosnwa's Earthquake hurts kosnwa for 1 points of damage.
+(01:42:49) Rylix's Fling Holy Water blasts TyyppVee for 225 points of damage!
+(01:42:49) Rylix's Put to the Torch damages TyyppVee for 99 points of damage!
+(01:42:49) kosnwa's Earthquake hurts kosnwa for 1 points of damage.
+(01:42:49) hta's Poison Damage Over Time poisons TyyppVee for 148 points of damage!
+(01:42:49) CJW's Hedge of Thorns impales Vashteera's Companion for 218 points of damage!
+(01:42:49) dnst's Cleansing Flame burns you for 276 points of damage!
+(01:42:49) dnst's Cleansing Flame burns dnst for 24 points of damage!
+(01:42:49) dnst's Cleansing Flame burns you for 32 points of damage!
+(01:42:49) dnst's Cleansing Flame burns TyyppVee for 333 points of damage!
+(01:42:49) dnst's Cleansing Flame burns dnst for 0 points of damage!
+(01:42:49) dnst's Cleansing Flame burns TyyppVee for 29 points of damage!
+(01:42:49) kosnwa's Earthquake hurts kosnwa for 1 points of damage.
+(01:42:49) Rylix's Fling Holy Water blasts TyyppVee for 236 points of damage!
+(01:42:49) HuntyPet's Fury of Ice freezes hta for 256 points of damage!
+(01:42:49) kosnwa's Earthquake hurts kosnwa for 1 points of damage.
+(01:42:49) Rylix's Fling Holy Water blasts TyyppVee for 207 points of damage!
+(01:42:49) kosnwa's Earthquake hurts kosnwa for 1 points of damage.
+(01:42:49) CJW's Hedge of Thorns impales Vashteera's Companion for 218 points of damage!
+(01:42:49) CJW's Hedge of Thorns impales you for 136 points of damage!
+(01:42:49) CJW's Hedge of Thorns impales Dispel for 412 points of damage!
+(01:42:49) CJW's Hedge of Thorns impales sudo for 92 points of damage!
+(01:42:49) CJW's Hedge of Thorns impales HuntyPet for 126 points of damage!
+(01:42:49) CJW's Hedge of Thorns impales TyyppVee for 69 points of damage!
+(01:42:49) hta's Cold Damage Over Time freezes TyyppVee for 70 points of damage!
+(01:42:49) kosnwa's Earthquake hurts kosnwa for 1 points of damage.
+(01:42:49) Rylix's Fling Holy Water blasts TyyppVee for 247 points of damage!
+(01:42:49) TyyppVee's Steal Breath poisons Rylix for 178 points of damage!
+(01:42:49) Rylix's Put to the Torch damages TyyppVee for 85 points of damage!
+(01:42:49) kosnwa's Earthquake hurts kosnwa for 1 points of damage.
+(01:42:49) dnst's Cleansing Flame burns you for 187 points of damage!
+(01:42:49) dnst's Cleansing Flame burns dnst for 24 points of damage!
+(01:42:49) dnst's Cleansing Flame burns you for 32 points of damage!
+(01:42:49) dnst's Cleansing Flame burns you for 370 points of damage!
+(01:42:49) dnst's Cleansing Flame burns dnst for 23 points of damage!
+(01:42:49) dnst's Cleansing Flame burns you for 31 points of damage!
+(01:42:50) Rylix's Fling Holy Water blasts TyyppVee for 211 points of damage!
+(01:42:50) kosnwa's Earthquake hurts kosnwa for 1 points of damage.
+(01:42:50) hta's Poison Damage Over Time poisons TyyppVee for 160 points of damage!
+(01:42:50) kosnwa's Earthquake hurts kosnwa for 1 points of damage.
+(01:42:50) Rylix's Fling Holy Water blasts TyyppVee for 220 points of damage!
+(01:42:50) CJW's Hedge of Thorns impales Vashteera's Companion for 187 points of damage!
+(01:42:50) CJW's Hedge of Thorns impales you for 151 points of damage!
+(01:42:50) CJW's Hedge of Thorns impales Dispel for 83 points of damage!
+(01:42:50) CJW's Hedge of Thorns impales HuntyPet for 148 points of damage!
+(01:42:50) CJW's Hedge of Thorns impales sudo for 70 points of damage!
+(01:42:50) kosnwa's Earthquake hurts kosnwa for 1 points of damage.
+(01:42:50) Rylix's Fling Holy Water blasts TyyppVee for 183 points of damage!
+(01:42:50) TyyppVee's Steal Breath poisons Rylix for 83 points of damage!
+(01:42:50) kosnwa's Earthquake hurts kosnwa for 1 points of damage.
+(01:42:50) kosnwa's Earthquake hurts kosnwa for 1 points of damage.
+(01:42:50) dnst's Cleansing Flame burns you for 241 points of damage!
+(01:42:50) dnst's Cleansing Flame burns dnst for 24 points of damage!
+(01:42:50) dnst's Cleansing Flame burns you for 32 points of damage!
+(01:42:50) HuntyPet's fire burns Rylix for 329 points of damage!
+(01:42:50) kosnwa's Earthquake hurts kosnwa for 3162 points of damage.
+(01:42:50) dnst's Cleansing Flame burns HuntyPet for 240 points of damage!
+(01:42:50) dnst's Cleansing Flame burns dnst for 25 points of damage!
+(01:42:50) dnst's Cleansing Flame burns HuntyPet for 33 points of damage!
+(01:42:50) Someone's Hedge of Thorns impales you for 143 points of damage!
+(01:42:50) Someone's Hedge of Thorns impales Dispel Cobra for 132 points of damage!
+(01:42:50) Someone's Hedge of Thorns impales HuntyPet Cobra for 127 points of damage!
+(01:42:50) Someone's Hedge of Thorns impales sudo for 63 points of damage!
+(01:42:50) TyyppVee's Steal Breath poisons Rylix for 90 points of damage!
+(01:42:50) dnst's Cleansing Flame burns you for 263 points of damage!
+(01:42:50) dnst's Cleansing Flame burns dnst for 25 points of damage!
+(01:42:50) dnst's Cleansing Flame burns you for 33 points of damage!
+(01:42:50) dnst's Cleansing Flame burns HuntyPet for 223 points of damage!
+(01:42:50) dnst's Cleansing Flame burns dnst for 24 points of damage!
+(01:42:50) dnst's Cleansing Flame burns HuntyPet for 33 points of damage!
+(01:42:51) Someone's Steal Breath poisons Rylix for 85 points of damage!
+(01:42:51) Dispel's Poison Damage Over Time poisons xinyu for 292 points of damage!
+(01:42:51) dnst's Cleansing Flame burns you for 264 points of damage!
+(01:42:51) dnst's Cleansing Flame burns dnst for 20 points of damage!
+(01:42:51) dnst's Cleansing Flame burns you for 31 points of damage!
+(01:42:51) dnst's Cleansing Flame burns HuntyPet for 256 points of damage!
+(01:42:51) dnst's Cleansing Flame burns dnst for 9 points of damage!
+(01:42:51) dnst's Cleansing Flame burns HuntyPet for 33 points of damage!
+(01:42:51) Someone's Steal Breath poisons Rylix for 87 points of damage!
+(01:42:51) Dispel's Poison Damage Over Time poisons xinyu for 300 points of damage!
+(01:42:51) dnst's Cleansing Flame burns you for 737 points of damage!
+(01:42:51) dnst's Cleansing Flame burns dnst for 0 points of damage!
+(01:42:51) dnst's Cleansing Flame burns you for 31 points of damage!
+(01:42:51) dnst's Cleansing Flame burns Dispel for 791 points of damage!
+(01:42:51) dnst's Cleansing Flame burns dnst for 24 points of damage!
+(01:42:51) dnst's Cleansing Flame burns Dispel for 33 points of damage!
+(01:42:51) dnst's Cleansing Flame burns HuntyPet for 255 points of damage!
+(01:42:51) dnst's Cleansing Flame burns dnst for 0 points of damage!
+(01:42:51) dnst's Cleansing Flame burns HuntyPet for 35 points of damage!
+(01:42:51) Dispel's Poison Damage Over Time poisons xinyu for 152 points of damage!
+(01:42:51) Someone's Steal Breath poisons Rylix for 64 points of damage!
+(01:42:51) dnst's Cleansing Flame burns you for 348 points of damage!
+(01:42:51) dnst's Cleansing Flame burns dnst for 11 points of damage!
+(01:42:51) dnst's Cleansing Flame burns you for 32 points of damage!
+(01:42:51) dnst's Cleansing Flame burns Dispel for 560 points of damage!
+(01:42:51) dnst's Cleansing Flame burns dnst for 25 points of damage!
+(01:42:51) dnst's Cleansing Flame burns Dispel for 34 points of damage!
+(01:42:51) dnst's Cleansing Flame burns you for 626 points of damage!
+(01:42:51) dnst's Cleansing Flame burns dnst for 2 points of damage!
+(01:42:51) dnst's Cleansing Flame burns you for 31 points of damage!
+(01:42:51) dnst's Cleansing Flame burns HuntyPet for 252 points of damage!
+(01:42:51) dnst's Cleansing Flame burns dnst for 0 points of damage!
+(01:42:51) dnst's Cleansing Flame burns HuntyPet for 33 points of damage!
+(01:42:51) Someone's Steal Breath poisons Rylix for 98 points of damage!
+(01:42:51) Dispel's Poison Damage Over Time poisons xinyu for 132 points of damage!
+(01:42:51) dnst's Cleansing Flame burns Dispel for 245 points of damage!
+(01:42:51) dnst's Cleansing Flame burns you for 173 points of damage!
+(01:42:51) dnst's Cleansing Flame burns dnst for 4 points of damage!
+(01:42:51) dnst's Cleansing Flame burns you for 30 points of damage!
+(01:42:51) dnst's Cleansing Flame burns HuntyPet for 286 points of damage!
+(01:42:51) dnst's Cleansing Flame burns dnst for 0 points of damage!
+(01:42:51) dnst's Cleansing Flame burns HuntyPet for 32 points of damage!
+(01:42:51) Dispel's Poison Damage Over Time poisons xinyu for 146 points of damage!
+(01:42:52) dnst's Cleansing Flame burns Dispel for 182 points of damage!
+(01:42:52) dnst's Cleansing Flame burns you for 356 points of damage!
+(01:42:52) dnst's Cleansing Flame burns dnst for 0 points of damage!
+(01:42:52) dnst's Cleansing Flame burns you for 32 points of damage!
+(01:42:52) dnst's Cleansing Flame burns dnst for 0 points of damage!
+(01:42:52) dnst's Cleansing Flame burns HuntyPet for 216 points of damage!
+(01:42:52) dnst's Cleansing Flame burns HuntyPet for 35 points of damage!
+(01:42:52) dnst's Cleansing Flame burns Dispel for 349 points of damage!
+(01:42:52) dnst's Cleansing Flame burns you for 207 points of damage!
+(01:42:52) dnst's Cleansing Flame burns dnst for 1 points of damage!
+(01:42:52) dnst's Cleansing Flame burns you for 31 points of damage!
+(01:42:52) dnst's Cleansing Flame burns dnst for 0 points of damage!
+(01:42:52) dnst's Cleansing Flame burns HuntyPet for 201 points of damage!
+(01:42:52) dnst's Cleansing Flame burns HuntyPet for 32 points of damage!
+(01:42:52) dnst's Cleansing Flame burns Dispel for 311 points of damage!
+(01:42:52) dnst's Cleansing Flame burns you for 271 points of damage!
+(01:42:52) dnst's Cleansing Flame burns dnst for 0 points of damage!
+(01:42:52) dnst's Cleansing Flame burns you for 24 points of damage!
+(01:42:52) dnst's Cleansing Flame burns dnst for 0 points of damage!
+(01:42:52) dnst's Cleansing Flame burns HuntyPet for 199 points of damage!
+(01:42:52) dnst's Cleansing Flame burns HuntyPet for 34 points of damage!
+(01:42:52) Someone's Cleansing Flame burns Dispel Cobra for 301 points of damage!
+(01:42:52) Someone's Cleansing Flame burns you for 194 points of damage!
+(01:42:52) Someone's Cleansing Flame burns you for 25 points of damage!
+(01:42:52) Someone's Cleansing Flame burns HuntyPet Cobra for 277 points of damage!
+(01:42:52) Someone's Cleansing Flame burns HuntyPet for 33 points of damage!
+(01:42:52) Someone's Cleansing Flame burns you for 166 points of damage!
+(01:42:52) Someone's Cleansing Flame burns HuntyPet Cobra for 317 points of damage!
+(01:42:52) Someone's Cleansing Flame burns HuntyPet Cobra for 646 points of damage!
+(01:42:55) CJW's Hedge of Thorns impales Dispel for 122 points of damage!
+(01:42:55) CJW's Hedge of Thorns impales you for 153 points of damage!
+(01:42:55) CJW's Hedge of Thorns impales Vashteera's Thrall for 223 points of damage!
+(01:42:55) CJW's Hedge of Thorns impales Dispel for 102 points of damage!
+(01:42:55) CJW's Hedge of Thorns impales you for 164 points of damage!
+(01:42:55) CJW's Hedge of Thorns impales Vashteera's Thrall for 122 points of damage!
+(01:42:55) CJW's Call Lightning shocks Dispel for 830 points of damage!
+(01:42:55) CJW's Call Lightning shocks you for 315 points of damage!
+(01:42:55) CJW's Call Lightning shocks Vashteera's Thrall for 409 points of damage!
+(01:42:55) dnst's Cleansing Flame burns Dispel for 235 points of damage!
+(01:42:55) dnst's Cleansing Flame burns dnst for 24 points of damage!
+(01:42:55) dnst's Cleansing Flame burns Dispel for 32 points of damage!
+(01:42:55) CJW's Hedge of Thorns impales Dispel for 115 points of damage!
+(01:42:55) CJW's Hedge of Thorns impales Vashteera's Thrall for 203 points of damage!
+(01:42:55) CJW's Hedge of Thorns impales you for 148 points of damage!
+(01:42:55) dnst's Cleansing Flame burns Dispel for 270 points of damage!
+(01:42:55) dnst's Cleansing Flame burns dnst for 26 points of damage!
+(01:42:55) dnst's Cleansing Flame burns Dispel for 34 points of damage!
+(01:42:55) CJW's Hedge of Thorns impales you for 141 points of damage!
+(01:42:56) CJW's Hedge of Thorns impales Vashteera's Thrall for 152 points of damage!
+(01:42:56) CJW's Hedge of Thorns impales Dispel for 109 points of damage!
+(01:42:56) dnst's Cleansing Flame burns Dispel for 313 points of damage!
+(01:42:56) dnst's Cleansing Flame burns dnst for 25 points of damage!
+(01:42:56) dnst's Cleansing Flame burns Dispel for 33 points of damage!
+(01:42:56) Someone's Steal Breath poisons dnst ' NZSP for 174 points of damage!
+(01:42:56) Someone's Hedge of Thorns impales Vashteera's Thrall for 202 points of damage!
+(01:42:56) Someone's Hedge of Thorns impales you for 129 points of damage!
+(01:42:56) Someone's Hedge of Thorns impales Dispel Cobra for 115 points of damage!
+(01:42:56) dnst's Cleansing Flame burns Dispel for 249 points of damage!
+(01:42:56) dnst's Cleansing Flame burns dnst for 26 points of damage!
+(01:42:56) dnst's Cleansing Flame burns Dispel for 35 points of damage!
+(01:42:56) TyyppVee's Steal Breath poisons dnst for 186 points of damage!
+(01:42:56) Someone's Hedge of Thorns impales Vashteera's Thrall for 207 points of damage!
+(01:42:56) Someone's Hedge of Thorns impales you for 140 points of damage!
+(01:42:56) Someone's Hedge of Thorns impales Dispel Cobra for 87 points of damage!
+(01:42:56) dnst's Cleansing Flame burns Dispel for 205 points of damage!
+(01:42:56) dnst's Cleansing Flame burns dnst for 25 points of damage!
+(01:42:56) dnst's Cleansing Flame burns Dispel for 34 points of damage!
+(01:42:56) TyyppVee's Steal Breath poisons dnst for 159 points of damage!
+(01:42:56) CJW's Hedge of Thorns impales Vashteera's Thrall for 204 points of damage!
+(01:42:56) CJW's Hedge of Thorns impales you for 175 points of damage!
+(01:42:56) CJW's Hedge of Thorns impales Dispel for 119 points of damage!
+(01:42:56) dnst's Cleansing Flame burns Dispel for 252 points of damage!
+(01:42:56) dnst's Cleansing Flame burns dnst for 25 points of damage!
+(01:42:56) dnst's Cleansing Flame burns Dispel for 34 points of damage!
+(01:42:56) TyyppVee's Steal Breath poisons dnst for 286 points of damage!
+(01:42:56) TyyppVee's holy weapon strikes dnst for 525 points of damage!
+(01:42:56) dnst's Cleansing Flame burns Dispel for 245 points of damage!
+(01:42:56) dnst's Cleansing Flame burns dnst for 24 points of damage!
+(01:42:56) dnst's Cleansing Flame burns Dispel for 33 points of damage!
+(01:42:56) HuntyPet's Fury of Ice freezes dnst for 429 points of damage!
+(01:42:58) TyyppVee's Shadow Bolt freezes Novac the Bellugh Nuathal Priest for 285 points of damage!
+(01:42:58) TyyppVee's Shadow Bolt freezes Novac the Bellugh Nuathal Priest for 518 points of damage!
+(01:42:58) TyyppVee's Shadow Bolt freezes Novac the Bellugh Nuathal Priest for 510 points of damage!
+(01:42:58) TyyppVee's Shadow Bolt freezes Novac the Bellugh Nuathal Priest for 476 points of damage!
+(01:42:58) TyyppVee's Shadow Bolt freezes Novac the Bellugh Nuathal Priest for 613 points of damage!
+(01:42:58) Dispel's Poison Damage Over Time poisons Novac the Bellugh Nuathal Priest for 370 points of damage!
+(01:42:58) TyyppVee's Shadow Bolt freezes Novac the Bellugh Nuathal Priest for 471 points of damage!
+(01:42:59) TyyppVee's Demolishing Spell burns Guard Tower for 315 points of damage!
+(01:42:59) TyyppVee's Demolishing Spell burns Guard Tower for 354 points of damage!
+(01:43:00) TyyppVee's Demolishing Spell burns Guard Tower for 397 points of damage!
+(01:43:00) TyyppVee's Demolishing Spell burns Guard Tower for 287 points of damage!
+(01:43:01) TyyppVee's Demolishing Spell burns Guard Tower for 355 points of damage!
+(01:43:01) TyyppVee's Demolishing Spell burns Guard Tower for 356 points of damage!
+(01:43:02) TyyppVee's Demolishing Spell burns Guard Tower for 339 points of damage!
+(01:43:02) TyyppVee's Demolishing Spell burns Guard Tower for 377 points of damage!
+(01:43:04) Dispel's fire burns Rain for 171 points of damage!
+(01:43:04) Dispel's fire burns Rain for 158 points of damage!
+(01:43:04) TyyppVee's Shadow Bolt freezes Rain for 195 points of damage!
+(01:43:04) blackgurl's Mage Bolt strikes you for 440 points of damage!
+(01:43:04) TyyppVee's Shadow Bolt freezes Rain for 191 points of damage!
+(01:43:04) wreck's Call Storm shocks Dispel for 398 points of damage!
+(01:43:04) wreck's Call Storm shocks you for 90 points of damage!
+(01:43:04) wreck's Call Storm shocks sudo for 356 points of damage!
+(01:43:04) wreck's Call Storm shocks HuntyPet for 453 points of damage!
+(01:43:04) wreck's Call Storm shocks Bambi for 445 points of damage!
+(01:43:04) Dispel's holy weapon strikes Rain for 187 points of damage!
+(01:43:04) blackgurl's Mage Bolt strikes TyyppVee for 163 points of damage!
+(01:43:04) TyyppVee's Shadow Bolt freezes Rain for 90 points of damage!
+(01:43:04) Dispel's holy weapon strikes Rain for 274 points of damage!
+(01:43:04) blackgurl's Sign of Sorthoth hurts TyyppVee for 214 points of damage!
+(01:43:04) Dispel's holy weapon strikes Rain for 304 points of damage!
+(01:43:04) TyyppVee's Shadow Bolt freezes Rain for 82 points of damage!
+(01:43:04) HuntyPet's fire burns blackgurl for 332 points of damage!
+(01:43:04) Dispel's holy weapon strikes blackgurl for 347 points of damage!
+(01:43:05) wreck's Call Storm shocks Dispel for 425 points of damage!
+(01:43:05) wreck's Call Storm shocks HuntyPet for 459 points of damage!
+(01:43:05) blackgurl's Sign of Sorthoth hurts TyyppVee for 98 points of damage!
+(01:43:05) HuntyPet's Poison Damage Over Time poisons blackgurl for 239 points of damage!
+(01:43:05) TyyppVee's holy weapon strikes blackgurl for 564 points of damage!
+(01:43:05) blackgurl's Sign of Sorthoth hurts TyyppVee for 117 points of damage!
+(01:43:05) HuntyPet's Poison Damage Over Time poisons blackgurl for 197 points of damage!
+(01:43:05) wreck's Fury of Wind buffets you for 73 points of damage!
+(01:43:06) TyyppVee's Shadow Bolt freezes KSlater for 329 points of damage!
+(01:43:06) blackgurl's Sign of Sorthoth hurts TyyppVee for 148 points of damage!
+(01:43:06) Dispel's fire burns wreck for 537 points of damage!
+(01:43:06) wreck's Fury of Wind buffets you for 61 points of damage!
+(01:43:06) blackgurl's Sign of Sorthoth hurts TyyppVee for 145 points of damage!
+(01:43:06) wreck's Fury of Wind buffets you for 94 points of damage!
+(01:43:06) HuntyPet's Fury of Ice freezes Bambi for 333 points of damage!
+(01:43:06) Dispel's fire burns Bambi for 672 points of damage!
+(01:43:06) TyyppVee's Shadow Bolt freezes KSlater for 286 points of damage!
+(01:43:06) TyyppVee's Shadow Bolt freezes KSlater for 506 points of damage!
+(01:43:06) blackgurl's Sign of Sorthoth hurts TyyppVee for 159 points of damage!
+(01:43:07) wreck's Fury of Wind buffets you for 85 points of damage!
+(01:43:07) TyyppVee's Shadow Bolt freezes KSlater for 314 points of damage!
+(01:43:07) TyyppVee's Shadow Bolt freezes KSlater for 324 points of damage!
+(01:43:07) Dispel's fire burns Bambi for 716 points of damage!
+(01:43:07) TyyppVee's Steal Breath poisons Bambi for 191 points of damage!
+(01:43:07) wreck's Fury of Wind buffets you for 69 points of damage!
+(01:43:07) wreck's Call Storm shocks you for 76 points of damage!
+(01:43:07) TyyppVee's holy weapon strikes Bambi for 518 points of damage!
+(01:43:07) TyyppVee's Steal Breath poisons Bambi for 183 points of damage!
+(01:43:07) Dispel's holy weapon strikes Bambi for 408 points of damage!
+(01:43:07) TyyppVee's Shadow Bolt freezes Bambi for 334 points of damage!
+(01:43:07) wreck's Fury of Wind buffets you for 69 points of damage!
+(01:43:07) TyyppVee's Shadow Bolt freezes Bambi for 350 points of damage!
+(01:43:08) TyyppVee's Shadow Bolt freezes Bambi for 392 points of damage!
+(01:43:08) wreck's Fury of Wind buffets you for 52 points of damage!
+(01:43:08) wreck's Fury of Wind buffets you for 80 points of damage!
+(01:43:08) TyyppVee's Steal Breath poisons wreck for 139 points of damage!
+(01:43:08) wreck's Fury of Wind buffets you for 59 points of damage!
+(01:43:08) TyyppVee's Shadow Bolt freezes wreck for 429 points of damage!
+(01:43:08) TyyppVee's Shadow Bolt freezes wreck for 375 points of damage!
+(01:43:08) TyyppVee's Steal Breath poisons wreck for 211 points of damage!
+(01:43:09) TyyppVee's Shadow Bolt freezes wreck for 533 points of damage!
+(01:43:09) wreck's Fury of Wind buffets you for 38 points of damage!
+(01:43:09) TyyppVee's Shadow Bolt freezes wreck for 560 points of damage!
+(01:43:09) wreck's Fury of Wind buffets you for 33 points of damage!
+(01:43:09) Someone's Fury of Wind buffets you for 42 points of damage!
+(01:43:09) Someone's Fury of Wind buffets you for 18 points of damage!
+(01:43:09) TyyppVee's Demolishing Spell burns Guard Tower for 297 points of damage!
+(01:43:09) Someone's Fury of Wind buffets you for 29 points of damage!
+(01:43:10) TyyppVee's Demolishing Spell burns Guard Tower for 374 points of damage!
+(01:43:10) TyyppVee's Demolishing Spell burns Guard Tower for 336 points of damage!
+(01:43:10) TyyppVee's Demolishing Spell burns Guard Tower for 308 points of damage!
+(01:43:10) TyyppVee's Demolishing Spell burns Guard Tower for 364 points of damage!
+(01:43:11) TyyppVee's Demolishing Spell burns Guard Tower for 300 points of damage!
+(01:43:14) Dispel's fire burns Rain for 131 points of damage!
+(01:43:14) TyyppVee's poisonous weapon strikes Rain for 862 points of damage!
+(01:43:15) TyyppVee's poisonous weapon strikes Rain for 1001 points of damage!
+(01:43:15) Dispel's holy weapon strikes Rain for 345 points of damage!
+(01:43:15) HuntyPet's fire burns Rain for 53 points of damage!
+(01:43:15) blackgurl's Bloodfire burns TyyppVee for 24 points of damage!
+(01:43:15) blackgurl's Bloodfire burns TyyppVee for 110 points of damage!
+(01:43:15) TyyppVee's Steal Breath poisons Bambi for 196 points of damage!
+(01:43:15) Dispel's holy weapon strikes Bambi for 337 points of damage!
+(01:43:15) blackgurl's Bloodfire burns TyyppVee for 46 points of damage!
+(01:43:15) blackgurl's Bloodfire burns TyyppVee for 115 points of damage!
+(01:43:15) TyyppVee's Steal Breath poisons Bambi for 283 points of damage!
+(01:43:15) TyyppVee's holy weapon strikes Bambi for 388 points of damage!
+(01:43:15) wreck's Fury of Wind buffets TyyppVee for 130 points of damage!
+(01:43:15) blackgurl's Mage Bolt strikes TyyppVee for 453 points of damage!
+(01:43:16) Dispel's fire burns Bambi for 903 points of damage!
+(01:43:16) blackgurl's Lesser Mage Bolt strikes TyyppVee for 134 points of damage!
+(01:43:16) blackgurl's Mage Bolt strikes TyyppVee for 245 points of damage!
+(01:43:16) blackgurl's Bloodfire burns TyyppVee for 29 points of damage!
+(01:43:16) blackgurl's Bloodfire burns TyyppVee for 102 points of damage!
+(01:43:16) TyyppVee's Steal Breath poisons Bambi for 351 points of damage!
+(01:43:16) blackgurl's Lesser Mage Bolt strikes TyyppVee for 135 points of damage!
+(01:43:16) blackgurl's Lesser Mage Bolt strikes TyyppVee for 118 points of damage!
+(01:43:16) HuntyPet's fire burns Bambi for 1047 points of damage!
+(01:43:16) wreck's Fury of Wind buffets TyyppVee for 101 points of damage!
+(01:43:16) blackgurl's Mage Bolt strikes TyyppVee for 420 points of damage!
+(01:43:16) blackgurl's Bloodfire burns TyyppVee for 27 points of damage!
+(01:43:16) blackgurl's Bloodfire burns TyyppVee for 136 points of damage!
+(01:43:16) wreck's Fury of Wind buffets TyyppVee for 97 points of damage!
+(01:43:16) blackgurl's Lesser Mage Bolt strikes TyyppVee for 124 points of damage!
+(01:43:17) HuntyPet's holy weapon strikes blackgurl for 457 points of damage!
+(01:43:17) TyyppVee's poisonous weapon strikes blackgurl for 1139 points of damage!
+(01:43:17) blackgurl's Bloodfire burns TyyppVee for 40 points of damage!
+(01:43:17) blackgurl's Bloodfire burns TyyppVee for 177 points of damage!
+(01:43:17) wreck's Fury of Wind buffets TyyppVee for 101 points of damage!
+(01:43:17) Dispel's Poison Damage Over Time poisons blackgurl for 176 points of damage!
+(01:43:17) blackgurl's Bloodfire burns TyyppVee for 20 points of damage!
+(01:43:17) blackgurl's Bloodfire burns TyyppVee for 137 points of damage!
+(01:43:17) wreck's Fury of Wind buffets TyyppVee for 57 points of damage!
+(01:43:17) wreck's Bloodfire burns Dispel for 20 points of damage!
+(01:43:17) wreck's Bloodfire burns Dispel for 88 points of damage!
+(01:43:17) blackgurl's Bloodfire burns TyyppVee for 18 points of damage!
+(01:43:17) blackgurl's Bloodfire burns TyyppVee for 119 points of damage!
+(01:43:17) wreck's Fury of Wind buffets TyyppVee for 73 points of damage!
+(01:43:17) wreck's Bloodfire burns Dispel for 31 points of damage!
+(01:43:17) wreck's Bloodfire burns Dispel for 76 points of damage!
+(01:43:18) wreck's Fury of Wind buffets TyyppVee for 67 points of damage!
+(01:43:18) wreck's Bloodfire burns Dispel for 37 points of damage!
+(01:43:18) wreck's Bloodfire burns Dispel for 59 points of damage!
+(01:43:18) TyyppVee's Steal Breath poisons Rain for 210 points of damage!
+(01:43:18) wreck's Bloodfire burns Dispel for 35 points of damage!
+(01:43:18) wreck's Bloodfire burns Dispel for 84 points of damage!
+(01:43:18) Dispel's holy weapon strikes Rain for 301 points of damage!
+(01:43:18) Dispel's fire burns Rain for 84 points of damage!
+(01:43:18) TyyppVee's Steal Breath poisons Rain for 185 points of damage!
+(01:43:18) wreck's Bloodfire burns Dispel for 22 points of damage!
+(01:43:18) wreck's Bloodfire burns Dispel for 113 points of damage!
+(01:43:18) TyyppVee's Shadow Bolt freezes Rain for 83 points of damage!
+(01:43:19) TyyppVee's Steal Breath poisons Rain for 230 points of damage!
+(01:43:19) wreck's Bloodfire burns Dispel for 17 points of damage!
+(01:43:19) wreck's Bloodfire burns Dispel for 32 points of damage!
+(01:43:19) TyyppVee's Shadow Bolt freezes Rain for 227 points of damage!
+(01:43:19) TyyppVee's Shadow Bolt freezes Rain for 70 points of damage!
+(01:43:19) HuntyPet's Poison Damage Over Time poisons Rain for 167 points of damage!
+(01:43:19) TyyppVee's Steal Breath poisons Rain for 201 points of damage!
+(01:43:19) wreck's Bloodfire burns Dispel for 22 points of damage!
+(01:43:19) wreck's Bloodfire burns Dispel for 73 points of damage!
+(01:43:19) HuntyPet's Poison Damage Over Time poisons Rain for 179 points of damage!
+(01:43:19) wreck's Fury of Wind buffets TyyppVee for 87 points of damage!
+(01:43:19) TyyppVee's Steal Breath poisons Rain for 293 points of damage!
+(01:43:19) Dispel's fire burns Rain for 491 points of damage!
+(01:43:19) HuntyPet's Poison Damage Over Time poisons Rain for 233 points of damage!
+(01:43:19) Dispel's fire burns Rain for 292 points of damage!
+(01:43:19) wreck's Fury of Wind buffets TyyppVee for 136 points of damage!
+(01:43:20) wreck's Fury of Wind buffets TyyppVee for 81 points of damage!
+(01:43:20) HuntyPet's Fury of Ice freezes KSlater for 454 points of damage!
+(01:43:20) Dispel's holy weapon strikes KSlater for 383 points of damage!
+(01:43:20) wreck's Fury of Wind buffets TyyppVee for 126 points of damage!
+(01:43:20) HuntyPet's fire burns KSlater for 258 points of damage!
+(01:43:20) wreck's Fury of Wind buffets TyyppVee for 105 points of damage!
+(01:43:20) wreck's Fury of Wind buffets TyyppVee for 130 points of damage!
+(01:43:20) wreck's Call Storm shocks sudo for 280 points of damage!
+(01:43:20) wreck's Call Storm shocks TyyppVee for 139 points of damage!
+(01:43:20) wreck's Call Storm shocks HuntyPet for 355 points of damage!
+(01:43:21) wreck's Fury of Wind buffets TyyppVee for 85 points of damage!
+(01:43:21) Dispel's Poison Damage Over Time poisons wreck for 239 points of damage!
+(01:43:21) Dispel's Poison Damage Over Time poisons wreck for 216 points of damage!
+(01:43:21) kwx's holy weapon strikes Dispel for 1840 points of damage!
+(01:43:21) HuntyPet's Poison Damage Over Time poisons kwx for 173 points of damage!
+(01:43:22) Dispel's Poison Damage Over Time poisons kwx for 212 points of damage!
+(01:43:22) Dispel's Poison Damage Over Time poisons kwx for 206 points of damage!
+(01:43:22) TyyppVee's Steal Breath poisons kwx for 204 points of damage!
+(01:43:22) Dispel's Poison Damage Over Time poisons kwx for 278 points of damage!
+(01:43:22) TyyppVee's Steal Breath poisons kwx for 200 points of damage!
+(01:43:23) TyyppVee's Steal Breath poisons Andre for 182 points of damage!
+(01:43:23) Dispel's Poison Damage Over Time poisons Andre for 277 points of damage!
+(01:43:23) TyyppVee's Steal Breath poisons Andre for 164 points of damage!
+(01:43:23) Dispel's Poison Damage Over Time poisons Andre for 281 points of damage!
+(01:43:23) TyyppVee's Shadow Bolt freezes Andre for 429 points of damage!
+(01:43:23) TyyppVee's Shadow Bolt freezes Andre for 450 points of damage!
+(01:43:23) TyyppVee's Shadow Bolt freezes Andre for 444 points of damage!
+(01:43:30) HuntyPet's holy weapon strikes syszj for 450 points of damage!
+(01:43:30) Dispel's holy weapon strikes syszj for 374 points of damage!
+(01:43:30) HuntyPet's fire burns syszj for 794 points of damage!
+(01:43:30) HuntyPet's Fury of Ice freezes syszj for 420 points of damage!
+(01:43:30) TyyppVee's Shadow Bolt freezes syszj for 339 points of damage!
+(01:43:30) FYasz's Censure smites you for 625 points of damage!
+(01:43:30) TyyppVee's Shadow Bolt freezes syszj for 288 points of damage!
+(01:43:31) HuntyPet's holy weapon strikes syszj for 455 points of damage!
+(01:43:31) TyyppVee's Shadow Bolt freezes syszj for 360 points of damage!
+(01:43:31) MDAZJ's Mark of The All-Father hurts you for 418 points of damage!
+(01:43:31) TyyppVee's Shadow Bolt freezes syszj for 324 points of damage!
+(01:43:31) SPF's Censure smites you for 827 points of damage!
+(01:43:31) FYasz's Censure smites you for 526 points of damage!
+(01:43:31) SPF's Censure smites you for 722 points of damage!
+(01:43:31) MDAZJ's Mark of The All-Father hurts you for 337 points of damage!
+(01:43:31) MDAZJ's Censure smites you for 1042 points of damage!
+(01:43:31) SPF's Censure smites you for 930 points of damage!
+(01:43:31) MDAZJ's Mark of The All-Father hurts you for 204 points of damage!
+(01:43:31) SPF's Censure smites you for 908 points of damage!
+(01:43:31) TyyppVee's Steal Breath poisons MDAZJ for 285 points of damage!
+(01:43:31) SPF's Censure smites you for 906 points of damage!
+(01:43:32) MDAZJ's Censure smites you for 1103 points of damage!
+(01:43:32) TyyppVee's Shadow Bolt freezes MDAZJ for 719 points of damage!
+(01:43:32) MDAZJ's Mark of The All-Father hurts you for 195 points of damage!
+(01:43:32) HuntyPet's fire burns MDAZJ for 714 points of damage!
+(01:43:32) SPF's Censure smites you for 891 points of damage!
+(01:43:32) SPF's Censure smites you for 808 points of damage!
+(01:43:32) MDAZJ's Mark of The All-Father hurts you for 185 points of damage!
+(01:43:32) FYasz's Censure smites you for 483 points of damage!
+(01:43:32) MDAZJ's Mark of The All-Father hurts you for 151 points of damage!
+(01:43:32) FYasz's Censure smites you for 482 points of damage!
+(01:43:32) MDAZJ's Mark of The All-Father hurts you for 215 points of damage!
+(01:43:33) TyyppVee's Steal Breath poisons FYasz for 221 points of damage!
+(01:43:33) TyyppVee's Shadow Bolt freezes FYasz for 568 points of damage!
+(01:43:33) TyyppVee's Steal Breath poisons FYasz for 334 points of damage!
+(01:43:33) TyyppVee's Shadow Bolt freezes FYasz for 664 points of damage!
+(01:43:33) HuntyPet's holy weapon strikes FYasz for 521 points of damage!
+(01:43:33) TyyppVee's Shadow Bolt freezes FYasz for 563 points of damage!
+(01:43:34) TyyppVee's Shadow Bolt freezes FYasz for 527 points of damage!
+(01:43:34) TyyppVee's Steal Breath poisons SPF for 270 points of damage!
+(01:43:34) Dispel's Poison Damage Over Time poisons SPF for 370 points of damage!
+(01:43:34) TyyppVee's Shadow Bolt freezes SPF for 510 points of damage!
+(01:43:34) TyyppVee's Steal Breath poisons SPF for 277 points of damage!
+(01:43:34) TyyppVee's holy weapon strikes SPF for 1225 points of damage!
+(01:43:34) TyyppVee's Shadow Bolt freezes SPF for 702 points of damage!
+(01:43:34) TyyppVee's poisonous weapon strikes SPF for 1757 points of damage!
+(01:43:34) TyyppVee's Shadow Bolt freezes SPF for 586 points of damage!
+(01:43:41) Nibenay's Psychic Shout hurts Luke for 379 points of damage!
+(01:43:41) Nibenay's Mind Strike hurts Luke for 415 points of damage!
+(01:43:42) Someone's Steal Breath poisons CountHyde for 88 points of damage!
+(01:43:42) Nibenay's Mind Strike hurts CloudA for 447 points of damage!
+(01:43:42) DayWalker's Fling Holy Water blasts CountHyde for 228 points of damage!
+(01:43:42) lover's Shadow Bolt freezes Nibenay for 279 points of damage!
+(01:43:42) CloudA's poisonous weapon strikes Ponch for 683 points of damage!
+(01:43:42) Mephistopheles's Shadow Bolt freezes CountHyde for 146 points of damage!
+(01:43:42) DayWalker's Fling Holy Water blasts CountHyde for 241 points of damage!
+(01:43:42) Mephistopheles's Steal Breath poisons CountHyde for 78 points of damage!
+(01:43:42) TyyppVee's Steal Breath poisons Ponch for 175 points of damage!
+(01:43:42) Mephistopheles's ice freezes CountHyde for 289 points of damage!
+(01:43:42) Mephistopheles's Shadow Bolt freezes CountHyde for 152 points of damage!
+(01:43:42) CloudA's poisonous weapon strikes Ponch for 847 points of damage!
+(01:43:42) CloudA's Steal Breath poisons Ponch for 162 points of damage!
+(01:43:43) DayWalker's Fling Holy Water blasts CountHyde for 220 points of damage!
+(01:43:43) DayWalker's Fling Holy Water blasts CountHyde for 238 points of damage!
+(01:43:43) SKERD's fire burns Ponch for 147 points of damage!
+(01:43:43) Mephistopheles's Steal Breath poisons CountHyde for 72 points of damage!
+(01:43:43) DayWalker's Fling Holy Water blasts CountHyde for 245 points of damage!
+(01:43:43) DayWalker's Fling Holy Water blasts CountHyde for 230 points of damage!
+(01:43:43) Someone's Steal Breath poisons Bearable for 125 points of damage!
+(01:43:43) TyyppVee's Steal Breath poisons DayWalker for 136 points of damage!
+(01:43:44) CloudA's darnkness engulfs Bearable for 582 points of damage!
+(01:43:44) Marco's Censure smites CloudA for 659 points of damage!
+(01:43:44) Peking's Shadow Bolt freezes Bearable for 253 points of damage!
+(01:43:44) Peking's Steal Breath poisons Bearable for 135 points of damage!
+(01:43:44) Peking's Shadow Bolt freezes Bearable for 223 points of damage!
+(01:43:44) Marco's Censure smites CloudA for 646 points of damage!
+(01:43:44) TyyppVee's Steal Breath poisons DayWalker for 159 points of damage!
+(01:43:44) TyyppVee's Shadow Bolt freezes DayWalker for 332 points of damage!
+(01:43:44) CloudA's Steal Breath poisons Marco for 197 points of damage!
+(01:43:44) Peking's Shadow Bolt freezes Bearable for 250 points of damage!
+(01:43:44) SKERD's Cleansing Flame burns Mephistopheles for 118 points of damage!
+(01:43:44) SKERD's Cleansing Flame burns SKERD for 10 points of damage!
+(01:43:44) SKERD's Cleansing Flame burns Mephistopheles for 14 points of damage!
+(01:43:44) Peking's Shadow Bolt freezes Bearable for 221 points of damage!
+(01:43:45) Marco's Censure smites CloudA for 745 points of damage!
+(01:43:45) Luke's Censure smites Bearable for 251 points of damage!
+(01:43:45) TyyppVee's holy weapon strikes DayWalker for 365 points of damage!
+(01:43:45) Peking's Steal Breath poisons Bearable for 139 points of damage!
+(01:43:45) TyyppVee's Steal Breath poisons DayWalker for 164 points of damage!
+(01:43:45) CloudA's Shadow Bolt freezes Marco for 149 points of damage!
+(01:43:45) CloudA's Steal Breath poisons Marco for 111 points of damage!
+(01:43:45) lover's Steal Breath poisons Bearable for 171 points of damage!
+(01:43:45) SKERD's Cleansing Flame burns SKERD for 10 points of damage!
+(01:43:45) SKERD's Cleansing Flame burns Mephistopheles for 96 points of damage!
+(01:43:45) SKERD's Cleansing Flame burns Mephistopheles for 14 points of damage!
+(01:43:45) CloudA's Shadow Bolt freezes Marco for 135 points of damage!
+(01:43:45) Peking's Shadow Bolt freezes Bearable for 227 points of damage!
+(01:43:46) lover's Shadow Bolt freezes MyosMoo for 245 points of damage!
+(01:43:46) CloudA's Shadow Bolt freezes Marco for 120 points of damage!
+(01:43:46) CloudA's Steal Breath poisons Marco for 84 points of damage!
+(01:43:46) SKERD's Cleansing Flame burns SKERD for 10 points of damage!
+(01:43:46) SKERD's Cleansing Flame burns Mephistopheles for 112 points of damage!
+(01:43:46) SKERD's Cleansing Flame burns Mephistopheles for 14 points of damage!
+(01:43:46) SKERD's fire burns Mephistopheles for 163 points of damage!
+(01:43:46) Peking's Shadow Bolt freezes MyosMoo for 217 points of damage!
+(01:43:46) CloudA's Steal Breath poisons Marco for 117 points of damage!
+(01:43:47) lover's Shadow Bolt freezes MyosMoo for 269 points of damage!
+(01:43:47) SKERD's Fire Damage Over Time burns Mephistopheles for 177 points of damage!
+(01:43:47) SKERD's Cleansing Flame burns SKERD for 10 points of damage!
+(01:43:47) SKERD's Cleansing Flame burns Mephistopheles for 14 points of damage!
+(01:43:47) Peking's Shadow Bolt freezes MyosMoo for 225 points of damage!
+(01:43:47) SKERD's Cleansing Flame burns Mephistopheles for 96 points of damage!
+(01:43:47) Luke's Censure smites Marco for 233 points of damage!
+(01:43:47) CloudA's Steal Breath poisons Marco for 152 points of damage!
+(01:43:47) Luke's Censure smites Marco for 222 points of damage!
+(01:43:47) CloudA's Steal Breath poisons Healn for 168 points of damage!
+(01:43:54) Hold's Steal Breath poisons nvwu for 182 points of damage!
+(01:43:54) CloudA's Shadow Bolt freezes nvwu for 239 points of damage!
+(01:43:54) vVv's Shadow Bolt freezes nvwu for 244 points of damage!
+(01:43:54) Sithranis's Shadow Bolt freezes nvwu for 269 points of damage!
+(01:43:54) vVv's Shadow Bolt freezes nvwu for 347 points of damage!
+(01:43:54) Your Shadow Bolt freezes nvwu for 185 points of damage!
+(01:43:54) Hold's Shadow Bolt freezes nvwu for 259 points of damage!
+(01:43:54) CloudA's Shadow Bolt freezes nvwu for 340 points of damage!
+(01:43:54) Sithranis's Shadow Bolt freezes nvwu for 459 points of damage!
+(01:43:54) fcd's Fury of Wind buffets you for 104 points of damage!
+(01:43:54) CloudA's poisonous weapon strikes fcd for 617 points of damage!
+(01:43:54) JMc's Shadow Bolt freezes you for 114 points of damage!
+(01:43:55) SWK's Incendiary Blast burns CloudA for 174 points of damage!
+(01:43:55) SWK's Incendiary Blast burns Sax for 87 points of damage!
+(01:43:55) SWK's Incendiary Blast burns Soda for 121 points of damage!
+(01:43:55) SWK's Incendiary Blast burns Sithranis for 166 points of damage!
+(01:43:55) SWK's Incendiary Blast burns Hold for 91 points of damage!
+(01:43:55) SWK's Incendiary Blast burns vVv for 104 points of damage!
+(01:43:55) ysmf's Incendiary Blast burns tickles for 81 points of damage!
+(01:43:55) JMc's Shadow Bolt freezes you for 70 points of damage!
+(01:43:55) fcd's Fury of Wind buffets you for 219 points of damage!
+(01:43:55) vVv's Shadow Bolt freezes fcd for 255 points of damage!
+(01:43:55) Sithranis's Shadow Bolt freezes fcd for 252 points of damage!
+(01:43:55) JMc's Shadow Bolt freezes you for 126 points of damage!
+(01:43:55) CloudA's Steal Breath poisons fcd for 203 points of damage!
+(01:43:55) vVv's Shadow Bolt freezes fcd for 321 points of damage!
+(01:43:55) Sithranis's fire burns fcd for 405 points of damage!
+(01:43:55) Sithranis's Shadow Bolt freezes fcd for 313 points of damage!
+(01:43:55) SWK's Incendiary Blast burns CloudA for 220 points of damage!
+(01:43:55) SWK's Incendiary Blast burns Sax for 207 points of damage!
+(01:43:55) SWK's Incendiary Blast burns Sithranis for 147 points of damage!
+(01:43:55) SWK's Incendiary Blast burns Soda for 124 points of damage!
+(01:43:55) SWK's Incendiary Blast burns Hold for 67 points of damage!
+(01:43:55) SWK's Incendiary Blast burns vVv for 131 points of damage!
+(01:43:55) ysmf's Incendiary Blast burns tickles for 127 points of damage!
+(01:43:56) Sithranis's Shadow Bolt freezes fcd for 311 points of damage!
+(01:43:56) Sithranis's poisonous weapon strikes fcd for 1010 points of damage!
+(01:43:56) SWK's Call Lightning shocks CloudA for 128 points of damage!
+(01:43:56) SWK's Blizzard freezes CloudA for 171 points of damage!
+(01:43:56) SWK's Call Lightning shocks champagne for 447 points of damage!
+(01:43:56) fcd's Fury of Wind buffets you for 100 points of damage!
+(01:43:56) SWK's Call Lightning shocks vVv for 320 points of damage!
+(01:43:56) SWK's Call Lightning shocks Sithranis for 146 points of damage!
+(01:43:56) SWK's Call Lightning shocks Sax for 555 points of damage!
+(01:43:56) SWK's Call Lightning shocks Soda for 379 points of damage!
+(01:43:56) SWK's Call Lightning shocks Hold for 125 points of damage!
+(01:43:56) SWK's Incendiary Blast burns CloudA for 114 points of damage!
+(01:43:56) SWK's Incendiary Blast burns Sax for 202 points of damage!
+(01:43:56) SWK's Incendiary Blast burns Sithranis for 287 points of damage!
+(01:43:56) SWK's Incendiary Blast burns Soda for 163 points of damage!
+(01:43:56) SWK's Incendiary Blast burns Hold for 157 points of damage!
+(01:43:56) SWK's Incendiary Blast burns vVv for 175 points of damage!
+(01:43:56) ysmf's Incendiary Blast burns tickles for 190 points of damage!
+(01:43:56) Hold's Shadow Bolt freezes JMc for 114 points of damage!
+(01:43:56) SWK's Blizzard freezes champagne for 68 points of damage!
+(01:43:56) SWK's Blizzard freezes you for 70 points of damage!
+(01:43:56) SWK's Blizzard freezes Sithranis for 131 points of damage!
+(01:43:56) SWK's Blizzard freezes vVv for 186 points of damage!
+(01:43:56) SWK's Blizzard freezes Soda for 138 points of damage!
+(01:43:56) Hold's Shadow Bolt freezes JMc for 105 points of damage!
+(01:43:56) Someone's Fury of Wind buffets you for 110 points of damage!
+(01:43:56) SWK's Incendiary Blast burns CloudA for 215 points of damage!
+(01:43:56) SWK's Incendiary Blast burns Sax for 153 points of damage!
+(01:43:56) SWK's Incendiary Blast burns Soda for 66 points of damage!
+(01:43:56) SWK's Incendiary Blast burns Sithranis for 222 points of damage!
+(01:43:56) SWK's Incendiary Blast burns Hold for 97 points of damage!
+(01:43:56) SWK's Incendiary Blast burns vVv for 79 points of damage!
+(01:43:56) SWK's Ignite burns champagne for 154 points of damage!
+(01:43:57) Hold's Shadow Bolt freezes JMc for 100 points of damage!
+(01:43:57) ysmf's Incendiary Blast burns tickles for 96 points of damage!
+(01:43:57) Hold's Shadow Bolt freezes JMc for 99 points of damage!
+(01:43:57) SWK's Ignite burns champagne for 166 points of damage!
+(01:43:57) Someone's Fury of Wind buffets you for 52 points of damage!
+(01:43:57) Szmz's Mage Bolt strikes champagne for 336 points of damage!
+(01:43:57) SWK's Fire Bolt burns champagne for 184 points of damage!
+(01:43:57) CloudA's Steal Breath poisons Szmz for 146 points of damage!
+(01:43:57) vVv's Shadow Bolt freezes ysmf for 323 points of damage!
+(01:43:57) SWK's Incendiary Blast burns Sax for 147 points of damage!
+(01:43:57) SWK's Incendiary Blast burns CloudA for 162 points of damage!
+(01:43:57) SWK's Incendiary Blast burns Sithranis for 114 points of damage!
+(01:43:57) SWK's Incendiary Blast burns Soda for 100 points of damage!
+(01:43:57) SWK's Incendiary Blast burns Hold for 146 points of damage!
+(01:43:57) SWK's Incendiary Blast burns vVv for 126 points of damage!
+(01:43:57) Your Shadow Bolt freezes Szmz for 234 points of damage!
+(01:43:57) ysmf's Incendiary Blast burns tickles for 122 points of damage!
+(01:43:57) Sithranis's Shadow Bolt freezes Szmz for 275 points of damage!
+(01:43:57) SWK's Ignite burns champagne for 166 points of damage!
+(01:43:58) Someone's Fury of Wind buffets you for 122 points of damage!
+(01:43:58) Sithranis's Shadow Bolt freezes Szmz for 266 points of damage!
+(01:43:58) SWK's Call Lightning shocks you for 80 points of damage!
+(01:43:58) SWK's Call Lightning shocks champagne for 203 points of damage!
+(01:43:58) SWK's Call Lightning shocks vVv for 405 points of damage!
+(01:43:58) SWK's Call Lightning shocks Soda for 342 points of damage!
+(01:43:58) SWK's Call Lightning shocks Hold for 126 points of damage!
+(01:43:58) SWK's Call Lightning shocks Sax for 349 points of damage!
+(01:43:58) Hold's Shadow Bolt freezes Szmz for 347 points of damage!
+(01:43:58) SWK's Call Lightning shocks tickles for 310 points of damage!
+(01:43:58) Sithranis's Shadow Bolt freezes Szmz for 310 points of damage!
+(01:43:58) SWK's Incendiary Blast burns CloudA for 163 points of damage!
+(01:43:58) SWK's Incendiary Blast burns Sax for 170 points of damage!
+(01:43:58) SWK's Incendiary Blast burns Sithranis for 154 points of damage!
+(01:43:58) SWK's Incendiary Blast burns Soda for 144 points of damage!
+(01:43:58) SWK's Incendiary Blast burns Hold for 90 points of damage!
+(01:43:58) SWK's Incendiary Blast burns vVv for 169 points of damage!
+(01:43:58) Your Shadow Bolt freezes Szmz for 358 points of damage!
+(01:43:58) ysmf's Incendiary Blast burns tickles for 103 points of damage!
+(01:43:58) Sithranis's Shadow Bolt freezes Szmz for 419 points of damage!
+(01:43:58) SWK's Ignite burns champagne for 113 points of damage!
+(01:43:58) Your Shadow Bolt freezes Szmz for 371 points of damage!
+(01:43:58) Someone's Fury of Wind buffets you for 72 points of damage!
+(01:43:59) SWK's Incendiary Blast burns CloudA for 223 points of damage!
+(01:43:59) SWK's Incendiary Blast burns Sax for 184 points of damage!
+(01:43:59) SWK's Incendiary Blast burns Sithranis for 156 points of damage!
+(01:43:59) SWK's Incendiary Blast burns Soda for 114 points of damage!
+(01:43:59) SWK's Incendiary Blast burns Hold for 157 points of damage!
+(01:43:59) SWK's Incendiary Blast burns vVv for 94 points of damage!
+(01:43:59) SWK's Incendiary Blast burns Uther for 97 points of damage!
+(01:43:59) SWK's Incendiary Blast burns tickles for 88 points of damage!
+(01:43:59) SWK's Incendiary Blast burns Sithranis for 106 points of damage!
+(01:43:59) SWK's Ignite burns champagne for 208 points of damage!
+(01:43:59) Breeze's Unholy Storm strikes Sithranis for 356 points of damage!
+(01:43:59) ysmf's Incendiary Blast burns you for 176 points of damage!
+(01:43:59) ysmf's Incendiary Blast burns champagne for 140 points of damage!
+(01:43:59) ysmf's Incendiary Blast burns vVv for 135 points of damage!
+(01:43:59) ysmf's Incendiary Blast burns Hold for 153 points of damage!
+(01:43:59) JMc's Shadow Bolt freezes you for 70 points of damage!
+(01:43:59) Breeze's Unholy Storm strikes Uther for 253 points of damage!
+(01:43:59) SWK's Incendiary Blast burns Uther for 186 points of damage!
+(01:43:59) SWK's Incendiary Blast burns tickles for 138 points of damage!
+(01:43:59) SWK's Incendiary Blast burns Sithranis for 264 points of damage!
+(01:43:59) Breeze's Unholy Storm strikes tickles for 413 points of damage!
+(01:43:59) CloudA's darnkness engulfs Breeze for 356 points of damage!
+(01:43:59) JMc's Shadow Bolt freezes you for 102 points of damage!
+(01:43:59) SWK's Ignite burns champagne for 114 points of damage!
+(01:44:00) ysmf's Incendiary Blast burns you for 111 points of damage!
+(01:44:00) ysmf's Incendiary Blast burns champagne for 127 points of damage!
+(01:44:00) ysmf's Incendiary Blast burns vVv for 82 points of damage!
+(01:44:00) ysmf's Incendiary Blast burns Hold for 72 points of damage!
+(01:44:00) JMc's Shadow Bolt freezes you for 133 points of damage!
+(01:44:00) SWK's Incendiary Blast burns Uther for 114 points of damage!
+(01:44:00) SWK's Incendiary Blast burns tickles for 154 points of damage!
+(01:44:00) SWK's Incendiary Blast burns Sithranis for 121 points of damage!
+(01:44:00) CloudA's Shadow Bolt freezes Breeze for 72 points of damage!
+(01:44:00) JMc's Shadow Bolt freezes you for 117 points of damage!
+(01:44:00) CloudA's poisonous weapon strikes Breeze for 495 points of damage!
+(01:44:00) SWK's Ignite burns champagne for 89 points of damage!
+(01:44:00) CloudA's Shadow Bolt freezes Breeze for 185 points of damage!
+(01:44:00) Hold's Steal Breath poisons Breeze for 213 points of damage!
+(01:44:00) ysmf's Blizzard freezes CloudA for 112 points of damage!
+(01:44:00) ysmf's Blizzard freezes champagne for 36 points of damage!
+(01:44:00) ysmf's Blizzard freezes vVv for 128 points of damage!
+(01:44:00) ysmf's Blizzard freezes Hold for 172 points of damage!
+(01:44:00) Sithranis's Shadow Bolt freezes Breeze for 215 points of damage!
+(01:44:00) ysmf's Blizzard freezes Soda for 209 points of damage!
+(01:44:01) CloudA's Shadow Bolt freezes Breeze for 335 points of damage!
+(01:44:01) ysmf's Incendiary Blast burns you for 95 points of damage!
+(01:44:01) ysmf's Incendiary Blast burns champagne for 105 points of damage!
+(01:44:01) ysmf's Blizzard freezes Sax for 311 points of damage!
+(01:44:01) ysmf's Incendiary Blast burns vVv for 144 points of damage!
+(01:44:01) ysmf's Incendiary Blast burns Hold for 114 points of damage!
+(01:44:01) CloudA's Shadow Bolt freezes Breeze for 410 points of damage!
+(01:44:01) Sithranis's Shadow Bolt freezes Breeze for 325 points of damage!
+(01:44:01) Someone's Incendiary Blast burns Uther Eats for 84 points of damage!
+(01:44:01) Someone's Incendiary Blast burns tickles for 119 points of damage!
+(01:44:01) Someone's Incendiary Blast burns Sithranis for 147 points of damage!
+(01:44:01) JMc's Shadow Bolt freezes you for 129 points of damage!
+(01:44:01) vVv's fire burns Breeze for 659 points of damage!
+(01:44:01) vVv's Shadow Bolt freezes Breeze for 317 points of damage!
+(01:44:01) Your Shadow Bolt freezes Breeze for 226 points of damage!
+(01:44:01) Sithranis's Shadow Bolt freezes Breeze for 337 points of damage!
+(01:44:01) JMc's Shadow Bolt freezes you for 139 points of damage!
+(01:44:01) JMc's Shadow Bolt freezes you for 120 points of damage!
+(01:44:01) ysmf's Incendiary Blast burns you for 90 points of damage!
+(01:44:01) ysmf's Incendiary Blast burns champagne for 45 points of damage!
+(01:44:01) ysmf's Incendiary Blast burns Hold for 100 points of damage!
+(01:44:01) ysmf's Incendiary Blast burns vVv for 128 points of damage!
+(01:44:01) JMc's Shadow Bolt freezes you for 110 points of damage!
+(01:44:01) Your Shadow Bolt freezes JMc for 54 points of damage!
+(01:44:01) Someone's Incendiary Blast burns Uther Eats for 88 points of damage!
+(01:44:01) Someone's Incendiary Blast burns tickles for 194 points of damage!
+(01:44:01) Someone's Incendiary Blast burns Sithranis for 279 points of damage!
+(01:44:01) JMc's Shadow Bolt freezes you for 126 points of damage!
+(01:44:01) Your Shadow Bolt freezes JMc for 82 points of damage!
+(01:44:02) vVv's Shadow Bolt freezes JMc for 99 points of damage!
+(01:44:02) JMc's Shadow Bolt freezes you for 134 points of damage!
+(01:44:02) Your Shadow Bolt freezes JMc for 74 points of damage!
+(01:44:02) Hold's Shadow Bolt freezes JMc for 102 points of damage!
+(01:44:02) Hold's Steal Breath poisons JMc for 249 points of damage!
+(01:44:02) Someone's Incendiary Blast burns tickles for 107 points of damage!
+(01:44:02) CloudA's Steal Breath poisons JMc for 256 points of damage!
+(01:44:02) vVv's Shadow Bolt freezes JMc for 93 points of damage!
+(01:44:02) Someone's Incendiary Blast burns Sithranis for 228 points of damage!
+(01:44:02) Someone's Incendiary Blast burns Uther Eats for 146 points of damage!
+(01:44:02) Hold's Shadow Bolt freezes JMc for 78 points of damage!
+(01:44:02) vVv's poisonous weapon strikes JMc for 1138 points of damage!
+(01:44:02) vVv's Shadow Bolt freezes JMc for 77 points of damage!
+(01:44:02) Sithranis's Shadow Bolt freezes JMc for 194 points of damage!
+(01:44:02) CloudA's Shadow Bolt freezes JMc for 290 points of damage!
+(01:44:02) vVv's Shadow Bolt freezes JMc for 447 points of damage!
+(01:44:02) SWK's Incendiary Blast burns Uther for 182 points of damage!
+(01:44:02) SWK's Incendiary Blast burns tickles for 180 points of damage!
+(01:44:02) SWK's Incendiary Blast burns Sithranis for 250 points of damage!
+(01:44:02) Your Shadow Bolt freezes JMc for 337 points of damage!
+(01:44:02) Sithranis's Shadow Bolt freezes JMc for 372 points of damage!
+(01:44:02) SWK's Call Lightning shocks Sithranis for 146 points of damage!
+(01:44:03) vVv's fire burns JMc for 946 points of damage!
+(01:44:03) ysmf's Incendiary Blast burns CloudA for 189 points of damage!
+(01:44:03) ysmf's Incendiary Blast burns Uther for 120 points of damage!
+(01:44:03) ysmf's Incendiary Blast burns you for 92 points of damage!
+(01:44:03) ysmf's Incendiary Blast burns tickles for 64 points of damage!
+(01:44:03) ysmf's Incendiary Blast burns champagne for 38 points of damage!
+(01:44:03) ysmf's Incendiary Blast burns Sithranis for 203 points of damage!
+(01:44:03) ysmf's Incendiary Blast burns Soda for 110 points of damage!
+(01:44:03) Hold's Shadow Bolt freezes ysmf for 344 points of damage!
+(01:44:03) SWK's Call Lightning shocks CloudA for 128 points of damage!
+(01:44:03) vVv's Steal Breath poisons SWK for 183 points of damage!
+(01:44:03) SWK's Call Lightning shocks Hold for 126 points of damage!
+(01:44:03) Hold's Shadow Bolt freezes ysmf for 463 points of damage!
+(01:44:03) SWK's Call Lightning shocks Soda for 326 points of damage!
+(01:44:03) SWK's Call Lightning shocks Uther for 317 points of damage!
+(01:44:03) Your Shadow Bolt freezes ysmf for 393 points of damage!
+(01:44:03) Sithranis's Shadow Bolt freezes ysmf for 483 points of damage!
+(01:44:03) CloudA's Steal Breath poisons SWK for 170 points of damage!
+(01:44:03) ysmf's Incendiary Blast burns Uther for 140 points of damage!
+(01:44:03) ysmf's Incendiary Blast burns CloudA for 138 points of damage!
+(01:44:03) ysmf's Incendiary Blast burns you for 122 points of damage!
+(01:44:03) ysmf's Incendiary Blast burns champagne for 71 points of damage!
+(01:44:03) ysmf's Incendiary Blast burns tickles for 192 points of damage!
+(01:44:03) ysmf's Incendiary Blast burns Soda for 140 points of damage!
+(01:44:03) ysmf's Incendiary Blast burns Sithranis for 125 points of damage!
+(01:44:03) SWK's Blizzard freezes CloudA for 220 points of damage!
+(01:44:04) ysmf's Blizzard freezes CloudA for 112 points of damage!
+(01:44:04) SWK's Blizzard freezes Sithranis for 132 points of damage!
+(01:44:04) Sithranis's Shadow Bolt freezes ysmf for 468 points of damage!
+(01:44:04) SWK's Blizzard freezes vVv for 254 points of damage!
+(01:44:04) ysmf's Blizzard freezes Sithranis for 178 points of damage!
+(01:44:04) SWK's Blizzard freezes you for 70 points of damage!
+(01:44:04) SWK's Blizzard freezes champagne for 86 points of damage!
+(01:44:04) Your Shadow Bolt freezes ysmf for 338 points of damage!
+(01:44:04) ysmf's Blizzard freezes vVv for 297 points of damage!
+(01:44:04) SWK's Blizzard freezes Hold for 193 points of damage!
+(01:44:04) ysmf's Blizzard freezes champagne for 100 points of damage!
+(01:44:04) SWK's Blizzard freezes Soda for 211 points of damage!
+(01:44:04) ysmf's Blizzard freezes Soda for 267 points of damage!
+(01:44:04) ysmf's Blizzard freezes tickles for 751 points of damage!
+(01:44:04) ysmf's Blizzard freezes Uther for 217 points of damage!
+(01:44:04) Sithranis's Shadow Bolt freezes ysmf for 388 points of damage!
+(01:44:04) Your Shadow Bolt freezes ysmf for 334 points of damage!
+(01:44:04) Hold's Shadow Bolt freezes ysmf for 485 points of damage!
+(01:44:04) vVv's Shadow Bolt freezes ysmf for 439 points of damage!
+(01:44:04) CloudA's Steal Breath poisons SWK for 143 points of damage!
+(01:44:04) ysmf's Incendiary Blast burns CloudA for 158 points of damage!
+(01:44:04) ysmf's Incendiary Blast burns Uther for 124 points of damage!
+(01:44:04) ysmf's Incendiary Blast burns you for 82 points of damage!
+(01:44:04) ysmf's Incendiary Blast burns tickles for 123 points of damage!
+(01:44:04) ysmf's Incendiary Blast burns champagne for 31 points of damage!
+(01:44:04) ysmf's Incendiary Blast burns Sithranis for 114 points of damage!
+(01:44:04) ysmf's Incendiary Blast burns Soda for 68 points of damage!
+(01:44:04) CloudA's Shadow Bolt freezes SWK for 272 points of damage!
+(01:44:04) Your Shadow Bolt freezes SWK for 224 points of damage!
+(01:44:04) CloudA's Steal Breath poisons SWK for 152 points of damage!
+(01:44:04) ysmf's Incendiary Blast burns CloudA for 97 points of damage!
+(01:44:04) ysmf's Incendiary Blast burns Uther for 115 points of damage!
+(01:44:04) ysmf's Incendiary Blast burns you for 91 points of damage!
+(01:44:04) ysmf's Incendiary Blast burns champagne for 25 points of damage!
+(01:44:04) ysmf's Incendiary Blast burns tickles for 50 points of damage!
+(01:44:04) Your Shadow Bolt freezes SWK for 255 points of damage!
+(01:44:04) Sithranis's Shadow Bolt freezes SWK for 294 points of damage!
+(01:44:04) ysmf's Incendiary Blast burns Soda for 58 points of damage!
+(01:44:04) ysmf's Incendiary Blast burns Sithranis for 155 points of damage!
+(01:44:05) CloudA's Steal Breath poisons SWK for 177 points of damage!
+(01:44:05) Someone's Incendiary Blast burns CloudA for 125 points of damage!
+(01:44:05) Someone's Incendiary Blast burns Uther Eats for 72 points of damage!
+(01:44:05) Someone's Incendiary Blast burns you for 53 points of damage!
+(01:44:05) Someone's Incendiary Blast burns champagne problems for 32 points of damage!
+(01:44:05) Someone's Incendiary Blast burns tickles for 81 points of damage!
+(01:44:05) Someone's Incendiary Blast burns Sithranis for 105 points of damage!
+(01:44:05) Someone's Incendiary Blast burns Soda for 40 points of damage!
+(01:44:05) CloudA's Steal Breath poisons SWK for 162 points of damage!
+(01:44:05) Someone's Incendiary Blast burns Uther Eats for 63 points of damage!
+(01:44:05) Someone's Incendiary Blast burns CloudA for 38 points of damage!
+(01:44:05) Someone's Incendiary Blast burns you for 73 points of damage!
+(01:44:05) Someone's Incendiary Blast burns tickles for 83 points of damage!
+(01:44:05) Someone's Incendiary Blast burns champagne problems for 31 points of damage!
+(01:44:05) Someone's Incendiary Blast burns Sithranis for 119 points of damage!
+(01:44:05) Someone's Incendiary Blast burns Soda for 63 points of damage!
+(01:44:05) Hold's Steal Breath poisons syq for 214 points of damage!
+(01:44:06) CloudA's Steal Breath poisons SWK for 155 points of damage!
+(01:44:06) Someone's Incendiary Blast burns CloudA for 105 points of damage!
+(01:44:06) Someone's Incendiary Blast burns Uther Eats for 71 points of damage!
+(01:44:06) Someone's Incendiary Blast burns you for 108 points of damage!
+(01:44:06) Someone's Incendiary Blast burns tickles for 87 points of damage!
+(01:44:06) Someone's Incendiary Blast burns champagne problems for 31 points of damage!
+(01:44:06) Someone's Incendiary Blast burns Sithranis for 131 points of damage!
+(01:44:06) Someone's Incendiary Blast burns Soda for 47 points of damage!
+(01:44:06) Hold's Shadow Bolt freezes syq for 332 points of damage!
+(01:44:06) Hold's Steal Breath poisons syq for 203 points of damage!
+(01:44:06) Hold's Steal Breath poisons syq for 152 points of damage!
+(01:44:06) Hold's Steal Breath poisons syq for 208 points of damage!
+(01:44:07) Hold's Steal Breath poisons syq for 162 points of damage!
+(01:44:08) HolyThug's Righteous Word of Binding smites Sax for 121 points of damage!
+(01:44:08) HolyThug's Righteous Word of Binding smites Uther for 107 points of damage!
+(01:44:08) CaliSent's Divine Word of Binding smites Prodriver for 1247 points of damage!
+(01:44:08) HolyThug's Righteous Word of Binding smites you for 212 points of damage!
+(01:44:08) CaliSent's Divine Word of Binding smites Healn for 1717 points of damage!
+(01:44:08) HolyThug's Righteous Word of Binding smites tickles for 71 points of damage!
+(01:44:08) CaliSent's Divine Word of Binding smites Sax for 338 points of damage!
+(01:44:08) HolyThug's Righteous Word of Binding smites Soda for 114 points of damage!
+(01:44:08) CaliSent's Divine Word of Binding smites CaliSent for 1322 points of damage!
+(01:44:08) HolyThug's Righteous Word of Binding smites champagne for 75 points of damage!
+(01:44:08) CaliSent's Divine Word of Binding smites Hold for 637 points of damage!
+(01:44:08) HolyThug's Righteous Word of Binding smites Hold for 235 points of damage!
+(01:44:08) vVv's Shadow Bolt freezes Manshoon for 294 points of damage!
+(01:44:08) Prodriver's Divine Word of Binding smites Liquid for 1249 points of damage!
+(01:44:08) Prodriver's Divine Word of Binding smites Uther for 407 points of damage!
+(01:44:08) Prodriver's Divine Word of Binding smites CaliSent for 1960 points of damage!
+(01:44:08) Prodriver's Divine Word of Binding smites tickles for 493 points of damage!
+(01:44:08) Prodriver's Divine Word of Binding smites Soda for 361 points of damage!
+(01:44:08) Prodriver's Divine Word of Binding smites Sithranis for 1150 points of damage!
+(01:44:08) vVv's Shadow Bolt freezes Manshoon for 331 points of damage!
+(01:44:09) Liquid's Divine Word of Binding smites Prodriver for 2567 points of damage!
+(01:44:09) Liquid's Divine Word of Binding smites Manshoon for 1066 points of damage!
+(01:44:09) Liquid's Divine Word of Binding smites Sax for 393 points of damage!
+(01:44:09) Liquid's Divine Word of Binding smites tickles for 527 points of damage!
+(01:44:09) Liquid's Divine Word of Binding smites Sithranis for 1077 points of damage!
+(01:44:09) Liquid's Divine Word of Binding smites vVv for 972 points of damage!
+(01:44:09) Tibins's Censure smites Sax for 427 points of damage!
+(01:44:09) Vaginex's Steal Breath poisons Sithranis for 173 points of damage!
+(01:44:09) Manshoon's Sign of Sorthoth hurts Soda for 330 points of damage!
+(01:44:10) Your Shadow Bolt freezes Tibins for 170 points of damage!
+(01:44:10) Vaginex's Shadow Bolt freezes Sithranis for 241 points of damage!
+(01:44:10) Your Shadow Bolt freezes Tibins for 204 points of damage!
+(01:44:10) Manshoon's Mage Bolt strikes Soda for 368 points of damage!
+(01:44:10) Vaginex's Shadow Bolt freezes Sithranis for 224 points of damage!
+(01:44:10) Vaginex's Steal Breath poisons Sithranis for 175 points of damage!
+(01:44:10) HolyThug's Righteous Word of Binding smites Sax for 247 points of damage!
+(01:44:10) Manshoon's Sign of Sorthoth hurts Soda for 308 points of damage!
+(01:44:10) Hold's Shadow Bolt freezes Prodriver for 176 points of damage!
+(01:44:10) Your Shadow Bolt freezes Tibins for 153 points of damage!
+(01:44:10) CloudA's Steal Breath poisons Manshoon for 148 points of damage!
+(01:44:10) Sithranis's Shadow Bolt freezes Vaginex for 293 points of damage!
+(01:44:11) Someone's Steal Breath poisons Sithranis for 135 points of damage!
+(01:44:11) Manshoon's Sign of Sorthoth hurts Soda for 327 points of damage!
+(01:44:11) Tibins's Censure smites Sax for 253 points of damage!
+(01:44:11) CloudA's Steal Breath poisons Manshoon for 142 points of damage!
+(01:44:11) Hold's Shadow Bolt freezes Healn for 377 points of damage!
+(01:44:11) Your Shadow Bolt freezes Tibins for 391 points of damage!
+(01:44:11) Hold's Shadow Bolt freezes Tibins for 574 points of damage!
+(01:44:11) vVv's fire burns Tibins for 1040 points of damage!
+(01:44:11) Vaginex's Steal Breath poisons Sithranis for 156 points of damage!
+(01:44:11) Hold's Shadow Bolt freezes Tibins for 559 points of damage!
+(01:44:11) Manshoon's Sign of Sorthoth hurts Soda for 273 points of damage!
+(01:44:11) CloudA's Steal Breath poisons Manshoon for 129 points of damage!
+(01:44:11) Your Shadow Bolt freezes CaliSent for 200 points of damage!
+(01:44:12) Sithranis's Shadow Bolt freezes Healn for 298 points of damage!
+(01:44:12) Hold's Shadow Bolt freezes CaliSent for 331 points of damage!
+(01:44:12) vVv's fire burns Liquid for 384 points of damage!
+(01:44:12) Vaginex's Steal Breath poisons Sithranis for 174 points of damage!
+(01:44:12) Your Shadow Bolt freezes CaliSent for 214 points of damage!
+(01:44:12) Manshoon's Sign of Sorthoth hurts Soda for 300 points of damage!
+(01:44:12) CloudA's Steal Breath poisons Manshoon for 148 points of damage!
+(01:44:12) Sithranis's Shadow Bolt freezes CaliSent for 282 points of damage!
+(01:44:12) Hold's Shadow Bolt freezes CaliSent for 325 points of damage!
+(01:44:12) Your Shadow Bolt freezes CaliSent for 239 points of damage!
+(01:44:12) Hold's Shadow Bolt freezes CaliSent for 305 points of damage!
+(01:44:13) Hold's Shadow Bolt freezes CaliSent for 325 points of damage!
+(01:44:13) Vaginex's Steal Breath poisons Sithranis for 149 points of damage!
+(01:44:13) Manshoon's Sign of Sorthoth hurts Soda for 259 points of damage!
+(01:44:13) CloudA's Shadow Bolt freezes CaliSent for 298 points of damage!
+(01:44:13) Hold's Shadow Bolt freezes CaliSent for 331 points of damage!
+(01:44:13) Sithranis's Shadow Bolt freezes Vaginex for 288 points of damage!
+(01:44:13) Hold's Shadow Bolt freezes CaliSent for 390 points of damage!
+(01:44:13) CloudA's Steal Breath poisons Manshoon for 183 points of damage!
+(01:44:13) CloudA's Steal Breath poisons Vaginex for 153 points of damage!
+(01:44:13) Your Shadow Bolt freezes CaliSent for 203 points of damage!
+(01:44:13) Liquid's Righteous Word of Binding smites Sax for 86 points of damage!
+(01:44:13) Liquid's Righteous Word of Binding smites tickles for 125 points of damage!
+(01:44:13) Liquid's Righteous Word of Binding smites Soda for 71 points of damage!
+(01:44:13) Liquid's Righteous Word of Binding smites champagne for 374 points of damage!
+(01:44:13) Liquid's Righteous Word of Binding smites Sithranis for 347 points of damage!
+(01:44:13) Liquid's Righteous Word of Binding smites Hold for 264 points of damage!
+(01:44:13) Vaginex's Steal Breath poisons Sithranis for 187 points of damage!
+(01:44:13) Hold's Shadow Bolt freezes CaliSent for 278 points of damage!
+(01:44:13) Manshoon's Sign of Sorthoth hurts Soda for 228 points of damage!
+(01:44:13) CloudA's Steal Breath poisons Manshoon for 142 points of damage!
+(01:44:14) Hold's Shadow Bolt freezes Vaginex for 265 points of damage!
+(01:44:14) Sithranis's Shadow Bolt freezes Vaginex for 243 points of damage!
+(01:44:14) CloudA's Shadow Bolt freezes Vaginex for 243 points of damage!
+(01:44:14) CloudA's Steal Breath poisons Vaginex for 168 points of damage!
+(01:44:14) Sithranis's Shadow Bolt freezes Vaginex for 287 points of damage!
+(01:44:14) CloudA's Shadow Bolt freezes Vaginex for 292 points of damage!
+(01:44:14) Your Shadow Bolt freezes Liquid for 161 points of damage!
+(01:44:14) vVv's poisonous weapon strikes Liquid for 1062 points of damage!
+(01:44:14) Your Shadow Bolt freezes Liquid for 189 points of damage!
+(01:44:14) vVv's Shadow Bolt freezes Liquid for 210 points of damage!
+(01:44:14) Hold's Shadow Bolt freezes Vaginex for 259 points of damage!
+(01:44:14) CloudA's Shadow Bolt freezes Vaginex for 236 points of damage!
+(01:44:14) CloudA's Shadow Bolt freezes Vaginex for 241 points of damage!
+(01:44:14) CloudA's Steal Breath poisons Manshoon for 165 points of damage!
+(01:44:14) Sithranis's Shadow Bolt freezes Liquid for 433 points of damage!
+(01:44:14) vVv's Shadow Bolt freezes Liquid for 421 points of damage!
+(01:44:15) Hold's Steal Breath poisons Moony for 164 points of damage!
+(01:44:15) Your Shadow Bolt freezes Prodriver for 145 points of damage!
+(01:44:15) CloudA's Steal Breath poisons Prodriver for 175 points of damage!
+(01:44:15) Hold's Shadow Bolt freezes Prodriver for 187 points of damage!
+(01:44:15) Your Shadow Bolt freezes Prodriver for 148 points of damage!
+(01:44:15) vVv's Shadow Bolt freezes Prodriver for 216 points of damage!
+(01:44:15) Sithranis's Steal Breath poisons Prodriver for 151 points of damage!
+(01:44:15) Sithranis's Shadow Bolt freezes Prodriver for 182 points of damage!
+(01:44:15) Hold's Steal Breath poisons Moony for 172 points of damage!
+(01:44:15) Hold's Shadow Bolt freezes Prodriver for 206 points of damage!
+(01:44:15) Your Shadow Bolt freezes Prodriver for 147 points of damage!
+(01:44:15) Hold's Shadow Bolt freezes Prodriver for 200 points of damage!
+(01:44:16) Your Shadow Bolt freezes Prodriver for 127 points of damage!
+(01:44:16) Hold's Shadow Bolt freezes Prodriver for 383 points of damage!
+(01:44:16) Hold's Steal Breath poisons Moony for 158 points of damage!
+(01:44:16) Hold's Shadow Bolt freezes Prodriver for 374 points of damage!
+(01:44:16) Sithranis's Shadow Bolt freezes Prodriver for 324 points of damage!
+(01:44:16) vVv's Shadow Bolt freezes Prodriver for 337 points of damage!
+(01:44:16) Your Shadow Bolt freezes Prodriver for 260 points of damage!
+(01:44:16) Hold's Shadow Bolt freezes HolyThug for 338 points of damage!
+(01:44:16) Hold's Steal Breath poisons Moony for 178 points of damage!
+(01:44:16) Your Shadow Bolt freezes HolyThug for 325 points of damage!
+(01:44:17) Hold's Shadow Bolt freezes HolyThug for 458 points of damage!
+(01:44:17) Hold's Steal Breath poisons Moony for 136 points of damage!
+(01:44:17) Hold's Shadow Bolt freezes HolyThug for 544 points of damage!
+(01:44:17) Your Shadow Bolt freezes HolyThug for 331 points of damage!
+(01:44:17) Hold's Shadow Bolt freezes HolyThug for 503 points of damage!
+(01:44:17) Your Shadow Bolt freezes HolyThug for 317 points of damage!
+(01:44:17) CloudA's Steal Breath poisons Toy for 186 points of damage!
+(01:44:17) Hold's Steal Breath poisons Moony for 132 points of damage!
+(01:44:17) CloudA's Steal Breath poisons Toy for 109 points of damage!
+(01:44:17) Your Shadow Bolt freezes Healn for 212 points of damage!
+(01:44:17) Hold's Steal Breath poisons Healn for 178 points of damage!
+(01:44:17) Your Shadow Bolt freezes Healn for 209 points of damage!
+(01:44:17) Hold's Steal Breath poisons Moony for 196 points of damage!
+(01:44:18) Hold's Shadow Bolt freezes Healn for 370 points of damage!
+(01:44:18) Manshoon's Sign of Sorthoth hurts Soda for 321 points of damage!
+(01:44:18) Hold's Shadow Bolt freezes Healn for 346 points of damage!
+(01:44:18) CloudA's Steal Breath poisons Toy for 143 points of damage!
+(01:44:18) Hold's Steal Breath poisons Healn for 291 points of damage!
+(01:44:18) Your Shadow Bolt freezes Healn for 349 points of damage!
+(01:44:18) Sithranis's Shadow Bolt freezes Healn for 426 points of damage!
+(01:44:18) Hold's Shadow Bolt freezes Healn for 530 points of damage!
+(01:44:18) vVv's Shadow Bolt freezes Healn for 455 points of damage!
+(01:44:18) Manshoon's Sign of Sorthoth hurts Soda for 470 points of damage!
+(01:44:18) CloudA's Steal Breath poisons Moony for 88 points of damage!
+(01:44:18) Your Shadow Bolt freezes Healn for 392 points of damage!
+(01:44:18) CloudA's Shadow Bolt freezes Moony for 157 points of damage!
+(01:44:18) Sithranis's Steal Breath poisons Manshoon for 141 points of damage!
+(01:44:18) CloudA's Steal Breath poisons Moony for 167 points of damage!
+(01:44:19) Someone's Sign of Sorthoth hurts Soda for 454 points of damage!
+(01:44:19) CloudA's Steal Breath poisons Moony for 148 points of damage!
+(01:44:19) Someone's Sign of Sorthoth hurts Soda for 561 points of damage!
+(01:44:19) CloudA's Steal Breath poisons Moony for 119 points of damage!
+(01:44:19) Someone's Sign of Sorthoth hurts Soda for 396 points of damage!
+(01:44:19) CloudA's Steal Breath poisons Moony for 155 points of damage!
+(01:44:19) Someone's Sign of Sorthoth hurts Soda for 372 points of damage!
+(01:44:19) CloudA's Steal Breath poisons Moony for 150 points of damage!
+(01:44:24) LDSU's Uvoriel's Judgment burns YiP for 112 points of damage!
+(01:44:24) LDSU's Uvoriel's Judgment burns YEP for 137 points of damage!
+(01:44:24) yunT's Cleansing Flame burns YiP for 91 points of damage!
+(01:44:25) LDSU's Uvoriel's Judgment burns YiP for 157 points of damage!
+(01:44:25) LDSU's Uvoriel's Judgment burns YEP for 93 points of damage!
+(01:44:25) yunT's Cleansing Flame burns YiP for 204 points of damage!
+(01:44:25) LDSU's Uvoriel's Judgment burns YiP for 281 points of damage!
+(01:44:25) LDSU's Uvoriel's Judgment burns YEP for 191 points of damage!
+(01:44:25) yunT's Cleansing Flame burns YiP for 320 points of damage!
+(01:44:26) LDSU's Uvoriel's Judgment burns YiP for 560 points of damage!
+(01:44:26) yunT's Cleansing Flame burns YiP for 190 points of damage!
+(01:44:27) LDSU's Uvoriel's Judgment burns YiP for 281 points of damage!
+(01:44:27) yunT's Cleansing Flame burns YiP for 171 points of damage!
+(01:44:30) yunT's Cleansing Flame burns you for 269 points of damage!
+(01:44:30) yunT's Cleansing Flame burns yunT for 18 points of damage!
+(01:44:30) yunT's Cleansing Flame burns you for 24 points of damage!
+(01:44:30) FYsz's Censure smites you for 476 points of damage!
+(01:44:31) yunT's Cleansing Flame burns you for 111 points of damage!
+(01:44:31) yunT's Cleansing Flame burns yunT for 18 points of damage!
+(01:44:31) yunT's Cleansing Flame burns you for 24 points of damage!
+(01:44:31) FYsz's Censure smites you for 643 points of damage!
+(01:44:31) yunT's Cleansing Flame burns Rokaw for 126 points of damage!
+(01:44:31) yunT's Cleansing Flame burns yunT for 9 points of damage!
+(01:44:31) yunT's Cleansing Flame burns Rokaw for 12 points of damage!
+(01:44:31) FYsz's Censure smites you for 602 points of damage!
+(01:44:31) yunT's Cleansing Flame burns you for 217 points of damage!
+(01:44:31) yunT's Cleansing Flame burns yunT for 18 points of damage!
+(01:44:31) yunT's Cleansing Flame burns you for 24 points of damage!
+(01:44:31) yunT's Cleansing Flame burns Rokaw for 101 points of damage!
+(01:44:31) yunT's Cleansing Flame burns yunT for 9 points of damage!
+(01:44:31) yunT's Cleansing Flame burns Rokaw for 12 points of damage!
+(01:44:31) yunT's Cleansing Flame burns Typechi for 144 points of damage!
+(01:44:31) yunT's Cleansing Flame burns yunT for 13 points of damage!

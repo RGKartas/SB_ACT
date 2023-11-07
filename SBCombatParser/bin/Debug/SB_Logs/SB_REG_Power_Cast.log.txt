@@ -1,0 +1,3259 @@
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
+RegExType   :: Power :: Cast
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<type>cast)s? [\Wa]?(?<ability>.*)[\.!]
+
+
+(01:41:50) Bourbon casts Sanction.
+(01:41:50) Drooley casts Incantation of Renunciation.
+(01:41:50) PBAOE casts Wolf Shape.
+(01:41:50) AlbiThere casts Vargr Shape.
+(01:41:50) Priest casts Wolf Shape.
+(01:41:50) Miha casts Calming Melody.
+(01:41:50) Long casts Sanction.
+(01:41:50) Miha casts Mighty Countersong.
+(01:41:50) Miha casts Song of Spring.
+(01:41:50) sudo casts Incantation of Renunciation.
+(01:41:50) sudo casts Sanction.
+(01:41:50) Drooley casts Sanction.
+(01:41:50) Bourbon casts Sanction.
+(01:41:50) lover casts Slayer's Focus.
+(01:41:50) Bourbon casts Incantation of Renunciation.
+(01:41:50) Drooley casts Incantation of Renunciation.
+(01:41:50) Long casts Prayer of Recovery.
+(01:41:50) Sniper casts Ride the Winds.
+(01:41:51) Tupac casts Mighty Countersong.
+(01:41:51) Sniper casts Flesh of Lead.
+(01:41:51) Bourbon casts Sanction.
+(01:41:51) Tupac casts The Rhythm of Steel.
+(01:41:51) Bourbon casts Incantation of Renunciation.
+(01:41:51) Long casts Sanction.
+(01:41:51) Dispel casts Call to Vashteera.
+(01:41:51) Bourbon casts Sanction.
+(01:41:51) Drooley casts Divine Recovery.
+(01:41:51) Bourbon casts Incantation of Renunciation.
+(01:41:51) WillPowder casts Traveling Stance.
+(01:41:51) Miha casts Calming Melody.
+(01:41:51) Miha casts Song of Spring.
+(01:41:51) Long casts Sanction.
+(01:41:51) Dispel casts Beast Lords' Boon.
+(01:41:51) Drooley casts Prayer of Recovery.
+(01:41:51) Drooley casts Sanction.
+(01:41:51) sudo casts Sanction.
+(01:41:51) Long casts Divine Recovery.
+(01:41:51) Drooley casts Incantation of Renunciation.
+(01:41:51) Drooley casts Sanction.
+(01:41:51) Vashtur casts Sprint.
+(01:41:51) Tupac casts Dance of Derrac the Dauntless.
+(01:41:51) Bourbon casts Simeron's Song.
+(01:41:52) Priest casts Wildkin's Chase.
+(01:41:52) You cast Draw Nature's Fury.
+(01:41:52) HuntyPet casts Call the Sky's Fury.
+(01:41:52) Sax casts Censure.
+(01:41:52) sudo casts Prayer of Recovery.
+(01:41:52) You cast Hex of the Storm Fury.
+(01:41:52) Miha casts Dread Dissonance.
+(01:41:52) Bourbon casts Divine Recovery.
+(01:41:52) sudo casts Divine Recovery.
+(01:41:52) HuntyPet casts Call the Sky's Fury.
+(01:41:52) You cast Call the Sky's Fury.
+(01:41:52) Long casts Tend the Wounded.
+(01:41:52) Sax casts Sacrifice.
+(01:41:52) You cast Spectral Bonds.
+(01:41:52) Long casts Incantation of Renunciation.
+(01:41:52) sudo casts Grasp of the All-Father.
+(01:41:52) Bourbon casts Divine Sanction.
+(01:41:52) Dispel casts Call the Sky's Fury.
+(01:41:52) Bourbon casts Divine Sanction.
+(01:41:53) Long casts Incantation of Renunciation.
+(01:41:53) sudo casts Sanction.
+(01:41:53) Miha casts Molto Ritardando.
+(01:41:53) Long casts Incantation of Renunciation.
+(01:41:53) HuntyPet casts Call the Sky's Fury.
+(01:41:53) Bourbon casts Tend the Wounded.
+(01:41:53) Bourbon casts Sanction.
+(01:41:53) Miha casts Dance of Derrac the Dauntless.
+(01:41:53) sudo casts Tend the Wounded.
+(01:41:53) You cast Sprint.
+(01:41:53) lover casts Steal Breath.
+(01:41:53) Long casts Tend the Wounded.
+(01:41:53) Drooley casts Tend the Wounded.
+(01:41:53) Dispel casts Call the Sky's Fury.
+(01:41:53) Bourbon casts Incantation of Renunciation.
+(01:41:53) WillPowder casts Sacrifice.
+(01:41:53) sudo casts Incantation of Renunciation.
+(01:41:54) Sax casts Sacrifice.
+(01:41:54) lover casts Weakening.
+(01:41:54) Sniper casts Ignite.
+(01:41:54) HuntyPet casts Call the Sky's Fury.
+(01:41:54) lover casts Enfeeblement.
+(01:41:54) Drooley casts Incantation of Renunciation.
+(01:41:54) Tupac casts Sprint.
+(01:41:54) Bourbon casts Incantation of Renunciation.
+(01:41:54) Long casts Tend the Wounded.
+(01:41:54) Saas casts Sacrifice.
+(01:41:54) Saas casts Sacrifice.
+(01:41:54) Saas casts Sacrifice.
+(01:41:54) sudo casts Incantation of Renunciation.
+(01:41:54) BigBlackBen casts Cleansing Flame.
+(01:41:54) Miha casts Dread Dissonance.
+(01:41:54) Miha casts Dread Dissonance.
+(01:41:54) Miha casts Dread Dissonance.
+(01:41:54) lover casts Shadow Bolt.
+(01:41:54) Sax casts Sacrifice.
+(01:41:54) Bourbon casts Incantation of Renunciation.
+(01:41:54) Long casts Sanction.
+(01:41:54) Tupac casts Molto Ritardando.
+(01:41:54) Dispel casts Call the Sky's Fury.
+(01:41:54) WillPowder casts Sacrifice.
+(01:41:54) Drooley casts Incantation of Renunciation.
+(01:41:54) HuntyPet casts Call the Sky's Fury.
+(01:41:54) AlbiThere casts Sprint.
+(01:41:54) Bourbon casts Grasp of the All-Father.
+(01:41:55) sudo casts Grasp of the All-Father.
+(01:41:55) Sniper casts Fire Bolt.
+(01:41:55) Sniper casts Fire Bolt.
+(01:41:55) Long casts Tend the Wounded.
+(01:41:55) Miha casts Dread Dissonance.
+(01:41:55) BigBlackBen casts Consume Wickedness.
+(01:41:55) Drooley casts Incantation of Renunciation.
+(01:41:55) Sax casts Sacrifice.
+(01:41:55) Dispel casts Call the Sky's Fury.
+(01:41:55) Saas casts Sacrifice.
+(01:41:55) lover casts Vampire's Kiss.
+(01:41:55) Drooley casts Sanction.
+(01:41:55) HuntyPet casts Call the Sky's Fury.
+(01:41:55) Tupac casts Mighty Countersong.
+(01:41:55) sudo casts Tend the Wounded.
+(01:41:55) BigBlackBen casts Sprint.
+(01:41:55) Bourbon casts Tend the Wounded.
+(01:41:55) Sax casts Sacrifice.
+(01:41:55) Bourbon casts Incantation of Renunciation.
+(01:41:55) Sniper casts Incendiary Blast.
+(01:41:55) sudo casts Sanction.
+(01:41:55) Saas casts Sacrifice.
+(01:41:55) You cast Fury of Ice.
+(01:41:55) Bourbon casts Incantation of Renunciation.
+(01:41:56) Sax casts Sacrifice.
+(01:41:56) You cast Draw Nature's Fury.
+(01:41:56) lover casts Chilling Shadows.
+(01:41:56) Long casts Prayer of Recovery.
+(01:41:56) Drooley casts Prayer of Recovery.
+(01:41:56) BigBlackBen casts Wings of the Seraphim.
+(01:41:56) WillPowder casts Sacrifice.
+(01:41:56) Long casts Grasp of the All-Father.
+(01:41:56) Saas casts Sacrifice.
+(01:41:56) Dispel casts Call the Sky's Fury.
+(01:41:56) You cast Hex of the Storm Fury.
+(01:41:56) HuntyPet casts Call the Sky's Fury.
+(01:41:56) Sax casts Sacrifice.
+(01:41:56) Bourbon casts Tend the Wounded.
+(01:41:56) Sniper casts Ignite.
+(01:41:56) Tupac casts Spectral Bonds.
+(01:41:56) sudo casts Tend the Wounded.
+(01:41:56) Miha casts Dread Dissonance.
+(01:41:56) Tupac casts Enfeeblement.
+(01:41:57) Sax casts Sacrifice.
+(01:41:57) BigBlackBen casts Dark Curse.
+(01:41:57) Bourbon casts Divine Recovery.
+(01:41:57) lover casts Shadow Mantle.
+(01:41:57) HuntyPet casts Call the Sky's Fury.
+(01:41:57) WillPowder casts Sacrifice.
+(01:41:57) Drooley casts Prayer of Mending.
+(01:41:57) Dispel casts Call the Sky's Fury.
+(01:41:57) Miha casts Calming Melody.
+(01:41:57) You cast Call the Sky's Fury.
+(01:41:57) sudo casts Tend the Wounded.
+(01:41:57) Long casts Sanction.
+(01:41:57) Sniper casts Fire Bolt.
+(01:41:57) Sax casts Sacrifice.
+(01:41:57) Saas casts Sacrifice.
+(01:41:57) Bourbon casts Tend the Wounded.
+(01:41:57) HuntyPet casts Call the Sky's Fury.
+(01:41:57) Dispel casts Call the Sky's Fury.
+(01:41:57) sudo casts Tend the Wounded.
+(01:41:57) You cast Call the Sky's Fury.
+(01:41:57) Sax casts Darius' Fist.
+(01:41:57) Sax casts Darius' Fist.
+(01:41:57) Tupac casts The Rhythm of Steel.
+(01:41:57) BigBlackBen casts Saint Malorn's Wrath.
+(01:41:57) lover casts Sprint.
+(01:41:57) Bourbon casts Benediction of Healing.
+(01:41:58) WillPowder casts Darius' Fist.
+(01:41:58) Long casts Tend the Wounded.
+(01:41:58) Long casts Tend the Wounded.
+(01:41:58) Tupac casts Mighty Countersong.
+(01:41:58) sudo casts Divine Recovery.
+(01:41:58) HuntyPet casts Call the Sky's Fury.
+(01:41:58) Dispel casts Call the Sky's Fury.
+(01:41:58) You cast Call the Sky's Fury.
+(01:41:58) Bourbon casts Tend the Wounded.
+(01:41:58) sudo casts Divine Recovery.
+(01:41:58) Long casts Sanction.
+(01:41:58) Bourbon casts Sanction.
+(01:41:58) You cast Spectral Bonds.
+(01:41:58) Tupac casts Calming Melody.
+(01:41:58) Sniper casts Fire Bolt.
+(01:41:58) Saas casts Sacrifice.
+(01:41:58) Saas casts Sacrifice.
+(01:41:58) Bourbon casts Incantation of Renunciation.
+(01:41:58) sudo casts Tend the Wounded.
+(01:41:58) Tupac casts Enfeeblement.
+(01:41:59) You cast Draw Nature's Fury.
+(01:41:59) Bourbon casts Incantation of Renunciation.
+(01:41:59) Drooley casts Prayer of Recovery.
+(01:41:59) Saas casts Sacrifice.
+(01:41:59) Sax casts Sacrifice.
+(01:41:59) You cast Hex of the Storm Fury.
+(01:41:59) Dispel casts Call the Sky's Fury.
+(01:41:59) Bourbon casts Incantation of Renunciation.
+(01:41:59) sudo casts Tend the Wounded.
+(01:41:59) Long casts Tend the Wounded.
+(01:41:59) Sniper casts Ignite.
+(01:41:59) sudo casts Sanction.
+(01:41:59) Long casts Incantation of Renunciation.
+(01:41:59) lover casts Shadow Mantle.
+(01:41:59) Saas casts Sacrifice.
+(01:41:59) HuntyPet casts Call the Sky's Fury.
+(01:41:59) Tupac casts Molto Ritardando.
+(01:41:59) Sax casts Sacrifice.
+(01:41:59) Bourbon casts Tend the Wounded.
+(01:41:59) You cast Call the Sky's Fury.
+(01:41:59) Miha casts Molto Ritardando.
+(01:41:59) Long casts Incantation of Renunciation.
+(01:41:59) Sax casts Rally Troops.
+(01:41:59) lover casts Steal Breath.
+(01:41:59) Drooley casts Prayer of Mending.
+(01:41:59) Dispel casts Call the Sky's Fury.
+(01:41:59) Bourbon casts Rally Troops.
+(01:42:00) lover casts Enfeeblement.
+(01:42:00) Sniper casts Fire Bolt.
+(01:42:00) Tupac casts The Rhythm of Steel.
+(01:42:00) lover casts Weakening.
+(01:42:00) Saas casts Sacrifice.
+(01:42:00) Saas casts Rally Troops.
+(01:42:00) Long casts Incantation of Renunciation.
+(01:42:00) You cast Call the Sky's Fury.
+(01:42:00) HuntyPet casts Call the Sky's Fury.
+(01:42:00) Bourbon casts Tend the Wounded.
+(01:42:00) Long casts Incantation of Renunciation.
+(01:42:00) BigBlackBen casts Cleansing Flame.
+(01:42:00) Dispel casts Call the Sky's Fury.
+(01:42:00) Sniper casts Ignite.
+(01:42:00) Drooley casts Benediction of Healing.
+(01:42:00) Sax casts Sacrifice.
+(01:42:00) WillPowder casts Sacrifice.
+(01:42:00) You cast Call the Sky's Fury.
+(01:42:00) Tupac casts Calming Melody.
+(01:42:00) sudo casts Prayer of Recovery.
+(01:42:00) Bourbon casts Divine Recovery.
+(01:42:00) Long casts Tend the Wounded.
+(01:42:00) Long casts Tend the Wounded.
+(01:42:01) Bourbon casts Grasp of the All-Father.
+(01:42:01) Tupac casts Mighty Countersong.
+(01:42:01) You cast Draw Nature's Fury.
+(01:42:01) Drooley casts Sanction.
+(01:42:01) BigBlackBen casts Rally Troops.
+(01:42:01) Sniper casts Fire Bolt.
+(01:42:01) sudo casts Divine Recovery.
+(01:42:01) WillPowder casts Sacrifice.
+(01:42:01) You cast Hex of the Storm Fury.
+(01:42:01) Long casts Tend the Wounded.
+(01:42:01) sudo casts Grasp of the All-Father.
+(01:42:01) Sax casts Sacrifice.
+(01:42:01) Bourbon casts Tend the Wounded.
+(01:42:01) Tupac casts Weakening.
+(01:42:01) HuntyPet casts Call the Sky's Fury.
+(01:42:01) Tupac casts Enfeeblement.
+(01:42:01) Bourbon casts Incantation of Renunciation.
+(01:42:01) Miha casts Dread Dissonance.
+(01:42:01) Miha casts Dread Dissonance.
+(01:42:01) Long casts Tend the Wounded.
+(01:42:01) sudo casts Tend the Wounded.
+(01:42:01) Bourbon casts Incantation of Renunciation.
+(01:42:01) Sniper casts Ignite.
+(01:42:01) Long casts Incantation of Renunciation.
+(01:42:01) WillPowder casts Nyth Rune.
+(01:42:01) lover casts Shadow Mantle.
+(01:42:01) You cast Call the Sky's Fury.
+(01:42:01) Dispel casts Call the Sky's Fury.
+(01:42:01) sudo casts Incantation of Renunciation.
+(01:42:02) Long casts Incantation of Renunciation.
+(01:42:02) lover casts Steal Breath.
+(01:42:02) Bourbon casts Incantation of Renunciation.
+(01:42:02) Miha casts Dread Dissonance.
+(01:42:02) Long casts Rally Troops.
+(01:42:02) WillPowder casts Sacrifice.
+(01:42:02) Miha casts Calming Melody.
+(01:42:02) sudo casts Divine Recovery.
+(01:42:02) You cast Call the Sky's Fury.
+(01:42:02) lover casts Weakening.
+(01:42:02) Miha casts Song of Spring.
+(01:42:02) Miha casts Song of Spring.
+(01:42:02) Dispel casts Call the Sky's Fury.
+(01:42:02) lover casts Enfeeblement.
+(01:42:02) Long casts Incantation of Renunciation.
+(01:42:02) Bourbon casts Tend the Wounded.
+(01:42:02) HuntyPet casts Call the Sky's Fury.
+(01:42:02) Saas casts Sacrifice.
+(01:42:02) Sax casts Darius' Fist.
+(01:42:02) WillPowder casts Sacrifice.
+(01:42:02) Miha casts Mighty Countersong.
+(01:42:02) Long casts Incantation of Renunciation.
+(01:42:02) sudo casts Divine Recovery.
+(01:42:02) You cast Call the Sky's Fury.
+(01:42:02) Tupac casts Mighty Countersong.
+(01:42:02) Bourbon casts Divine Recovery.
+(01:42:02) Long casts Incantation of Renunciation.
+(01:42:02) Dispel casts Call the Sky's Fury.
+(01:42:03) lover casts Vampire's Kiss.
+(01:42:03) lover casts Vampire's Kiss.
+(01:42:03) Saas casts Sacrifice.
+(01:42:03) Bourbon casts Incantation of Renunciation.
+(01:42:03) Tupac casts The Rhythm of Steel.
+(01:42:03) HuntyPet casts Call the Sky's Fury.
+(01:42:03) sudo casts Tend the Wounded.
+(01:42:03) Miha casts Dread Dissonance.
+(01:42:03) Sax casts Sacrifice.
+(01:42:03) WillPowder casts Sacrifice.
+(01:42:03) You cast Call the Sky's Fury.
+(01:42:03) sudo casts Grasp of the All-Father.
+(01:42:03) Bourbon casts Tend the Wounded.
+(01:42:03) sudo casts Sanction.
+(01:42:03) You cast Draw Nature's Fury.
+(01:42:03) Bourbon casts Sanction.
+(01:42:03) Long casts Tend the Wounded.
+(01:42:03) Saas casts Sacrifice.
+(01:42:03) You cast Hex of the Storm Fury.
+(01:42:03) BigBlackBen casts Sway the Balance.
+(01:42:03) Sax casts Sacrifice.
+(01:42:03) Bourbon casts Grasp of the All-Father.
+(01:42:03) Drooley casts Incantation of Renunciation.
+(01:42:03) Long casts Tend the Wounded.
+(01:42:03) Sniper casts Ignite.
+(01:42:03) Dispel casts Call the Sky's Fury.
+(01:42:03) HuntyPet casts Call the Sky's Fury.
+(01:42:04) Long casts Sanction.
+(01:42:04) sudo casts Tend the Wounded.
+(01:42:04) lover casts Shadow Mantle.
+(01:42:04) You cast Call the Sky's Fury.
+(01:42:04) lover casts Weakening.
+(01:42:04) Saas casts Sacrifice.
+(01:42:04) Sax casts Sacrifice.
+(01:42:04) Drooley casts Incantation of Renunciation.
+(01:42:04) Bourbon casts Tend the Wounded.
+(01:42:04) Bourbon casts Incantation of Renunciation.
+(01:42:04) lover casts Steal Breath.
+(01:42:04) sudo casts Tend the Wounded.
+(01:42:04) Drooley casts Incantation of Renunciation.
+(01:42:04) lover casts Enfeeblement.
+(01:42:04) Sniper casts Fire Bolt.
+(01:42:04) Miha casts Dread Dissonance.
+(01:42:04) Bourbon casts Sanction.
+(01:42:04) You cast Call the Sky's Fury.
+(01:42:04) Sax casts Sacrifice.
+(01:42:04) Dispel casts Call the Sky's Fury.
+(01:42:04) Long casts Tend the Wounded.
+(01:42:04) lover casts Shadow Bolt.
+(01:42:04) WillPowder casts Sacrifice.
+(01:42:04) sudo casts Tend the Wounded.
+(01:42:04) HuntyPet casts Call the Sky's Fury.
+(01:42:04) Drooley casts Incantation of Renunciation.
+(01:42:04) Bourbon casts Tend the Wounded.
+(01:42:04) lover casts Shadow Bolt.
+(01:42:04) Long casts Incantation of Renunciation.
+(01:42:04) Miha casts Dread Dissonance.
+(01:42:05) You cast Call the Sky's Fury.
+(01:42:05) Sax casts Sacrifice.
+(01:42:05) Sniper casts Ignite.
+(01:42:05) Dispel casts Call the Sky's Fury.
+(01:42:05) sudo casts Tend the Wounded.
+(01:42:05) WillPowder casts Sacrifice.
+(01:42:05) Bourbon casts Divine Recovery.
+(01:42:05) lover casts Steal Breath.
+(01:42:05) You cast Draw Nature's Fury.
+(01:42:05) Saas casts Sacrifice.
+(01:42:05) HuntyPet casts Call the Sky's Fury.
+(01:42:05) Bourbon casts Incantation of Renunciation.
+(01:42:05) sudo casts Divine Recovery.
+(01:42:05) You cast Hex of the Storm Fury.
+(01:42:05) lover casts Shadow Bolt.
+(01:42:05) Sniper casts Fire Bolt.
+(01:42:05) Bourbon casts Tend the Wounded.
+(01:42:05) lover casts Shadow Bolt.
+(01:42:05) WillPowder casts Sprint.
+(01:42:05) Miha casts Dread Dissonance.
+(01:42:05) sudo casts Tend the Wounded.
+(01:42:05) sudo casts Sanction.
+(01:42:05) lover casts Weakening.
+(01:42:05) Sax casts Darius' Fist.
+(01:42:05) lover casts Enfeeblement.
+(01:42:05) Drooley casts Prayer of Mending.
+(01:42:05) Bourbon casts Tend the Wounded.
+(01:42:05) Saas casts Sacrifice.
+(01:42:05) lover casts Steal Breath.
+(01:42:05) Dispel casts Call the Sky's Fury.
+(01:42:05) Dispel casts Call the Sky's Fury.
+(01:42:05) You cast Call the Sky's Fury.
+(01:42:05) Sniper casts Ignite.
+(01:42:05) sudo casts Grasp of the All-Father.
+(01:42:06) lover casts Shadow Bolt.
+(01:42:06) Bourbon casts Tend the Wounded.
+(01:42:06) sudo casts Sanction.
+(01:42:06) HuntyPet casts Call the Sky's Fury.
+(01:42:06) lover casts Shadow Bolt.
+(01:42:06) You cast Call the Sky's Fury.
+(01:42:06) Dispel casts Call the Sky's Fury.
+(01:42:06) Sniper casts Fire Bolt.
+(01:42:06) Miha casts Dread Dissonance.
+(01:42:06) Sax casts Benediction of Saint Lorne.
+(01:42:06) Miha casts Dread Dissonance.
+(01:42:06) lover casts Shadow Bolt.
+(01:42:06) Bourbon casts Grasp of the All-Father.
+(01:42:06) HuntyPet casts Call the Sky's Fury.
+(01:42:06) Miha casts Dread Dissonance.
+(01:42:06) Drooley casts Tend the Wounded.
+(01:42:06) Dispel casts Call the Sky's Fury.
+(01:42:06) Sniper casts Ignite.
+(01:42:06) Saas casts Sacrifice.
+(01:42:06) Bourbon casts Incantation of Renunciation.
+(01:42:06) lover casts Shadow Touch.
+(01:42:07) sudo casts Sanction.
+(01:42:07) Miha casts Calming Melody.
+(01:42:07) Miha casts Song of Spring.
+(01:42:12) Saas casts Traveling Stance.
+(01:42:12) Bourbon casts Traveling Stance.
+(01:42:12) HuntyPet casts Traveling Stance.
+(01:42:12) Dispel casts Beast Lords' Boon.
+(01:42:12) Sax casts Traveling Stance.
+(01:42:12) Dispel casts Traveling Stance.
+(01:42:13) Fkrah casts Steadfast Soul.
+(01:42:13) Soraka casts Divine Condemnation.
+(01:42:13) Guru casts Stun.
+(01:42:13) WoundedKnee casts Stun.
+(01:42:13) lover casts Shadow Touch.
+(01:42:13) lover casts Shadow Touch.
+(01:42:13) First casts Prayer of Mending.
+(01:42:13) Guru casts Greater Translocation.
+(01:42:13) Noodle casts Censure.
+(01:42:13) sudo casts Grasp of the All-Father.
+(01:42:13) PvPP casts Sprint.
+(01:42:13) Soraka casts Prayer of Recovery.
+(01:42:13) Guru casts Stun.
+(01:42:14) lover casts Steal Breath.
+(01:42:14) Bourbon casts Divine Condemnation.
+(01:42:14) WoundedKnee casts Mage Bolt.
+(01:42:14) Fatherjoe casts Censure.
+(01:42:14) lover casts Sprint.
+(01:42:14) You cast Draw Nature's Fury.
+(01:42:14) First casts Sanction.
+(01:42:14) You cast Hex of the Storm Fury.
+(01:42:14) Dispel casts Call the Sky's Fury.
+(01:42:14) HuntyPet casts Call the Sky's Fury.
+(01:42:14) First casts Incantation of Renunciation.
+(01:42:14) WoundedKnee casts Hexgram Ritual.
+(01:42:14) Miha casts Dread Dissonance.
+(01:42:14) Fatherjoe casts Censure.
+(01:42:14) Bourbon casts Sanction.
+(01:42:14) Fkrah casts Uvoriel's Judgment.
+(01:42:14) Guru casts Sign of Sorthoth.
+(01:42:14) You cast Call the Sky's Fury.
+(01:42:14) WoundedKnee casts Mage Bolt.
+(01:42:14) Soraka casts Grasp of the All-Father.
+(01:42:14) Fkrah casts Purgation.
+(01:42:14) Guru casts Hexgram Ritual.
+(01:42:14) HuntyPet casts Call the Sky's Fury.
+(01:42:14) Yuckfou casts Shadow of Death.
+(01:42:14) Fatherjoe casts Censure.
+(01:42:14) WoundedKnee casts Mage Bolt.
+(01:42:14) deez casts Censure.
+(01:42:14) Bourbon casts Incantation of Renunciation.
+(01:42:14) Bog casts Unholy Blast.
+(01:42:14) You cast Hex of the Ice Fury.
+(01:42:14) lover casts Shadow Touch.
+(01:42:14) Saas casts Sacrifice.
+(01:42:15) Guru casts Mage Bolt.
+(01:42:15) PvPP casts Mage Bolt.
+(01:42:15) Soraka casts Divine Condemnation.
+(01:42:15) HuntyPet casts Call the Sky's Fury.
+(01:42:15) Sax casts Sacrifice.
+(01:42:15) Fatherjoe casts Sacrifice.
+(01:42:15) WoundedKnee casts Mage Bolt.
+(01:42:15) Dispel casts Call the Sky's Fury.
+(01:42:15) Bourbon casts Incantation of Renunciation.
+(01:42:15) Dispel casts Call the Sky's Fury.
+(01:42:15) Noodle casts Sacrifice.
+(01:42:15) deez casts Censure.
+(01:42:15) PvPP casts Mage Bolt.
+(01:42:15) Saas casts Sacrifice.
+(01:42:15) lover casts Shadow Mantle.
+(01:42:15) Miha casts Calming Melody.
+(01:42:15) First casts Tend the Wounded.
+(01:42:15) WoundedKnee casts Mage Bolt.
+(01:42:15) Sax casts Sacrifice.
+(01:42:15) Miha casts Song of Spring.
+(01:42:15) Bog casts Unholy Blast.
+(01:42:15) Fatherjoe casts Sacrifice.
+(01:42:15) HuntyPet casts Call the Sky's Fury.
+(01:42:15) Noodle casts Sacrifice.
+(01:42:15) Miha casts Dance of Derrac the Dauntless.
+(01:42:15) lover casts Steal Breath.
+(01:42:15) Dispel casts Call the Sky's Fury.
+(01:42:15) First casts Tend the Wounded.
+(01:42:15) Sax casts Sacrifice.
+(01:42:15) lover casts Shadow Bolt.
+(01:42:15) Fatherjoe casts Sacrifice.
+(01:42:15) HuntyPet casts Call the Sky's Fury.
+(01:42:15) Guru casts Mage Bolt.
+(01:42:15) Guru casts Mage Bolt.
+(01:42:15) First casts Tend the Wounded.
+(01:42:15) Dispel casts Call the Sky's Fury.
+(01:42:15) Guru casts Lesser Mage Bolt.
+(01:42:15) Soraka casts Grasp of the All-Father.
+(01:42:15) WoundedKnee casts Stun.
+(01:42:15) Miha casts Dread Dissonance.
+(01:42:15) Miha casts Dread Dissonance.
+(01:42:16) Saas casts Sacrifice.
+(01:42:16) Sax casts Sacrifice.
+(01:42:16) Bog casts Shadow of Death.
+(01:42:16) WoundedKnee casts Stun.
+(01:42:16) Fkrah casts Blessed Mending.
+(01:42:16) Bourbon casts Incantation of Renunciation.
+(01:42:16) Fatherjoe casts Sacrifice.
+(01:42:16) HuntyPet casts Call the Sky's Fury.
+(01:42:16) deez casts Censure.
+(01:42:16) deez casts Censure.
+(01:42:16) sudo casts Sanction.
+(01:42:16) Saas casts Sacrifice.
+(01:42:16) Sax casts Sacrifice.
+(01:42:16) Bourbon casts Incantation of Renunciation.
+(01:42:16) Dispel casts Fury of Ice.
+(01:42:16) Noodle casts Sacrifice.
+(01:42:16) Noodle casts Sacrifice.
+(01:42:16) Miha casts Dread Dissonance.
+(01:42:16) Guru casts Mage Bolt.
+(01:42:16) Guru casts Mage Bolt.
+(01:42:16) PvPP casts Hexgram Ritual.
+(01:42:16) First casts Prayer of Mending.
+(01:42:16) First casts Prayer of Mending.
+(01:42:16) Bog casts Unholy Blast.
+(01:42:16) Fkrah casts Blessed Mending.
+(01:42:16) Sax casts Sacrifice.
+(01:42:16) Fatherjoe casts Sacrifice.
+(01:42:16) Guru casts Stun.
+(01:42:16) Bourbon casts Divine Recovery.
+(01:42:16) PvPP casts Mage Bolt.
+(01:42:16) First casts Incantation of Renunciation.
+(01:42:16) lover casts Shadow Bolt.
+(01:42:16) lover casts Shadow Bolt.
+(01:42:16) Sniper casts Ignite.
+(01:42:16) Dispel casts Call the Sky's Fury.
+(01:42:16) Fkrah casts Blessed Mending.
+(01:42:16) Miha casts Dread Dissonance.
+(01:42:16) First casts Incantation of Renunciation.
+(01:42:16) Sax casts Sacrifice.
+(01:42:16) Fatherjoe casts Sacrifice.
+(01:42:16) HuntyPet casts Call the Sky's Fury.
+(01:42:16) Bog casts Unholy Blast.
+(01:42:16) Noodle casts Sacrifice.
+(01:42:16) Saas casts Sacrifice.
+(01:42:16) sudo casts Tend the Wounded.
+(01:42:16) First casts Incantation of Renunciation.
+(01:42:17) Bourbon casts Tend the Wounded.
+(01:42:17) lover casts Vampire's Kiss.
+(01:42:17) lover casts Vampire's Kiss.
+(01:42:17) Sniper casts Fire Bolt.
+(01:42:17) Dispel casts Call the Sky's Fury.
+(01:42:17) Miha casts Dread Dissonance.
+(01:42:17) PvPP casts Sign of Sorthoth.
+(01:42:17) WoundedKnee casts River of Life.
+(01:42:17) Sax casts Sacrifice.
+(01:42:17) First casts Incantation of Renunciation.
+(01:42:17) Noodle casts Sacrifice.
+(01:42:17) sudo casts Divine Condemnation.
+(01:42:17) Fkrah casts Blessed Mending.
+(01:42:17) Fatherjoe casts Sacrifice.
+(01:42:17) HuntyPet casts Call the Sky's Fury.
+(01:42:17) Yuckfou casts Gravechill.
+(01:42:17) Bog casts Shadow of Death.
+(01:42:17) Bourbon casts Tend the Wounded.
+(01:42:17) PvPP casts Mage Bolt.
+(01:42:17) sudo casts Incantation of Renunciation.
+(01:42:17) Saas casts Sacrifice.
+(01:42:17) Soraka casts Prayer of Recovery.
+(01:42:17) Sax casts Sacrifice.
+(01:42:17) First casts Incantation of Renunciation.
+(01:42:17) Noodle casts Sacrifice.
+(01:42:17) deez casts Sacrifice.
+(01:42:17) WoundedKnee casts Mage Bolt.
+(01:42:17) PvPP casts Mage Bolt.
+(01:42:17) Sniper casts Incendiary Blast.
+(01:42:17) Noodle casts Benediction of Saint Lorne.
+(01:42:17) sudo casts Incantation of Renunciation.
+(01:42:17) HuntyPet casts Call the Sky's Fury.
+(01:42:17) Fatherjoe casts Sacrifice.
+(01:42:17) Saas casts Sacrifice.
+(01:42:17) Bourbon casts Tend the Wounded.
+(01:42:17) WoundedKnee casts Mage Bolt.
+(01:42:17) PvPP casts Hexgram Ritual.
+(01:42:17) First casts Divine Recovery.
+(01:42:17) Bog casts Unholy Blast.
+(01:42:18) Miha casts Dread Dissonance.
+(01:42:18) Sax casts Blessing of the Healing Hands.
+(01:42:18) Noodle casts Sacrifice.
+(01:42:18) sudo casts Simeron's Song.
+(01:42:18) Yuckfou casts Unholy Blast.
+(01:42:18) Sniper casts Fire Bolt.
+(01:42:18) sudo casts Sanction.
+(01:42:18) PvPP casts Mage Bolt.
+(01:42:18) WoundedKnee casts Mage Bolt.
+(01:42:18) Saas casts Sacrifice.
+(01:42:18) Bourbon casts Tend the Wounded.
+(01:42:18) HuntyPet casts Call the Sky's Fury.
+(01:42:18) First casts Tend the Wounded.
+(01:42:18) sudo casts Incantation of Renunciation.
+(01:42:18) Fkrah casts Blessed Mending.
+(01:42:18) Dispel casts Call the Sky's Fury.
+(01:42:18) lover casts Shadow Mantle.
+(01:42:18) lover casts Shadow Mantle.
+(01:42:18) PvPP casts Mage Bolt.
+(01:42:18) WoundedKnee casts Mage Bolt.
+(01:42:18) SeeNo casts Enfeeblement.
+(01:42:18) Miha casts Dread Dissonance.
+(01:42:18) Soraka casts Divine Condemnation.
+(01:42:18) Bourbon casts Divine Recovery.
+(01:42:18) sudo casts Incantation of Renunciation.
+(01:42:18) lover casts Steal Breath.
+(01:42:18) Saas casts Sacrifice.
+(01:42:18) SeeNo casts Weakening.
+(01:42:18) Fkrah casts Blessed Mending.
+(01:42:18) WoundedKnee casts Mage Bolt.
+(01:42:18) First casts Tend the Wounded.
+(01:42:18) lover casts Weakening.
+(01:42:18) PvPP casts Mage Bolt.
+(01:42:18) Soraka casts Grasp of the All-Father.
+(01:42:18) sudo casts Incantation of Renunciation.
+(01:42:18) lover casts Enfeeblement.
+(01:42:18) HuntyPet casts Call the Sky's Fury.
+(01:42:18) SeeNo casts Steal Breath.
+(01:42:18) Dispel casts Call the Sky's Fury.
+(01:42:18) Sax casts Sacrifice.
+(01:42:18) sudo casts Incantation of Renunciation.
+(01:42:18) First casts Tend the Wounded.
+(01:42:18) Miha casts Dread Dissonance.
+(01:42:19) Saas casts Sacrifice.
+(01:42:19) Bog casts Unholy Blast.
+(01:42:19) Noodle casts Sacrifice.
+(01:42:19) deez casts Sacrifice.
+(01:42:19) deez casts Sacrifice.
+(01:42:19) deez casts Sacrifice.
+(01:42:19) Yuckfou casts Unholy Blast.
+(01:42:19) sudo casts Incantation of Renunciation.
+(01:42:19) Sax casts Sacrifice.
+(01:42:19) HuntyPet casts Call the Sky's Fury.
+(01:42:19) Bourbon casts Prayer of Recovery.
+(01:42:19) Dispel casts Call the Sky's Fury.
+(01:42:19) lover casts Shadow Bolt.
+(01:42:19) First casts Tend the Wounded.
+(01:42:19) Bourbon casts Incantation of Renunciation.
+(01:42:19) Soraka casts Tend the Wounded.
+(01:42:19) First casts Incantation of Renunciation.
+(01:42:19) Miha casts Dread Dissonance.
+(01:42:19) deez casts Sacrifice.
+(01:42:19) Bog casts Unholy Blast.
+(01:42:19) Yuckfou casts Unholy Blast.
+(01:42:19) Sax casts Sacrifice.
+(01:42:19) Saas casts Sacrifice.
+(01:42:19) Fkrah casts Blessed Mending.
+(01:42:19) lover casts Shadow Bolt.
+(01:42:19) sudo casts Tend the Wounded.
+(01:42:19) First casts Incantation of Renunciation.
+(01:42:19) HuntyPet casts Call the Sky's Fury.
+(01:42:19) Dispel casts Call the Sky's Fury.
+(01:42:19) Bourbon casts Tend the Wounded.
+(01:42:19) Noodle casts Sacrifice.
+(01:42:19) Soraka casts Tend the Wounded.
+(01:42:19) deez casts Sacrifice.
+(01:42:19) lover casts Steal Breath.
+(01:42:19) Fkrah casts Blessed Mending.
+(01:42:19) First casts Incantation of Renunciation.
+(01:42:19) Bog casts Unholy Blast.
+(01:42:19) Sax casts Sacrifice.
+(01:42:19) Miha casts Dread Dissonance.
+(01:42:20) sudo casts Tend the Wounded.
+(01:42:20) Yuckfou casts Unholy Storm.
+(01:42:20) lover casts Shadow Bolt.
+(01:42:20) Bourbon casts Divine Recovery.
+(01:42:20) Noodle casts Sacrifice.
+(01:42:20) Soraka casts Tend the Wounded.
+(01:42:20) First casts Incantation of Renunciation.
+(01:42:20) Fkrah casts Blessed Mending.
+(01:42:20) Sniper casts Ignite.
+(01:42:20) Sax casts Saint Alaric's Aid.
+(01:42:20) Bourbon casts Incantation of Renunciation.
+(01:42:20) Bog casts Unholy Fright.
+(01:42:20) Soraka casts Incantation of Renunciation.
+(01:42:20) WoundedKnee casts Mage Bolt.
+(01:42:20) First casts Incantation of Renunciation.
+(01:42:20) Miha casts Dread Dissonance.
+(01:42:20) sudo casts Tend the Wounded.
+(01:42:20) Noodle casts Sacrifice.
+(01:42:20) Fkrah casts Purgation.
+(01:42:20) lover casts Shadow Mantle.
+(01:42:20) Soraka casts Incantation of Renunciation.
+(01:42:20) Miha casts Calming Melody.
+(01:42:20) lover casts Weakening.
+(01:42:20) First casts Incantation of Renunciation.
+(01:42:20) Miha casts Song of Spring.
+(01:42:20) Bourbon casts Tend the Wounded.
+(01:42:20) Sniper casts Fire Bolt.
+(01:42:20) lover casts Enfeeblement.
+(01:42:20) Yuckfou casts Unholy Blast.
+(01:42:20) Fkrah casts Uvoriel's Judgment.
+(01:42:20) sudo casts Tend the Wounded.
+(01:42:20) deez casts Sacrifice.
+(01:42:20) deez casts Sacrifice.
+(01:42:20) deez casts Sacrifice.
+(01:42:20) Noodle casts Sacrifice.
+(01:42:20) HuntyPet casts Call the Sky's Fury.
+(01:42:20) WoundedKnee casts Mage Bolt.
+(01:42:20) lover casts Steal Breath.
+(01:42:20) Soraka casts Tend the Wounded.
+(01:42:21) Yuckfou casts Shadow of Death.
+(01:42:21) Yuckfou casts Shadow of Death.
+(01:42:21) First casts Benediction of Healing.
+(01:42:21) Fkrah casts Blessed Mending.
+(01:42:21) Bourbon casts Tend the Wounded.
+(01:42:21) Miha casts Dread Dissonance.
+(01:42:21) lover casts Shadow Bolt.
+(01:42:21) Noodle casts Sacrifice.
+(01:42:21) Saas casts Sacrifice.
+(01:42:21) Saas casts Sacrifice.
+(01:42:21) Soraka casts Tend the Wounded.
+(01:42:21) Fkrah casts Blessed Mending.
+(01:42:21) sudo casts Tend the Wounded.
+(01:42:21) PvPP casts Hexgram Ritual.
+(01:42:21) PvPP casts Hexgram Ritual.
+(01:42:21) First casts Divine Recovery.
+(01:42:21) Yuckfou casts Unholy Blast.
+(01:42:21) lover casts Shadow Bolt.
+(01:42:21) Bourbon casts Tend the Wounded.
+(01:42:21) Sax casts Sacrifice.
+(01:42:21) SeeNo casts Skirmish Counterspell.
+(01:42:21) Sniper casts Incendiary Blast.
+(01:42:21) Fkrah casts Blessed Mending.
+(01:42:21) HuntyPet casts Call the Sky's Fury.
+(01:42:21) Noodle casts Sacrifice.
+(01:42:21) PvPP casts Mage Bolt.
+(01:42:21) lover casts Shadow Bolt.
+(01:42:21) Miha casts Dread Dissonance.
+(01:42:21) sudo casts Divine Recovery.
+(01:42:21) Saas casts Sacrifice.
+(01:42:21) Bourbon casts Divine Recovery.
+(01:42:21) Yuckfou casts Unholy Blast.
+(01:42:21) Sax casts Sacrifice.
+(01:42:21) Soraka casts Tend the Wounded.
+(01:42:21) lover casts Shadow Bolt.
+(01:42:21) Bog casts Shadow of Death.
+(01:42:21) Fatherjoe casts Censure.
+(01:42:21) Noodle casts Sacrifice.
+(01:42:22) Fkrah casts Blessed Mending.
+(01:42:22) Miha casts Dread Dissonance.
+(01:42:22) Saas casts Sacrifice.
+(01:42:22) First casts Prayer of Recovery.
+(01:42:22) Sniper casts Ignite.
+(01:42:22) Bourbon casts Tend the Wounded.
+(01:42:22) HuntyPet casts Call the Sky's Fury.
+(01:42:22) lover casts Shadow Bolt.
+(01:42:22) Yuckfou casts Unholy Blast.
+(01:42:22) Soraka casts Tend the Wounded.
+(01:42:22) PvPP casts Sign of Sorthoth.
+(01:42:22) LogicNC casts Shadow of Death.
+(01:42:22) Noodle casts Sacrifice.
+(01:42:22) Soraka casts Incantation of Renunciation.
+(01:42:22) Sax casts Sacrifice.
+(01:42:22) Fatherjoe casts Censure.
+(01:42:22) First casts Tend the Wounded.
+(01:42:22) sudo casts Grasp of the All-Father.
+(01:42:22) PvPP casts Mage Bolt.
+(01:42:22) Soraka casts Incantation of Renunciation.
+(01:42:22) Miha casts Dread Dissonance.
+(01:42:22) lover casts Shadow Mantle.
+(01:42:22) Sniper casts Fire Bolt.
+(01:42:22) Noodle casts Sacrifice.
+(01:42:22) sudo casts Sanction.
+(01:42:22) HuntyPet casts Call the Sky's Fury.
+(01:42:22) PvPP casts Mage Bolt.
+(01:42:22) WoundedKnee casts Mage Bolt.
+(01:42:22) Miha casts Calming Melody.
+(01:42:22) Fkrah casts Purgation.
+(01:42:22) lover casts Steal Breath.
+(01:42:23) Saas casts Sacrifice.
+(01:42:23) lover casts Shadow Bolt.
+(01:42:23) Bourbon casts Succor.
+(01:42:23) Fkrah casts Uvoriel's Judgment.
+(01:42:23) PvPP casts Mage Bolt.
+(01:42:23) Soraka casts Tend the Wounded.
+(01:42:23) First casts Prayer of Mending.
+(01:42:23) Dispel casts Call the Sky's Fury.
+(01:42:23) Dispel casts Call the Sky's Fury.
+(01:42:23) Miha casts Dread Dissonance.
+(01:42:23) Miha casts Dread Dissonance.
+(01:42:23) You cast Elemental Ward.
+(01:42:23) You cast Shielding.
+(01:42:24) Fkrah casts Blessed Mending.
+(01:42:24) SeeNo casts Shadow Bolt.
+(01:42:24) Miha casts Song of Spring.
+(01:42:24) Fkrah casts Blessed Mending.
+(01:42:24) SeeNo casts Shadow Bolt.
+(01:42:24) deez casts Blessed Mending.
+(01:42:24) Miha casts Calming Melody.
+(01:42:24) lover casts Steal Breath.
+(01:42:24) Yuckfou casts Unholy Blast.
+(01:42:24) lover casts Weakening.
+(01:42:24) LogicNC casts Unholy Blast.
+(01:42:24) Noodle casts Sacrifice.
+(01:42:24) SeeNo casts Shadow Bolt.
+(01:42:24) sudo casts Tend the Wounded.
+(01:42:24) Fkrah casts Blessed Mending.
+(01:42:24) lover casts Enfeeblement.
+(01:42:24) Bourbon casts Tend the Wounded.
+(01:42:24) SeeNo casts Shadow Bolt.
+(01:42:24) First casts Prayer of Recovery.
+(01:42:24) Fkrah casts Uvoriel's Judgment.
+(01:42:24) Noodle casts Sacrifice.
+(01:42:24) Bog casts Shadow of Death.
+(01:42:25) Yuckfou casts Unholy Blast.
+(01:42:25) sudo casts Tend the Wounded.
+(01:42:25) Sax casts Sacrifice.
+(01:42:25) sudo casts Sanction.
+(01:42:25) LogicNC casts Unholy Blast.
+(01:42:25) Saas casts Sacrifice.
+(01:42:25) Bourbon casts Divine Recovery.
+(01:42:25) lover casts Shadow Bolt.
+(01:42:25) HuntyPet casts Call the Sky's Fury.
+(01:42:25) Sax casts Sacrifice.
+(01:42:25) Yuckfou casts Unholy Blast.
+(01:42:25) Noodle casts Sacrifice.
+(01:42:25) First casts Tend the Wounded.
+(01:42:25) LogicNC casts Unholy Fright.
+(01:42:25) Fkrah casts Contrition.
+(01:42:25) Miha casts Calming Melody.
+(01:42:25) sudo casts Tend the Wounded.
+(01:42:25) Bourbon casts Tend the Wounded.
+(01:42:25) lover casts Shadow Mantle.
+(01:42:25) You cast Draw Nature's Fury.
+(01:42:25) Fkrah casts Purgation.
+(01:42:25) Saas casts Sacrifice.
+(01:42:25) Noodle casts Sacrifice.
+(01:42:25) First casts Tend the Wounded.
+(01:42:25) Sax casts Sacrifice.
+(01:42:25) HuntyPet casts Call the Sky's Fury.
+(01:42:25) lover casts Steal Breath.
+(01:42:25) You cast Hex of the Ice Fury.
+(01:42:25) Bog casts Unholy Blast.
+(01:42:25) Yuckfou casts Unholy Storm.
+(01:42:25) LogicNC casts Unholy Blast.
+(01:42:25) sudo casts Tend the Wounded.
+(01:42:25) Bourbon casts Sacred Healing.
+(01:42:25) Miha casts Mighty Countersong.
+(01:42:25) Sax casts Sacrifice.
+(01:42:25) Bourbon casts Incantation of Renunciation.
+(01:42:25) First casts Tend the Wounded.
+(01:42:25) Noodle casts Sacrifice.
+(01:42:25) Fkrah casts Brand the Wicked.
+(01:42:25) deez casts Sacrifice.
+(01:42:25) Saas casts Sacrifice.
+(01:42:26) Bog casts Unholy Blast.
+(01:42:26) sudo casts Divine Recovery.
+(01:42:26) Yuckfou casts Unholy Blast.
+(01:42:26) HuntyPet casts Call the Sky's Fury.
+(01:42:26) Bourbon casts Incantation of Renunciation.
+(01:42:26) sudo casts Sanction.
+(01:42:26) lover casts Vampire's Kiss.
+(01:42:26) HuntyPet casts Cry of Vashteera.
+(01:42:26) Sax casts Sacrifice.
+(01:42:26) You cast Call Storm.
+(01:42:26) LogicNC casts Unholy Blast.
+(01:42:26) Noodle casts Sacrifice.
+(01:42:26) Miha casts Dread Dissonance.
+(01:42:26) Fkrah casts Brand the Wicked.
+(01:42:26) Saas casts Sacrifice.
+(01:42:26) Yuckfou casts Unholy Blast.
+(01:42:26) Bog casts Unholy Blast.
+(01:42:26) Bourbon casts Tend the Wounded.
+(01:42:26) sudo casts Tend the Wounded.
+(01:42:26) Sax casts Sacrifice.
+(01:42:26) You cast Hex of the Storm Fury.
+(01:42:26) lover casts Sprint.
+(01:42:26) Fkrah casts Brand the Wicked.
+(01:42:26) Saas casts Sacrifice.
+(01:42:26) HuntyPet casts Call the Sky's Fury.
+(01:42:26) Dispel casts Call the Sky's Fury.
+(01:42:26) LogicNC casts Unholy Blast.
+(01:42:26) First casts Prayer of Mending.
+(01:42:26) Yuckfou casts Unholy Blast.
+(01:42:26) sudo casts Tend the Wounded.
+(01:42:26) Bourbon casts Tend the Wounded.
+(01:42:26) Noodle casts Sacrifice.
+(01:42:26) sudo casts Incantation of Renunciation.
+(01:42:26) Miha casts Dread Dissonance.
+(01:42:26) Sax casts Sacrifice.
+(01:42:26) Saas casts Sacrifice.
+(01:42:26) Fkrah casts Brand the Wicked.
+(01:42:26) You cast Draw Nature's Fury.
+(01:42:26) Miha casts Calming Melody.
+(01:42:26) Yuckfou casts Unholy Fright.
+(01:42:27) sudo casts Incantation of Renunciation.
+(01:42:27) deez casts Sacrifice.
+(01:42:27) deez casts Sacrifice.
+(01:42:27) Noodle casts Sacrifice.
+(01:42:27) Dispel casts Call the Sky's Fury.
+(01:42:27) Miha casts Song of Spring.
+(01:42:27) LogicNC casts Unholy Blast.
+(01:42:27) Sax casts Sacrifice.
+(01:42:27) sudo casts Incantation of Renunciation.
+(01:42:27) HuntyPet casts Call the Sky's Fury.
+(01:42:27) First casts Prayer of Recovery.
+(01:42:27) Fkrah casts Brand the Wicked.
+(01:42:27) You cast Hex of the Ice Fury.
+(01:42:27) deez casts Sacrifice.
+(01:42:27) Noodle casts Sacrifice.
+(01:42:27) Yuckfou casts Unholy Blast.
+(01:42:27) sudo casts Incantation of Renunciation.
+(01:42:27) Saas casts Sacrifice.
+(01:42:27) Sax casts Sacrifice.
+(01:42:27) Dispel casts Call the Sky's Fury.
+(01:42:27) lover casts Steal Breath.
+(01:42:27) Fkrah casts Blessed Mending.
+(01:42:27) sudo casts Incantation of Renunciation.
+(01:42:27) First casts Tend the Wounded.
+(01:42:27) HuntyPet casts Call the Sky's Fury.
+(01:42:27) LogicNC casts Unholy Blast.
+(01:42:27) deez casts Sacrifice.
+(01:42:27) Noodle casts Sacrifice.
+(01:42:27) You cast Call the Sky's Fury.
+(01:42:27) Yuckfou casts Unholy Blast.
+(01:42:27) Fkrah casts Blessed Mending.
+(01:42:27) Sax casts Sacrifice.
+(01:42:27) Bog casts Shadow of Death.
+(01:42:27) Saas casts Sacrifice.
+(01:42:27) sudo casts Tend the Wounded.
+(01:42:27) You cast Hex of the Storm Fury.
+(01:42:27) Dispel casts Call the Sky's Fury.
+(01:42:27) lover casts Shadow Mantle.
+(01:42:27) deez casts Sacrifice.
+(01:42:27) Noodle casts Sacrifice.
+(01:42:27) Fkrah casts Blessed Mending.
+(01:42:27) HuntyPet casts Call the Sky's Fury.
+(01:42:27) Sax casts Sacrifice.
+(01:42:27) LogicNC casts Unholy Blast.
+(01:42:27) lover casts Shadow Bolt.
+(01:42:27) sudo casts Tend the Wounded.
+(01:42:27) Bog casts Unholy Blast.
+(01:42:27) Miha casts Calming Melody.
+(01:42:28) You cast Draw Nature's Fury.
+(01:42:28) First casts Grasp of the All-Father.
+(01:42:28) Noodle casts Sacrifice.
+(01:42:28) lover casts Steal Breath.
+(01:42:28) Sax casts Sacrifice.
+(01:42:28) Dispel casts Call the Sky's Fury.
+(01:42:28) HuntyPet casts Call the Sky's Fury.
+(01:42:28) Fkrah casts Blessed Mending.
+(01:42:28) LogicNC casts Gravechill.
+(01:42:28) sudo casts Benediction of Healing.
+(01:42:28) Bourbon casts Incantation of Renunciation.
+(01:42:28) lover casts Shadow Bolt.
+(01:42:28) deez casts Sacrifice.
+(01:42:28) deez casts Sacrifice.
+(01:42:28) Noodle casts Sacrifice.
+(01:42:28) Sax casts Sacrifice.
+(01:42:28) Bourbon casts Incantation of Renunciation.
+(01:42:28) Fkrah casts Blessed Mending.
+(01:42:28) lover casts Shadow Bolt.
+(01:42:28) You cast Fury of Ice.
+(01:42:28) deez casts Sacrifice.
+(01:42:28) sudo casts Tend the Wounded.
+(01:42:28) Miha casts Dread Dissonance.
+(01:42:28) Miha casts Dread Dissonance.
+(01:42:28) lover casts Shadow Bolt.
+(01:42:28) Noodle casts Sacrifice.
+(01:42:28) HuntyPet casts Call the Sky's Fury.
+(01:42:28) Yuckfou casts Shadow of Death.
+(01:42:28) Fkrah casts Blessed Mending.
+(01:42:28) lover casts Weakening.
+(01:42:28) Bourbon casts Tend the Wounded.
+(01:42:28) lover casts Enfeeblement.
+(01:42:28) Dispel casts Call the Sky's Fury.
+(01:42:28) You cast Fury of Ice.
+(01:42:28) sudo casts Tend the Wounded.
+(01:42:28) Saas casts Sacrifice.
+(01:42:28) Saas casts Sacrifice.
+(01:42:28) LogicNC casts Shadow of Death.
+(01:42:28) HuntyPet casts Sprint.
+(01:42:28) Yuckfou casts Unholy Blast.
+(01:42:28) Yuckfou casts Unholy Blast.
+(01:42:28) deez casts Sacrifice.
+(01:42:28) Noodle casts Sacrifice.
+(01:42:28) Noodle casts Sacrifice.
+(01:42:28) lover casts Shadow Bolt.
+(01:42:28) Fkrah casts Contrition.
+(01:42:29) You cast Fury of Ice.
+(01:42:29) LogicNC casts Unholy Blast.
+(01:42:29) deez casts Sacrifice.
+(01:42:29) Yuckfou casts Unholy Blast.
+(01:42:29) Bourbon casts Sprint.
+(01:42:29) Fkrah casts Purgation.
+(01:42:29) Noodle casts Blessing of the Healing Hands.
+(01:42:29) HuntyPet casts Call the Sky's Fury.
+(01:42:29) lover casts Shadow Mantle.
+(01:42:29) Fkrah casts Uvoriel's Judgment.
+(01:42:29) Saas casts Sacrifice.
+(01:42:29) First casts Psalm of Sanction.
+(01:42:29) deez casts Sacrifice.
+(01:42:29) Yuckfou casts Unholy Fright.
+(01:42:29) LogicNC casts Unholy Blast.
+(01:42:29) You cast Fury of Ice.
+(01:42:29) lover casts Steal Breath.
+(01:42:29) sudo casts Summon.
+(01:42:29) Noodle casts Sacrifice.
+(01:42:29) Noodle casts Sacrifice.
+(01:42:29) You cast Draw Nature's Fury.
+(01:42:29) lover casts Shadow Bolt.
+(01:42:29) Saas casts Sacrifice.
+(01:42:29) deez casts Sacrifice.
+(01:42:29) Yuckfou casts Unholy Blast.
+(01:42:29) sudo casts Sanction.
+(01:42:29) You cast Hex of the Ice Fury.
+(01:42:29) lover casts Shadow Bolt.
+(01:42:29) Noodle casts Sacrifice.
+(01:42:29) LogicNC casts Unholy Blast.
+(01:42:29) deez casts Sacrifice.
+(01:42:29) lover casts Shadow Bolt.
+(01:42:29) First casts Incantation of Renunciation.
+(01:42:29) Fkrah casts Purgation.
+(01:42:29) Yuckfou casts Unholy Blast.
+(01:42:29) lover casts Shadow Bolt.
+(01:42:29) sudo casts Divine Recovery.
+(01:42:29) sudo casts Divine Recovery.
+(01:42:29) You cast Fury of Ice.
+(01:42:30) LogicNC casts Unholy Blast.
+(01:42:30) Saas casts Sacrifice.
+(01:42:30) Fkrah casts Uvoriel's Judgment.
+(01:42:30) Noodle casts Sacrifice.
+(01:42:30) Miha casts Dread Dissonance.
+(01:42:30) Bourbon casts Incantation of Renunciation.
+(01:42:30) Sax casts Rally Troops.
+(01:42:30) Noodle casts Sacrifice.
+(01:42:30) lover casts Shadow Bolt.
+(01:42:30) You cast Fury of Ice.
+(01:42:30) First casts Sanction.
+(01:42:30) Miha casts Mighty Countersong.
+(01:42:30) lover casts Shadow Bolt.
+(01:42:30) HuntyPet casts Call the Sky's Fury.
+(01:42:30) HuntyPet casts Call the Sky's Fury.
+(01:42:30) Yuckfou casts Shadow of Death.
+(01:42:30) Yuckfou casts Shadow of Death.
+(01:42:30) Noodle casts Sacrifice.
+(01:42:30) deez casts Blessed Mending.
+(01:42:30) deez casts Blessed Mending.
+(01:42:30) Sax casts Sacrifice.
+(01:42:30) You cast Fury of Ice.
+(01:42:30) lover casts Shadow Mantle.
+(01:42:30) Fkrah casts Brand the Wicked.
+(01:42:30) sudo casts Succor.
+(01:42:30) Saas casts Sacrifice.
+(01:42:30) Saas casts Sacrifice.
+(01:42:30) HuntyPet casts Fury of Ice.
+(01:42:30) Yuckfou casts Unholy Blast.
+(01:42:30) Yuckfou casts Unholy Blast.
+(01:42:30) Noodle casts Sacrifice.
+(01:42:30) First casts Grasp of the All-Father.
+(01:42:30) Miha casts Dread Dissonance.
+(01:42:30) Fkrah casts Brand the Wicked.
+(01:42:30) Sax casts Sacrifice.
+(01:42:30) lover casts Steal Breath.
+(01:42:30) Bourbon casts Prayer of Recovery.
+(01:42:30) Noodle casts Sacrifice.
+(01:42:30) lover casts Weakening.
+(01:42:30) Bourbon casts Sanction.
+(01:42:30) lover casts Enfeeblement.
+(01:42:31) HuntyPet casts Call the Sky's Fury.
+(01:42:31) First casts Incantation of Renunciation.
+(01:42:31) lover casts Shadow Bolt.
+(01:42:31) Saas casts Sacrifice.
+(01:42:31) Saas casts Sacrifice.
+(01:42:31) sudo casts Grasp of the All-Father.
+(01:42:31) First casts Incantation of Renunciation.
+(01:42:31) HuntyPet casts Call the Sky's Fury.
+(01:42:31) Sax casts Darius' Fist.
+(01:42:31) Sax casts Darius' Fist.
+(01:42:31) You cast Draw Nature's Fury.
+(01:42:31) lover casts Shadow Bolt.
+(01:42:31) sudo casts Incantation of Renunciation.
+(01:42:31) Bog casts Shadow of Death.
+(01:42:31) Bourbon casts Tend the Wounded.
+(01:42:31) Saas casts Sacrifice.
+(01:42:31) You cast Hex of the Storm Fury.
+(01:42:31) First casts Incantation of Renunciation.
+(01:42:31) Sniper casts Fire Bolt.
+(01:42:31) You cast Hex of the Ice Fury.
+(01:42:31) First casts Incantation of Renunciation.
+(01:42:31) Miha casts Dread Dissonance.
+(01:42:31) Fkrah casts Blessed Mending.
+(01:42:31) Saas casts Sacrifice.
+(01:42:31) sudo casts Sanction.
+(01:42:31) HuntyPet casts Call the Sky's Fury.
+(01:42:31) Bourbon casts Tend the Wounded.
+(01:42:32) First casts Incantation of Renunciation.
+(01:42:32) Fkrah casts Blessed Mending.
+(01:42:32) Sax casts Sacrifice.
+(01:42:32) Noodle casts Sacrifice.
+(01:42:32) deez casts Sacrifice.
+(01:42:32) deez casts Sacrifice.
+(01:42:32) deez casts Sacrifice.
+(01:42:32) Saas casts Sacrifice.
+(01:42:32) You cast Fury of Ice.
+(01:42:32) First casts Incantation of Renunciation.
+(01:42:32) Sniper casts Ignite.
+(01:42:32) sudo casts Divine Recovery.
+(01:42:32) lover casts Shadow Mantle.
+(01:42:32) You cast Spectral Bonds.
+(01:42:32) deez casts Sacrifice.
+(01:42:32) lover casts Steal Breath.
+(01:42:32) First casts Divine Recovery.
+(01:42:32) First casts Divine Recovery.
+(01:42:32) Sax casts Sacrifice.
+(01:42:32) sudo casts Grasp of the All-Father.
+(01:42:32) Saas casts Sacrifice.
+(01:42:32) First casts Sanction.
+(01:42:32) You cast Draw Nature's Fury.
+(01:42:32) Bourbon casts Prayer of Recovery.
+(01:42:32) Fkrah casts Purgation.
+(01:42:32) deez casts Sacrifice.
+(01:42:32) lover casts Shadow Bolt.
+(01:42:32) First casts Psalm of Sanction.
+(01:42:32) Noodle casts Succor.
+(01:42:32) Miha casts Spectral Bonds.
+(01:42:32) sudo casts Sanction.
+(01:42:32) You cast Fury of Ice.
+(01:42:32) deez casts Sacrifice.
+(01:42:32) Noodle casts Sacrifice.
+(01:42:32) Noodle casts Sacrifice.
+(01:42:32) Saas casts Sacrifice.
+(01:42:32) First casts Tend the Wounded.
+(01:42:32) lover casts Vampire's Kiss.
+(01:42:32) Sax casts Rally Troops.
+(01:42:33) Bourbon casts Rally Troops.
+(01:42:33) Saas casts Rally Troops.
+(01:42:33) deez casts Sacrifice.
+(01:42:33) Miha casts Calming Melody.
+(01:42:33) Bourbon casts Sanction.
+(01:42:33) Bog casts Shadow of Death.
+(01:42:33) Noodle casts Sacrifice.
+(01:42:33) You cast Fury of Ice.
+(01:42:33) First casts Tend the Wounded.
+(01:42:33) Miha casts Song of Spring.
+(01:42:33) HuntyPet casts Fury of Ice.
+(01:42:33) HuntyPet casts Fury of Ice.
+(01:42:33) First casts Incantation of Renunciation.
+(01:42:33) Sniper casts Fire Bolt.
+(01:42:33) deez casts Sacrifice.
+(01:42:33) Saas casts Sacrifice.
+(01:42:33) lover casts Shadow Mantle.
+(01:42:33) First casts Incantation of Renunciation.
+(01:42:33) Noodle casts Sacrifice.
+(01:42:33) You cast Fury of Ice.
+(01:42:33) lover casts Steal Breath.
+(01:42:33) First casts Incantation of Renunciation.
+(01:42:33) lover casts Weakening.
+(01:42:33) HuntyPet casts Fury of Ice.
+(01:42:33) Saas casts Sacrifice.
+(01:42:33) Noodle casts Sacrifice.
+(01:42:33) Sax casts Sacrifice.
+(01:42:33) Bourbon casts Divine Recovery.
+(01:42:33) First casts Incantation of Renunciation.
+(01:42:33) Miha casts Mighty Countersong.
+(01:42:33) lover casts Shadow Bolt.
+(01:42:33) sudo casts Prayer of Recovery.
+(01:42:33) sudo casts Sanction.
+(01:42:33) Sniper casts Ignite.
+(01:42:33) You cast Fury of Ice.
+(01:42:33) HuntyPet casts Fury of Ice.
+(01:42:33) lover casts Shadow Bolt.
+(01:42:33) Sax casts Sacrifice.
+(01:42:34) Saas casts Sacrifice.
+(01:42:34) Bourbon casts Tend the Wounded.
+(01:42:34) First casts Tend the Wounded.
+(01:42:34) Miha casts Dread Dissonance.
+(01:42:34) Bourbon casts Psalm of Sanction.
+(01:42:34) Fkrah casts Uvoriel's Judgment.
+(01:42:34) sudo casts Sanction.
+(01:42:34) First casts Tend the Wounded.
+(01:42:34) You cast Draw Nature's Fury.
+(01:42:34) lover casts Shadow Bolt.
+(01:42:34) Sax casts Censure.
+(01:42:34) Fkrah casts Purgation.
+(01:42:34) Bourbon casts Grasp of the All-Father.
+(01:42:34) lover casts Steal Breath.
+(01:42:34) First casts Tend the Wounded.
+(01:42:34) sudo casts Grasp of the All-Father.
+(01:42:34) Miha casts Dread Dissonance.
+(01:42:34) You cast Fury of Ice.
+(01:42:34) Fkrah casts Blessed Mending.
+(01:42:34) HuntyPet casts Call the Sky's Fury.
+(01:42:34) Sniper casts Fire Bolt.
+(01:42:34) First casts Tend the Wounded.
+(01:42:34) Saas casts Summon.
+(01:42:34) Fkrah casts Blessed Mending.
+(01:42:34) Bourbon casts Divine Recovery.
+(01:42:34) Saas casts Sacrifice.
+(01:42:34) You cast Hex of the Ice Fury.
+(01:42:34) Sniper casts Ignite.
+(01:42:35) lover casts Steal Breath.
+(01:42:35) Bourbon casts Sanction.
+(01:42:35) You cast Draw Nature's Fury.
+(01:42:35) lover casts Shadow Mantle.
+(01:42:35) Sniper casts Fire Bolt.
+(01:42:35) Sax casts Darius' Fist.
+(01:42:35) HuntyPet casts Call the Sky's Fury.
+(01:42:35) lover casts Shadow Bolt.
+(01:42:35) Saas casts Sacrifice.
+(01:42:35) sudo casts Sanction.
+(01:42:35) Miha casts Dread Dissonance.
+(01:42:35) lover casts Shadow Bolt.
+(01:42:35) Bourbon casts Tend the Wounded.
+(01:42:35) HuntyPet casts Call the Sky's Fury.
+(01:42:35) lover casts Shadow Bolt.
+(01:42:35) Bourbon casts Sanction.
+(01:42:35) Sniper casts Ignite.
+(01:42:35) Saas casts Sacrifice.
+(01:42:35) Bourbon casts Sanction.
+(01:42:35) Saas casts Sacrifice.
+(01:42:36) Dispel casts Phaedra's Fury.
+(01:42:36) Bourbon casts Prayer of Recovery.
+(01:42:36) lover casts Antidote.
+(01:42:41) sudo casts Divine Condemnation.
+(01:42:41) Imagine casts Condemnation.
+(01:42:41) sudo casts Sanction.
+(01:42:41) Hunger casts Censure.
+(01:42:41) You cast Draw Nature's Fury.
+(01:42:41) Hunger casts Censure.
+(01:42:41) You cast Hex of the Storm Fury.
+(01:42:41) Imagine casts Condemnation.
+(01:42:41) HuntyPet casts Call the Sky's Fury.
+(01:42:41) You cast Hex of the Ice Fury.
+(01:42:41) sudo casts Divine Recovery.
+(01:42:41) Hunger casts Censure.
+(01:42:41) Hunger casts Condemnation.
+(01:42:41) TyyppVee casts Vampire's Kiss.
+(01:42:41) Imagine casts Mark of The All-Father.
+(01:42:41) sudo casts Tend the Wounded.
+(01:42:41) You cast Call the Sky's Fury.
+(01:42:42) sudo casts Incantation of Renunciation.
+(01:42:42) Imagine casts Touch of Saint Wend.
+(01:42:42) TyyppVee casts Shadow Bolt.
+(01:42:42) Hunger casts Censure.
+(01:42:42) sudo casts Incantation of Renunciation.
+(01:42:42) You cast Call the Sky's Fury.
+(01:42:42) TyyppVee casts Shadow Bolt.
+(01:42:42) Dispel casts Call the Sky's Fury.
+(01:42:42) HuntyPet casts Call the Sky's Fury.
+(01:42:42) Imagine casts Sacred Healing.
+(01:42:42) sudo casts Tend the Wounded.
+(01:42:42) Hunger casts Censure.
+(01:42:42) Holger casts Darius' Fist.
+(01:42:42) TyyppVee casts Steal Breath.
+(01:42:42) You cast Draw Nature's Fury.
+(01:42:42) You cast Hex of the Storm Fury.
+(01:42:42) sudo casts Tend the Wounded.
+(01:42:42) Hunger casts Censure.
+(01:42:42) You cast Hex of the Ice Fury.
+(01:42:42) Rylix casts Fling Holy Water.
+(01:42:42) Dispel casts Call the Sky's Fury.
+(01:42:42) TyyppVee casts Shadow Mantle.
+(01:42:42) sudo casts Tend the Wounded.
+(01:42:42) Rylix casts Fling Holy Water.
+(01:42:42) Hunger casts Censure.
+(01:42:43) Rylix casts Fling Holy Water.
+(01:42:43) TyyppVee casts Shadow Bolt.
+(01:42:43) sudo casts Tend the Wounded.
+(01:42:43) Dispel casts Fury of Ice.
+(01:42:43) You cast Call the Sky's Fury.
+(01:42:43) HuntyPet casts Fury of Ice.
+(01:42:43) TyyppVee casts Shadow Bolt.
+(01:42:43) Hunger casts Saint Lorne's Ire.
+(01:42:43) Rylix casts Fling Holy Water.
+(01:42:43) sudo casts Tend the Wounded.
+(01:42:43) sudo casts Sanction.
+(01:42:43) Rylix casts Fling Holy Water.
+(01:42:43) You cast Spectral Bonds.
+(01:42:43) You cast Draw Nature's Fury.
+(01:42:43) sudo casts Sacred Healing.
+(01:42:43) Hunger casts Censure.
+(01:42:43) Rylix casts Fling Holy Water.
+(01:42:43) Rylix casts Fling Holy Water.
+(01:42:43) You cast Hex of the Storm Fury.
+(01:42:43) sudo casts Divine Recovery.
+(01:42:43) You cast Hex of the Ice Fury.
+(01:42:43) Dispel casts Call the Sky's Fury.
+(01:42:43) Dispel casts Call the Sky's Fury.
+(01:42:43) HuntyPet casts Call the Sky's Fury.
+(01:42:43) TyyppVee casts Shadow Mantle.
+(01:42:44) sudo casts Tend the Wounded.
+(01:42:44) sudo casts Sanction.
+(01:42:44) You cast Call the Sky's Fury.
+(01:42:44) TyyppVee casts Shadow Bolt.
+(01:42:44) HuntyPet casts Call the Sky's Fury.
+(01:42:44) Dispel casts Call the Sky's Fury.
+(01:42:44) sudo casts Tend the Wounded.
+(01:42:44) sudo casts Tend the Wounded.
+(01:42:44) Dispel casts Call the Sky's Fury.
+(01:42:44) sudo casts Tend the Wounded.
+(01:42:44) sudo casts Tend the Wounded.
+(01:42:44) You cast Draw Nature's Fury.
+(01:42:44) sudo casts Tend the Wounded.
+(01:42:44) TyyppVee casts Shadow Mantle.
+(01:42:44) You cast Hex of the Storm Fury.
+(01:42:44) Dispel casts Call the Sky's Fury.
+(01:42:44) sudo casts Tend the Wounded.
+(01:42:45) You cast Hex of the Ice Fury.
+(01:42:45) TyyppVee casts Vampire's Kiss.
+(01:42:45) HuntyPet casts Fury of Ice.
+(01:42:45) sudo casts Divine Recovery.
+(01:42:45) Dispel casts Call the Sky's Fury.
+(01:42:45) TyyppVee casts Steal Breath.
+(01:42:45) You cast Call the Sky's Fury.
+(01:42:45) sudo casts Divine Recovery.
+(01:42:45) Dispel casts Call the Sky's Fury.
+(01:42:45) You cast Call the Sky's Fury.
+(01:42:45) sudo casts Divine Recovery.
+(01:42:45) HuntyPet casts Call the Sky's Fury.
+(01:42:45) xinyu casts Vampire's Kiss.
+(01:42:45) You cast Call the Sky's Fury.
+(01:42:45) Dispel casts Call the Sky's Fury.
+(01:42:45) sudo casts Sanction.
+(01:42:45) You cast Draw Nature's Fury.
+(01:42:45) TyyppVee casts Steal Breath.
+(01:42:45) You cast Hex of the Storm Fury.
+(01:42:45) You cast Hex of the Ice Fury.
+(01:42:45) CJW casts Hedge of Thorns.
+(01:42:46) dnst casts Cleansing Flame.
+(01:42:46) HuntyPet casts Fury of Ice.
+(01:42:46) sudo casts Prayer of Recovery.
+(01:42:46) CJW casts Call Lightning.
+(01:42:46) kosnwa casts Shatter Will.
+(01:42:46) TyyppVee casts Sprint.
+(01:42:46) hta casts Sprint.
+(01:42:46) sudo casts Tend the Wounded.
+(01:42:46) dnst casts Cleansing Flame.
+(01:42:46) sudo casts Incantation of Renunciation.
+(01:42:46) kosnwa casts Psychic Shout.
+(01:42:46) You cast Call Storm.
+(01:42:46) sudo casts Tend the Wounded.
+(01:42:46) Dispel casts Call the Sky's Fury.
+(01:42:46) Dispel casts Call the Sky's Fury.
+(01:42:47) dnst casts Cleansing Flame.
+(01:42:47) You cast Draw Nature's Fury.
+(01:42:47) sudo casts Tend the Wounded.
+(01:42:47) CJW casts Hedge of Thorns.
+(01:42:47) Dispel casts Call the Sky's Fury.
+(01:42:47) You cast Hex of the Storm Fury.
+(01:42:47) sudo casts Tend the Wounded.
+(01:42:47) HuntyPet casts Fury of Ice.
+(01:42:47) You cast Hex of the Ice Fury.
+(01:42:47) kosnwa casts Mind Strike.
+(01:42:47) CJW casts Call Lightning.
+(01:42:47) sudo casts Tend the Wounded.
+(01:42:47) CJW casts Oaken Flesh.
+(01:42:47) You cast Call the Sky's Fury.
+(01:42:48) sudo casts Tend the Wounded.
+(01:42:48) kosnwa casts Psychic Healing.
+(01:42:48) dnst casts Wings of the Seraphim.
+(01:42:48) Rylix casts Fling Holy Water.
+(01:42:48) sudo casts Tend the Wounded.
+(01:42:48) Dispel casts Call the Sky's Fury.
+(01:42:48) Dispel casts Call the Sky's Fury.
+(01:42:48) Rylix casts Fling Holy Water.
+(01:42:48) You cast Spectral Bonds.
+(01:42:48) HuntyPet casts Call the Sky's Fury.
+(01:42:48) HuntyPet casts Call the Sky's Fury.
+(01:42:48) Rylix casts Fling Holy Water.
+(01:42:48) sudo casts Tend the Wounded.
+(01:42:48) Rylix casts Fling Holy Water.
+(01:42:48) xinyu casts Vampire's Kiss.
+(01:42:48) kosnwa casts Mental Projection.
+(01:42:49) sudo casts Tend the Wounded.
+(01:42:49) Rylix casts Fling Holy Water.
+(01:42:49) dnst casts Consume Wickedness.
+(01:42:49) You cast Call the Sky's Fury.
+(01:42:49) Rylix casts Fling Holy Water.
+(01:42:49) TyyppVee casts Vampire's Kiss.
+(01:42:49) HuntyPet casts Fury of Ice.
+(01:42:49) sudo casts Tend the Wounded.
+(01:42:49) Rylix casts Fling Holy Water.
+(01:42:49) Dispel casts Call the Sky's Fury.
+(01:42:49) CJW casts Sprint.
+(01:42:49) Rylix casts Fling Holy Water.
+(01:42:49) sudo casts Tend the Wounded.
+(01:42:49) sudo casts Sanction.
+(01:42:49) Rylix casts Fling Holy Water.
+(01:42:49) TyyppVee casts Steal Breath.
+(01:42:49) dnst casts Cleansing Flame.
+(01:42:49) HuntyPet casts Call the Sky's Fury.
+(01:42:50) Rylix casts Fling Holy Water.
+(01:42:50) hta casts Phaedra's Chase.
+(01:42:50) sudo casts Benediction of Healing.
+(01:42:50) TyyppVee casts Shadow Mantle.
+(01:42:50) Dispel casts Call the Sky's Fury.
+(01:42:50) Rylix casts Fling Holy Water.
+(01:42:50) You cast Call the Sky's Fury.
+(01:42:50) dnst casts Cleansing Flame.
+(01:42:50) Dispel casts Call the Sky's Fury.
+(01:42:50) HuntyPet casts Call the Sky's Fury.
+(01:42:50) You cast Call the Sky's Fury.
+(01:42:50) xinyu casts Sprint.
+(01:42:51) sudo casts Tend the Wounded.
+(01:42:51) Rylix casts Sprint.
+(01:42:51) Dispel casts Call the Sky's Fury.
+(01:42:51) sudo casts Divine Recovery.
+(01:42:51) dnst casts Purge Sin.
+(01:42:51) sudo casts Tend the Wounded.
+(01:42:51) hta casts Amazon's Endurance.
+(01:42:51) dnst casts Cleansing Flame.
+(01:42:51) Rylix casts Blessing of Dawn.
+(01:42:51) dnst casts Cleansing Flame.
+(01:42:51) Rylix casts Blessing of Dawn.
+(01:42:51) sudo casts Incantation of Renunciation.
+(01:42:51) You cast Draw Nature's Fury.
+(01:42:51) sudo casts Incantation of Renunciation.
+(01:42:51) sudo casts Sanction.
+(01:42:51) You cast Hex of the Storm Fury.
+(01:42:51) dnst casts Cleansing Flame.
+(01:42:51) xinyu casts The Lesser Kiss.
+(01:42:51) HuntyPet casts Call the Sky's Fury.
+(01:42:51) Dispel casts Call the Sky's Fury.
+(01:42:51) sudo casts Sanction.
+(01:42:52) You cast Call the Sky's Fury.
+(01:42:52) dnst casts Sprint.
+(01:42:52) sudo casts Divine Condemnation.
+(01:42:52) sudo casts Sanction.
+(01:42:52) You cast Beorc Rune.
+(01:42:52) You cast Shielding.
+(01:42:52) sudo casts Summon.
+(01:42:52) sudo casts Incantation of Renunciation.
+(01:42:52) sudo casts Incantation of Renunciation.
+(01:42:52) sudo casts Incantation of Renunciation.
+(01:42:52) Dispel casts Cry of Vashteera.
+(01:42:52) sudo casts Incantation of Renunciation.
+(01:42:52) sudo casts Prayer of Recovery.
+(01:42:52) sudo casts Tend the Wounded.
+(01:42:52) sudo casts Sanction.
+(01:42:53) sudo casts Tend the Wounded.
+(01:42:53) sudo casts Tend the Wounded.
+(01:42:53) sudo casts Divine Recovery.
+(01:42:53) sudo casts Sanction.
+(01:42:55) sudo casts Sanction.
+(01:42:55) sudo casts Divine Condemnation.
+(01:42:55) sudo casts Sanction.
+(01:42:55) Dispel casts Phaedra's Fury.
+(01:42:55) sudo casts Divine Condemnation.
+(01:42:55) sudo casts Divine Condemnation.
+(01:42:55) sudo casts Sanction.
+(01:42:55) sudo casts Sanction.
+(01:42:55) TyyppVee casts Shielding.
+(01:42:55) Dispel casts Traveling Stance.
+(01:42:55) You cast Traveling Stance.
+(01:42:55) sudo casts Grasp of the All-Father.
+(01:42:55) HuntyPet casts Traveling Stance.
+(01:42:55) sudo casts Traveling Stance.
+(01:42:55) hta casts Sprint.
+(01:42:55) sudo casts Sanction.
+(01:42:55) CJW casts Hedge of Thorns.
+(01:42:55) CJW casts Call Lightning.
+(01:42:55) CJW casts Sprint.
+(01:42:55) dnst casts Cleansing Flame.
+(01:42:55) dnst casts Cleansing Flame.
+(01:42:55) dnst casts Sprint.
+(01:42:56) You cast Sprint.
+(01:42:56) TyyppVee casts Shadow Mantle.
+(01:42:56) HuntyPet casts Sprint.
+(01:42:56) Dispel casts Sprint.
+(01:42:56) You cast Spectral Bonds.
+(01:42:56) sudo casts Sanction.
+(01:42:56) You cast Draw Nature's Fury.
+(01:42:56) You cast Hex of the Storm Fury.
+(01:42:56) HuntyPet casts Fury of Ice.
+(01:42:56) You cast Call the Sky's Fury.
+(01:42:56) TyyppVee casts Vampire's Kiss.
+(01:42:56) sudo casts Incantation of Renunciation.
+(01:42:56) Dispel casts Call the Sky's Fury.
+(01:42:56) HuntyPet casts Call the Sky's Fury.
+(01:42:56) sudo casts Tend the Wounded.
+(01:42:57) sudo casts Tend the Wounded.
+(01:42:57) sudo casts Incantation of Renunciation.
+(01:42:57) sudo casts Sprint.
+(01:42:57) hta casts Traveling Stance.
+(01:42:57) Dispel casts Phaedra's Chase.
+(01:42:57) CJW casts Traveling Stance.
+(01:42:57) sudo casts Sanction.
+(01:42:57) HuntyPet casts Phaedra's Chase.
+(01:42:57) You cast Astral Tether.
+(01:42:57) You cast Traveling Stance.
+(01:42:57) Dispel casts Traveling Stance.
+(01:42:57) sudo casts Traveling Stance.
+(01:42:57) You cast Traveling Stance.
+(01:42:57) TyyppVee casts Slayer's Focus.
+(01:42:57) HuntyPet casts Call to Vashteera.
+(01:42:57) Dispel casts Call to Vashteera.
+(01:42:57) HuntyPet casts Traveling Stance.
+(01:42:57) Dispel casts Beast Lords' Boon.
+(01:42:58) Dispel casts Traveling Stance.
+(01:42:58) TyyppVee casts Shadow Bolt.
+(01:42:58) Dispel casts Call the Sky's Fury.
+(01:42:58) You cast Draw Nature's Fury.
+(01:42:58) TyyppVee casts Shadow Bolt.
+(01:42:58) You cast Hex of the Storm Fury.
+(01:42:58) TyyppVee casts Shadow Bolt.
+(01:42:58) HuntyPet casts Call the Sky's Fury.
+(01:42:58) TyyppVee casts Shadow Bolt.
+(01:42:58) sudo casts Grasp of the All-Father.
+(01:42:58) Dispel casts Call the Sky's Fury.
+(01:42:58) You cast Call the Sky's Fury.
+(01:42:58) TyyppVee casts Shadow Bolt.
+(01:42:58) sudo casts Sanction.
+(01:42:58) HuntyPet casts Call the Sky's Fury.
+(01:42:58) TyyppVee casts Shadow Bolt.
+(01:42:58) Dispel casts Call the Sky's Fury.
+(01:42:58) HuntyPet casts Traveling Stance.
+(01:42:58) You cast Traveling Stance.
+(01:42:58) TyyppVee casts Slayer's Focus.
+(01:42:58) sudo casts Traveling Stance.
+(01:42:58) Dispel casts Traveling Stance.
+(01:42:58) TyyppVee casts Traveling Stance.
+(01:42:59) TyyppVee casts Summon Darkspawn.
+(01:42:59) TyyppVee casts Demolishing Spell.
+(01:42:59) Dispel casts Beast Lords' Boon.
+(01:42:59) TyyppVee casts Demolishing Spell.
+(01:43:00) TyyppVee casts Demolishing Spell.
+(01:43:00) TyyppVee casts Demolishing Spell.
+(01:43:01) You cast Flesh Ward.
+(01:43:01) You cast Shielding.
+(01:43:01) TyyppVee casts Demolishing Spell.
+(01:43:01) TyyppVee casts Slayer's Focus.
+(01:43:01) TyyppVee casts Demolishing Spell.
+(01:43:01) TyyppVee casts Shielding.
+(01:43:02) TyyppVee casts Demolishing Spell.
+(01:43:02) sudo casts Summon.
+(01:43:02) TyyppVee casts Demolishing Spell.
+(01:43:02) TyyppVee casts Slayer's Focus.
+(01:43:02) sudo casts Prayer of Recovery.
+(01:43:02) Dispel casts Cry of Vashteera.
+(01:43:02) sudo casts Divine Recovery.
+(01:43:03) You cast Elemental Ward.
+(01:43:03) TyyppVee casts Dark Fortitude.
+(01:43:03) KSlater casts Divine Condemnation.
+(01:43:03) You cast Shielding.
+(01:43:03) blackgurl casts Charm of Protection.
+(01:43:03) sudo casts Prayer of Recovery.
+(01:43:03) KSlater casts Sanction.
+(01:43:03) sudo casts Divine Condemnation.
+(01:43:03) TyyppVee casts Uncanny Fortitude.
+(01:43:03) Rain casts Shielding.
+(01:43:03) blackgurl casts Shielding.
+(01:43:03) sudo casts Sanction.
+(01:43:03) Rain casts Beorc Rune.
+(01:43:03) wreck casts Flesh Ward.
+(01:43:03) sudo casts Sanction.
+(01:43:03) KSlater casts Sanction.
+(01:43:03) wreck casts Shielding.
+(01:43:03) Rain casts Elemental Ward.
+(01:43:03) KSlater casts Sanction.
+(01:43:03) sudo casts Sanction.
+(01:43:03) Rain casts Enfeeblement.
+(01:43:03) You cast Draw Nature's Fury.
+(01:43:03) Rain casts Weakening.
+(01:43:03) sudo casts Sanction.
+(01:43:03) KSlater casts Incantation of Renunciation.
+(01:43:03) Dispel casts Call the Sky's Fury.
+(01:43:03) You cast Hex of the Storm Fury.
+(01:43:03) KSlater casts Incantation of Renunciation.
+(01:43:03) You cast Hex of the Ice Fury.
+(01:43:04) HuntyPet casts Fury of Ice.
+(01:43:04) TyyppVee casts Shadow Bolt.
+(01:43:04) sudo casts Grasp of the All-Father.
+(01:43:04) Dispel casts Call the Sky's Fury.
+(01:43:04) KSlater casts Tend the Wounded.
+(01:43:04) TyyppVee casts Shadow Bolt.
+(01:43:04) KSlater casts Incantation of Renunciation.
+(01:43:04) You cast Call the Sky's Fury.
+(01:43:04) blackgurl casts Mage Bolt.
+(01:43:04) TyyppVee casts Shadow Bolt.
+(01:43:04) Rain casts Inflict Poison.
+(01:43:04) HuntyPet casts Call the Sky's Fury.
+(01:43:04) wreck casts Call Storm.
+(01:43:04) KSlater casts Incantation of Renunciation.
+(01:43:04) TyyppVee casts Shadow Bolt.
+(01:43:04) sudo casts Divine Recovery.
+(01:43:04) You cast Call the Sky's Fury.
+(01:43:04) TyyppVee casts Shadow Bolt.
+(01:43:04) You cast Spectral Bonds.
+(01:43:04) KSlater casts Sacred Healing.
+(01:43:04) Dispel casts Call the Sky's Fury.
+(01:43:04) sudo casts Tend the Wounded.
+(01:43:04) HuntyPet casts Call the Sky's Fury.
+(01:43:04) blackgurl casts Sign of Sorthoth.
+(01:43:04) TyyppVee casts Shadow Bolt.
+(01:43:04) sudo casts Incantation of Renunciation.
+(01:43:04) TyyppVee casts Antidote.
+(01:43:04) sudo casts Tend the Wounded.
+(01:43:04) You cast Call the Sky's Fury.
+(01:43:04) You cast Draw Nature's Fury.
+(01:43:04) wreck casts Inflict Poison.
+(01:43:05) sudo casts Tend the Wounded.
+(01:43:05) KSlater casts Tend the Wounded.
+(01:43:05) Dispel casts Call the Sky's Fury.
+(01:43:05) You cast Hex of the Ice Fury.
+(01:43:05) HuntyPet casts Call the Sky's Fury.
+(01:43:05) You cast Hex of the Storm Fury.
+(01:43:05) KSlater casts Tend the Wounded.
+(01:43:05) sudo casts Sanction.
+(01:43:05) wreck casts Inflict Poison.
+(01:43:05) KSlater casts Incantation of Renunciation.
+(01:43:05) Dispel casts Call the Sky's Fury.
+(01:43:05) blackgurl casts Translocation.
+(01:43:05) KSlater casts Incantation of Renunciation.
+(01:43:05) You cast Call the Sky's Fury.
+(01:43:05) KSlater casts Tend the Wounded.
+(01:43:05) KSlater casts Incantation of Renunciation.
+(01:43:05) wreck casts Fury of Wind.
+(01:43:05) Dispel casts Call the Sky's Fury.
+(01:43:06) KSlater casts Tend the Wounded.
+(01:43:06) TyyppVee casts Shadow Bolt.
+(01:43:06) sudo casts Tend the Wounded.
+(01:43:06) wreck casts Call the Sky's Fury.
+(01:43:06) KSlater casts Sanction.
+(01:43:06) TyyppVee casts Shadow Mantle.
+(01:43:06) KSlater casts Incantation of Renunciation.
+(01:43:06) sudo casts Tend the Wounded.
+(01:43:06) Dispel casts Call the Sky's Fury.
+(01:43:06) KSlater casts Tend the Wounded.
+(01:43:06) You cast Draw Nature's Fury.
+(01:43:06) TyyppVee casts Vampire's Kiss.
+(01:43:06) KSlater casts Incantation of Renunciation.
+(01:43:06) You cast Hex of the Storm Fury.
+(01:43:06) HuntyPet casts Fury of Ice.
+(01:43:06) TyyppVee casts Shadow Bolt.
+(01:43:06) KSlater casts Incantation of Renunciation.
+(01:43:06) sudo casts Sacred Healing.
+(01:43:06) You cast Hex of the Ice Fury.
+(01:43:06) TyyppVee casts Shadow Bolt.
+(01:43:06) wreck casts Call the Sky's Fury.
+(01:43:06) KSlater casts Incantation of Renunciation.
+(01:43:06) sudo casts Grasp of the All-Father.
+(01:43:06) TyyppVee casts Shadow Bolt.
+(01:43:06) HuntyPet casts Call the Sky's Fury.
+(01:43:06) KSlater casts Incantation of Renunciation.
+(01:43:07) TyyppVee casts Shadow Bolt.
+(01:43:07) wreck casts Call the Sky's Fury.
+(01:43:07) Dispel casts Call the Sky's Fury.
+(01:43:07) sudo casts Divine Recovery.
+(01:43:07) KSlater casts Tend the Wounded.
+(01:43:07) Bambi casts Sprint.
+(01:43:07) sudo casts Tend the Wounded.
+(01:43:07) sudo casts Tend the Wounded.
+(01:43:07) TyyppVee casts Steal Breath.
+(01:43:07) sudo casts Sanction.
+(01:43:07) Dispel casts Call the Sky's Fury.
+(01:43:07) KSlater casts Tend the Wounded.
+(01:43:07) wreck casts Call Storm.
+(01:43:07) HuntyPet casts Call the Sky's Fury.
+(01:43:07) You cast Call the Sky's Fury.
+(01:43:07) You cast Call the Sky's Fury.
+(01:43:07) TyyppVee casts Shadow Mantle.
+(01:43:07) KSlater casts Tend the Wounded.
+(01:43:07) sudo casts Tend the Wounded.
+(01:43:07) Dispel casts Call the Sky's Fury.
+(01:43:07) wreck casts Bloodfire.
+(01:43:07) HuntyPet casts Call the Sky's Fury.
+(01:43:07) You cast Call the Sky's Fury.
+(01:43:07) KSlater casts Incantation of Renunciation.
+(01:43:07) sudo casts Tend the Wounded.
+(01:43:07) TyyppVee casts Shadow Bolt.
+(01:43:07) Dispel casts Call the Sky's Fury.
+(01:43:07) TyyppVee casts Shadow Bolt.
+(01:43:08) KSlater casts Tend the Wounded.
+(01:43:08) KSlater casts Tend the Wounded.
+(01:43:08) sudo casts Tend the Wounded.
+(01:43:08) You cast Call the Sky's Fury.
+(01:43:08) TyyppVee casts Shadow Bolt.
+(01:43:08) wreck casts Inflict Poison.
+(01:43:08) HuntyPet casts Call the Sky's Fury.
+(01:43:08) HuntyPet casts Call the Sky's Fury.
+(01:43:08) Dispel casts Call the Sky's Fury.
+(01:43:08) KSlater casts Benediction of Healing.
+(01:43:08) sudo casts Tend the Wounded.
+(01:43:08) You cast Call the Sky's Fury.
+(01:43:08) HuntyPet casts Call the Sky's Fury.
+(01:43:08) sudo casts Tend the Wounded.
+(01:43:08) wreck casts Fury of Wind.
+(01:43:08) sudo casts Tend the Wounded.
+(01:43:08) wreck casts Call the Sky's Fury.
+(01:43:08) TyyppVee casts Steal Breath.
+(01:43:08) Dispel casts Call the Sky's Fury.
+(01:43:08) sudo casts Tend the Wounded.
+(01:43:08) TyyppVee casts Shadow Bolt.
+(01:43:08) sudo casts Grasp of the All-Father.
+(01:43:08) wreck casts Call the Sky's Fury.
+(01:43:08) TyyppVee casts Shadow Bolt.
+(01:43:08) You cast Draw Nature's Fury.
+(01:43:08) HuntyPet casts Call the Sky's Fury.
+(01:43:08) TyyppVee casts Shadow Bolt.
+(01:43:08) You cast Hex of the Storm Fury.
+(01:43:08) wreck casts Banish Venom.
+(01:43:09) sudo casts Divine Recovery.
+(01:43:09) TyyppVee casts Shadow Bolt.
+(01:43:09) HuntyPet casts Call the Sky's Fury.
+(01:43:09) sudo casts Tend the Wounded.
+(01:43:09) sudo casts Sanction.
+(01:43:09) sudo casts Sanction.
+(01:43:09) TyyppVee casts Demolishing Spell.
+(01:43:09) TyyppVee casts Slayer's Focus.
+(01:43:09) TyyppVee casts Shielding.
+(01:43:09) sudo casts Prayer of Recovery.
+(01:43:09) sudo casts Prayer of Recovery.
+(01:43:09) TyyppVee casts Slayer's Focus.
+(01:43:09) sudo casts Sanction.
+(01:43:09) TyyppVee casts Demolishing Spell.
+(01:43:09) HuntyPet casts Phaedra's Fury.
+(01:43:09) sudo casts Sanction.
+(01:43:09) sudo casts Sanction.
+(01:43:09) sudo casts Sanction.
+(01:43:10) TyyppVee casts Demolishing Spell.
+(01:43:10) sudo casts Sanction.
+(01:43:10) TyyppVee casts Slayer's Focus.
+(01:43:10) sudo casts Sanction.
+(01:43:10) TyyppVee casts Demolishing Spell.
+(01:43:10) sudo casts Sanction.
+(01:43:10) sudo casts Sanction.
+(01:43:10) TyyppVee casts Demolishing Spell.
+(01:43:10) TyyppVee casts Shielding.
+(01:43:10) sudo casts Prayer of Recovery.
+(01:43:10) TyyppVee casts Slayer's Focus.
+(01:43:10) sudo casts Sanction.
+(01:43:10) sudo casts Sanction.
+(01:43:10) TyyppVee casts Demolishing Spell.
+(01:43:10) sudo casts Sanction.
+(01:43:10) sudo casts Summon.
+(01:43:10) TyyppVee casts Demolishing Spell.
+(01:43:10) sudo casts Prayer of Recovery.
+(01:43:10) sudo casts Sanction.
+(01:43:10) You cast Flesh Ward.
+(01:43:10) TyyppVee casts Slayer's Focus.
+(01:43:10) You cast Shielding.
+(01:43:10) You cast Traveling Stance.
+(01:43:11) sudo casts Sanction.
+(01:43:11) sudo casts Sanction.
+(01:43:11) Dispel casts Vashteera's Blessing.
+(01:43:11) TyyppVee casts Demolishing Spell.
+(01:43:11) sudo casts Prayer of Recovery.
+(01:43:11) sudo casts Sanction.
+(01:43:11) TyyppVee casts Slayer's Focus.
+(01:43:11) sudo casts Sanction.
+(01:43:11) TyyppVee casts Demolishing Spell.
+(01:43:11) sudo casts Blessed Protection.
+(01:43:11) sudo casts Blessed Protection.
+(01:43:11) sudo casts Blessed Protection.
+(01:43:11) sudo casts Blessed Protection.
+(01:43:11) sudo casts Blessed Protection.
+(01:43:11) sudo casts Blessed Protection.
+(01:43:11) sudo casts Blessed Protection.
+(01:43:11) sudo casts Blessed Protection.
+(01:43:11) sudo casts Blessed Protection.
+(01:43:11) sudo casts Blessed Protection.
+(01:43:11) sudo casts Blessed Protection.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) TyyppVee casts Shielding.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) TyyppVee casts Slayer's Focus.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) TyyppVee casts Traveling Stance.
+(01:43:12) sudo casts Blessed Protection.
+(01:43:12) sudo casts Sanction.
+(01:43:12) sudo casts Divine Condemnation.
+(01:43:12) sudo casts Sanction.
+(01:43:12) sudo casts Incantation of Renunciation.
+(01:43:12) sudo casts Incantation of Renunciation.
+(01:43:12) sudo casts Incantation of Renunciation.
+(01:43:12) sudo casts Divine Condemnation.
+(01:43:12) sudo casts Divine Condemnation.
+(01:43:12) Dispel casts Phaedra's Fury.
+(01:43:12) sudo casts Sanction.
+(01:43:12) TyyppVee casts Shielding.
+(01:43:12) sudo casts Sanction.
+(01:43:12) TyyppVee casts Slayer's Focus.
+(01:43:12) sudo casts Sanction.
+(01:43:12) sudo casts Sanction.
+(01:43:12) sudo casts Sanction.
+(01:43:12) sudo casts Sanction.
+(01:43:12) sudo casts Sanction.
+(01:43:12) sudo casts Sanction.
+(01:43:12) sudo casts Sanction.
+(01:43:12) TyyppVee casts Slayer's Focus.
+(01:43:12) sudo casts Prayer of Recovery.
+(01:43:12) sudo casts Sanction.
+(01:43:12) Dispel casts Call to Vashteera.
+(01:43:12) Dispel casts Beast Lords' Boon.
+(01:43:13) sudo casts Sanction.
+(01:43:13) sudo casts Prayer of Recovery.
+(01:43:13) You cast Flesh Ward.
+(01:43:13) sudo casts Sanction.
+(01:43:13) You cast Shielding.
+(01:43:13) sudo casts Sanction.
+(01:43:13) HuntyPet casts Phaedra's Fury.
+(01:43:13) sudo casts Sanction.
+(01:43:13) sudo casts Sanction.
+(01:43:13) sudo casts Prayer of Recovery.
+(01:43:13) sudo casts Sanction.
+(01:43:13) Rain casts Stun.
+(01:43:13) wreck casts Stun.
+(01:43:13) KSlater casts Prayer of Recovery.
+(01:43:13) KSlater casts Divine Condemnation.
+(01:43:13) sudo casts Sanction.
+(01:43:13) Rain casts Stun.
+(01:43:14) KSlater casts Sanction.
+(01:43:14) sudo casts Prayer of Recovery.
+(01:43:14) Rain casts Stun.
+(01:43:14) sudo casts Divine Recovery.
+(01:43:14) KSlater casts Incantation of Renunciation.
+(01:43:14) sudo casts Divine Recovery.
+(01:43:14) sudo casts Sanction.
+(01:43:14) KSlater casts Prayer of Recovery.
+(01:43:14) KSlater casts Sanction.
+(01:43:14) wreck casts Stun.
+(01:43:14) KSlater casts Sanction.
+(01:43:14) wreck casts Stun.
+(01:43:14) Rain casts Hex of the Storm Fury.
+(01:43:14) You cast Draw Nature's Fury.
+(01:43:14) Rain casts Draw Nature's Fury.
+(01:43:14) sudo casts Grasp of the All-Father.
+(01:43:14) You cast Hex of the Storm Fury.
+(01:43:14) KSlater casts Tend the Wounded.
+(01:43:14) Rain casts Elemental Ward.
+(01:43:14) sudo casts Sanction.
+(01:43:14) KSlater casts Incantation of Renunciation.
+(01:43:14) You cast Hex of the Ice Fury.
+(01:43:14) HuntyPet casts Call the Sky's Fury.
+(01:43:15) KSlater casts Incantation of Renunciation.
+(01:43:15) Dispel casts Call the Sky's Fury.
+(01:43:15) sudo casts Sanction.
+(01:43:15) wreck casts Inflict Poison.
+(01:43:15) KSlater casts Incantation of Renunciation.
+(01:43:15) You cast Call the Sky's Fury.
+(01:43:15) HuntyPet casts Call the Sky's Fury.
+(01:43:15) KSlater casts Incantation of Renunciation.
+(01:43:15) Dispel casts Call the Sky's Fury.
+(01:43:15) sudo casts Divine Recovery.
+(01:43:15) blackgurl casts Bloodfire.
+(01:43:15) KSlater casts Incantation of Renunciation.
+(01:43:15) TyyppVee casts Steal Breath.
+(01:43:15) wreck casts Inflict Poison.
+(01:43:15) You cast Draw Nature's Fury.
+(01:43:15) blackgurl casts Mage Bolt.
+(01:43:15) sudo casts Grasp of the All-Father.
+(01:43:15) Dispel casts Call the Sky's Fury.
+(01:43:15) KSlater casts Sacred Healing.
+(01:43:15) You cast Hex of the Storm Fury.
+(01:43:15) blackgurl casts Spectral Bonds.
+(01:43:15) blackgurl casts Lesser Mage Bolt.
+(01:43:15) You cast Hex of the Ice Fury.
+(01:43:15) sudo casts Divine Recovery.
+(01:43:15) KSlater casts Tend the Wounded.
+(01:43:15) wreck casts Fury of Wind.
+(01:43:15) Dispel casts Call the Sky's Fury.
+(01:43:15) KSlater casts Divine Condemnation.
+(01:43:15) blackgurl casts Mage Bolt.
+(01:43:16) blackgurl casts Lesser Mage Bolt.
+(01:43:16) sudo casts Tend the Wounded.
+(01:43:16) You cast Call the Sky's Fury.
+(01:43:16) HuntyPet casts Call the Sky's Fury.
+(01:43:16) wreck casts Call the Sky's Fury.
+(01:43:16) HuntyPet casts Call the Sky's Fury.
+(01:43:16) blackgurl casts Mage Bolt.
+(01:43:16) sudo casts Tend the Wounded.
+(01:43:16) blackgurl casts Lesser Mage Bolt.
+(01:43:16) Dispel casts Call the Sky's Fury.
+(01:43:16) KSlater casts Sanction.
+(01:43:16) You cast Call the Sky's Fury.
+(01:43:16) TyyppVee casts Sprint.
+(01:43:16) wreck casts Call the Sky's Fury.
+(01:43:16) blackgurl casts Mage Bolt.
+(01:43:16) sudo casts Tend the Wounded.
+(01:43:16) HuntyPet casts Call the Sky's Fury.
+(01:43:16) blackgurl casts Lesser Mage Bolt.
+(01:43:16) sudo casts Tend the Wounded.
+(01:43:16) Rain casts Hex of the Storm Fury.
+(01:43:16) TyyppVee casts Steal Breath.
+(01:43:16) wreck casts Call the Sky's Fury.
+(01:43:16) Dispel casts Call the Sky's Fury.
+(01:43:16) Dispel casts Call the Sky's Fury.
+(01:43:16) KSlater casts Tend the Wounded.
+(01:43:16) Rain casts Draw Nature's Fury.
+(01:43:16) sudo casts Tend the Wounded.
+(01:43:17) HuntyPet casts Call the Sky's Fury.
+(01:43:17) You cast Draw Nature's Fury.
+(01:43:17) TyyppVee casts Shadow Mantle.
+(01:43:17) KSlater casts Tend the Wounded.
+(01:43:17) You cast Hex of the Storm Fury.
+(01:43:17) wreck casts Inflict Poison.
+(01:43:17) Rain casts Call the Sky's Fury.
+(01:43:17) blackgurl casts Consume the Will.
+(01:43:17) KSlater casts Incantation of Renunciation.
+(01:43:17) HuntyPet casts Call the Sky's Fury.
+(01:43:17) Dispel casts Call the Sky's Fury.
+(01:43:17) KSlater casts Incantation of Renunciation.
+(01:43:17) TyyppVee casts Vampire's Kiss.
+(01:43:17) sudo casts Sanction.
+(01:43:17) Rain casts Call the Sky's Fury.
+(01:43:17) wreck casts Bloodfire.
+(01:43:17) KSlater casts Tend the Wounded.
+(01:43:17) HuntyPet casts Call the Sky's Fury.
+(01:43:17) Dispel casts Call the Sky's Fury.
+(01:43:17) Rain casts Call the Sky's Fury.
+(01:43:17) KSlater casts Sanction.
+(01:43:17) sudo casts Tend the Wounded.
+(01:43:17) wreck casts Call the Sky's Fury.
+(01:43:17) Dispel casts Call the Sky's Fury.
+(01:43:17) HuntyPet casts Call the Sky's Fury.
+(01:43:17) Rain casts Call the Sky's Fury.
+(01:43:17) sudo casts Tend the Wounded.
+(01:43:18) You cast Draw Nature's Fury.
+(01:43:18) Rain casts Call the Sky's Fury.
+(01:43:18) Dispel casts Call the Sky's Fury.
+(01:43:18) sudo casts Sacred Healing.
+(01:43:18) HuntyPet casts Call the Sky's Fury.
+(01:43:18) You cast Hex of the Storm Fury.
+(01:43:18) KSlater casts Tend the Wounded.
+(01:43:18) You cast Hex of the Ice Fury.
+(01:43:18) wreck casts Call the Sky's Fury.
+(01:43:18) sudo casts Tend the Wounded.
+(01:43:18) Rain casts Call the Sky's Fury.
+(01:43:18) KSlater casts Tend the Wounded.
+(01:43:18) Dispel casts Call the Sky's Fury.
+(01:43:18) TyyppVee casts Shadow Mantle.
+(01:43:18) KSlater casts Incantation of Renunciation.
+(01:43:18) HuntyPet casts Call the Sky's Fury.
+(01:43:18) sudo casts Tend the Wounded.
+(01:43:18) wreck casts Call the Sky's Fury.
+(01:43:18) TyyppVee casts Steal Breath.
+(01:43:18) KSlater casts Incantation of Renunciation.
+(01:43:18) You cast Call the Sky's Fury.
+(01:43:18) sudo casts Tend the Wounded.
+(01:43:18) KSlater casts Incantation of Renunciation.
+(01:43:18) wreck casts Call the Sky's Fury.
+(01:43:18) Dispel casts Call the Sky's Fury.
+(01:43:18) KSlater casts Incantation of Renunciation.
+(01:43:18) sudo casts Tend the Wounded.
+(01:43:18) TyyppVee casts Shadow Bolt.
+(01:43:18) You cast Call the Sky's Fury.
+(01:43:18) HuntyPet casts Call the Sky's Fury.
+(01:43:18) KSlater casts Incantation of Renunciation.
+(01:43:18) TyyppVee casts Shadow Bolt.
+(01:43:18) wreck casts Call the Sky's Fury.
+(01:43:18) You cast Draw Nature's Fury.
+(01:43:18) sudo casts Tend the Wounded.
+(01:43:18) TyyppVee casts Shadow Bolt.
+(01:43:18) KSlater casts Incantation of Renunciation.
+(01:43:18) TyyppVee casts Shadow Bolt.
+(01:43:18) KSlater casts Incantation of Renunciation.
+(01:43:18) sudo casts Divine Recovery.
+(01:43:19) wreck casts Bloodfire.
+(01:43:19) wreck casts Inflict Poison.
+(01:43:19) KSlater casts Tend the Wounded.
+(01:43:19) sudo casts Tend the Wounded.
+(01:43:19) KSlater casts Tend the Wounded.
+(01:43:19) You cast Hex of the Storm Fury.
+(01:43:19) HuntyPet casts Call the Sky's Fury.
+(01:43:19) You cast Hex of the Ice Fury.
+(01:43:19) TyyppVee casts Shadow Mantle.
+(01:43:19) You cast Draw Nature's Fury.
+(01:43:19) wreck casts Fury of Wind.
+(01:43:19) KSlater casts Sanction.
+(01:43:19) sudo casts Sanction.
+(01:43:19) TyyppVee casts Shadow Bolt.
+(01:43:19) HuntyPet casts Call the Sky's Fury.
+(01:43:19) TyyppVee casts Shadow Bolt.
+(01:43:19) You cast Call the Sky's Fury.
+(01:43:19) KSlater casts Tend the Wounded.
+(01:43:19) Dispel casts Call the Sky's Fury.
+(01:43:19) wreck casts Call the Sky's Fury.
+(01:43:19) TyyppVee casts Shadow Bolt.
+(01:43:19) KSlater casts Incantation of Renunciation.
+(01:43:19) TyyppVee casts Shadow Bolt.
+(01:43:19) You cast Call the Sky's Fury.
+(01:43:19) HuntyPet casts Call the Sky's Fury.
+(01:43:19) KSlater casts Incantation of Renunciation.
+(01:43:19) wreck casts Call the Sky's Fury.
+(01:43:19) TyyppVee casts Steal Breath.
+(01:43:19) sudo casts Prayer of Recovery.
+(01:43:19) sudo casts Prayer of Recovery.
+(01:43:20) You cast Hex of the Ice Fury.
+(01:43:20) HuntyPet casts Fury of Ice.
+(01:43:20) wreck casts Call the Sky's Fury.
+(01:43:20) sudo casts Tend the Wounded.
+(01:43:20) Dispel casts Call the Sky's Fury.
+(01:43:20) Dispel casts Call the Sky's Fury.
+(01:43:20) KSlater casts Tend the Wounded.
+(01:43:20) wreck casts Call the Sky's Fury.
+(01:43:20) sudo casts Tend the Wounded.
+(01:43:20) HuntyPet casts Call the Sky's Fury.
+(01:43:20) You cast Hex of the Storm Fury.
+(01:43:20) Dispel casts Call the Sky's Fury.
+(01:43:20) sudo casts Tend the Wounded.
+(01:43:20) wreck casts Call the Sky's Fury.
+(01:43:20) TyyppVee casts Shadow Mantle.
+(01:43:20) HuntyPet casts Call the Sky's Fury.
+(01:43:20) sudo casts Tend the Wounded.
+(01:43:20) Dispel casts Call the Sky's Fury.
+(01:43:20) sudo casts Sanction.
+(01:43:20) wreck casts Call the Sky's Fury.
+(01:43:20) TyyppVee casts Shadow Bolt.
+(01:43:20) sudo casts Tend the Wounded.
+(01:43:20) You cast Hex of the Ice Fury.
+(01:43:20) TyyppVee casts Steal Breath.
+(01:43:20) Dispel casts Call the Sky's Fury.
+(01:43:20) You cast Draw Nature's Fury.
+(01:43:20) sudo casts Tend the Wounded.
+(01:43:20) wreck casts Call Storm.
+(01:43:20) TyyppVee casts Shadow Bolt.
+(01:43:21) HuntyPet casts Call the Sky's Fury.
+(01:43:21) sudo casts Grasp of the All-Father.
+(01:43:21) sudo casts Sanction.
+(01:43:21) TyyppVee casts Shadow Bolt.
+(01:43:21) You cast Call the Sky's Fury.
+(01:43:21) TyyppVee casts Shadow Bolt.
+(01:43:21) HuntyPet casts Call the Sky's Fury.
+(01:43:21) TyyppVee casts Shadow Bolt.
+(01:43:21) sudo casts Tend the Wounded.
+(01:43:21) TyyppVee casts Shadow Bolt.
+(01:43:21) TyyppVee casts Shadow Bolt.
+(01:43:21) HuntyPet casts Call the Sky's Fury.
+(01:43:21) You cast Call the Sky's Fury.
+(01:43:21) sudo casts Sanction.
+(01:43:21) TyyppVee casts Shadow Bolt.
+(01:43:21) TyyppVee casts Shadow Bolt.
+(01:43:21) TyyppVee casts Shadow Bolt.
+(01:43:21) You cast Call the Sky's Fury.
+(01:43:21) TyyppVee casts Slayer's Focus.
+(01:43:21) sudo casts Tend the Wounded.
+(01:43:21) sudo casts Grasp of the All-Father.
+(01:43:21) You cast Sprint.
+(01:43:22) You cast Spectral Bonds.
+(01:43:22) sudo casts Sanction.
+(01:43:22) You cast Draw Nature's Fury.
+(01:43:22) TyyppVee casts Steal Breath.
+(01:43:22) TyyppVee casts Steal Breath.
+(01:43:22) sudo casts Grasp of the All-Father.
+(01:43:22) You cast Hex of the Storm Fury.
+(01:43:22) You cast Hex of the Ice Fury.
+(01:43:22) sudo casts Sanction.
+(01:43:22) TyyppVee casts Shadow Mantle.
+(01:43:22) You cast Call the Sky's Fury.
+(01:43:22) Dispel casts Call the Sky's Fury.
+(01:43:22) TyyppVee casts Vampire's Kiss.
+(01:43:22) TyyppVee casts Vampire's Kiss.
+(01:43:22) sudo casts Tend the Wounded.
+(01:43:22) sudo casts Incantation of Renunciation.
+(01:43:22) sudo casts Tend the Wounded.
+(01:43:22) sudo casts Grasp of the All-Father.
+(01:43:22) You cast Inflict Poison.
+(01:43:23) You cast Draw Nature's Fury.
+(01:43:23) sudo casts Sanction.
+(01:43:23) TyyppVee casts Steal Breath.
+(01:43:23) You cast Hex of the Storm Fury.
+(01:43:23) You cast Hex of the Ice Fury.
+(01:43:23) sudo casts Sanction.
+(01:43:23) TyyppVee casts Shadow Mantle.
+(01:43:23) Dispel casts Call the Sky's Fury.
+(01:43:23) TyyppVee casts Shadow Bolt.
+(01:43:23) You cast Call the Sky's Fury.
+(01:43:23) You cast Call the Sky's Fury.
+(01:43:23) sudo casts Sanction.
+(01:43:23) TyyppVee casts Shadow Bolt.
+(01:43:23) TyyppVee casts Shadow Bolt.
+(01:43:23) Dispel casts Call the Sky's Fury.
+(01:43:23) sudo casts Tend the Wounded.
+(01:43:23) You cast Call the Sky's Fury.
+(01:43:23) sudo casts Tend the Wounded.
+(01:43:23) sudo casts Tend the Wounded.
+(01:43:23) TyyppVee casts Slayer's Focus.
+(01:43:23) sudo casts Tend the Wounded.
+(01:43:23) sudo casts Sanction.
+(01:43:23) sudo casts Prayer of Recovery.
+(01:43:24) sudo casts Sanction.
+(01:43:29) Mofa casts Sanction.
+(01:43:29) sudo casts Prayer of Recovery.
+(01:43:30) MDAZJ casts Saint Lorne's Ire.
+(01:43:30) You cast Draw Nature's Fury.
+(01:43:30) Mofa casts Shaper's Sanction.
+(01:43:30) HuntyPet casts Fury of Ice.
+(01:43:30) You cast Hex of the Storm Fury.
+(01:43:30) Dispel casts Call the Sky's Fury.
+(01:43:30) Mofa casts Sanction.
+(01:43:30) sudo casts Sanction.
+(01:43:30) TyyppVee casts Shadow Mantle.
+(01:43:30) SPF casts Saint Lorne's Ire.
+(01:43:30) SPF casts Saint Lorne's Ire.
+(01:43:30) You cast Hex of the Ice Fury.
+(01:43:30) Mofa casts Psalm of Sanction.
+(01:43:30) SPF casts Condemnation.
+(01:43:30) TyyppVee casts Shadow Bolt.
+(01:43:30) FYasz casts Censure.
+(01:43:30) Mofa casts Grasp of the All-Father.
+(01:43:30) HuntyPet casts Call the Sky's Fury.
+(01:43:30) TyyppVee casts Shadow Bolt.
+(01:43:30) sudo casts Incantation of Renunciation.
+(01:43:30) SPF casts Condemnation.
+(01:43:30) You cast Weakening.
+(01:43:30) TyyppVee casts Shadow Bolt.
+(01:43:30) syszj casts Sacrifice.
+(01:43:30) TyyppVee casts Shadow Bolt.
+(01:43:30) sudo casts Incantation of Renunciation.
+(01:43:30) Dispel casts Call the Sky's Fury.
+(01:43:30) Dispel casts Call the Sky's Fury.
+(01:43:30) SPF casts Censure.
+(01:43:30) syszj casts Sacrifice.
+(01:43:31) HuntyPet casts Call the Sky's Fury.
+(01:43:31) MDAZJ casts Mark of The All-Father.
+(01:43:31) You cast Spectral Bonds.
+(01:43:31) MDAZJ casts Condemnation.
+(01:43:31) Mofa casts Sanction.
+(01:43:31) sudo casts Tend the Wounded.
+(01:43:31) MDAZJ casts Condemnation.
+(01:43:31) MDAZJ casts Condemnation.
+(01:43:31) SPF casts Censure.
+(01:43:31) FYasz casts Censure.
+(01:43:31) sudo casts Tend the Wounded.
+(01:43:31) Dispel casts Call the Sky's Fury.
+(01:43:31) You cast Draw Nature's Fury.
+(01:43:31) MDAZJ casts Censure.
+(01:43:31) SPF casts Censure.
+(01:43:31) You cast Hex of the Storm Fury.
+(01:43:31) sudo casts Tend the Wounded.
+(01:43:31) HuntyPet casts Call the Sky's Fury.
+(01:43:31) Dispel casts Call the Sky's Fury.
+(01:43:31) You cast Hex of the Ice Fury.
+(01:43:31) SPF casts Censure.
+(01:43:31) TyyppVee casts Shadow Mantle.
+(01:43:31) sudo casts Tend the Wounded.
+(01:43:31) You cast Weakening.
+(01:43:31) HuntyPet casts Call the Sky's Fury.
+(01:43:31) Dispel casts Call the Sky's Fury.
+(01:43:31) SPF casts Censure.
+(01:43:31) FYasz casts Darius' Fist.
+(01:43:31) sudo casts Sacred Healing.
+(01:43:31) TyyppVee casts Steal Breath.
+(01:43:31) MDAZJ casts Censure.
+(01:43:31) MDAZJ casts Censure.
+(01:43:31) TyyppVee casts Shadow Bolt.
+(01:43:32) sudo casts Tend the Wounded.
+(01:43:32) HuntyPet casts Call the Sky's Fury.
+(01:43:32) SPF casts Censure.
+(01:43:32) You cast Call the Sky's Fury.
+(01:43:32) TyyppVee casts Shadow Bolt.
+(01:43:32) Dispel casts Call the Sky's Fury.
+(01:43:32) MDAZJ casts Censure.
+(01:43:32) You cast Sprint.
+(01:43:32) FYasz casts Censure.
+(01:43:32) sudo casts Tend the Wounded.
+(01:43:32) SPF casts Censure.
+(01:43:32) sudo casts Benediction of Healing.
+(01:43:32) Mofa casts Succor.
+(01:43:32) Dispel casts Call the Sky's Fury.
+(01:43:32) SPF casts Saint Lorne's Ire.
+(01:43:32) FYasz casts Censure.
+(01:43:32) sudo casts Tend the Wounded.
+(01:43:32) sudo casts Sanction.
+(01:43:32) HuntyPet casts Call the Sky's Fury.
+(01:43:32) Mofa casts Sanction.
+(01:43:32) TyyppVee casts Shadow Mantle.
+(01:43:32) Dispel casts Call the Sky's Fury.
+(01:43:32) Mofa casts Psalm of Sanction.
+(01:43:32) FYasz casts Censure.
+(01:43:32) sudo casts Sanction.
+(01:43:32) TyyppVee casts Steal Breath.
+(01:43:32) Mofa casts Sanction.
+(01:43:32) TyyppVee casts Shadow Bolt.
+(01:43:32) Dispel casts Call the Sky's Fury.
+(01:43:32) HuntyPet casts Call the Sky's Fury.
+(01:43:32) sudo casts Tend the Wounded.
+(01:43:32) You cast Spectral Bonds.
+(01:43:32) sudo casts Divine Recovery.
+(01:43:32) sudo casts Divine Recovery.
+(01:43:32) TyyppVee casts Vampire's Kiss.
+(01:43:32) Dispel casts Call the Sky's Fury.
+(01:43:33) TyyppVee casts Sprint.
+(01:43:33) You cast Draw Nature's Fury.
+(01:43:33) sudo casts Tend the Wounded.
+(01:43:33) Dispel casts Call the Sky's Fury.
+(01:43:33) You cast Hex of the Storm Fury.
+(01:43:33) sudo casts Tend the Wounded.
+(01:43:33) TyyppVee casts Enfeeblement.
+(01:43:33) You cast Hex of the Ice Fury.
+(01:43:33) sudo casts Sprint.
+(01:43:33) Dispel casts Call the Sky's Fury.
+(01:43:33) FYasz casts Sprint.
+(01:43:33) TyyppVee casts Shadow Mantle.
+(01:43:33) TyyppVee casts Weakening.
+(01:43:33) You cast Call the Sky's Fury.
+(01:43:33) sudo casts Grasp of the All-Father.
+(01:43:33) HuntyPet casts Fury of Ice.
+(01:43:33) TyyppVee casts Steal Breath.
+(01:43:33) You cast Call the Sky's Fury.
+(01:43:33) Dispel casts Fury of Ice.
+(01:43:33) Mofa casts Prayer of Haste.
+(01:43:33) HuntyPet casts Call the Sky's Fury.
+(01:43:33) HuntyPet casts Call the Sky's Fury.
+(01:43:33) TyyppVee casts Shadow Bolt.
+(01:43:33) Dispel casts Call the Sky's Fury.
+(01:43:33) You cast Call the Sky's Fury.
+(01:43:33) TyyppVee casts Steal Breath.
+(01:43:33) TyyppVee casts Shadow Bolt.
+(01:43:33) Dispel casts Sprint.
+(01:43:33) You cast Call the Sky's Fury.
+(01:43:33) TyyppVee casts Shadow Bolt.
+(01:43:33) sudo casts Sanction.
+(01:43:33) Mofa casts Grasp of the All-Father.
+(01:43:33) Mofa casts Sanction.
+(01:43:33) TyyppVee casts Shadow Bolt.
+(01:43:33) sudo casts Incantation of Renunciation.
+(01:43:33) HuntyPet casts Call the Sky's Fury.
+(01:43:34) FYasz casts Blessing of the Healing Hands.
+(01:43:34) Dispel casts Call the Sky's Fury.
+(01:43:34) sudo casts Sanction.
+(01:43:34) SPF casts Sprint.
+(01:43:34) sudo casts Grasp of the All-Father.
+(01:43:34) You cast Draw Nature's Fury.
+(01:43:34) TyyppVee casts Steal Breath.
+(01:43:34) You cast Hex of the Storm Fury.
+(01:43:34) Dispel casts Call the Sky's Fury.
+(01:43:34) TyyppVee casts Shadow Bolt.
+(01:43:34) You cast Hex of the Ice Fury.
+(01:43:34) TyyppVee casts Shadow Bolt.
+(01:43:34) TyyppVee casts Shadow Bolt.
+(01:43:34) sudo casts Grasp of the All-Father.
+(01:43:34) You cast Inflict Poison.
+(01:43:34) SPF casts Sacred Healing.
+(01:43:34) sudo casts Sanction.
+(01:43:35) Dispel casts Traveling Stance.
+(01:43:35) sudo casts Sanction.
+(01:43:35) HuntyPet casts Phaedra's Fury.
+(01:43:35) sudo casts Prayer of Recovery.
+(01:43:35) TyyppVee casts Slayer's Focus.
+(01:43:35) sudo casts Sanction.
+(01:43:35) sudo casts Sanction.
+(01:43:36) sudo casts Sanction.
+(01:43:36) sudo casts Divine Condemnation.
+(01:43:36) sudo casts Sanction.
+(01:43:41) Luke casts Prayer of Mending.
+(01:43:41) Nibenay casts Psychic Shout.
+(01:43:41) CloudA casts Steal Breath.
+(01:43:41) Nibenay casts Mind Strike.
+(01:43:41) CloudA casts Shadow Touch.
+(01:43:41) CrossToBear casts Benediction of Saint Lorne.
+(01:43:41) Luke casts Censure.
+(01:43:41) CloudA casts Steal Breath.
+(01:43:41) SKERD casts Consume Wickedness.
+(01:43:41) Healn casts Sanction.
+(01:43:41) TypeVee casts Sacrifice.
+(01:43:41) Luke casts Censure.
+(01:43:41) Nibenay casts Mind Strike.
+(01:43:41) CloudA casts Shadow Touch.
+(01:43:41) SKERD casts Sprint.
+(01:43:42) lover casts Shadow Bolt.
+(01:43:42) DayWalker casts Fling Holy Water.
+(01:43:42) lover casts Shadow Bolt.
+(01:43:42) Luke casts Censure.
+(01:43:42) Bourbon casts Grasp of the All-Father.
+(01:43:42) Mephistopheles casts Shadow Bolt.
+(01:43:42) Bourbon casts Sanction.
+(01:43:42) DayWalker casts Fling Holy Water.
+(01:43:42) lover casts Shadow Bolt.
+(01:43:42) Bearable casts Bear Shape.
+(01:43:42) TypeVee casts Sacrifice.
+(01:43:42) TypeVee casts Sacrifice.
+(01:43:42) Mephistopheles casts Shadow Bolt.
+(01:43:42) CloudA casts Shadow Touch.
+(01:43:42) DayWalker casts Fling Holy Water.
+(01:43:42) CloudA casts Steal Breath.
+(01:43:43) TypeVee casts Sacrifice.
+(01:43:43) DayWalker casts Fling Holy Water.
+(01:43:43) LeiBruc casts Grasp of the All-Father.
+(01:43:43) Luke casts Prayer of Mending.
+(01:43:43) DayWalker casts Fling Holy Water.
+(01:43:43) LeiBruc casts Divine Condemnation.
+(01:43:43) Bourbon casts Tend the Wounded.
+(01:43:43) TypeVee casts Sacrifice.
+(01:43:43) lover casts Slayer's Focus.
+(01:43:43) TyyppVee casts Vampire's Kiss.
+(01:43:43) DayWalker casts Fling Holy Water.
+(01:43:43) Mephistopheles casts Sprint.
+(01:43:43) CrossToBear casts Sacrifice.
+(01:43:43) CloudA casts Vampire's Kiss.
+(01:43:43) Luke casts Aid to the Faithful.
+(01:43:43) TyyppVee casts Steal Breath.
+(01:43:44) DayWalker casts Sprint.
+(01:43:44) Luke casts Benediction of Saint Lorne.
+(01:43:44) lover casts Shadow Mantle.
+(01:43:44) LeiBruc casts Sanction.
+(01:43:44) TyyppVee casts Shadow Bolt.
+(01:43:44) TypeVee casts Sacrifice.
+(01:43:44) TypeVee casts Sacrifice.
+(01:43:44) Bourbon casts Divine Sanction.
+(01:43:44) CloudA casts Shadow Touch.
+(01:43:44) lover casts Chilling Shadows.
+(01:43:44) Peking casts Shadow Bolt.
+(01:43:44) LeiBruc casts Rally Troops.
+(01:43:44) Marco casts Censure.
+(01:43:44) You cast Rally Troops.
+(01:43:44) Peking casts Shadow Bolt.
+(01:43:44) TypeVee casts Sacrifice.
+(01:43:44) SpeedyDri casts Prayer of Mending.
+(01:43:44) CloudA casts Steal Breath.
+(01:43:44) Bourbon casts Tend the Wounded.
+(01:43:44) Healn casts Rally Troops.
+(01:43:44) Peking casts Shadow Bolt.
+(01:43:44) Marco casts Censure.
+(01:43:44) Soda casts Sacrifice.
+(01:43:44) SKERD casts Cleansing Flame.
+(01:43:44) TypeVee casts Blessed Mending.
+(01:43:44) TyyppVee casts Enfeeblement.
+(01:43:44) Luke casts Censure.
+(01:43:45) LeiBruc casts Tend the Wounded.
+(01:43:45) Bourbon casts Sacred Healing.
+(01:43:45) Luke casts Benediction of Saint Lorne.
+(01:43:45) CloudA casts Shadow Bolt.
+(01:43:45) TypeVee casts Blessed Mending.
+(01:43:45) SpeedyDri casts Sacred Healing.
+(01:43:45) Peking casts Vampire's Kiss.
+(01:43:45) TyyppVee casts Shadow Mantle.
+(01:43:45) Soda casts Sacrifice.
+(01:43:45) CloudA casts Shadow Bolt.
+(01:43:45) LeiBruc casts Tend the Wounded.
+(01:43:45) lover casts Steal Breath.
+(01:43:45) TyyppVee casts Weakening.
+(01:43:45) Bourbon casts Tend the Wounded.
+(01:43:45) Peking casts Shadow Bolt.
+(01:43:45) Ninja casts Vampire's Kiss.
+(01:43:45) TypeVee casts Blessed Mending.
+(01:43:45) CloudA casts Shadow Bolt.
+(01:43:45) lover casts Shadow Bolt.
+(01:43:45) Peking casts Shadow Bolt.
+(01:43:45) Soda casts Sacrifice.
+(01:43:45) SpeedyDri casts Tend the Wounded.
+(01:43:46) Marco casts Sprint.
+(01:43:46) LeiBruc casts Tend the Wounded.
+(01:43:46) TypeVee casts Blessed Mending.
+(01:43:46) Healn casts Incantation of Renunciation.
+(01:43:46) Bourbon casts Divine Recovery.
+(01:43:46) lover casts Shadow Bolt.
+(01:43:46) TyyppVee casts Enfeeblement.
+(01:43:46) LeiBruc casts Grasp of the All-Father.
+(01:43:46) Healn casts Incantation of Renunciation.
+(01:43:46) TypeVee casts Sacrifice.
+(01:43:46) Peking casts Shadow Mantle.
+(01:43:46) LeiBruc casts Divine Sanction.
+(01:43:46) CrossToBear casts Sacrifice.
+(01:43:46) Healn casts Incantation of Renunciation.
+(01:43:46) lover casts Shadow Mantle.
+(01:43:46) Peking casts Shadow Bolt.
+(01:43:46) CloudA casts Slayer's Focus.
+(01:43:46) lover casts Enfeeblement.
+(01:43:46) LeiBruc casts Sanction.
+(01:43:46) TypeVee casts Sacrifice.
+(01:43:46) Healn casts Incantation of Renunciation.
+(01:43:46) Peking casts Chilling Shadows.
+(01:43:46) lover casts Weakening.
+(01:43:46) TyyppVee casts Chilling Shadows.
+(01:43:46) Luke casts Censure.
+(01:43:46) Peking casts Shadow Bolt.
+(01:43:46) lover casts Shadow Bolt.
+(01:43:47) Bourbon casts Tend the Wounded.
+(01:43:47) Peking casts Shadow Bolt.
+(01:43:47) TypeVee casts Blessed Mending.
+(01:43:47) CloudA casts Shadow Touch.
+(01:43:47) TypeVee casts Blessed Mending.
+(01:43:47) Luke casts Censure.
+(01:43:47) LeiBruc casts Sanction.
+(01:43:47) TypeVee casts Blessed Mending.
+(01:43:47) You cast Dark Curse.
+(01:43:47) CloudA casts Steal Breath.
+(01:43:47) Bourbon casts Sanction.
+(01:43:47) LeiBruc casts Sanction.
+(01:43:47) Ninja casts Dark Curse.
+(01:43:47) TypeVee casts Sacrifice.
+(01:43:47) Bourbon casts Divine Condemnation.
+(01:43:47) LeiBruc casts Sanction.
+(01:43:47) TypeVee casts Blessed Mending.
+(01:43:47) TypeVee casts Blessed Mending.
+(01:43:47) Bourbon casts Sanction.
+(01:43:47) Luke casts Prayer of Mending.
+(01:43:47) CloudA casts Traveling Stance.
+(01:43:47) LeiBruc casts Prayer of Recovery.
+(01:43:47) LeiBruc casts Prayer of Recovery.
+(01:43:48) Bourbon casts Divine Recovery.
+(01:43:53) syq casts Prayer of Mending.
+(01:43:53) Uther casts Simeron's Song.
+(01:43:53) Ssmo casts Beorc Rune.
+(01:43:53) YooY casts Sanction.
+(01:43:53) tickles casts Sanction.
+(01:43:53) Uther casts Sanction.
+(01:43:53) Ssmo casts Benediction of Saint Lorne.
+(01:43:53) Uther casts Incantation of Renunciation.
+(01:43:53) tickles casts Sanction.
+(01:43:53) YooY casts Prayer of Recovery.
+(01:43:53) Uther casts Divine Recovery.
+(01:43:53) syq casts Prayer of Recovery.
+(01:43:53) Uther casts Sanction.
+(01:43:53) tickles casts Sanction.
+(01:43:53) Szmz casts Shielding.
+(01:43:53) syq casts Prayer of Mending.
+(01:43:53) Uther casts Divine Recovery.
+(01:43:53) Uther casts Incantation of Renunciation.
+(01:43:54) tickles casts Prayer of Recovery.
+(01:43:54) Hold casts Steal Breath.
+(01:43:54) You cast Shadow Mantle.
+(01:43:54) YooY casts Grasp of the All-Father.
+(01:43:54) vVv casts Shadow Bolt.
+(01:43:54) Sithranis casts Shadow Bolt.
+(01:43:54) fcd casts Inflict Poison.
+(01:43:54) YooY casts Psalm of Sanction.
+(01:43:54) Hold casts Shadow Bolt.
+(01:43:54) You cast Shadow Bolt.
+(01:43:54) You cast Shadow Bolt.
+(01:43:54) vVv casts Shadow Bolt.
+(01:43:54) Uther casts Tend the Wounded.
+(01:43:54) Sax casts Sacrifice.
+(01:43:54) champagne casts Draw Nature's Fury.
+(01:43:54) CloudA casts Shadow Bolt.
+(01:43:54) Soda casts Sacrifice.
+(01:43:54) Sithranis casts Shadow Bolt.
+(01:43:54) JMc casts Shadow Mantle.
+(01:43:54) vVv casts Shadow Bolt.
+(01:43:54) champagne casts Hex of the Ice Fury.
+(01:43:54) CloudA casts Shadow Bolt.
+(01:43:54) JMc casts Shadow Bolt.
+(01:43:54) Uther casts Divine Recovery.
+(01:43:54) tickles casts Divine Recovery.
+(01:43:54) fcd casts Fury of Wind.
+(01:43:54) JMc casts Shadow Bolt.
+(01:43:54) Soda casts Nyth Rune.
+(01:43:54) Sax casts Sacrifice.
+(01:43:54) Uther casts Divine Recovery.
+(01:43:54) JMc casts Shadow Bolt.
+(01:43:54) champagne casts Claws of Blindness.
+(01:43:55) vVv casts Shadow Bolt.
+(01:43:55) Sithranis casts Shadow Bolt.
+(01:43:55) Soda casts Benediction of Saint Lorne.
+(01:43:55) Uther casts Incantation of Renunciation.
+(01:43:55) JMc casts Shadow Bolt.
+(01:43:55) YooY casts Prayer of Recovery.
+(01:43:55) vVv casts Shadow Bolt.
+(01:43:55) Ssmo casts Sacrifice.
+(01:43:55) tickles casts Tend the Wounded.
+(01:43:55) Sithranis casts Shadow Bolt.
+(01:43:55) CloudA casts Shadow Mantle.
+(01:43:55) tickles casts Incantation of Renunciation.
+(01:43:55) champagne casts Enfeeblement.
+(01:43:55) Uther casts Tend the Wounded.
+(01:43:55) Sithranis casts Shadow Bolt.
+(01:43:55) JMc casts Shadow Bolt.
+(01:43:55) Sax casts Sacrifice.
+(01:43:55) champagne casts Weakening.
+(01:43:55) CloudA casts Steal Breath.
+(01:43:55) SWK casts Call Lightning.
+(01:43:55) vVv casts Shadow Bolt.
+(01:43:55) ysmf casts Call Lightning.
+(01:43:55) Uther casts Incantation of Renunciation.
+(01:43:55) YooY casts Incantation of Renunciation.
+(01:43:55) Sithranis casts Shadow Bolt.
+(01:43:55) syq casts Prayer of Mending.
+(01:43:55) Ssmo casts Sacrifice.
+(01:43:55) tickles casts Incantation of Renunciation.
+(01:43:55) ysmf casts Flesh of Lead.
+(01:43:56) Uther casts Incantation of Renunciation.
+(01:43:56) SWK casts Blizzard.
+(01:43:56) JMc casts Shadow Bolt.
+(01:43:56) Hold casts Shadow Bolt.
+(01:43:56) fcd casts Call the Blizzard.
+(01:43:56) tickles casts Divine Recovery.
+(01:43:56) Sax casts Sacrifice.
+(01:43:56) Uther casts Tend the Wounded.
+(01:43:56) JMc casts Shadow Bolt.
+(01:43:56) Hold casts Shadow Bolt.
+(01:43:56) ysmf casts Blizzard.
+(01:43:56) Soda casts Nyth Rune.
+(01:43:56) YooY casts Prayer of Mending.
+(01:43:56) Szmz casts Sign of Sorthoth.
+(01:43:56) Hold casts Steal Breath.
+(01:43:56) YooY casts Psalm of Sanction.
+(01:43:56) Sax casts Sacrifice.
+(01:43:56) Uther casts Divine Recovery.
+(01:43:56) SWK casts Ignite.
+(01:43:56) Hold casts Shadow Bolt.
+(01:43:56) Szmz casts Mage Bolt.
+(01:43:56) Soda casts Sacrifice.
+(01:43:56) Soda casts Sacrifice.
+(01:43:56) JMc casts Shadow Mantle.
+(01:43:56) Hold casts Shadow Bolt.
+(01:43:56) JMc casts Shadow Bolt.
+(01:43:56) Sax casts Sacrifice.
+(01:43:56) Szmz casts Mage Bolt.
+(01:43:56) Uther casts Divine Recovery.
+(01:43:56) tickles casts Prayer of Recovery.
+(01:43:57) Uther casts Sanction.
+(01:43:57) SWK casts Fire Bolt.
+(01:43:57) tickles casts Sanction.
+(01:43:57) You cast Shadow Bolt.
+(01:43:57) JMc casts Shadow Bolt.
+(01:43:57) ysmf casts Incendiary Blast.
+(01:43:57) champagne casts Draw Nature's Fury.
+(01:43:57) Soda casts Sacrifice.
+(01:43:57) Szmz casts Mage Bolt.
+(01:43:57) vVv casts Shadow Bolt.
+(01:43:57) Ssmo casts Sacrifice.
+(01:43:57) You cast Shadow Bolt.
+(01:43:57) Sax casts Sacrifice.
+(01:43:57) YooY casts Prayer of Recovery.
+(01:43:57) JMc casts Shadow Bolt.
+(01:43:57) Sithranis casts Shadow Bolt.
+(01:43:57) Uther casts Tend the Wounded.
+(01:43:57) You cast Shadow Bolt.
+(01:43:57) tickles casts Incantation of Renunciation.
+(01:43:57) Soda casts Nyth Rune.
+(01:43:57) JMc casts Shadow Bolt.
+(01:43:57) SWK casts Call Lightning.
+(01:43:57) CloudA casts Steal Breath.
+(01:43:57) Sithranis casts Shadow Bolt.
+(01:43:57) Hold casts Shadow Bolt.
+(01:43:57) Uther casts Incantation of Renunciation.
+(01:43:57) Ssmo casts Sacrifice.
+(01:43:57) Sithranis casts Shadow Bolt.
+(01:43:57) Uther casts Incantation of Renunciation.
+(01:43:57) champagne casts Hex of the Ice Fury.
+(01:43:57) tickles casts Incantation of Renunciation.
+(01:43:57) You cast Shadow Bolt.
+(01:43:57) YooY casts Psalm of Sanction.
+(01:43:58) champagne casts Weakening.
+(01:43:58) CloudA casts Shadow Bolt.
+(01:43:58) JMc casts Vampire's Kiss.
+(01:43:58) Sithranis casts Shadow Bolt.
+(01:43:58) Breeze casts Unholy Terror.
+(01:43:58) champagne casts Enfeeblement.
+(01:43:58) Uther casts Incantation of Renunciation.
+(01:43:58) You cast Shadow Bolt.
+(01:43:58) Hold casts Shadow Bolt.
+(01:43:58) CloudA casts Shadow Bolt.
+(01:43:58) tickles casts Incantation of Renunciation.
+(01:43:58) JMc casts Shadow Bolt.
+(01:43:58) Soda casts Sacrifice.
+(01:43:58) Sithranis casts Shadow Bolt.
+(01:43:58) Ssmo casts Sacrifice.
+(01:43:58) Sax casts Sacrifice.
+(01:43:58) ysmf casts Blizzard.
+(01:43:58) Uther casts Incantation of Renunciation.
+(01:43:58) JMc casts Shadow Mantle.
+(01:43:58) champagne casts Sprint.
+(01:43:58) CloudA casts Sprint.
+(01:43:58) tickles casts Incantation of Renunciation.
+(01:43:58) Breeze casts Shadow of Doom.
+(01:43:58) YooY casts Prayer of Mending.
+(01:43:59) Uther casts Divine Recovery.
+(01:43:59) JMc casts Shadow Bolt.
+(01:43:59) Soda casts Sprint.
+(01:43:59) ysmf casts Call Lightning.
+(01:43:59) Sithranis casts Sprint.
+(01:43:59) vVv casts Sprint.
+(01:43:59) Uther casts Sanction.
+(01:43:59) SWK casts Incendiary Blast.
+(01:43:59) JMc casts Shadow Bolt.
+(01:43:59) tickles casts Sprint.
+(01:43:59) Sax casts Sacrifice.
+(01:43:59) Breeze casts Unholy Storm.
+(01:43:59) JMc casts Shadow Bolt.
+(01:43:59) YooY casts Psalm of Sanction.
+(01:43:59) Uther casts Sprint.
+(01:43:59) syq casts Prayer of Mending.
+(01:43:59) ysmf casts Incendiary Blast.
+(01:43:59) JMc casts Shadow Bolt.
+(01:43:59) tickles casts Sanction.
+(01:43:59) CloudA casts Steal Breath.
+(01:43:59) Uther casts Rally Troops.
+(01:43:59) JMc casts Shadow Bolt.
+(01:43:59) Soda casts Rally Troops.
+(01:43:59) CloudA casts Shadow Bolt.
+(01:43:59) YooY casts Grasp of the All-Father.
+(01:44:00) JMc casts Shadow Bolt.
+(01:44:00) champagne casts Draw Nature's Fury.
+(01:44:00) Hold casts Shadow Bolt.
+(01:44:00) CloudA casts Shadow Bolt.
+(01:44:00) Sithranis casts Shadow Bolt.
+(01:44:00) champagne casts Hex of the Ice Fury.
+(01:44:00) SWK casts Prayer of Mending.
+(01:44:00) ysmf casts Blizzard.
+(01:44:00) CloudA casts Shadow Bolt.
+(01:44:00) JMc casts Shadow Mantle.
+(01:44:00) champagne casts Weakening.
+(01:44:00) SWK casts Flesh of Granite.
+(01:44:00) Hold casts Shadow Mantle.
+(01:44:00) champagne casts Enfeeblement.
+(01:44:00) Sithranis casts Shadow Bolt.
+(01:44:00) Sax casts Sacrifice.
+(01:44:00) You cast Slayer's Focus.
+(01:44:00) CloudA casts Shadow Bolt.
+(01:44:00) tickles casts Prayer of Recovery.
+(01:44:00) tickles casts Prayer of Recovery.
+(01:44:00) JMc casts Shadow Bolt.
+(01:44:00) Soda casts Nyth Rune.
+(01:44:00) Ssmo casts Sacrifice.
+(01:44:00) Uther casts Sanction.
+(01:44:00) Hold casts Steal Breath.
+(01:44:00) vVv casts Shadow Bolt.
+(01:44:00) Sithranis casts Shadow Bolt.
+(01:44:01) You cast Shadow Bolt.
+(01:44:01) YooY casts Prayer of Recovery.
+(01:44:01) CloudA casts Shadow Bolt.
+(01:44:01) JMc casts Shadow Bolt.
+(01:44:01) Sax casts Sacrifice.
+(01:44:01) Soda casts Sacrifice.
+(01:44:01) JMc casts Shadow Bolt.
+(01:44:01) tickles casts Incantation of Renunciation.
+(01:44:01) JMc casts Shadow Bolt.
+(01:44:01) Uther casts Incantation of Renunciation.
+(01:44:01) Sax casts Sacrifice.
+(01:44:01) tickles casts Incantation of Renunciation.
+(01:44:01) Soda casts Sacrifice.
+(01:44:01) You cast Shadow Bolt.
+(01:44:01) JMc casts Shadow Bolt.
+(01:44:01) YooY casts Psalm of Sanction.
+(01:44:01) syq casts Prayer of Mending.
+(01:44:01) champagne casts Skirmish Counterspell.
+(01:44:01) Uther casts Incantation of Renunciation.
+(01:44:01) Hold casts Slayer's Focus.
+(01:44:01) tickles casts Incantation of Renunciation.
+(01:44:01) You cast Shadow Bolt.
+(01:44:01) Soda casts Nyth Rune.
+(01:44:01) Sax casts Sacrifice.
+(01:44:01) JMc casts Shadow Bolt.
+(01:44:01) Uther casts Incantation of Renunciation.
+(01:44:01) vVv casts Shadow Bolt.
+(01:44:01) CloudA casts Enfeeblement.
+(01:44:01) Hold casts Shadow Bolt.
+(01:44:01) You cast Shadow Bolt.
+(01:44:01) tickles casts Incantation of Renunciation.
+(01:44:01) vVv casts Shadow Bolt.
+(01:44:01) Hold casts Shadow Bolt.
+(01:44:01) Sax casts Sacrifice.
+(01:44:01) Soda casts Nyth Rune.
+(01:44:02) Uther casts Divine Recovery.
+(01:44:02) tickles casts Incantation of Renunciation.
+(01:44:02) CloudA casts Shadow Mantle.
+(01:44:02) You cast Shadow Mantle.
+(01:44:02) vVv casts Shadow Bolt.
+(01:44:02) champagne casts Draw Nature's Fury.
+(01:44:02) syq casts Prayer of Recovery.
+(01:44:02) Hold casts Steal Breath.
+(01:44:02) CloudA casts Steal Breath.
+(01:44:02) You cast Chilling Shadows.
+(01:44:02) vVv casts Shadow Bolt.
+(01:44:02) Sithranis casts Shadow Bolt.
+(01:44:02) Sax casts Sacrifice.
+(01:44:02) champagne casts Hex of the Ice Fury.
+(01:44:02) JMc casts Vampire's Kiss.
+(01:44:02) Hold casts Shadow Bolt.
+(01:44:02) Ssmo casts Sacrifice.
+(01:44:02) champagne casts Weakening.
+(01:44:02) Soda casts Nyth Rune.
+(01:44:02) CloudA casts Shadow Bolt.
+(01:44:02) vVv casts Shadow Bolt.
+(01:44:02) You cast Shadow Bolt.
+(01:44:02) Sithranis casts Shadow Bolt.
+(01:44:02) champagne casts Enfeeblement.
+(01:44:02) Hold casts Shadow Bolt.
+(01:44:02) JMc casts Shadow Mantle.
+(01:44:02) Sax casts Sacrifice.
+(01:44:02) Ssmo casts Sacrifice.
+(01:44:02) Uther casts Prayer of Recovery.
+(01:44:02) Hold casts Shadow Bolt.
+(01:44:02) Uther casts Sanction.
+(01:44:02) syq casts Succor.
+(01:44:02) tickles casts Prayer of Recovery.
+(01:44:03) Soda casts Sacrifice.
+(01:44:03) Sax casts Sacrifice.
+(01:44:03) Hold casts Shadow Bolt.
+(01:44:03) ysmf casts Incendiary Blast.
+(01:44:03) You cast Shadow Bolt.
+(01:44:03) Sithranis casts Shadow Bolt.
+(01:44:03) Uther casts Tend the Wounded.
+(01:44:03) Soda casts Sacrifice.
+(01:44:03) vVv casts Steal Breath.
+(01:44:03) You cast Shadow Bolt.
+(01:44:03) SWK casts Blizzard.
+(01:44:03) Hold casts Shadow Mantle.
+(01:44:03) Sithranis casts Shadow Bolt.
+(01:44:03) YooY casts Tend the Wounded.
+(01:44:03) Sax casts Sacrifice.
+(01:44:03) syq casts Prayer of Mending.
+(01:44:03) ysmf casts Blizzard.
+(01:44:03) Soda casts Nyth Rune.
+(01:44:03) You cast Shadow Bolt.
+(01:44:03) Hold casts Shadow Bolt.
+(01:44:03) Sithranis casts Shadow Bolt.
+(01:44:03) CloudA casts Steal Breath.
+(01:44:03) Uther casts Divine Recovery.
+(01:44:03) champagne casts Draw Nature's Fury.
+(01:44:03) ysmf casts Sprint.
+(01:44:03) vVv casts Shadow Bolt.
+(01:44:03) You cast Shadow Bolt.
+(01:44:03) Hold casts Shadow Bolt.
+(01:44:04) Sithranis casts Shadow Bolt.
+(01:44:04) CloudA casts Shadow Bolt.
+(01:44:04) SWK casts Sprint.
+(01:44:04) Ssmo casts Sprint.
+(01:44:04) Uther casts Divine Recovery.
+(01:44:04) YooY casts Sprint.
+(01:44:04) Soda casts Sacrifice.
+(01:44:04) You cast Sprint.
+(01:44:04) CloudA casts Shadow Bolt.
+(01:44:04) tickles casts Incantation of Renunciation.
+(01:44:04) Hold casts Shadow Bolt.
+(01:44:04) Sax casts Sacrifice.
+(01:44:04) syq casts Sprint.
+(01:44:04) Soda casts Nyth Rune.
+(01:44:04) Uther casts Divine Recovery.
+(01:44:04) tickles casts Incantation of Renunciation.
+(01:44:04) tickles casts Incantation of Renunciation.
+(01:44:04) Hold casts Sprint.
+(01:44:04) CloudA casts Shadow Bolt.
+(01:44:04) YooY casts Incantation of Renunciation.
+(01:44:04) You cast Shadow Bolt.
+(01:44:04) tickles casts Sanction.
+(01:44:04) Sax casts Sacrifice.
+(01:44:04) Sax casts Sacrifice.
+(01:44:04) Uther casts Incantation of Renunciation.
+(01:44:04) Sithranis casts Shadow Bolt.
+(01:44:04) You cast Shadow Bolt.
+(01:44:04) Uther casts Incantation of Renunciation.
+(01:44:05) Sax casts Benediction of Saint Lorne.
+(01:44:05) Uther casts Sanction.
+(01:44:05) Hold casts Spectral Bonds.
+(01:44:05) Hold casts Steal Breath.
+(01:44:06) Sithranis casts Slayer's Focus.
+(01:44:06) syq casts Incantation of Renunciation.
+(01:44:06) Hold casts Shadow Bolt.
+(01:44:06) tickles casts Sanction.
+(01:44:06) Soda casts Benediction of Saint Lorne.
+(01:44:06) vVv casts Slayer's Focus.
+(01:44:06) Sax casts Benediction of Saint Lorne.
+(01:44:06) Uther casts Prayer of Recovery.
+(01:44:06) Uther casts Sanction.
+(01:44:06) Hold casts Slayer's Focus.
+(01:44:07) tickles casts Sanction.
+(01:44:07) Soda casts Benediction of Saint Lorne.
+(01:44:07) Uther casts Sanction.
+(01:44:07) tickles casts Prayer of Recovery.
+(01:44:07) Toy casts Sanction.
+(01:44:08) Manshoon casts Greater Translocation.
+(01:44:08) Liquid casts Exalted Word of Binding.
+(01:44:08) Healn casts Prayer of Recovery.
+(01:44:08) Uther casts Divine Recovery.
+(01:44:08) HolyThug casts Righteous Word of Binding.
+(01:44:08) CaliSent casts Divine Word of Binding.
+(01:44:08) vVv casts Shadow Bolt.
+(01:44:08) vVv casts Shadow Bolt.
+(01:44:08) Tibins casts Saint Lorne's Ire.
+(01:44:08) Soda casts Darius' Fist.
+(01:44:08) Prodriver casts Divine Word of Binding.
+(01:44:08) champagne casts Spectral Bonds.
+(01:44:08) Prodriver casts Exalted Word of Binding.
+(01:44:08) Toy casts Prayer of Mending.
+(01:44:08) Uther casts Prayer of Haste.
+(01:44:08) vVv casts Shadow Bolt.
+(01:44:08) CaliSent casts Exalted Word of Binding.
+(01:44:09) Healn casts Prayer of Mending.
+(01:44:09) Sax casts Sacrifice.
+(01:44:09) Liquid casts Divine Word of Binding.
+(01:44:09) Prodriver casts Holy Word of Binding.
+(01:44:09) tickles casts Incantation of Renunciation.
+(01:44:09) Sax casts Sprint.
+(01:44:09) Sithranis casts Crimson Pact.
+(01:44:09) Tibins casts Censure.
+(01:44:09) Liquid casts Holy Word of Binding.
+(01:44:09) Vaginex casts Steal Breath.
+(01:44:09) Sithranis casts Fade.
+(01:44:09) CaliSent casts Holy Word of Binding.
+(01:44:09) Manshoon casts Sign of Sorthoth.
+(01:44:09) Uther casts Sacred Healing.
+(01:44:09) Vaginex casts Shadow Bolt.
+(01:44:09) You cast Shadow Bolt.
+(01:44:09) tickles casts Prayer of Haste.
+(01:44:09) Healn casts Sanction.
+(01:44:09) Hold casts Crimson Pact.
+(01:44:09) Sax casts Sacrifice.
+(01:44:09) Manshoon casts Mage Bolt.
+(01:44:10) Healn casts Grasp of the All-Father.
+(01:44:10) Vaginex casts Shadow Bolt.
+(01:44:10) You cast Shadow Bolt.
+(01:44:10) Uther casts Tend the Wounded.
+(01:44:10) Toy casts Benediction of Healing.
+(01:44:10) tickles casts Incantation of Renunciation.
+(01:44:10) Hold casts Shadow Bolt.
+(01:44:10) You cast Shadow Bolt.
+(01:44:10) champagne casts Draw Nature's Fury.
+(01:44:10) champagne casts Draw Nature's Fury.
+(01:44:10) Uther casts Incantation of Renunciation.
+(01:44:10) Sax casts Sacrifice.
+(01:44:10) HolyThug casts Righteous Word of Binding.
+(01:44:10) Sithranis casts Shadow Bolt.
+(01:44:10) Hold casts Shadow Touch.
+(01:44:10) Manshoon casts Translocation.
+(01:44:10) tickles casts Incantation of Renunciation.
+(01:44:10) champagne casts Hex of the Ice Fury.
+(01:44:10) CloudA casts Steal Breath.
+(01:44:10) Sithranis casts Shadow Bolt.
+(01:44:10) champagne casts Weakening.
+(01:44:10) You cast Shadow Mantle.
+(01:44:10) Toy casts Grasp of the All-Father.
+(01:44:10) Prodriver casts Traveling Stance.
+(01:44:10) Uther casts Incantation of Renunciation.
+(01:44:10) champagne casts Enfeeblement.
+(01:44:10) Healn casts Tend the Wounded.
+(01:44:10) Toy casts Sanction.
+(01:44:11) Sax casts Rally Troops.
+(01:44:11) Soda casts Nyth Rune.
+(01:44:11) Sithranis casts Steal Breath.
+(01:44:11) Tibins casts Censure.
+(01:44:11) Hold casts Shadow Bolt.
+(01:44:11) You cast Shadow Bolt.
+(01:44:11) Hold casts Shadow Bolt.
+(01:44:11) Manshoon casts River of Life.
+(01:44:11) Vaginex casts Sprint.
+(01:44:11) Uther casts Tend the Wounded.
+(01:44:11) You cast Feral Fury.
+(01:44:11) tickles casts Prayer of Recovery.
+(01:44:11) tickles casts Sanction.
+(01:44:11) Hold casts Shadow Bolt.
+(01:44:11) vVv casts Shadow Bolt.
+(01:44:11) Tibins casts Censure.
+(01:44:11) champagne casts Claws of Blindness.
+(01:44:11) You cast Shadow Bolt.
+(01:44:11) Manshoon casts Sprint.
+(01:44:11) Toy casts Tend the Wounded.
+(01:44:11) Healn casts Tend the Wounded.
+(01:44:11) Soda casts Nyth Rune.
+(01:44:11) tickles casts Incantation of Renunciation.
+(01:44:11) You cast Shadow Bolt.
+(01:44:11) Sithranis casts Shadow Bolt.
+(01:44:11) Sax casts Sacrifice.
+(01:44:11) Hold casts Shadow Bolt.
+(01:44:11) CloudA casts Steal Breath.
+(01:44:11) You cast Shadow Bolt.
+(01:44:11) Sithranis casts Shadow Bolt.
+(01:44:11) Toy casts Tend the Wounded.
+(01:44:12) Uther casts Prayer of Recovery.
+(01:44:12) Uther casts Sanction.
+(01:44:12) tickles casts Divine Recovery.
+(01:44:12) Soda casts Sacrifice.
+(01:44:12) You cast Shadow Bolt.
+(01:44:12) Sithranis casts Shadow Bolt.
+(01:44:12) Healn casts Divine Recovery.
+(01:44:12) Hold casts Shadow Mantle.
+(01:44:12) CloudA casts Shadow Mantle.
+(01:44:12) Vaginex casts Shadow Touch.
+(01:44:12) You cast Shadow Bolt.
+(01:44:12) Sithranis casts Shadow Bolt.
+(01:44:12) Sax casts Sacrifice.
+(01:44:12) Hold casts Shadow Bolt.
+(01:44:12) tickles casts Incantation of Renunciation.
+(01:44:12) CloudA casts Shadow Bolt.
+(01:44:12) Uther casts Grasp of the All-Father.
+(01:44:12) Healn casts Tend the Wounded.
+(01:44:12) Toy casts Grasp of the All-Father.
+(01:44:12) Soda casts Nyth Rune.
+(01:44:12) Sithranis casts Shadow Bolt.
+(01:44:12) Hold casts Shadow Bolt.
+(01:44:12) vVv casts Shadow Mantle.
+(01:44:12) CloudA casts Shadow Bolt.
+(01:44:12) Vaginex casts Shadow Mantle.
+(01:44:12) You cast Shadow Bolt.
+(01:44:12) You cast Shadow Bolt.
+(01:44:12) tickles casts Incantation of Renunciation.
+(01:44:12) Sithranis casts Shadow Bolt.
+(01:44:12) Hold casts Shadow Bolt.
+(01:44:12) Healn casts Divine Recovery.
+(01:44:12) Vaginex casts Enfeeblement.
+(01:44:12) Toy casts Sanction.
+(01:44:12) Soda casts Rally Troops.
+(01:44:12) Liquid casts Exalted Word of Binding.
+(01:44:13) CloudA casts Shadow Bolt.
+(01:44:13) Uther casts Incantation of Renunciation.
+(01:44:13) Vaginex casts Weakening.
+(01:44:13) Sithranis casts Shadow Bolt.
+(01:44:13) You cast Shadow Bolt.
+(01:44:13) Hold casts Shadow Bolt.
+(01:44:13) Sax casts Sacrifice.
+(01:44:13) CloudA casts Shadow Touch.
+(01:44:13) tickles casts Incantation of Renunciation.
+(01:44:13) vVv casts Shadow Bolt.
+(01:44:13) You cast Shadow Bolt.
+(01:44:13) Uther casts Incantation of Renunciation.
+(01:44:13) Hold casts Shadow Bolt.
+(01:44:13) CloudA casts Steal Breath.
+(01:44:13) Toy casts Tend the Wounded.
+(01:44:13) CaliSent casts Rally Troops.
+(01:44:13) You cast Shadow Bolt.
+(01:44:13) Uther casts Sanction.
+(01:44:13) Healn casts Prayer of Mending.
+(01:44:13) Sithranis casts Shadow Bolt.
+(01:44:13) Sax casts Sacrifice.
+(01:44:13) vVv casts Shadow Bolt.
+(01:44:13) Hold casts Shadow Bolt.
+(01:44:13) CloudA casts Shadow Bolt.
+(01:44:13) Liquid casts Righteous Word of Binding.
+(01:44:13) Liquid casts Righteous Word of Binding.
+(01:44:13) You cast Shadow Bolt.
+(01:44:13) Sithranis casts Shadow Bolt.
+(01:44:13) Uther casts Incantation of Renunciation.
+(01:44:13) Hold casts Shadow Bolt.
+(01:44:13) Toy casts Sanction.
+(01:44:13) CloudA casts Shadow Bolt.
+(01:44:13) Sithranis casts Shadow Bolt.
+(01:44:13) Uther casts Incantation of Renunciation.
+(01:44:14) Hold casts Shadow Mantle.
+(01:44:14) Sax casts Sacrifice.
+(01:44:14) tickles casts Prayer of Recovery.
+(01:44:14) CloudA casts Shadow Bolt.
+(01:44:14) Uther casts Incantation of Renunciation.
+(01:44:14) You cast Shadow Bolt.
+(01:44:14) Healn casts Incantation of Renunciation.
+(01:44:14) tickles casts Incantation of Renunciation.
+(01:44:14) Soda casts Benediction of Saint Lorne.
+(01:44:14) Hold casts Shadow Bolt.
+(01:44:14) CloudA casts Shadow Bolt.
+(01:44:14) You cast Shadow Bolt.
+(01:44:14) Healn casts Incantation of Renunciation.
+(01:44:14) vVv casts Shadow Bolt.
+(01:44:14) Sax casts Sacrifice.
+(01:44:14) champagne casts Draw Nature's Fury.
+(01:44:14) Hold casts Shadow Bolt.
+(01:44:14) Uther casts Incantation of Renunciation.
+(01:44:14) Sithranis casts Shadow Bolt.
+(01:44:14) Sithranis casts Shadow Bolt.
+(01:44:14) CloudA casts Shadow Bolt.
+(01:44:14) tickles casts Incantation of Renunciation.
+(01:44:14) vVv casts Shadow Bolt.
+(01:44:14) champagne casts Hex of the Ice Fury.
+(01:44:14) You cast Shadow Bolt.
+(01:44:14) Sax casts Sacrifice.
+(01:44:14) You cast Shadow Bolt.
+(01:44:15) Hold casts Steal Breath.
+(01:44:15) Sithranis casts Shadow Bolt.
+(01:44:15) Healn casts Incantation of Renunciation.
+(01:44:15) Sax casts Sacrifice.
+(01:44:15) Prodriver casts Sentinel's Charge.
+(01:44:15) CloudA casts Shadow Mantle.
+(01:44:15) Uther casts Divine Recovery.
+(01:44:15) You cast Shadow Mantle.
+(01:44:15) Sithranis casts Shadow Bolt.
+(01:44:15) vVv casts Shadow Bolt.
+(01:44:15) Hold casts Shadow Bolt.
+(01:44:15) CloudA casts Steal Breath.
+(01:44:15) Sax casts Sacrifice.
+(01:44:15) You cast Shadow Bolt.
+(01:44:15) CloudA casts Enfeeblement.
+(01:44:15) vVv casts Shadow Bolt.
+(01:44:15) Sithranis casts Shadow Bolt.
+(01:44:15) Uther casts Incantation of Renunciation.
+(01:44:15) Hold casts Shadow Bolt.
+(01:44:15) CloudA casts Weakening.
+(01:44:15) You cast Shadow Bolt.
+(01:44:15) Healn casts Tend the Wounded.
+(01:44:15) Sithranis casts Steal Breath.
+(01:44:15) Hold casts Shadow Bolt.
+(01:44:15) Sax casts Sacrifice.
+(01:44:15) vVv casts Shadow Mantle.
+(01:44:15) You cast Shadow Bolt.
+(01:44:15) champagne casts Draw Nature's Fury.
+(01:44:15) Toy casts Incantation of Renunciation.
+(01:44:15) Hold casts Shadow Bolt.
+(01:44:15) Soda casts Benediction of Saint Lorne.
+(01:44:15) champagne casts Spectral Bonds.
+(01:44:15) Sithranis casts Shadow Bolt.
+(01:44:15) CloudA casts Vampire's Kiss.
+(01:44:15) vVv casts Shadow Bolt.
+(01:44:15) You cast Shadow Bolt.
+(01:44:16) tickles casts Divine Recovery.
+(01:44:16) champagne casts Weakening.
+(01:44:16) Hold casts Shadow Bolt.
+(01:44:16) Healn casts Tend the Wounded.
+(01:44:16) Sithranis casts Shadow Bolt.
+(01:44:16) champagne casts Enfeeblement.
+(01:44:16) You cast Shadow Bolt.
+(01:44:16) CloudA casts Shadow Bolt.
+(01:44:16) vVv casts Shadow Bolt.
+(01:44:16) Toy casts Incantation of Renunciation.
+(01:44:16) Hold casts Shadow Bolt.
+(01:44:16) Soda casts Nyth Rune.
+(01:44:16) Uther casts Divine Recovery.
+(01:44:16) Sithranis casts Shadow Bolt.
+(01:44:16) tickles casts Incantation of Renunciation.
+(01:44:16) Healn casts Tend the Wounded.
+(01:44:16) CloudA casts Sprint.
+(01:44:16) Hold casts Shadow Bolt.
+(01:44:16) Sax casts Sacrifice.
+(01:44:16) Uther casts Divine Recovery.
+(01:44:16) Healn casts Grasp of the All-Father.
+(01:44:16) Hold casts Shadow Mantle.
+(01:44:16) champagne casts Hex of the Ice Fury.
+(01:44:16) You cast Shadow Bolt.
+(01:44:16) Sithranis casts Shadow Bolt.
+(01:44:16) champagne casts Enfeeblement.
+(01:44:16) Hold casts Shadow Bolt.
+(01:44:16) champagne casts Weakening.
+(01:44:16) Uther casts Sprint.
+(01:44:16) You cast Shadow Bolt.
+(01:44:16) Sithranis casts Shadow Bolt.
+(01:44:16) Hold casts Shadow Bolt.
+(01:44:16) vVv casts Weakening.
+(01:44:16) Sithranis casts Spectral Bonds.
+(01:44:16) Sax casts Benediction of Saint Lorne.
+(01:44:17) You cast Shadow Bolt.
+(01:44:17) champagne casts Spectral Bonds.
+(01:44:17) CloudA casts Spectral Bonds.
+(01:44:17) vVv casts Enfeeblement.
+(01:44:17) Hold casts Shadow Bolt.
+(01:44:17) You cast Shadow Bolt.
+(01:44:17) CloudA casts Shadow Touch.
+(01:44:17) Uther casts Sanction.
+(01:44:17) Toy casts Incantation of Renunciation.
+(01:44:17) vVv casts Shadow Bolt.
+(01:44:17) You cast Sprint.
+(01:44:17) Healn casts Tend the Wounded.
+(01:44:17) Soda casts Sprint.
+(01:44:17) HolyThug casts Righteous Word of Binding.
+(01:44:17) Hold casts Sprint.
+(01:44:17) CloudA casts Steal Breath.
+(01:44:17) Sax casts Sacrifice.
+(01:44:17) Sithranis casts Shadow Bolt.
+(01:44:17) champagne casts Enfeeblement.
+(01:44:17) Uther casts Grasp of the All-Father.
+(01:44:17) vVv casts Shadow Mantle.
+(01:44:17) Healn casts Sanction.
+(01:44:17) Uther casts Incantation of Renunciation.
+(01:44:17) Toy casts Incantation of Renunciation.
+(01:44:17) Sithranis casts Steal Breath.
+(01:44:17) You cast Shadow Bolt.
+(01:44:17) vVv casts Steal Breath.
+(01:44:17) tickles casts Prayer of Recovery.
+(01:44:17) vVv casts Enfeeblement.
+(01:44:17) You cast Shadow Bolt.
+(01:44:17) Hold casts Steal Breath.
+(01:44:17) vVv casts Weakening.
+(01:44:17) Toy casts Prayer of Haste.
+(01:44:17) Hold casts Shadow Bolt.
+(01:44:18) You cast Shadow Mantle.
+(01:44:18) Sithranis casts Sprint.
+(01:44:18) Healn casts Tend the Wounded.
+(01:44:18) Hold casts Shadow Bolt.
+(01:44:18) champagne casts Draw Nature's Fury.
+(01:44:18) vVv casts Sprint.
+(01:44:18) You cast Chilling Shadows.
+(01:44:18) Hold casts Weakening.
+(01:44:18) Healn casts Incantation of Renunciation.
+(01:44:18) Manshoon casts Hexgram Ritual.
+(01:44:18) Uther casts Incantation of Renunciation.
+(01:44:18) Hold casts Enfeeblement.
+(01:44:18) Manshoon casts Stun.
+(01:44:18) You cast Shadow Bolt.
+(01:44:18) Healn casts Incantation of Renunciation.
+(01:44:18) CloudA casts Shadow Touch.
+(01:44:18) Sithranis casts Shadow Bolt.
+(01:44:18) Hold casts Shadow Bolt.
+(01:44:18) vVv casts Shadow Bolt.
+(01:44:18) You cast Shadow Bolt.
+(01:44:18) Manshoon casts Mage Bolt.
+(01:44:18) Uther casts Sanction.
+(01:44:18) CloudA casts Steal Breath.
+(01:44:18) Healn casts Tend the Wounded.
+(01:44:18) Manshoon casts Mage Bolt.
+(01:44:18) CloudA casts Shadow Bolt.
+(01:44:18) Uther casts Divine Condemnation.
+(01:44:18) tickles casts Grasp of the All-Father.
+(01:44:18) Manshoon casts Mage Bolt.
+(01:44:18) CloudA casts Shadow Bolt.
+(01:44:18) Sithranis casts Steal Breath.
+(01:44:18) Hold casts Shadow Bolt.
+(01:44:18) CloudA casts Shadow Bolt.
+(01:44:18) tickles casts Divine Recovery.
+(01:44:19) CloudA casts Shadow Bolt.
+(01:44:19) Uther casts Sanction.
+(01:44:19) CloudA casts Shadow Bolt.
+(01:44:19) tickles casts Sanction.
+(01:44:19) CloudA casts Enfeeblement.
+(01:44:19) Uther casts Empowered Healing.
+(01:44:19) CloudA casts Weakening.
+(01:44:19) Soda casts Nyth Rune.
+(01:44:19) Sax casts Sacrifice.
+(01:44:19) CloudA casts Steal Breath.
+(01:44:19) Uther casts Divine Recovery.
+(01:44:19) CloudA casts Slayer's Focus.
+(01:44:19) Moony casts Sprint.
+(01:44:19) Uther casts Divine Recovery.
+(01:44:24) Sasss casts Vampire's Kiss.
+(01:44:24) First casts Incantation of Renunciation.
+(01:44:24) Sax casts Sacrifice.
+(01:44:24) Typechi casts Vampire's Kiss.
+(01:44:24) Mushi casts Incantation of Renunciation.
+(01:44:24) stuffed casts Psalm of Sanction.
+(01:44:24) TypeVee casts Sacrifice.
+(01:44:24) DannyDimes casts Prayer of Mending.
+(01:44:25) First casts Incantation of Renunciation.
+(01:44:25) Mushi casts Incantation of Renunciation.
+(01:44:25) HooH casts Incantation of Renunciation.
+(01:44:25) Sax casts Sacrifice.
+(01:44:25) Ariana casts Tend the Wounded.
+(01:44:25) TypeVee casts Sacrifice.
+(01:44:25) First casts Incantation of Renunciation.
+(01:44:25) stuffed casts Sanction.
+(01:44:25) LeiBruc casts Sanction.
+(01:44:25) Mushi casts Incantation of Renunciation.
+(01:44:25) HooH casts Incantation of Renunciation.
+(01:44:25) Sax casts Sacrifice.
+(01:44:25) Mushi casts Psalm of Sanction.
+(01:44:25) LeiBruc casts Grasp of the All-Father.
+(01:44:25) HHDD casts Sprint.
+(01:44:25) EarthZS casts Sprint.
+(01:44:25) LeiBruc casts Sanction.
+(01:44:25) TypeVee casts Sacrifice.
+(01:44:25) Sax casts Benediction of Saint Lorne.
+(01:44:25) YEP casts Phaedra's Fury.
+(01:44:26) MDAZJ casts Sprint.
+(01:44:26) stuffed casts Prayer of Recovery.
+(01:44:26) HooH casts Incantation of Renunciation.
+(01:44:26) Mushi casts Incantation of Renunciation.
+(01:44:26) TypeVee casts Benediction of Saint Lorne.
+(01:44:26) YEP casts Amazon's Endurance.
+(01:44:26) Ariana casts Divine Recovery.
+(01:44:26) First casts Prayer of Recovery.
+(01:44:26) First casts Prayer of Recovery.
+(01:44:26) eka casts Wolf's Vigor.
+(01:44:26) DannyDimes casts Prayer of Mending.
+(01:44:26) You cast Sprint.
+(01:44:26) HooH casts Incantation of Renunciation.
+(01:44:26) Mushi casts Incantation of Renunciation.
+(01:44:26) LDSU casts Sanction of the Temple.
+(01:44:26) Ariana casts Divine Recovery.
+(01:44:26) stuffed casts Grasp of the All-Father.
+(01:44:27) TOET casts Prayer of Haste.
+(01:44:27) Ariana casts Sanction.
+(01:44:27) LeiBruc casts Sanction.
+(01:44:27) HooH casts Tend the Wounded.
+(01:44:27) stuffed casts Incantation of Renunciation.
+(01:44:27) Mushi casts Sprint.
+(01:44:27) First casts Prayer of Mending.
+(01:44:27) HooH casts Incantation of Renunciation.
+(01:44:27) HooH casts Incantation of Renunciation.
+(01:44:27) stuffed casts Incantation of Renunciation.
+(01:44:27) First casts Tend the Wounded.
+(01:44:27) TypeVee casts Sacrifice.
+(01:44:28) Sax casts Censure.
+(01:44:28) FYms casts Incantation of Renunciation.
+(01:44:28) HooH casts Prayer of Haste.
+(01:44:28) LeiBruc casts Prayer of Mending.
+(01:44:28) First casts Tend the Wounded.
+(01:44:28) TypeVee casts Blessed Mending.
+(01:44:28) Sax casts Rally Troops.
+(01:44:28) FYms casts Prayer of Mending.
+(01:44:28) Sax casts Benediction of Saint Lorne.
+(01:44:28) stuffed casts Grasp of the All-Father.
+(01:44:29) FYms casts Incantation of Renunciation.
+(01:44:29) LeiBruc casts Sanction.
+(01:44:29) TypeVee casts Benediction of Saint Lorne.
+(01:44:29) First casts Tend the Wounded.
+(01:44:29) FYms casts Tend the Wounded.
+(01:44:29) TOET casts Prayer of Recovery.
+(01:44:29) TOET casts Prayer of Recovery.
+(01:44:29) stuffed casts Sanction.
+(01:44:29) FYms casts Incantation of Renunciation.
+(01:44:29) Mushi casts Summon.
+(01:44:29) FYms casts Tend the Wounded.
+(01:44:29) LeiBruc casts Sanction.
+(01:44:30) FYms casts Incantation of Renunciation.
+(01:44:30) Typechi casts Sprint.
+(01:44:30) FYms casts Tend the Wounded.
+(01:44:30) eka casts Wolf's Vigor.
+(01:44:30) TOET casts Prayer of Mending.
+(01:44:30) Mushi casts Grasp of the All-Father.
+(01:44:30) FYms casts Incantation of Renunciation.
+(01:44:30) stuffed casts Incantation of Renunciation.
+(01:44:30) Mushi casts Psalm of Sanction.
+(01:44:30) FYsz casts Censure.
+(01:44:30) FYsz casts Censure.
+(01:44:30) HooH casts Prayer of Recovery.
+(01:44:30) XJY casts Draw Nature's Fury.
+(01:44:30) yunT casts Cleansing Flame.
+(01:44:30) FYms casts Divine Recovery.
+(01:44:30) Sasss casts Sprint.
+(01:44:30) HooH casts Psalm of Sanction.
+(01:44:30) XJY casts Hex of the Storm Fury.
+(01:44:30) stuffed casts Incantation of Renunciation.
+(01:44:30) FYms casts Incantation of Renunciation.
+(01:44:30) FYsz casts Censure.
+(01:44:30) LeiBruc casts Prayer of Recovery.
+(01:44:30) stuffed casts Incantation of Renunciation.
+(01:44:31) yunT casts Cleansing Flame.
+(01:44:31) HooH casts Grasp of the All-Father.
+(01:44:31) XJY casts Call the Sky's Fury.
+(01:44:31) LeiBruc casts Incantation of Renunciation.
+(01:44:31) Sax casts Sacrifice.
+(01:44:31) stuffed casts Incantation of Renunciation.
+(01:44:31) TypeVee casts Sacrifice.
+(01:44:31) FYsz casts Censure.
+(01:44:31) Sax casts Sacrifice.
+(01:44:31) stuffed casts Tend the Wounded.
+(01:44:31) XJY casts Call the Sky's Fury.
+(01:44:31) Mushi casts Prayer of Recovery.
+(01:44:31) LeiBruc casts Tend the Wounded.
+(01:44:31) FYms casts Prayer of Recovery.
+(01:44:31) eka casts Wolf's Vigor.
+(01:44:31) yunT casts Cleansing Flame.
+(01:44:31) FYsz casts Censure.
+(01:44:31) LeiBruc casts Incantation of Renunciation.
+(01:44:31) Sax casts Sacrifice.
+(01:44:31) FYms casts Incantation of Renunciation.

@@ -1,0 +1,31 @@
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
+RegExType   :: Damage :: Saint Malorn's Wrath
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>\w*)[r's]* (?<ability>Saint.*'.*) (?<type>.{3,8})s (?<target>.*) for (?<value>\d*) .*[\.!]
+
+
+(01:41:57) BigBlackBen's Saint Malorn's Wrath burns Miha for 351 points of damage!
+(01:41:57) BigBlackBen's Saint Malorn's Wrath burns Dispel for 412 points of damage!
+(01:41:57) BigBlackBen's Saint Malorn's Wrath burns Sax for 543 points of damage!
+(01:41:57) BigBlackBen's Saint Malorn's Wrath burns Saas for 479 points of damage!
+(01:41:57) BigBlackBen's Saint Malorn's Wrath burns Bourbon for 359 points of damage!
+(01:41:57) BigBlackBen's Saint Malorn's Wrath burns lover for 609 points of damage!
+(01:41:57) BigBlackBen's Saint Malorn's Wrath burns HuntyPet for 527 points of damage!
+(01:42:43) Hunger's Saint Lorne's Ire smites Vashteera's Companion for 774 points of damage!
+(01:42:43) Hunger's Saint Lorne's Ire smites Vashteera's Companion for 740 points of damage!
+(01:42:43) Hunger's Saint Lorne's Ire smites HuntyPet for 719 points of damage!
+(01:42:43) Hunger's Saint Lorne's Ire smites you for 577 points of damage!
+(01:42:43) Hunger's Saint Lorne's Ire smites sudo for 528 points of damage!
+(01:42:43) Hunger's Saint Lorne's Ire smites TyyppVee for 829 points of damage!
+(01:43:30) MDAZJ's Saint Lorne's Ire smites you for 491 points of damage!
+(01:43:30) SPF's Saint Lorne's Ire smites HuntyPet for 593 points of damage!
+(01:43:30) SPF's Saint Lorne's Ire smites TyyppVee for 510 points of damage!
+(01:43:30) SPF's Saint Lorne's Ire smites Dispel for 681 points of damage!
+(01:43:30) SPF's Saint Lorne's Ire smites sudo for 452 points of damage!
+(01:43:30) SPF's Saint Lorne's Ire smites Vashteera's Companion for 674 points of damage!
+(01:43:32) SPF's Saint Lorne's Ire smites you for 682 points of damage!
+(01:44:08) Tibins's Saint Lorne's Ire smites tickles for 160 points of damage!
+(01:44:08) Tibins's Saint Lorne's Ire smites Sax for 105 points of damage!
+(01:44:08) Tibins's Saint Lorne's Ire smites Soda for 110 points of damage!
+(01:44:08) Tibins's Saint Lorne's Ire smites vVv for 304 points of damage!
+(01:44:08) Tibins's Saint Lorne's Ire smites Hold for 224 points of damage!

@@ -1,0 +1,7 @@
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
+RegExType   :: Damage :: Stamina hit
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<event_type>Stamina) Damage (?<type>hit)[s]? (?<target>.*) for (?<value>\d*) .*[\.!]
+
+Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
+01:43:42 : hit        : Bearable                  : CountHyde                 :                           : Stamina      :              : 17    

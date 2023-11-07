@@ -1,0 +1,23 @@
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
+RegExType   :: Active :: begin_no_longer
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) [a]?[r]?[e]?[i]?[s]?\W?(?<event_type>.*?)[s]? (?<type>active)ly (?<ability>.*)ing[\.!]
+
+
+(01:41:51) Sax begins actively blocking!
+(01:41:59) Sax is no longer actively blocking.
+(01:42:06) Drooley begins actively blocking!
+(01:42:06) Drooley is no longer actively blocking.
+(01:42:23) Sax begins actively blocking!
+(01:42:28) Sax is no longer actively blocking.
+(01:42:30) deez begins actively blocking!
+(01:42:33) deez is no longer actively blocking.
+(01:43:22) kwx begins actively dodging!
+(01:43:22) kwx is no longer actively dodging.
+(01:43:41) Bearable begins actively parrying!
+(01:43:45) Bearable is no longer actively parrying.
+(01:43:55) Sax begins actively blocking!
+(01:43:59) Soda begins actively blocking!
+(01:44:02) Sax is no longer actively blocking.
+(01:44:06) Soda is no longer actively blocking.
+(01:44:29) Sax is no longer actively blocking.

@@ -1,6 +1,10 @@
-Version     :: 0.0.9.8
-DateTime    :: 11/6/2023 08:27:49 AM
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
 RegExType   :: Evade :: Parry
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>parr)[yies]+ (?<source>.*)'s .*[\.!]
-(08:28:20) BlackSele parries chs's attack.
-(08:28:46) BlackSele parries the Vashteera's Companion's attack.
+
+
+(01:42:51) hta �C   NZSP parries the Mud Fiend's attack.
+(01:43:44) Bearable parries Soda's attack.
+(01:43:45) Bearable parries Soda's attack.
+(01:43:45) Bearable parries Soda's attack.

@@ -1,0 +1,62 @@
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
+RegExType   :: Power :: Use
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<type>use)s? [\Wa]?(?<ability>.*)[\.!]
+
+
+(01:41:53) Tupac uses Find Weakness.
+(01:41:53) You can no longer use powers!
+(01:41:53) You can no longer use powers!
+(01:41:57) BigBlackBen uses Knavery.
+(01:41:57) Sax can no longer use powers!
+(01:41:57) Sax can no longer use powers!
+(01:42:00) Saas can no longer use powers!
+(01:42:00) Saas can no longer use powers!
+(01:42:05) AlbiThere can no longer use powers!
+(01:42:05) AlbiThere can no longer use powers!
+(01:42:12) Dispel uses Strength of the Stag.
+(01:42:32) Fkrah can no longer use powers!
+(01:42:32) Fkrah can no longer use powers!
+(01:42:34) Noodle can no longer use powers!
+(01:42:35) Noodle can no longer use powers!
+(01:42:43) Rylix uses Stalker's Resiliance.
+(01:42:47) TyyppVee can no longer use powers!
+(01:42:47) TyyppVee can no longer use powers!
+(01:42:49) xinyu uses Detect Hidden.
+(01:42:50) Rylix uses Stalker's Resiliance.
+(01:42:51) hta uses Treat Wounds.
+(01:43:06) Dispel uses Strength of the Stag.
+(01:43:16) sudo can no longer use powers!
+(01:43:16) sudo can no longer use powers!
+(01:43:19) sudo can no longer use powers!
+(01:43:19) sudo can no longer use powers!
+(01:43:22) Andre uses Detect Hidden.
+(01:43:41) Nibenay can no longer use powers!
+(01:43:41) Nibenay can no longer use powers!
+(01:43:42) Ponch can no longer use powers!
+(01:43:42) Ponch can no longer use powers!
+(01:43:44) DRChuckIt can no longer use powers!
+(01:43:44) DRChuckIt can no longer use powers!
+(01:43:44) lover can no longer use powers!
+(01:43:44) lover can no longer use powers!
+(01:43:44) Bearable can no longer use powers!
+(01:43:44) DayWalker uses Stalker's Resiliance.
+(01:43:44) DayWalker uses Stalker's Resiliance.
+(01:43:46) MyosMoo can no longer use powers!
+(01:43:46) MyosMoo can no longer use powers!
+(01:43:46) MyosMoo can no longer use powers!
+(01:43:47) MyosMoo can no longer use powers!
+(01:43:47) Marco can no longer use powers!
+(01:43:47) Marco can no longer use powers!
+(01:43:47) Marco can no longer use powers!
+(01:44:09) Moony uses Detect Hidden.
+(01:44:13) Liquid can no longer use powers!
+(01:44:13) Liquid can no longer use powers!
+(01:44:16) Moony uses Detect Hidden.
+(01:44:26) MDAZJ can no longer use powers!
+(01:44:26) MDAZJ can no longer use powers!
+(01:44:27) LDSU can no longer use powers!
+(01:44:27) LDSU can no longer use powers!
+(01:44:29) EricMcC uses Treat Wounds.
+(01:44:31) xxOxx can no longer use powers!
+(01:44:31) xxOxx can no longer use powers!

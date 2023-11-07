@@ -1,0 +1,119 @@
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
+RegExType   :: Combat :: Info Death
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*\[Combat\] Info\: (?<source>.*) [hasve]* (?<type>die).*!
+
+
+(01:41:55) [Combat] Info: Vashtur has died!
+(01:41:55) [Combat] Info: Vashtur has died!
+(01:41:58) [Combat] Info: Priest has died!
+(01:41:58) [Combat] Info: Priest has died!
+(01:42:00) [Combat] Info: PBAOE has died!
+(01:42:00) [Combat] Info: PBAOE has died!
+(01:42:03) [Combat] Info: Tupac Shakur has died!
+(01:42:03) [Combat] Info: Tupac Shakur has died!
+(01:42:05) [Combat] Info: BigBlackBen has died!
+(01:42:05) [Combat] Info: Long has died!
+(01:42:05) [Combat] Info: Long has died!
+(01:42:06) [Combat] Info: Drooley has died!
+(01:42:06) [Combat] Info: Drooley has died!
+(01:42:07) [Combat] Info: AlbiThere ForYou has died!
+(01:42:07) [Combat] Info: AlbiThere ForYou has died!
+(01:42:07) [Combat] Info: The Vashteera's Companion has died!
+(01:42:14) [Combat] Info: DMT has died!
+(01:42:14) [Combat] Info: DMT has died!
+(01:42:17) [Combat] Info: Guru has died!
+(01:42:17) [Combat] Info: Guru has died!
+(01:42:26) [Combat] Info: SeeNo Evil has died!
+(01:42:26) [Combat] Info: SeeNo Evil has died!
+(01:42:30) [Combat] Info: Dispel Cobra has died!
+(01:42:30) [Combat] Info: Dispel Cobra has died!
+(01:42:30) [Combat] Info: LogicNC has died!
+(01:42:31) [Combat] Info: Yuckfou has died!
+(01:42:31) [Combat] Info: Yuckfou has died!
+(01:42:33) [Combat] Info: deez nuts has died!
+(01:42:33) [Combat] Info: deez nuts has died!
+(01:42:33) [Combat] Info: Bog has died!
+(01:42:34) [Combat] Info: First Aid has died!
+(01:42:34) [Combat] Info: Fkrah has died!
+(01:42:34) [Combat] Info: Fkrah has died!
+(01:42:35) [Combat] Info: Noodle has died!
+(01:42:35) [Combat] Info: Noodle has died!
+(01:42:42) [Combat] Info: Imagine Defense lol has died!
+(01:42:43) [Combat] Info: Holger has died!
+(01:42:43) [Combat] Info: Holger has died!
+(01:42:44) [Combat] Info: Hunger has died!
+(01:42:44) [Combat] Info: Hunger has died!
+(01:42:45) [Combat] Info: Octavius has died!
+(01:42:45) [Combat] Info: Octavius has died!
+(01:42:50) [Combat] Info: TyyppVee has died!
+(01:42:50) [Combat] Info: TyyppVee has died!
+(01:42:50) [Combat] Info: The Vashteera's Companion has died!
+(01:42:52) [Combat] Info: The Mud Fiend has died!
+(01:42:56) [Combat] Info: dnst ' NZSP has died!
+(01:42:56) [Combat] Info: dnst ' NZSP has died!
+(01:42:58) [Combat] Info: The Novac the Bellugh Nuathal Priest has died!
+(01:43:04) [Combat] Info: Rain Up In The Sky has died!
+(01:43:05) [Combat] Info: blackgurl the sandslave has died!
+(01:43:05) [Combat] Info: blackgurl the sandslave has died!
+(01:43:08) [Combat] Info: Bambi Look A Bird has died!
+(01:43:08) [Combat] Info: Bambi Look A Bird has died!
+(01:43:08) [Combat] Info: KSlater Up In The Sky has died!
+(01:43:08) [Combat] Info: KSlater Up In The Sky has died!
+(01:43:09) [Combat] Info: wreck has died!
+(01:43:09) [Combat] Info: wreck has died!
+(01:43:16) [Combat] Info: Bambi Look A Bird has died!
+(01:43:17) [Combat] Info: blackgurl the sandslave has died!
+(01:43:17) [Combat] Info: blackgurl the sandslave has died!
+(01:43:19) [Combat] Info: Rain Up In The Sky has died!
+(01:43:19) [Combat] Info: Rain Up In The Sky has died!
+(01:43:20) [Combat] Info: KSlater Up In The Sky has died!
+(01:43:20) [Combat] Info: KSlater Up In The Sky has died!
+(01:43:21) [Combat] Info: wreck has died!
+(01:43:22) [Combat] Info: kwx has died!
+(01:43:22) [Combat] Info: kwx has died!
+(01:43:23) [Combat] Info: Andre has died!
+(01:43:23) [Combat] Info: Andre has died!
+(01:43:30) [Combat] Info: syszj BH has died!
+(01:43:30) [Combat] Info: syszj BH has died!
+(01:43:32) [Combat] Info: MDAZJ BH has died!
+(01:43:32) [Combat] Info: MDAZJ BH has died!
+(01:43:34) [Combat] Info: FYasz BH has died!
+(01:43:34) [Combat] Info: FYasz BH has died!
+(01:43:34) [Combat] Info: SPF � BH has died!
+(01:43:34) [Combat] Info: SPF � BH has died!
+(01:43:43) [Combat] Info: Ponch has died!
+(01:43:43) [Combat] Info: Ponch has died!
+(01:43:43) [Combat] Info: CountHyde has died!
+(01:43:43) [Combat] Info: CountHyde has died!
+(01:43:45) [Combat] Info: Bearable has died!
+(01:43:45) [Combat] Info: Bearable has died!
+(01:43:47) [Combat] Info: MyosMoo has died!
+(01:43:47) [Combat] Info: MyosMoo has died!
+(01:43:47) [Combat] Info: Mephistopheles has died!
+(01:43:54) [Combat] Info: nvwu has died!
+(01:43:54) [Combat] Info: nvwu has died!
+(01:43:55) [Combat] Info: fcd has died!
+(01:43:56) [Combat] Info: fcd has died!
+(01:43:58) [Combat] Info: Szmz has died!
+(01:44:01) [Combat] Info: Breeze has died!
+(01:44:02) [Combat] Info: JMc has died!
+(01:44:03) [Combat] Info: JMc has died!
+(01:44:03) [Combat] Info: ysmf T� has died!
+(01:44:04) [Combat] Info: ysmf T� has died!
+(01:44:11) [Combat] Info: Tibins has died!
+(01:44:11) [Combat] Info: Tibins has died!
+(01:44:13) [Combat] Info: CaliSent has died!
+(01:44:13) [Combat] Info: CaliSent has died!
+(01:44:14) [Combat] Info: Vaginex has died!
+(01:44:14) [Combat] Info: Vaginex has died!
+(01:44:14) [Combat] Info: Liquid Snacks has died!
+(01:44:14) [Combat] Info: Liquid Snacks has died!
+(01:44:16) [Combat] Info: Prodriver has died!
+(01:44:16) [Combat] Info: Prodriver has died!
+(01:44:17) [Combat] Info: HolyThug has died!
+(01:44:18) [Combat] Info: Healn has died!
+(01:44:24) [Combat] Info: SYgzs � BH has died!
+(01:44:26) [Combat] Info: MDAZJ BH has died!
+(01:44:27) [Combat] Info: LDSU mS BH has died!
+(01:44:29) [Combat] Info: HHDD k� BH has died!

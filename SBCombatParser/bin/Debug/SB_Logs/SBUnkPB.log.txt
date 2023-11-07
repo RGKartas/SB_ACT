@@ -1,2 +1,135 @@
-Version  :: 0.0.9.8
-DateTime :: 11/6/2023 08:27:49 AM
+Version  :: 0.0.11.0
+DateTime :: 11/7/2023 01:41:36 AM
+(01:42:42) Rylix's Put to the Torch damages you for 97 points of damage!
+(01:42:43) Rylix's Put to the Torch damages you for 81 points of damage!
+(01:42:43) Rylix's Put to the Torch damages you for 86 points of damage!
+(01:42:43) Rylix's Put to the Torch damages you for 107 points of damage!
+(01:42:44) Rylix's Put to the Torch damages you for 75 points of damage!
+(01:42:44) Someone's Put to the Torch damages you for 98 points of damage!
+(01:42:44) Someone's Put to the Torch damages you for 85 points of damage!
+(01:42:46) CJW's Hedge of Thorns impales Vashteera's Companion for 249 points of damage!
+(01:42:46) CJW's Hedge of Thorns impales Dispel for 156 points of damage!
+(01:42:46) CJW's Hedge of Thorns impales sudo for 76 points of damage!
+(01:42:46) CJW's Hedge of Thorns impales you for 205 points of damage!
+(01:42:46) CJW's Hedge of Thorns impales TyyppVee for 47 points of damage!
+(01:42:46) CJW's Hedge of Thorns impales HuntyPet for 118 points of damage!
+(01:42:46) CJW's Hedge of Thorns impales Vashteera's Companion for 178 points of damage!
+(01:42:46) CJW's Hedge of Thorns impales Vashteera's Companion for 204 points of damage!
+(01:42:46) CJW's Hedge of Thorns impales Dispel for 148 points of damage!
+(01:42:46) CJW's Hedge of Thorns impales sudo for 102 points of damage!
+(01:42:46) CJW's Hedge of Thorns impales you for 183 points of damage!
+(01:42:46) CJW's Hedge of Thorns impales TyyppVee for 63 points of damage!
+(01:42:46) CJW's Hedge of Thorns impales HuntyPet for 88 points of damage!
+(01:42:46) CJW's Hedge of Thorns impales Vashteera's Companion for 220 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales Vashteera's Companion for 269 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales sudo for 87 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales Dispel for 114 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales you for 172 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales TyyppVee for 51 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales HuntyPet for 161 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales Vashteera's Companion for 176 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales Vashteera's Companion for 218 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales Dispel for 113 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales you for 137 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales sudo for 60 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales TyyppVee for 76 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales HuntyPet for 122 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales Vashteera's Companion for 159 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales Vashteera's Companion for 168 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales you for 168 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales Dispel for 114 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales sudo for 59 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales TyyppVee for 87 points of damage!
+(01:42:47) CJW's Hedge of Thorns impales HuntyPet for 151 points of damage!
+(01:42:48) Rylix's Put to the Torch damages TyyppVee for 114 points of damage!
+(01:42:48) CJW's Hedge of Thorns impales Vashteera's Companion for 136 points of damage!
+(01:42:48) CJW's Hedge of Thorns impales Vashteera's Companion for 160 points of damage!
+(01:42:48) CJW's Hedge of Thorns impales you for 167 points of damage!
+(01:42:48) CJW's Hedge of Thorns impales Dispel for 150 points of damage!
+(01:42:48) CJW's Hedge of Thorns impales sudo for 60 points of damage!
+(01:42:48) CJW's Hedge of Thorns impales TyyppVee for 67 points of damage!
+(01:42:48) CJW's Hedge of Thorns impales HuntyPet for 96 points of damage!
+(01:42:48) Rylix's Put to the Torch damages TyyppVee for 113 points of damage!
+(01:42:48) CJW's Hedge of Thorns impales Vashteera's Companion for 184 points of damage!
+(01:42:49) CJW's Hedge of Thorns impales Vashteera's Companion for 157 points of damage!
+(01:42:49) CJW's Hedge of Thorns impales you for 172 points of damage!
+(01:42:49) CJW's Hedge of Thorns impales Dispel for 110 points of damage!
+(01:42:49) CJW's Hedge of Thorns impales sudo for 93 points of damage!
+(01:42:49) CJW's Hedge of Thorns impales HuntyPet for 96 points of damage!
+(01:42:49) CJW's Hedge of Thorns impales TyyppVee for 70 points of damage!
+(01:42:49) Rylix's Put to the Torch damages TyyppVee for 99 points of damage!
+(01:42:49) CJW's Hedge of Thorns impales Vashteera's Companion for 218 points of damage!
+(01:42:49) CJW's Hedge of Thorns impales Vashteera's Companion for 218 points of damage!
+(01:42:49) CJW's Hedge of Thorns impales you for 136 points of damage!
+(01:42:49) CJW's Hedge of Thorns impales Dispel for 412 points of damage!
+(01:42:49) CJW's Hedge of Thorns impales sudo for 92 points of damage!
+(01:42:49) CJW's Hedge of Thorns impales HuntyPet for 126 points of damage!
+(01:42:49) CJW's Hedge of Thorns impales TyyppVee for 69 points of damage!
+(01:42:49) Rylix's Put to the Torch damages TyyppVee for 85 points of damage!
+(01:42:50) CJW's Hedge of Thorns impales Vashteera's Companion for 187 points of damage!
+(01:42:50) CJW's Hedge of Thorns impales you for 151 points of damage!
+(01:42:50) CJW's Hedge of Thorns impales Dispel for 83 points of damage!
+(01:42:50) CJW's Hedge of Thorns impales HuntyPet for 148 points of damage!
+(01:42:50) CJW's Hedge of Thorns impales sudo for 70 points of damage!
+(01:42:50) [Combat] Info: kosnwa tt has died!
+(01:42:50) [Combat] Info: kosnwa tt has died!
+(01:42:50) Someone's Hedge of Thorns impales you for 143 points of damage!
+(01:42:50) Someone's Hedge of Thorns impales Dispel Cobra for 132 points of damage!
+(01:42:50) Someone's Hedge of Thorns impales HuntyPet Cobra for 127 points of damage!
+(01:42:50) Someone's Hedge of Thorns impales sudo for 63 points of damage!
+(01:42:55) CJW's Hedge of Thorns impales Dispel for 122 points of damage!
+(01:42:55) CJW's Hedge of Thorns impales you for 153 points of damage!
+(01:42:55) CJW's Hedge of Thorns impales Vashteera's Thrall for 223 points of damage!
+(01:42:55) CJW's Hedge of Thorns impales Dispel for 102 points of damage!
+(01:42:55) CJW's Hedge of Thorns impales you for 164 points of damage!
+(01:42:55) CJW's Hedge of Thorns impales Vashteera's Thrall for 122 points of damage!
+(01:42:55) CJW's Hedge of Thorns impales Dispel for 115 points of damage!
+(01:42:55) CJW's Hedge of Thorns impales Vashteera's Thrall for 203 points of damage!
+(01:42:55) CJW's Hedge of Thorns impales you for 148 points of damage!
+(01:42:55) CJW's Hedge of Thorns impales you for 141 points of damage!
+(01:42:56) CJW's Hedge of Thorns impales Vashteera's Thrall for 152 points of damage!
+(01:42:56) CJW's Hedge of Thorns impales Dispel for 109 points of damage!
+(01:42:56) Someone's Hedge of Thorns impales Vashteera's Thrall for 202 points of damage!
+(01:42:56) Someone's Hedge of Thorns impales you for 129 points of damage!
+(01:42:56) Someone's Hedge of Thorns impales Dispel Cobra for 115 points of damage!
+(01:42:56) Someone's Hedge of Thorns impales Vashteera's Thrall for 207 points of damage!
+(01:42:56) Someone's Hedge of Thorns impales you for 140 points of damage!
+(01:42:56) Someone's Hedge of Thorns impales Dispel Cobra for 87 points of damage!
+(01:42:56) CJW's Hedge of Thorns impales Vashteera's Thrall for 204 points of damage!
+(01:42:56) CJW's Hedge of Thorns impales you for 175 points of damage!
+(01:42:56) CJW's Hedge of Thorns impales Dispel for 119 points of damage!
+(01:43:05) wreck's Fury of Wind buffets you for 73 points of damage!
+(01:43:06) wreck's Fury of Wind buffets you for 61 points of damage!
+(01:43:06) wreck's Fury of Wind buffets you for 94 points of damage!
+(01:43:07) wreck's Fury of Wind buffets you for 85 points of damage!
+(01:43:07) wreck's Fury of Wind buffets you for 69 points of damage!
+(01:43:07) wreck's Fury of Wind buffets you for 69 points of damage!
+(01:43:08) wreck's Fury of Wind buffets you for 52 points of damage!
+(01:43:08) wreck's Fury of Wind buffets you for 80 points of damage!
+(01:43:08) wreck's Fury of Wind buffets you for 59 points of damage!
+(01:43:09) wreck's Fury of Wind buffets you for 38 points of damage!
+(01:43:09) wreck's Fury of Wind buffets you for 33 points of damage!
+(01:43:09) Someone's Fury of Wind buffets you for 42 points of damage!
+(01:43:09) Someone's Fury of Wind buffets you for 18 points of damage!
+(01:43:09) Someone's Fury of Wind buffets you for 29 points of damage!
+(01:43:15) wreck's Fury of Wind buffets TyyppVee for 130 points of damage!
+(01:43:16) wreck's Fury of Wind buffets TyyppVee for 101 points of damage!
+(01:43:16) wreck's Fury of Wind buffets TyyppVee for 97 points of damage!
+(01:43:17) wreck's Fury of Wind buffets TyyppVee for 101 points of damage!
+(01:43:17) wreck's Fury of Wind buffets TyyppVee for 57 points of damage!
+(01:43:17) wreck's Fury of Wind buffets TyyppVee for 73 points of damage!
+(01:43:18) wreck's Fury of Wind buffets TyyppVee for 67 points of damage!
+(01:43:19) wreck's Fury of Wind buffets TyyppVee for 87 points of damage!
+(01:43:19) wreck's Fury of Wind buffets TyyppVee for 136 points of damage!
+(01:43:20) wreck's Fury of Wind buffets TyyppVee for 81 points of damage!
+(01:43:20) wreck's Fury of Wind buffets TyyppVee for 126 points of damage!
+(01:43:20) wreck's Fury of Wind buffets TyyppVee for 105 points of damage!
+(01:43:20) wreck's Fury of Wind buffets TyyppVee for 130 points of damage!
+(01:43:21) wreck's Fury of Wind buffets TyyppVee for 85 points of damage!
+(01:43:54) fcd's Fury of Wind buffets you for 104 points of damage!
+(01:43:55) fcd's Fury of Wind buffets you for 219 points of damage!
+(01:43:56) fcd's Fury of Wind buffets you for 100 points of damage!
+(01:43:56) Someone's Fury of Wind buffets you for 110 points of damage!
+(01:43:57) Someone's Fury of Wind buffets you for 52 points of damage!
+(01:43:58) Someone's Fury of Wind buffets you for 122 points of damage!
+(01:43:58) Someone's Fury of Wind buffets you for 72 points of damage!

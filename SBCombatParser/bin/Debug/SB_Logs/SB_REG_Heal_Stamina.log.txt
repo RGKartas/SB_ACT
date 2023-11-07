@@ -1,0 +1,6 @@
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
+RegExType   :: Heal :: Stamina
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']?[s]? (?<ability>.*) (?<type>heal)s (?<target>.*?)'?s? (?<event_type>stamina) for (?<value>\d*) points[\.!]
+
+

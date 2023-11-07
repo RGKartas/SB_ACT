@@ -1,0 +1,31 @@
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
+RegExType   :: Damage :: Saint Malorn's Wrath
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>\w*)[r's]* (?<ability>Saint.*'.*) (?<type>.{3,8})s (?<target>.*) for (?<value>\d*) .*[\.!]
+
+Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
+01:41:57 : burn       : BigBlackBen               : Miha                      : Saint Malorn's Wrath      :              :              : 351   
+01:41:57 : burn       : BigBlackBen               : Dispel                    : Saint Malorn's Wrath      :              :              : 412   
+01:41:57 : burn       : BigBlackBen               : Sax                       : Saint Malorn's Wrath      :              :              : 543   
+01:41:57 : burn       : BigBlackBen               : Saas                      : Saint Malorn's Wrath      :              :              : 479   
+01:41:57 : burn       : BigBlackBen               : Bourbon                   : Saint Malorn's Wrath      :              :              : 359   
+01:41:57 : burn       : BigBlackBen               : lover                     : Saint Malorn's Wrath      :              :              : 609   
+01:41:57 : burn       : BigBlackBen               : HuntyPet                  : Saint Malorn's Wrath      :              :              : 527   
+01:42:43 : smite      : Hunger                    : Vashteera's Companion     : Saint Lorne's Ire         :              :              : 774   
+01:42:43 : smite      : Hunger                    : Vashteera's Companion     : Saint Lorne's Ire         :              :              : 740   
+01:42:43 : smite      : Hunger                    : HuntyPet                  : Saint Lorne's Ire         :              :              : 719   
+01:42:43 : smite      : Hunger                    : you                       : Saint Lorne's Ire         :              :              : 577   
+01:42:43 : smite      : Hunger                    : sudo                      : Saint Lorne's Ire         :              :              : 528   
+01:42:43 : smite      : Hunger                    : TyyppVee                  : Saint Lorne's Ire         :              :              : 829   
+01:43:30 : smite      : MDAZJ                     : you                       : Saint Lorne's Ire         :              :              : 491   
+01:43:30 : smite      : SPF                       : HuntyPet                  : Saint Lorne's Ire         :              :              : 593   
+01:43:30 : smite      : SPF                       : TyyppVee                  : Saint Lorne's Ire         :              :              : 510   
+01:43:30 : smite      : SPF                       : Dispel                    : Saint Lorne's Ire         :              :              : 681   
+01:43:30 : smite      : SPF                       : sudo                      : Saint Lorne's Ire         :              :              : 452   
+01:43:30 : smite      : SPF                       : Vashteera's Companion     : Saint Lorne's Ire         :              :              : 674   
+01:43:32 : smite      : SPF                       : you                       : Saint Lorne's Ire         :              :              : 682   
+01:44:08 : smite      : Tibins                    : tickles                   : Saint Lorne's Ire         :              :              : 160   
+01:44:08 : smite      : Tibins                    : Sax                       : Saint Lorne's Ire         :              :              : 105   
+01:44:08 : smite      : Tibins                    : Soda                      : Saint Lorne's Ire         :              :              : 110   
+01:44:08 : smite      : Tibins                    : vVv                       : Saint Lorne's Ire         :              :              : 304   
+01:44:08 : smite      : Tibins                    : Hold                      : Saint Lorne's Ire         :              :              : 224   

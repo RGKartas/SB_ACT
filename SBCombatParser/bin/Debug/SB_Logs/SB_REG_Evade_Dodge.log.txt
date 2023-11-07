@@ -1,7 +1,18 @@
-Version     :: 0.0.9.8
-DateTime    :: 11/6/2023 08:27:49 AM
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
 RegExType   :: Evade :: Dodge
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>dodge)s? (?<source>.*?)[r']?[s]? attack[\.!]
-(08:29:01) DMT dodges Sithranis Silantaar's attack.
-(08:29:01) DMT dodges Jaz's attack.
-(08:29:01) DMT dodges Sithranis Silantaar's attack.
+
+
+(01:42:14) DMT dodges Dispel Cobra's attack.
+(01:42:44) Octavius dodges Dispel Cobra's attack.
+(01:42:44) Octavius dodges Dispel Cobra's attack.
+(01:42:45) Octavius dodges Dispel Cobra's attack.
+(01:42:50) xinyu dodges Dispel Cobra's attack.
+(01:42:50) Rylix dodges HuntyPet Cobra's attack.
+(01:42:50) Rylix dodges HuntyPet Cobra's attack.
+(01:43:22) kwx dodges TyyppVee's attack.
+(01:43:22) kwx dodges TyyppVee's attack.
+(01:43:45) DayWalker dodges TyyppVee's attack.
+(01:43:45) DayWalker dodges TyyppVee's attack.
+(01:43:45) DayWalker dodges TyyppVee's attack.

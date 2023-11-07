@@ -1,0 +1,382 @@
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
+RegExType   :: Power :: Execute
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<type>execute)s? [\Wa]?(?<ability>.*)[\.!]
+
+
+(01:41:51) HuntyPet executes a Eagle's Aim!
+(01:41:52) PBAOE executes a Grounding Shot!
+(01:41:52) Vashtur executes a Painful Cut!
+(01:41:53) AlbiThere executes a Rakish Jab!
+(01:41:53) Priest executes a Thunderstrike!
+(01:41:53) PBAOE executes a Vargr's Fangs!
+(01:41:53) Vashtur executes a Eviscerate!
+(01:41:53) AlbiThere executes a Heart Seeker!
+(01:41:53) Priest executes a Nerve Strike!
+(01:41:53) Tupac executes a Ride the Whirlwind!
+(01:41:53) Vashtur executes a Gut Wrencher!
+(01:41:54) Priest executes a Iron Claws!
+(01:41:55) AlbiThere executes a Vargr's Fangs!
+(01:41:55) AlbiThere executes a Dread Howl!
+(01:41:55) Tupac executes a Dance of the Flames!
+(01:41:55) AlbiThere executes a Grimtooth!
+(01:41:55) Priest executes a Vargr's Fangs!
+(01:41:55) PBAOE executes a Dread Howl!
+(01:41:55) BigBlackBen executes a Sword of Saint Malorn!
+(01:41:56) AlbiThere executes a Murderer's Kiss!
+(01:41:56) BigBlackBen executes a Gut Wrencher!
+(01:41:56) Priest executes a Crane Technique!
+(01:41:56) Tupac executes a Press the Foe!
+(01:41:56) BigBlackBen executes a Red Blade!
+(01:41:56) BigBlackBen executes a Painful Cut!
+(01:41:56) Dispel executes a Kenaryn's Mark!
+(01:41:56) BigBlackBen executes a Press the Foe!
+(01:41:57) BigBlackBen executes a Cross Cut!
+(01:41:57) PBAOE executes a Grounding Shot!
+(01:41:57) WillPowder executes a Smash!
+(01:41:58) WillPowder executes a Circle Swing!
+(01:41:58) Priest executes a Thunderstrike!
+(01:41:58) AlbiThere executes a Heart Seeker!
+(01:41:58) PBAOE executes a Vargr's Fangs!
+(01:41:58) AlbiThere executes a Bloody Slice!
+(01:41:58) BigBlackBen executes a Vivisection!
+(01:41:58) BigBlackBen executes a Sword of Saint Malorn!
+(01:41:58) PBAOE executes a Dread Howl!
+(01:41:59) HuntyPet executes a Naargal's Dart!
+(01:41:59) BigBlackBen executes a Gut Wrencher!
+(01:42:00) HuntyPet executes a Kenaryn's Mark!
+(01:42:00) Dispel executes a Kenaryn's Mark!
+(01:42:00) AlbiThere executes a Rakish Jab!
+(01:42:00) Tupac executes a Ride the Whirlwind!
+(01:42:01) AlbiThere executes a Heart Seeker!
+(01:42:01) AlbiThere executes a Pommel Strike!
+(01:42:02) BigBlackBen executes a Sword of Saint Malorn!
+(01:42:02) AlbiThere executes a Grimtooth!
+(01:42:02) BigBlackBen executes a Gut Wrencher!
+(01:42:02) AlbiThere executes a Dread Howl!
+(01:42:03) BigBlackBen executes a Press the Foe!
+(01:42:03) AlbiThere executes a Rakish Jab!
+(01:42:03) HuntyPet executes a Kenaryn's Mark!
+(01:42:03) BigBlackBen executes a Red Blade!
+(01:42:03) AlbiThere executes a Bloody Slice!
+(01:42:04) Dispel executes a Kenaryn's Mark!
+(01:42:04) HuntyPet executes a Naargal's Dart!
+(01:42:04) BigBlackBen executes a Painful Cut!
+(01:42:04) BigBlackBen executes a Cross Cut!
+(01:42:04) BigBlackBen executes a Vivisection!
+(01:42:05) HuntyPet executes a Wicked Barb!
+(01:42:05) AlbiThere executes a Rakish Jab!
+(01:42:05) Sax executes a Smash!
+(01:42:06) Miha executes a Eagle's Aim!
+(01:42:06) AlbiThere executes a Heart Seeker!
+(01:42:06) Sax executes a Circle Swing!
+(01:42:06) Dispel executes a Naargal's Dart!
+(01:42:06) Sax executes a Shield Ringer!
+(01:42:14) HuntyPet executes a Kenaryn's Mark!
+(01:42:21) HuntyPet executes a Naargal's Dart!
+(01:42:26) HuntyPet executes a Naargal's Dart!
+(01:42:29) Miha executes a Eagle's Aim!
+(01:42:31) HuntyPet executes a Naargal's Dart!
+(01:42:32) Sax executes a Smash!
+(01:42:34) Sax executes a Smash!
+(01:42:35) HuntyPet executes a Kenaryn's Mark!
+(01:42:35) Sax executes a Circle Swing!
+(01:42:36) Sax executes a Shield Ringer!
+(01:42:41) HuntyPet executes a Naargal's Dart!
+(01:42:42) Holger executes a Painful Cut!
+(01:42:42) Octavius executes a Kenaryn's Mark!
+(01:42:42) TyyppVee executes a Kenaryn's Mark!
+(01:42:42) Octavius executes a Grounding Shot!
+(01:42:42) Octavius executes a Wicked Barb!
+(01:42:42) Holger executes a Press the Foe!
+(01:42:42) Octavius executes a Hornet's Sting!
+(01:42:42) HuntyPet executes a Wyvern's Sting!
+(01:42:42) Octavius executes a Eagle's Aim!
+(01:42:42) HuntyPet executes a Wicked Barb!
+(01:42:42) TyyppVee executes a Wicked Barb!
+(01:42:43) Octavius executes a Thirsty Arrow!
+(01:42:43) TyyppVee executes a Grounding Shot!
+(01:42:43) TyyppVee executes a Shot to the Leg!
+(01:42:43) Octavius executes a Wyvern's Sting!
+(01:42:43) Octavius executes a Kenaryn's Mark!
+(01:42:44) Dispel executes a Naargal's Dart!
+(01:42:44) Octavius executes a Wicked Barb!
+(01:42:44) Octavius executes a Shot to the Leg!
+(01:42:44) Dispel executes a Wyvern's Sting!
+(01:42:44) TyyppVee executes a Kenaryn's Mark!
+(01:42:44) Dispel executes a Kenaryn's Mark!
+(01:42:44) HuntyPet executes a Wicked Barb!
+(01:42:44) Octavius executes a Grounding Shot!
+(01:42:44) HuntyPet executes a Naargal's Dart!
+(01:42:44) HuntyPet executes a Wyvern's Sting!
+(01:42:45) Octavius executes a Rat-Lord's Guile!
+(01:42:45) Octavius executes a Skree'ekt's Teeth!
+(01:42:45) HuntyPet executes a Kenaryn's Mark!
+(01:42:45) xinyu executes a Kenaryn's Mark!
+(01:42:45) Dispel executes a Naargal's Dart!
+(01:42:45) Octavius executes a Gnaw!
+(01:42:45) xinyu executes a Thirsty Arrow!
+(01:42:45) xinyu executes a Eagle's Aim!
+(01:42:45) TyyppVee executes a Wicked Barb!
+(01:42:45) xinyu executes a Shot to the Leg!
+(01:42:45) TyyppVee executes a Kenaryn's Mark!
+(01:42:46) HuntyPet executes a Wicked Barb!
+(01:42:46) hta executes a Drakesbreath!
+(01:42:46) xinyu executes a Grounding Shot!
+(01:42:46) hta executes a Naargal's Bite!
+(01:42:47) hta executes a Run Through!
+(01:42:47) xinyu executes a Hornet's Sting!
+(01:42:47) hta executes a Callanthyr's Bite!
+(01:42:47) xinyu executes a Kenaryn's Mark!
+(01:42:47) xinyu executes a Wicked Barb!
+(01:42:47) xinyu executes a Wyvern's Sting!
+(01:42:48) hta executes a Skewer!
+(01:42:48) xinyu executes a Eagle's Aim!
+(01:42:48) xinyu executes a Thirsty Arrow!
+(01:42:48) hta executes a Disengage!
+(01:42:48) hta executes a Pierce!
+(01:42:49) xinyu executes a Shot to the Leg!
+(01:42:49) hta executes a Drakesbreath!
+(01:42:49) hta executes a Naargal's Bite!
+(01:42:49) xinyu executes a Hornet's Sting!
+(01:42:49) xinyu executes a Kenaryn's Mark!
+(01:42:50) TyyppVee executes a Kenaryn's Mark!
+(01:42:50) Dispel executes a Kenaryn's Mark!
+(01:42:50) xinyu executes a Wicked Barb!
+(01:42:50) xinyu executes a Wyvern's Sting!
+(01:42:50) Dispel executes a Naargal's Dart!
+(01:42:50) HuntyPet executes a Wicked Barb!
+(01:42:55) HuntyPet executes a Grounding Shot!
+(01:42:56) HuntyPet executes a Wyvern's Sting!
+(01:42:56) HuntyPet executes a Naargal's Dart!
+(01:42:56) Dispel executes a Grounding Shot!
+(01:42:56) TyyppVee executes a Grounding Shot!
+(01:42:58) TyyppVee executes a Wicked Barb!
+(01:42:58) Dispel executes a Naargal's Dart!
+(01:42:59) sudo executes a Kick!
+(01:42:59) sudo executes a Kick!
+(01:43:00) sudo executes a Kick!
+(01:43:00) sudo executes a Kick!
+(01:43:00) sudo executes a Kick!
+(01:43:00) sudo executes a Kick!
+(01:43:01) sudo executes a Kick!
+(01:43:01) sudo executes a Kick!
+(01:43:01) sudo executes a Kick!
+(01:43:02) sudo executes a Kick!
+(01:43:02) sudo executes a Kick!
+(01:43:03) Bambi executes a Heart Seeker!
+(01:43:04) Dispel executes a Kenaryn's Mark!
+(01:43:04) Dispel executes a Naargal's Dart!
+(01:43:04) Bambi executes a Pommel Strike!
+(01:43:05) HuntyPet executes a Naargal's Dart!
+(01:43:05) Bambi executes a Grimtooth!
+(01:43:05) Bambi executes a Rakish Jab!
+(01:43:05) Bambi executes a Heart Seeker!
+(01:43:05) HuntyPet executes a Grounding Shot!
+(01:43:05) Bambi executes a Torturer's Scalpel!
+(01:43:06) Bambi executes a Bloody Slice!
+(01:43:06) Dispel executes a Grounding Shot!
+(01:43:07) TyyppVee executes a Grounding Shot!
+(01:43:07) Bambi executes a Rakish Jab!
+(01:43:07) Bambi executes a Heart Seeker!
+(01:43:07) Bambi executes a Grimtooth!
+(01:43:07) Bambi executes a Torturer's Scalpel!
+(01:43:07) Bambi executes a Pommel Strike!
+(01:43:08) HuntyPet executes a Naargal's Dart!
+(01:43:08) Dispel executes a Naargal's Dart!
+(01:43:12) Dispel executes a Claw!
+(01:43:12) Dispel executes a Growl!
+(01:43:14) TyyppVee executes a Kenaryn's Mark!
+(01:43:15) TyyppVee executes a Wicked Barb!
+(01:43:16) Dispel executes a Kenaryn's Mark!
+(01:43:16) Bambi executes a Rakish Jab!
+(01:43:17) Dispel executes a Naargal's Dart!
+(01:43:18) Dispel executes a Naargal's Dart!
+(01:43:18) HuntyPet executes a Naargal's Dart!
+(01:43:19) TyyppVee executes a Kenaryn's Mark!
+(01:43:20) HuntyPet executes a Naargal's Dart!
+(01:43:20) HuntyPet executes a Grounding Shot!
+(01:43:21) Dispel executes a Naargal's Dart!
+(01:43:21) kwx executes a Wicked Barb!
+(01:43:21) kwx executes a Hornet's Sting!
+(01:43:21) HuntyPet executes a Naargal's Dart!
+(01:43:21) kwx executes a Kenaryn's Mark!
+(01:43:21) kwx executes a Eagle's Aim!
+(01:43:21) kwx executes a Grounding Shot!
+(01:43:21) TyyppVee executes a Shot to the Leg!
+(01:43:21) HuntyPet executes a Wyvern's Sting!
+(01:43:22) Dispel executes a Naargal's Dart!
+(01:43:22) Dispel executes a Wyvern's Sting!
+(01:43:22) Dispel executes a Kenaryn's Mark!
+(01:43:22) TyyppVee executes a Kenaryn's Mark!
+(01:43:22) Andre executes a Grounding Shot!
+(01:43:22) Andre executes a Wyvern's Sting!
+(01:43:22) TyyppVee executes a Shot to the Leg!
+(01:43:22) Dispel executes a Naargal's Dart!
+(01:43:22) Andre executes a Hornet's Sting!
+(01:43:23) Andre executes a Wicked Barb!
+(01:43:23) Dispel executes a Kenaryn's Mark!
+(01:43:30) HuntyPet executes a Naargal's Dart!
+(01:43:32) HuntyPet executes a Thirsty Arrow!
+(01:43:32) TyyppVee executes a Kenaryn's Mark!
+(01:43:33) HuntyPet executes a Shot to the Leg!
+(01:43:33) HuntyPet executes a Kenaryn's Mark!
+(01:43:33) TyyppVee executes a Kenaryn's Mark!
+(01:43:34) HuntyPet executes a Eagle's Aim!
+(01:43:34) Dispel executes a Naargal's Dart!
+(01:43:34) TyyppVee executes a Kenaryn's Mark!
+(01:43:34) HuntyPet executes a Shot to the Leg!
+(01:43:41) CountHyde executes a Chant of the Dwarves!
+(01:43:41) DRChuckIt executes a Heavy Haft!
+(01:43:41) CloudA executes a Thirsty Arrow!
+(01:43:42) DRChuckIt executes a Kneeshot!
+(01:43:42) Ninja executes a Circle Swing!
+(01:43:42) You prepare to execute a Bruising Strike.
+(01:43:42) You execute a Bruising Strike!
+(01:43:42) DRChuckIt executes a Mark of Shame!
+(01:43:42) Ninja executes a Spinning Block!
+(01:43:42) You prepare to execute a Spinning Block.
+(01:43:42) You execute a Spinning Block!
+(01:43:42) Ninja executes a Smash!
+(01:43:42) DRChuckIt executes a Sunder!
+(01:43:43) You prepare to execute a Aim for the Arm.
+(01:43:43) Ninja executes a Chant of the Dwarves!
+(01:43:43) You execute a Aim for the Arm!
+(01:43:43) Bearable executes a Chant of the Dwarves!
+(01:43:43) SKERD executes a Sword of Saint Malorn!
+(01:43:43) You prepare to execute a Kneeshot.
+(01:43:43) Soda executes a Smash!
+(01:43:43) You execute a Kneeshot!
+(01:43:43) Ninja executes a Shield Ringer!
+(01:43:43) Ninja executes a Kneeshot!
+(01:43:44) DRChuckIt executes a Bury the Hatchet!
+(01:43:44) You prepare to execute a Mark of Shame.
+(01:43:44) Bearable executes a Hammer Time!
+(01:43:44) You execute a Mark of Shame!
+(01:43:44) Ninja executes a Mark of Shame!
+(01:43:44) DRChuckIt executes a Aim for the Arm!
+(01:43:44) MyosMoo executes a Sunder!
+(01:43:44) Ninja executes a Aim for the Arm!
+(01:43:44) Bearable executes a Thurin's Rebuke!
+(01:43:44) You prepare to execute a Smash.
+(01:43:44) You execute a Smash!
+(01:43:44) TyypeVee executes a Bruising Strike!
+(01:43:44) Ninja executes a Batter!
+(01:43:44) You prepare to execute a Circle Swing.
+(01:43:44) You execute a Circle Swing!
+(01:43:45) You prepare to execute a Shield Ringer.
+(01:43:45) You execute a Shield Ringer!
+(01:43:45) TyypeVee executes a Kneeshot!
+(01:43:45) Bearable executes a Bear-Lord's Might!
+(01:43:45) You prepare to execute a Batter.
+(01:43:45) You execute a Batter!
+(01:43:45) You prepare to execute a Bruising Strike.
+(01:43:45) TyypeVee executes a Spinning Block!
+(01:43:45) You execute a Bruising Strike!
+(01:43:45) MyosMoo executes a Ravage!
+(01:43:45) DRChuckIt executes a Skinning Strike!
+(01:43:45) Bearable executes a Overbearing Strike!
+(01:43:45) SKERD executes a Red Blade!
+(01:43:46) You prepare to execute a Spinning Block.
+(01:43:46) DRChuckIt executes a Heavy Haft!
+(01:43:46) You execute a Spinning Block!
+(01:43:46) TyypeVee executes a Circle Swing!
+(01:43:46) You prepare to execute a Aim for the Arm.
+(01:43:46) DRChuckIt executes a Kneeshot!
+(01:43:46) SKERD executes a Sword of Saint Malorn!
+(01:43:46) You execute a Aim for the Arm!
+(01:43:46) You prepare to execute a Kneeshot.
+(01:43:46) You execute a Kneeshot!
+(01:43:46) TyypeVee executes a Smash!
+(01:43:46) Ninja executes a Chant of the Dwarves!
+(01:43:46) Soda executes a Circle Swing!
+(01:43:46) DRChuckIt executes a Mark of Shame!
+(01:43:46) TyypeVee executes a Shield Ringer!
+(01:43:46) Ninja executes a Circle Swing!
+(01:43:47) DRChuckIt executes a Sunder!
+(01:43:47) Soda executes a Smash!
+(01:43:47) You prepare to execute a Mark of Shame.
+(01:43:47) You execute a Mark of Shame!
+(01:43:47) You prepare to execute a Smash.
+(01:43:47) Ninja executes a Smash!
+(01:43:47) DRChuckIt executes a Bury the Hatchet!
+(01:43:47) You execute a Smash!
+(01:43:47) TyypeVee executes a Mark of Shame!
+(01:43:47) You prepare to execute a Shield Ringer.
+(01:43:47) Ninja executes a Shield Ringer!
+(01:43:47) CrossToBear executes a Shield Ringer!
+(01:43:47) You execute a Shield Ringer!
+(01:43:47) DRChuckIt executes a Hand Biter!
+(01:44:09) HolyThug executes a Chant of the Dwarves!
+(01:44:09) HolyThug executes a Circle Swing!
+(01:44:10) HolyThug executes a Fist of the Giants!
+(01:44:10) Moony executes a Hornet's Sting!
+(01:44:10) Moony executes a Kenaryn's Mark!
+(01:44:12) CaliSent executes a Circle Swing!
+(01:44:13) Soda executes a Smash!
+(01:44:13) CaliSent executes a Shield Ringer!
+(01:44:14) Prodriver executes a Smash!
+(01:44:14) Soda executes a Circle Swing!
+(01:44:14) Soda executes a Chant of the Dwarves!
+(01:44:16) Moony executes a Kenaryn's Mark!
+(01:44:19) Sax executes a Thurin's Rebuke!
+(01:44:25) DRChuckIt executes a Sunder!
+(01:44:25) Rokaw executes a Kneeshot!
+(01:44:25) Rokaw executes a Bruising Strike!
+(01:44:25) DRChuckIt executes a Northman's Fury!
+(01:44:25) Sauce executes a Spinning Block!
+(01:44:25) You execute a Shield Bash!
+(01:44:25) You prepare to execute a Bruising Strike.
+(01:44:25) Sauce executes a Mark of Shame!
+(01:44:25) Typechi executes a Skinning Strike!
+(01:44:25) DRChuckIt executes a Bury the Hatchet!
+(01:44:25) You execute a Bruising Strike!
+(01:44:25) Rokaw executes a Spinning Block!
+(01:44:25) Sasss executes a Skinning Strike!
+(01:44:25) Typechi executes a Aim for the Arm!
+(01:44:25) You prepare to execute a Spinning Block.
+(01:44:25) You execute a Spinning Block!
+(01:44:25) DRChuckIt executes a Hand Biter!
+(01:44:26) Typechi executes a Hand Biter!
+(01:44:26) You prepare to execute a Aim for the Arm.
+(01:44:26) Rokaw executes a Aim for the Arm!
+(01:44:26) Sasss executes a Heavy Haft!
+(01:44:26) You execute a Aim for the Arm!
+(01:44:26) You prepare to execute a Smash.
+(01:44:26) Typechi executes a Shield Bash!
+(01:44:27) You execute a Smash!
+(01:44:27) You prepare to execute a Kneeshot.
+(01:44:27) You prepare to execute a Kneeshot.
+(01:44:27) DRChuckIt executes a Skinning Strike!
+(01:44:27) You execute a Kneeshot!
+(01:44:27) You prepare to execute a Mark of Shame.
+(01:44:27) Typechi executes a Heavy Haft!
+(01:44:27) You execute a Mark of Shame!
+(01:44:27) Rokaw executes a Kneeshot!
+(01:44:27) Sasss executes a Kneeshot!
+(01:44:27) Typechi executes a Mark of Shame!
+(01:44:27) You prepare to execute a Circle Swing.
+(01:44:27) You execute a Circle Swing!
+(01:44:28) Rokaw executes a Bruising Strike!
+(01:44:28) You prepare to execute a Shield Ringer.
+(01:44:28) You execute a Shield Ringer!
+(01:44:28) Rokaw executes a Mark of Shame!
+(01:44:28) You prepare to execute a Bruising Strike.
+(01:44:28) Typechi executes a Northman's Fury!
+(01:44:28) You execute a Bruising Strike!
+(01:44:28) Rokaw executes a Spinning Block!
+(01:44:28) You prepare to execute a Spinning Block.
+(01:44:28) Sasss executes a Aim for the Arm!
+(01:44:28) Sauce executes a Bruising Strike!
+(01:44:29) You prepare to execute a Aim for the Arm.
+(01:44:29) You execute a Aim for the Arm!
+(01:44:29) Typechi executes a Shield Bash!
+(01:44:29) Sasss executes a Heavy Haft!
+(01:44:30) Sauce executes a Mark of Shame!
+(01:44:30) Rokaw executes a Chant of the Dwarves!
+(01:44:30) Typechi executes a Skinning Strike!
+(01:44:31) Typechi executes a Heavy Haft!
+(01:44:31) Rokaw executes a Kneeshot!
+(01:44:31) DRChuckIt executes a Hand Biter!
+(01:44:31) Typechi executes a Sunder!
+(01:44:31) Rokaw executes a Bruising Strike!

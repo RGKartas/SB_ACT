@@ -1,0 +1,8 @@
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
+RegExType   :: Power :: Taunt
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*\[Combat\] Info\: (?<target>.*) (?<type>[atck]*)s? (?<source>.*)
+
+
+(01:42:50) [Combat] Info: kosnwa tt has died!
+(01:42:50) [Combat] Info: kosnwa tt has died!

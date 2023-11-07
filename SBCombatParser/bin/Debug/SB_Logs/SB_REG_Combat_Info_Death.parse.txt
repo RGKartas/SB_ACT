@@ -1,0 +1,119 @@
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
+RegExType   :: Combat :: Info Death
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*\[Combat\] Info\: (?<source>.*) [hasve]* (?<type>die).*!
+
+Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
+01:41:55 : die        : Vashtur                   :                           :                           :              :              :       
+01:41:55 : die        : Vashtur                   :                           :                           :              :              :       
+01:41:58 : die        : Priest                    :                           :                           :              :              :       
+01:41:58 : die        : Priest                    :                           :                           :              :              :       
+01:42:00 : die        : PBAOE                     :                           :                           :              :              :       
+01:42:00 : die        : PBAOE                     :                           :                           :              :              :       
+01:42:03 : die        : Tupac Shakur              :                           :                           :              :              :       
+01:42:03 : die        : Tupac Shakur              :                           :                           :              :              :       
+01:42:05 : die        : BigBlackBen               :                           :                           :              :              :       
+01:42:05 : die        : Long                      :                           :                           :              :              :       
+01:42:05 : die        : Long                      :                           :                           :              :              :       
+01:42:06 : die        : Drooley                   :                           :                           :              :              :       
+01:42:06 : die        : Drooley                   :                           :                           :              :              :       
+01:42:07 : die        : AlbiThere ForYou          :                           :                           :              :              :       
+01:42:07 : die        : AlbiThere ForYou          :                           :                           :              :              :       
+01:42:07 : die        : Vashteera's Companion     :                           :                           :              :              :       
+01:42:14 : die        : DMT                       :                           :                           :              :              :       
+01:42:14 : die        : DMT                       :                           :                           :              :              :       
+01:42:17 : die        : Guru                      :                           :                           :              :              :       
+01:42:17 : die        : Guru                      :                           :                           :              :              :       
+01:42:26 : die        : SeeNo Evil                :                           :                           :              :              :       
+01:42:26 : die        : SeeNo Evil                :                           :                           :              :              :       
+01:42:30 : die        : Dispel Cobra              :                           :                           :              :              :       
+01:42:30 : die        : Dispel Cobra              :                           :                           :              :              :       
+01:42:30 : die        : LogicNC                   :                           :                           :              :              :       
+01:42:31 : die        : Yuckfou                   :                           :                           :              :              :       
+01:42:31 : die        : Yuckfou                   :                           :                           :              :              :       
+01:42:33 : die        : deez nuts                 :                           :                           :              :              :       
+01:42:33 : die        : deez nuts                 :                           :                           :              :              :       
+01:42:33 : die        : Bog                       :                           :                           :              :              :       
+01:42:34 : die        : First Aid                 :                           :                           :              :              :       
+01:42:34 : die        : Fkrah                     :                           :                           :              :              :       
+01:42:34 : die        : Fkrah                     :                           :                           :              :              :       
+01:42:35 : die        : Noodle                    :                           :                           :              :              :       
+01:42:35 : die        : Noodle                    :                           :                           :              :              :       
+01:42:42 : die        : Imagine Defense lol       :                           :                           :              :              :       
+01:42:43 : die        : Holger                    :                           :                           :              :              :       
+01:42:43 : die        : Holger                    :                           :                           :              :              :       
+01:42:44 : die        : Hunger                    :                           :                           :              :              :       
+01:42:44 : die        : Hunger                    :                           :                           :              :              :       
+01:42:45 : die        : Octavius                  :                           :                           :              :              :       
+01:42:45 : die        : Octavius                  :                           :                           :              :              :       
+01:42:50 : die        : TyyppVee                  :                           :                           :              :              :       
+01:42:50 : die        : TyyppVee                  :                           :                           :              :              :       
+01:42:50 : die        : Vashteera's Companion     :                           :                           :              :              :       
+01:42:52 : die        : Mud Fiend                 :                           :                           :              :              :       
+01:42:56 : die        : dnst ' NZSP              :                           :                           :              :              :       
+01:42:56 : die        : dnst ' NZSP              :                           :                           :              :              :       
+01:42:58 : die        : Novac Bellugh Nuathal Priest :                           :                           :              :              :       
+01:43:04 : die        : Rain Up In Sky            :                           :                           :              :              :       
+01:43:05 : die        : blackgurl sandslave       :                           :                           :              :              :       
+01:43:05 : die        : blackgurl sandslave       :                           :                           :              :              :       
+01:43:08 : die        : Bambi Look A Bird         :                           :                           :              :              :       
+01:43:08 : die        : Bambi Look A Bird         :                           :                           :              :              :       
+01:43:08 : die        : KSlater Up In Sky         :                           :                           :              :              :       
+01:43:08 : die        : KSlater Up In Sky         :                           :                           :              :              :       
+01:43:09 : die        : wreck                     :                           :                           :              :              :       
+01:43:09 : die        : wreck                     :                           :                           :              :              :       
+01:43:16 : die        : Bambi Look A Bird         :                           :                           :              :              :       
+01:43:17 : die        : blackgurl sandslave       :                           :                           :              :              :       
+01:43:17 : die        : blackgurl sandslave       :                           :                           :              :              :       
+01:43:19 : die        : Rain Up In Sky            :                           :                           :              :              :       
+01:43:19 : die        : Rain Up In Sky            :                           :                           :              :              :       
+01:43:20 : die        : KSlater Up In Sky         :                           :                           :              :              :       
+01:43:20 : die        : KSlater Up In Sky         :                           :                           :              :              :       
+01:43:21 : die        : wreck                     :                           :                           :              :              :       
+01:43:22 : die        : kwx                       :                           :                           :              :              :       
+01:43:22 : die        : kwx                       :                           :                           :              :              :       
+01:43:23 : die        : Andre                     :                           :                           :              :              :       
+01:43:23 : die        : Andre                     :                           :                           :              :              :       
+01:43:30 : die        : syszj BH                  :                           :                           :              :              :       
+01:43:30 : die        : syszj BH                  :                           :                           :              :              :       
+01:43:32 : die        : MDAZJ BH                  :                           :                           :              :              :       
+01:43:32 : die        : MDAZJ BH                  :                           :                           :              :              :       
+01:43:34 : die        : FYasz BH                  :                           :                           :              :              :       
+01:43:34 : die        : FYasz BH                  :                           :                           :              :              :       
+01:43:34 : die        : SPF � BH                 :                           :                           :              :              :       
+01:43:34 : die        : SPF � BH                 :                           :                           :              :              :       
+01:43:43 : die        : Ponch                     :                           :                           :              :              :       
+01:43:43 : die        : Ponch                     :                           :                           :              :              :       
+01:43:43 : die        : CountHyde                 :                           :                           :              :              :       
+01:43:43 : die        : CountHyde                 :                           :                           :              :              :       
+01:43:45 : die        : Bearable                  :                           :                           :              :              :       
+01:43:45 : die        : Bearable                  :                           :                           :              :              :       
+01:43:47 : die        : MyosMoo                   :                           :                           :              :              :       
+01:43:47 : die        : MyosMoo                   :                           :                           :              :              :       
+01:43:47 : die        : Mephistopheles            :                           :                           :              :              :       
+01:43:54 : die        : nvwu                      :                           :                           :              :              :       
+01:43:54 : die        : nvwu                      :                           :                           :              :              :       
+01:43:55 : die        : fcd                       :                           :                           :              :              :       
+01:43:56 : die        : fcd                       :                           :                           :              :              :       
+01:43:58 : die        : Szmz                      :                           :                           :              :              :       
+01:44:01 : die        : Breeze                    :                           :                           :              :              :       
+01:44:02 : die        : JMc                       :                           :                           :              :              :       
+01:44:03 : die        : JMc                       :                           :                           :              :              :       
+01:44:03 : die        : ysmf T�                   :                           :                           :              :              :       
+01:44:04 : die        : ysmf T�                   :                           :                           :              :              :       
+01:44:11 : die        : Tibins                    :                           :                           :              :              :       
+01:44:11 : die        : Tibins                    :                           :                           :              :              :       
+01:44:13 : die        : CaliSent                  :                           :                           :              :              :       
+01:44:13 : die        : CaliSent                  :                           :                           :              :              :       
+01:44:14 : die        : Vaginex                   :                           :                           :              :              :       
+01:44:14 : die        : Vaginex                   :                           :                           :              :              :       
+01:44:14 : die        : Liquid Snacks             :                           :                           :              :              :       
+01:44:14 : die        : Liquid Snacks             :                           :                           :              :              :       
+01:44:16 : die        : Prodriver                 :                           :                           :              :              :       
+01:44:16 : die        : Prodriver                 :                           :                           :              :              :       
+01:44:17 : die        : HolyThug                  :                           :                           :              :              :       
+01:44:18 : die        : Healn                     :                           :                           :              :              :       
+01:44:24 : die        : SYgzs � BH               :                           :                           :              :              :       
+01:44:26 : die        : MDAZJ BH                  :                           :                           :              :              :       
+01:44:27 : die        : LDSU mS BH                :                           :                           :              :              :       
+01:44:29 : die        : HHDD k� BH                :                           :                           :              :              :       

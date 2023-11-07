@@ -1,0 +1,37 @@
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
+RegExType   :: Damage :: Bleed
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) takes? (?<value>\d*) .*(?<source>damage) from (?<type>.*)ing[\.!]
+
+
+(01:42:45) Octavius takes 53 points of damage from bleeding!
+(01:42:45) Octavius takes 53 points of damage from bleeding!
+(01:42:45) TyyppVee takes 42 points of damage from bleeding!
+(01:42:46) TyyppVee takes 34 points of damage from bleeding!
+(01:42:46) xinyu takes 54 points of damage from bleeding!
+(01:42:46) TyyppVee takes 42 points of damage from bleeding!
+(01:42:47) xinyu takes 38 points of damage from bleeding!
+(01:42:47) xinyu takes 50 points of damage from bleeding!
+(01:42:48) xinyu takes 17 points of damage from bleeding!
+(01:42:49) xinyu takes 40 points of damage from bleeding!
+(01:42:49) xinyu takes 32 points of damage from bleeding!
+(01:42:50) xinyu takes 51 points of damage from bleeding!
+(01:42:50) xinyu takes 26 points of damage from bleeding!
+(01:42:50) xinyu takes 49 points of damage from bleeding!
+(01:42:51) xinyu takes 56 points of damage from bleeding!
+(01:42:51) xinyu takes 44 points of damage from bleeding!
+(01:42:51) xinyu takes 62 points of damage from bleeding!
+(01:42:58) Novac the Bellugh Nuathal Priest takes 80 points of damage from bleeding!
+(01:43:16) Bambi takes 92 points of damage from bleeding!
+(01:43:21) Dispel takes 30 points of damage from bleeding!
+(01:43:22) HuntyPet takes 36 points of damage from bleeding!
+(01:43:23) HuntyPet takes 34 points of damage from bleeding!
+(01:43:32) FYasz takes 23 points of damage from bleeding!
+(01:43:32) FYasz takes 51 points of damage from bleeding!
+(01:43:33) FYasz takes 52 points of damage from bleeding!
+(01:43:33) FYasz takes 49 points of damage from bleeding!
+(01:43:33) FYasz takes 48 points of damage from bleeding!
+(01:43:33) FYasz takes 22 points of damage from bleeding!
+(01:43:33) FYasz takes 27 points of damage from bleeding!
+(01:43:42) Nibenay takes 54 points of damage from bleeding!
+(01:43:46) Mephistopheles takes 44 points of damage from bleeding!

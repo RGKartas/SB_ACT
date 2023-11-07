@@ -1,0 +1,11 @@
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
+RegExType   :: Damage :: Proc You
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>[The]*) (?<ability>.*) (?<type>.*)s (?<target>.*) for (?<value>\d*) .*[\.!]
+
+
+(01:43:57) The fire burns SWK for 266 points of damage!
+(01:43:57) The fire burns Szmz for 479 points of damage!
+(01:43:58) The fire burns Szmz for 438 points of damage!
+(01:44:02) The fire burns JMc for 373 points of damage!
+(01:44:17) The fire burns Healn for 574 points of damage!

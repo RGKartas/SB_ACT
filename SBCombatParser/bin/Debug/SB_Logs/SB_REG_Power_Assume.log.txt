@@ -1,0 +1,148 @@
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
+RegExType   :: Power :: Assume
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<type>assume)s? [\Wa]?(?<ability>.*)[\.!]
+
+
+(01:41:50) PBAOE assumes a new shape.
+(01:41:50) AlbiThere assumes a new shape.
+(01:41:50) Priest assumes a new shape.
+(01:41:50) Saas assumes Offensive Stance.
+(01:41:51) sudo assumes Offensive Stance.
+(01:41:51) lover assumes Offensive Stance.
+(01:41:53) AlbiThere assumes Offensive Stance.
+(01:41:56) BigBlackBen assumes a new shape.
+(01:41:58) lover assumes Defensive Stance.
+(01:42:02) lover assumes Offensive Stance.
+(01:42:06) sudo assumes Precise Stance.
+(01:42:07) HuntyPet assumes Prospecting Stance.
+(01:42:07) Sax assumes Defensive Stance.
+(01:42:13) WoundedKnee assumes Precise Stance.
+(01:42:14) Guru assumes Offensive Stance.
+(01:42:14) WoundedKnee assumes Offensive Stance.
+(01:42:15) lover assumes Defensive Stance.
+(01:42:15) WoundedKnee assumes Defensive Stance.
+(01:42:16) Guru assumes Precise Stance.
+(01:42:16) Guru assumes Defensive Stance.
+(01:42:21) sudo assumes Offensive Stance.
+(01:42:21) WoundedKnee assumes Precise Stance.
+(01:42:22) Sniper assumes Defensive Stance.
+(01:42:23) WoundedKnee assumes Defensive Stance.
+(01:42:23) lover assumes Offensive Stance.
+(01:42:23) You assume Offensive Stance.
+(01:42:23) You assume Offensive Stance.
+(01:42:25) deez assumes Defensive Stance.
+(01:42:25) deez assumes Offensive Stance.
+(01:42:26) Bourbon assumes Offensive Stance.
+(01:42:28) First assumes Offensive Stance.
+(01:42:29) LogicNC assumes Offensive Stance.
+(01:42:29) Saas assumes Offensive Stance.
+(01:42:30) LogicNC assumes Defensive Stance.
+(01:42:30) deez assumes Defensive Stance.
+(01:42:31) Bourbon assumes Offensive Stance.
+(01:42:31) deez assumes Offensive Stance.
+(01:42:35) You assume Offensive Stance.
+(01:42:41) You assume Offensive Stance.
+(01:42:41) Octavius assumes a new shape.
+(01:42:43) Rylix assumes Offensive Stance.
+(01:42:45) sudo assumes Offensive Stance.
+(01:42:45) xinyu assumes Defensive Stance.
+(01:42:48) dnst assumes a new shape.
+(01:42:51) You assume Offensive Stance.
+(01:42:51) Dispel assumes Precise Stance.
+(01:42:51) sudo assumes Offensive Stance.
+(01:42:52) You assume Offensive Stance.
+(01:42:52) HuntyPet assumes Defensive Stance.
+(01:42:53) Dispel assumes Precise Stance.
+(01:42:53) dnst assumes a new shape.
+(01:42:53) HuntyPet assumes Offensive Stance.
+(01:42:55) You assume Offensive Stance.
+(01:42:55) dnst assumes a new shape.
+(01:42:55) sudo assumes Offensive Stance.
+(01:42:57) You assume Offensive Stance.
+(01:42:57) You assume Offensive Stance.
+(01:42:58) Dispel assumes Precise Stance.
+(01:42:58) Dispel assumes Offensive Stance.
+(01:42:58) sudo assumes Offensive Stance.
+(01:42:59) sudo assumes Offensive Stance.
+(01:42:59) TyyppVee assumes Offensive Stance.
+(01:42:59) HuntyPet assumes Defensive Stance.
+(01:43:00) HuntyPet assumes Offensive Stance.
+(01:43:01) You assume Offensive Stance.
+(01:43:02) TyyppVee assumes Offensive Stance.
+(01:43:02) sudo assumes Offensive Stance.
+(01:43:03) Dispel assumes Offensive Stance.
+(01:43:03) wreck assumes Offensive Stance.
+(01:43:05) blackgurl assumes Defensive Stance.
+(01:43:05) Bambi assumes Offensive Stance.
+(01:43:09) TyyppVee assumes Offensive Stance.
+(01:43:09) HuntyPet assumes Defensive Stance.
+(01:43:10) You assume Offensive Stance.
+(01:43:10) HuntyPet assumes Offensive Stance.
+(01:43:10) Dispel assumes Offensive Stance.
+(01:43:10) HuntyPet assumes Offensive Stance.
+(01:43:11) Dispel assumes a new shape.
+(01:43:11) Dispel assumes a new shape.
+(01:43:12) HuntyPet assumes Prospecting Stance.
+(01:43:12) HuntyPet assumes Offensive Stance.
+(01:43:12) Dispel assumes Precise Stance.
+(01:43:12) TyyppVee assumes Offensive Stance.
+(01:43:12) sudo assumes Offensive Stance.
+(01:43:13) Dispel assumes Offensive Stance.
+(01:43:13) sudo assumes Offensive Stance.
+(01:43:13) Rain assumes Defensive Stance.
+(01:43:16) Rain assumes Offensive Stance.
+(01:43:17) blackgurl assumes Defensive Stance.
+(01:43:18) kwx assumes Defensive Stance.
+(01:43:19) Rain assumes Defensive Stance.
+(01:43:19) KSlater assumes Offensive Stance.
+(01:43:21) You assume Offensive Stance.
+(01:43:21) TyyppVee assumes Precise Stance.
+(01:43:22) HuntyPet assumes Prospecting Stance.
+(01:43:22) sudo assumes Precise Stance.
+(01:43:22) sudo assumes Offensive Stance.
+(01:43:22) You assume Precise Stance.
+(01:43:23) Dispel assumes Prospecting Stance.
+(01:43:23) Dispel assumes Prospecting Stance.
+(01:43:23) HuntyPet assumes Offensive Stance.
+(01:43:23) TyyppVee assumes Offensive Stance.
+(01:43:24) Dispel assumes Precise Stance.
+(01:43:31) TyyppVee assumes Offensive Stance.
+(01:43:33) Dispel assumes Precise Stance.
+(01:43:35) TyyppVee assumes Offensive Stance.
+(01:43:35) HuntyPet assumes Defensive Stance.
+(01:43:35) sudo assumes Offensive Stance.
+(01:43:36) HuntyPet assumes Offensive Stance.
+(01:43:42) CloudA assumes Offensive Stance.
+(01:43:42) DayWalker assumes Offensive Stance.
+(01:43:42) TyypeVee assumes Offensive Stance.
+(01:43:44) CloudA assumes Defensive Stance.
+(01:43:45) Ninja assumes Offensive Stance.
+(01:43:47) CloudA assumes Offensive Stance.
+(01:43:56) champagne assumes Defensive Stance.
+(01:44:03) tickles assumes Offensive Stance.
+(01:44:06) tickles assumes Offensive Stance.
+(01:44:06) Sax assumes Offensive Stance.
+(01:44:07) Moony assumes Defensive Stance.
+(01:44:08) champagne assumes Defensive Stance.
+(01:44:09) Prodriver assumes a new shape.
+(01:44:09) Prodriver assumes a new shape.
+(01:44:10) You assume Defensive Stance.
+(01:44:14) You assume Offensive Stance.
+(01:44:14) You assume Precise Stance.
+(01:44:14) tickles assumes Offensive Stance.
+(01:44:15) Uther assumes Offensive Stance.
+(01:44:18) CloudA assumes Precise Stance.
+(01:44:18) CloudA assumes Offensive Stance.
+(01:44:19) Uther assumes Offensive Stance.
+(01:44:25) LDSU assumes Offensive Stance.
+(01:44:26) Sax assumes Offensive Stance.
+(01:44:28) Sasss assumes Offensive Stance.
+(01:44:28) YEP assumes Offensive Stance.
+(01:44:30) yunT assumes Offensive Stance.
+(01:44:30) XJY assumes Defensive Stance.
+(01:44:30) EarthZS assumes Offensive Stance.
+(01:44:30) XJY assumes Offensive Stance.
+(01:44:30) FYms assumes Offensive Stance.
+(01:44:30) xxOxx assumes Offensive Stance.
+(01:44:31) eka assumes Offensive Stance.

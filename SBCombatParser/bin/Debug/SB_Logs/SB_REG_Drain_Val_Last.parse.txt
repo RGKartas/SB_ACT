@@ -1,0 +1,11 @@
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
+RegExType   :: Drain :: Val Last
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']?[s]? (?<ability>.*) (?<type>.*)s (?<value>\d*) points of (?<event_type>[helthman]*) from (?<target>.*)[\.!]
+
+Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
+01:42:45 : drain      : xinyu                     : you                       : Vampire's Kiss            : health       :              : 480   
+01:42:48 : drain      : xinyu                     : you                       : Vampire's Kiss            : health       :              : 491   
+01:44:02 : drain      : JMc                       : you                       : Vampire's Kiss            : health       :              : 507   
+01:44:08 : drain      : Liquid                    : you                       : Exalted Word of Binding   : mana         :              : 163   
+01:44:13 : drain      : Liquid                    : you                       : Exalted Word of Binding   : mana         :              : 165   

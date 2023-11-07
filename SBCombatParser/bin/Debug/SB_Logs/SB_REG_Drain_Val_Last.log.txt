@@ -1,9 +1,11 @@
-Version     :: 0.0.9.8
-DateTime    :: 11/6/2023 08:27:49 AM
+Version     :: 0.0.11.0
+DateTime    :: 11/7/2023 01:41:36 AM
 RegExType   :: Drain :: Val Last
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']?[s]? (?<ability>.*) (?<type>.*)s (?<value>\d*) points of (?<event_type>[helthman]*) from (?<target>.*)[\.!]
-(08:28:21) chs's Exalted Word of Binding drains 104 points of mana from you.
-(08:28:22) Your Vampire's Kiss drains 559 points of health from TyypeVee.
-(08:28:22) Your Vampire's Kiss drains 559 points of health from BlackSele.
-(08:28:50) Your Vampire's Kiss drains 553 points of health from TyypeVee.
-(08:28:50) Your Vampire's Kiss drains 553 points of health from BlackSele.
+
+
+(01:42:45) xinyu's Vampire's Kiss drains 480 points of health from you.
+(01:42:48) xinyu's Vampire's Kiss drains 491 points of health from you.
+(01:44:02) JMc's Vampire's Kiss drains 507 points of health from you.
+(01:44:08) Liquid's Exalted Word of Binding drains 163 points of mana from you.
+(01:44:13) Liquid's Exalted Word of Binding drains 165 points of mana from you.
