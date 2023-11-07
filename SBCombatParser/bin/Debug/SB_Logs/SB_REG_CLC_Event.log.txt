@@ -1,19 +1,8 @@
 Version     :: 0.0.11.0
-DateTime    :: 11/7/2023 01:41:36 AM
+DateTime    :: 11/7/2023 02:23:58 AM
 RegExType   :: CLC :: Event
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>CLC) (?<type>.*) (?<event_type>.*) \:\: (?<event_detail>.*)
 
 
-(01:41:50) CLC LogFile Start :: .\LogFiles\Input\From_Type\10bro.txt
-(01:42:07) CLC LogFile Stop :: .\LogFiles\Input\From_Type\10bro.txt
-(01:42:12) CLC LogFile Start :: .\LogFiles\Input\From_Type\10v14tomb.txt
-(01:42:36) CLC LogFile Stop :: .\LogFiles\Input\From_Type\10v14tomb.txt
-(01:42:41) CLC LogFile Start :: .\LogFiles\Input\From_Type\1111.txt
-(01:43:24) CLC LogFile Stop :: .\LogFiles\Input\From_Type\1111.txt
-(01:43:29) CLC LogFile Start :: .\LogFiles\Input\From_Type\11111.txt
-(01:43:36) CLC LogFile Stop :: .\LogFiles\Input\From_Type\11111.txt
-(01:43:41) CLC LogFile Start :: .\LogFiles\Input\From_Type\122222.txt
-(01:43:48) CLC LogFile Stop :: .\LogFiles\Input\From_Type\122222.txt
-(01:43:53) CLC LogFile Start :: .\LogFiles\Input\From_Type\123.txt
-(01:44:19) CLC LogFile Stop :: .\LogFiles\Input\From_Type\123.txt
-(01:44:24) CLC LogFile Start :: .\LogFiles\Input\From_Type\1234.txt
+(02:24:12) CLC LogFile Start :: .\LogFiles\Input\Combat1.log.txt
+(02:24:35) CLC LogFile Stop :: .\LogFiles\Input\Combat1.log.txt

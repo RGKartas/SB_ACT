@@ -1,8 +1,37 @@
 Version     :: 0.0.11.0
-DateTime    :: 11/7/2023 01:41:36 AM
+DateTime    :: 11/7/2023 02:23:58 AM
 RegExType   :: Power :: Taunt
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*\[Combat\] Info\: (?<target>.*) (?<type>[atck]*)s? (?<source>.*)
 
 Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
-01:42:50 : tt         : has died!                 : kosnwa                    :                           :              :              :       
-01:42:50 : tt         : has died!                 : kosnwa                    :                           :              :              :       
+02:24:14 : attack     : HardC                     : Mud Ogre                  :                           :              :              :       
+02:24:16 : attack     : HardC                     : Moss Ogre                 :                           :              :              :       
+02:24:16 : attack     : HardC                     : Mud Ogre                  :                           :              :              :       
+02:24:18 : attack     : HardC                     : Moss Ogre                 :                           :              :              :       
+02:24:18 : attack     : HardC                     : Mud Ogre                  :                           :              :              :       
+02:24:19 : attack     : HardC                     : Moss Ogre                 :                           :              :              :       
+02:24:20 : attack     : HardC                     : Moss Ogre                 :                           :              :              :       
+02:24:21 : attack     : HardC                     : Mud Ogre                  :                           :              :              :       
+02:24:21 : attack     : HardC                     : Moss Ogre                 :                           :              :              :       
+02:24:23 : attack     : HardC                     : Mud Ogre                  :                           :              :              :       
+02:24:23 : attack     : HardC                     : Tavok Chief-brother       :                           :              :              :       
+02:24:23 : attack     : HardC                     : Moss Ogre                 :                           :              :              :       
+02:24:24 : attack     : HardC                     : Moss Ogre                 :                           :              :              :       
+02:24:24 : attack     : HardC                     : Mud Ogre                  :                           :              :              :       
+02:24:25 : attack     : HardC                     : Tavok Chief-brother       :                           :              :              :       
+02:24:25 : attack     : HardC                     : Moss Ogre                 :                           :              :              :       
+02:24:26 : attack     : HardC                     : Moss Ogre                 :                           :              :              :       
+02:24:26 : attack     : HardC                     : Vorok Mud-Chief           :                           :              :              :       
+02:24:26 : attack     : HardC                     : Mud Ogre                  :                           :              :              :       
+02:24:27 : attack     : HardC                     : Tavok Chief-brother       :                           :              :              :       
+02:24:27 : attack     : HardC                     : Moss Ogre                 :                           :              :              :       
+02:24:28 : attack     : HardC                     : Moss Ogre                 :                           :              :              :       
+02:24:28 : attack     : HardC                     : Mud Ogre                  :                           :              :              :       
+02:24:29 : attack     : HardC                     : Tavok Chief-brother       :                           :              :              :       
+02:24:29 : attack     : HardC                     : Moss Ogre                 :                           :              :              :       
+02:24:30 : attack     : HardC                     : Moss Ogre                 :                           :              :              :       
+02:24:30 : attack     : HardC                     : Vorok Mud-Chief           :                           :              :              :       
+02:24:31 : attack     : HardC                     : Moss Ogre                 :                           :              :              :       
+02:24:32 : attack     : HardC                     : Mud Ogre                  :                           :              :              :       
+02:24:32 : attack     : HardC                     : Tavok Chief-brother       :                           :              :              :       
+02:24:33 : attack     : HardC                     : Moss Ogre                 :                           :              :              :       

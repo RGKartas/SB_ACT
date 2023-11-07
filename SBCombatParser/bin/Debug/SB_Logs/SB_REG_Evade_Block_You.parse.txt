@@ -1,171 +1,18 @@
 Version     :: 0.0.11.0
-DateTime    :: 11/7/2023 01:41:36 AM
+DateTime    :: 11/7/2023 02:23:58 AM
 RegExType   :: Evade :: Block You
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>block)[s]? (?<source>.*)'s .*[\.!]
 
 Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
-01:41:52 : block      : Miha                      : BigBlackBen               :                           :              :              :       
-01:41:52 : block      : HuntyPet Cobra            : BigBlackBen               :                           :              :              :       
-01:41:52 : block      : Miha                      : BigBlackBen               :                           :              :              :       
-01:41:52 : block      : HuntyPet Cobra            : BigBlackBen               :                           :              :              :       
-01:41:52 : block      : Dispel Cobra              : Long                      :                           :              :              :       
-01:41:52 : block      : Dispel Cobra              : Long                      :                           :              :              :       
-01:41:57 : block      : lover                     : BigBlackBen               :                           :              :              :       
-01:41:57 : block      : lover                     : BigBlackBen               :                           :              :              :       
-01:41:57 : block      : WillPowder                : Sax                       :                           :              :              :       
-01:41:58 : block      : WillPowder                : Sax                       :                           :              :              :       
-01:42:00 : block      : Tupac Shakur              : Saas y                    :                           :              :              :       
-01:42:00 : block      : HuntyPet Cobra            : Long                      :                           :              :              :       
-01:42:01 : block      : HuntyPet Cobra            : Long                      :                           :              :              :       
-01:42:03 : block      : HuntyPet Cobra            : BigBlackBen               :                           :              :              :       
-01:42:03 : block      : HuntyPet Cobra            : BigBlackBen               :                           :              :              :       
-01:42:03 : block      : Vashteera's Companion     : Sax                       :                           :              :              :       
-01:42:03 : block      : Dispel Cobra              : BigBlackBen               :                           :              :              :       
-01:42:03 : block      : HuntyPet Cobra            : BigBlackBen               :                           :              :              :       
-01:42:03 : block      : HuntyPet Cobra            : BigBlackBen               :                           :              :              :       
-01:42:04 : block      : Dispel Cobra              : BigBlackBen               :                           :              :              :       
-01:42:04 : block      : lover                     : BigBlackBen               :                           :              :              :       
-01:42:04 : block      : HuntyPet Cobra            : BigBlackBen               :                           :              :              :       
-01:42:04 : block      : lover                     : BigBlackBen               :                           :              :              :       
-01:42:04 : block      : Miha                      : BigBlackBen               :                           :              :              :       
-01:42:04 : block      : HuntyPet Cobra            : BigBlackBen               :                           :              :              :       
-01:42:05 : block      : Vashteera's Companion     : Sax                       :                           :              :              :       
-01:42:05 : block      : HuntyPet Cobra            : Long                      :                           :              :              :       
-01:42:05 : block      : HuntyPet Cobra            : Long                      :                           :              :              :       
-01:42:05 : block      : Vashteera's Companion     : Sax                       :                           :              :              :       
-01:42:05 : block      : Dispel Cobra              : Drooley                   :                           :              :              :       
-01:42:06 : block      : HuntyPet Cobra            : Drooley                   :                           :              :              :       
-01:42:06 : block      : HuntyPet Cobra            : Drooley                   :                           :              :              :       
-01:42:06 : block      : lover                     : Drooley                   :                           :              :              :       
-01:42:06 : block      : Dispel Cobra              : Drooley                   :                           :              :              :       
-01:42:06 : block      : Vashteera's Companion     : Drooley                   :                           :              :              :       
-01:42:07 : block      : Vashteera's Companion     : Sax                       :                           :              :              :       
-01:42:07 : block      : Vashteera's Companion     : Sax                       :                           :              :              :       
-01:42:15 : block      : HuntyPet Cobra            : Fkrah                     :                           :              :              :       
-01:42:15 : block      : HuntyPet Cobra            : Fkrah                     :                           :              :              :       
-01:42:16 : block      : HuntyPet Cobra            : Fkrah                     :                           :              :              :       
-01:42:17 : block      : HuntyPet Cobra            : Fkrah                     :                           :              :              :       
-01:42:21 : block      : HuntyPet Cobra            : deez nuts                 :                           :              :              :       
-01:42:21 : block      : HuntyPet Cobra            : deez nuts                 :                           :              :              :       
-01:42:21 : block      : HuntyPet Cobra            : deez nuts                 :                           :              :              :       
-01:42:21 : block      : Vashteera's Companion     : deez nuts                 :                           :              :              :       
-01:42:21 : block      : HuntyPet Cobra            : Fkrah                     :                           :              :              :       
-01:42:21 : block      : HuntyPet Cobra            : Fkrah                     :                           :              :              :       
-01:42:26 : block      : lover                     : First Aid                 :                           :              :              :       
-01:42:30 : block      : lover                     : Noodle                    :                           :              :              :       
-01:42:31 : block      : lover                     : Noodle                    :                           :              :              :       
-01:42:31 : block      : Slime Demon               : First Aid                 :                           :              :              :       
-01:42:31 : block      : lover                     : Fkrah                     :                           :              :              :       
-01:42:31 : block      : lover                     : Fkrah                     :                           :              :              :       
-01:42:32 : block      : lover                     : Fkrah                     :                           :              :              :       
-01:42:32 : block      : lover                     : Noodle                    :                           :              :              :       
-01:42:32 : block      : lover                     : Noodle                    :                           :              :              :       
-01:42:32 : block      : Slime Demon               : First Aid                 :                           :              :              :       
-01:42:33 : block      : Slime Demon               : First Aid                 :                           :              :              :       
-01:42:33 : block      : Slime Demon               : First Aid                 :                           :              :              :       
-01:42:34 : block      : HuntyPet Cobra            : Fkrah                     :                           :              :              :       
-01:42:34 : block      : Miha                      : Fkrah                     :                           :              :              :       
-01:42:34 : block      : lover                     : Fkrah                     :                           :              :              :       
-01:42:34 : block      : HuntyPet Cobra            : Noodle                    :                           :              :              :       
-01:42:34 : block      : HuntyPet Cobra            : Noodle                    :                           :              :              :       
-01:42:34 : block      : Slime Demon               : sudo                      :                           :              :              :       
-01:42:34 : block      : Miha                      : Noodle                    :                           :              :              :       
-01:42:35 : block      : HuntyPet Cobra            : Noodle                    :                           :              :              :       
-01:42:41 : block      : TyyppVee                  : Imagine Defense lol       :                           :              :              :       
-01:42:42 : block      : TyyppVee                  : Imagine Defense lol       :                           :              :              :       
-01:42:43 : block      : HuntyPet Cobra            : Hunger                    :                           :              :              :       
-01:42:46 : block      : HuntyPet Cobra            : CJW CN                    :                           :              :              :       
-01:42:47 : block      : HuntyPet Cobra            : CJW CN                    :                           :              :              :       
-01:42:48 : block      : Vashteera's Companion     : CJW CN                    :                           :              :              :       
-01:42:48 : block      : TyyppVee                  : CJW CN                    :                           :              :              :       
-01:42:48 : block      : HuntyPet Cobra            : CJW CN                    :                           :              :              :       
-01:42:48 : block      : HuntyPet Cobra            : CJW CN                    :                           :              :              :       
-01:43:06 : block      : TyyppVee                  : KSlater Up In Sky         :                           :              :              :       
-01:43:06 : block      : TyyppVee                  : KSlater Up In Sky         :                           :              :              :       
-01:43:06 : block      : TyyppVee                  : KSlater Up In Sky         :                           :              :              :       
-01:43:06 : block      : TyyppVee                  : KSlater Up In Sky         :                           :              :              :       
-01:43:06 : block      : TyyppVee                  : KSlater Up In Sky         :                           :              :              :       
-01:43:08 : block      : HuntyPet Cobra            : KSlater Up In Sky         :                           :              :              :       
-01:43:08 : block      : HuntyPet Cobra            : KSlater Up In Sky         :                           :              :              :       
-01:43:08 : block      : HuntyPet Cobra            : KSlater Up In Sky         :                           :              :              :       
-01:43:12 : block      : Dispel Cobra              : sudo                      :                           :              :              :       
-01:43:12 : block      : Dispel Cobra              : sudo                      :                           :              :              :       
-01:43:12 : block      : Dispel Cobra              : sudo                      :                           :              :              :       
-01:43:12 : block      : Dispel Cobra              : sudo                      :                           :              :              :       
-01:43:12 : block      : Dispel Cobra              : sudo                      :                           :              :              :       
-01:43:12 : block      : Dispel Cobra              : sudo                      :                           :              :              :       
-01:43:12 : block      : Dispel Cobra              : sudo                      :                           :              :              :       
-01:43:12 : block      : Dispel Cobra              : sudo                      :                           :              :              :       
-01:43:12 : block      : Dispel Cobra              : sudo                      :                           :              :              :       
-01:43:16 : block      : someone                   : sudo                      :                           :              :              :       
-01:43:19 : block      : HuntyPet Cobra            : KSlater Up In Sky         :                           :              :              :       
-01:43:19 : block      : HuntyPet Cobra            : KSlater Up In Sky         :                           :              :              :       
-01:43:20 : block      : HuntyPet Cobra            : KSlater Up In Sky         :                           :              :              :       
-01:43:20 : block      : HuntyPet Cobra            : KSlater Up In Sky         :                           :              :              :       
-01:43:20 : block      : Dispel Cobra              : KSlater Up In Sky         :                           :              :              :       
-01:43:20 : block      : HuntyPet Cobra            : KSlater Up In Sky         :                           :              :              :       
-01:43:30 : block      : Dispel Cobra              : syszj BH                  :                           :              :              :       
-01:43:30 : block      : HuntyPet Cobra            : syszj BH                  :                           :              :              :       
-01:43:30 : block      : HuntyPet Cobra            : syszj BH                  :                           :              :              :       
-01:43:30 : block      : Dispel Cobra              : syszj BH                  :                           :              :              :       
-01:43:30 : block      : TyyppVee                  : syszj BH                  :                           :              :              :       
-01:43:30 : block      : TyyppVee                  : syszj BH                  :                           :              :              :       
-01:43:30 : block      : HuntyPet Cobra            : syszj BH                  :                           :              :              :       
-01:43:30 : block      : Dispel Cobra              : syszj BH                  :                           :              :              :       
-01:43:30 : block      : Dispel Cobra              : syszj BH                  :                           :              :              :       
-01:43:31 : block      : Dispel Cobra              : MDAZJ BH                  :                           :              :              :       
-01:43:31 : block      : TyyppVee                  : MDAZJ BH                  :                           :              :              :       
-01:43:31 : block      : TyyppVee                  : MDAZJ BH                  :                           :              :              :       
-01:43:31 : block      : Dispel Cobra              : MDAZJ BH                  :                           :              :              :       
-01:43:32 : block      : Vashteera's Companion     : MDAZJ BH                  :                           :              :              :       
-01:43:32 : block      : TyyppVee                  : SPF � BH                 :                           :              :              :       
-01:43:33 : block      : Dispel Cobra              : FYasz BH                  :                           :              :              :       
-01:43:33 : block      : HuntyPet Cobra            : FYasz BH                  :                           :              :              :       
-01:43:33 : block      : HuntyPet Cobra            : FYasz BH                  :                           :              :              :       
-01:43:34 : block      : Dispel Cobra              : SPF � BH                 :                           :              :              :       
-01:43:34 : block      : TyyppVee                  : SPF � BH                 :                           :              :              :       
-01:43:43 : block      : lover                     : Ponch                     :                           :              :              :       
-01:43:43 : block      : CloudA                    : Ponch                     :                           :              :              :       
-01:43:43 : block      : Bearable                  : CountHyde                 :                           :              :              :       
-01:43:43 : block      : DayWalker                 : CountHyde                 :                           :              :              :       
-01:43:44 : block      : Bearable                  : DRChuckIt                 :                           :              :              :       
-01:43:44 : block      : CloudA                    : Marco                     :                           :              :              :       
-01:43:45 : block      : Bearable                  : DRChuckIt                 :                           :              :              :       
-01:43:46 : block      : CloudA                    : Marco                     :                           :              :              :       
-01:43:46 : block      : MyosMoo                   : DRChuckIt                 :                           :              :              :       
-01:43:46 : block      : TyyppVee                  : Marco                     :                           :              :              :       
-01:43:47 : block      : TyyppVee                  : Marco                     :                           :              :              :       
-01:43:56 : block      : vVv                       : ysmf T�                   :                           :              :              :       
-01:43:57 : block      : vVv                       : ysmf T�                   :                           :              :              :       
-01:43:57 : block      : vVv                       : ysmf T�                   :                           :              :              :       
-01:43:58 : block      : vVv                       : ysmf T�                   :                           :              :              :       
-01:44:00 : block      : vVv                       : syq                       :                           :              :              :       
-01:44:03 : block      : CloudA                    : SWK                       :                           :              :              :       
-01:44:03 : block      : Sithranis                 : ysmf T�                   :                           :              :              :       
-01:44:03 : block      : Sithranis                 : ysmf T�                   :                           :              :              :       
-01:44:04 : block      : CloudA                    : SWK                       :                           :              :              :       
-01:44:04 : block      : vVv                       : syq                       :                           :              :              :       
-01:44:04 : block      : CloudA                    : SWK                       :                           :              :              :       
-01:44:08 : block      : Soda                      : Prodriver                 :                           :              :              :       
-01:44:09 : block      : HolyThug                  : Sax                       :                           :              :              :       
-01:44:09 : block      : HolyThug                  : Sax                       :                           :              :              :       
-01:44:12 : block      : vVv                       : Liquid Snacks             :                           :              :              :       
-01:44:15 : block      : Soda                      : Prodriver                 :                           :              :              :       
-01:44:15 : block      : Soda                      : HolyThug                  :                           :              :              :       
-01:44:15 : block      : HolyThug                  : Soda                      :                           :              :              :       
-01:44:15 : block      : Moony                     : Soda                      :                           :              :              :       
-01:44:16 : block      : Moony                     : Soda                      :                           :              :              :       
-01:44:16 : block      : Moony                     : Soda                      :                           :              :              :       
-01:44:16 : block      : Moony                     : Soda                      :                           :              :              :       
-01:44:16 : block      : Moony                     : Soda                      :                           :              :              :       
-01:44:17 : block      : Moony                     : Uther Eats                :                           :              :              :       
-01:44:18 : block      : Sithranis                 : Healn                     :                           :              :              :       
-01:44:25 : block      : Rokaw                     : MDAZJ BH                  :                           :              :              :       
-01:44:25 : block      : Typechi                   : MDAZJ BH                  :                           :              :              :       
-01:44:28 : block      : Typechi                   : HHDD k� BH                :                           :              :              :       
-01:44:28 : block      : Typechi                   : HHDD k� BH                :                           :              :              :       
-01:44:29 : block      : Sasss y                   : HHDD k� BH                :                           :              :              :       
-01:44:30 : block      : Typechi                   : FYms BH                   :                           :              :              :       
-01:44:30 : block      : someone                   : Typechi                   :                           :              :              :       
-01:44:31 : block      : lii                       : Typechi                   :                           :              :              :       
-01:44:31 : block      : eka BH                    : You                       :                           :              :              :       
+02:24:15 : block      : Mud Ogre                  : You                       :                           :              :              :       
+02:24:16 : block      : Vorok Mud-Chief           : MalzDruid                 :                           :              :              :       
+02:24:21 : block      : Mud Ogre                  : You                       :                           :              :              :       
+02:24:21 : block      : Mud Ogre                  : You                       :                           :              :              :       
+02:24:22 : block      : Moss Ogre                 : MalzSent                  :                           :              :              :       
+02:24:22 : block      : Mud Ogre                  : MalzSent                  :                           :              :              :       
+02:24:23 : block      : Tavok Chief-brother       : You                       :                           :              :              :       
+02:24:23 : block      : Tavok Chief-brother       : You                       :                           :              :              :       
+02:24:23 : block      : Moss Ogre                 : You                       :                           :              :              :       
+02:24:24 : block      : Moss Ogre                 : MalzDruid                 :                           :              :              :       
+02:24:27 : block      : Vorok Mud-Chief           : You                       :                           :              :              :       
+02:24:28 : block      : Moss Ogre                 : You                       :                           :              :              :       

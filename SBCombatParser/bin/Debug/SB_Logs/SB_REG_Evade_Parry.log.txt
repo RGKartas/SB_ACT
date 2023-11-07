@@ -1,10 +1,28 @@
 Version     :: 0.0.11.0
-DateTime    :: 11/7/2023 01:41:36 AM
+DateTime    :: 11/7/2023 02:23:58 AM
 RegExType   :: Evade :: Parry
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>parr)[yies]+ (?<source>.*)'s .*[\.!]
 
 
-(01:42:51) hta �C   NZSP parries the Mud Fiend's attack.
-(01:43:44) Bearable parries Soda's attack.
-(01:43:45) Bearable parries Soda's attack.
-(01:43:45) Bearable parries Soda's attack.
+(02:24:12) You parry the Vorok Mud-Chief's attack!
+(02:24:15) You parry the Moss Ogre's attack!
+(02:24:15) You parry the Tavok Chief-brother's attack!
+(02:24:15) You parry the Moss Ogre's attack!
+(02:24:15) You parry the Tavok Chief-brother's attack!
+(02:24:17) You parry the Tavok Chief-brother's attack!
+(02:24:17) You parry the Tavok Chief-brother's attack!
+(02:24:17) MalzSent parries the Moss Ogre's attack.
+(02:24:20) You parry the Tavok Chief-brother's attack!
+(02:24:20) You parry the Tavok Chief-brother's attack!
+(02:24:24) You parry the Moss Ogre's attack!
+(02:24:25) You parry the Mud Ogre's attack!
+(02:24:25) You parry the Tavok Chief-brother's attack!
+(02:24:25) You parry the Moss Ogre's attack!
+(02:24:26) You parry the Vorok Mud-Chief's attack!
+(02:24:26) You parry the Vorok Mud-Chief's attack!
+(02:24:27) You parry the Tavok Chief-brother's attack!
+(02:24:28) You parry the Moss Ogre's attack!
+(02:24:28) You parry the Moss Ogre's attack!
+(02:24:31) You parry the Moss Ogre's attack!
+(02:24:32) You parry the Mud Ogre's attack!
+(02:24:33) You parry the Moss Ogre's attack!

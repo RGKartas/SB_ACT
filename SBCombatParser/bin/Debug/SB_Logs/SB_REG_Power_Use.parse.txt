@@ -1,62 +1,9 @@
 Version     :: 0.0.11.0
-DateTime    :: 11/7/2023 01:41:36 AM
+DateTime    :: 11/7/2023 02:23:58 AM
 RegExType   :: Power :: Use
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<type>use)s? [\Wa]?(?<ability>.*)[\.!]
 
 Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
-01:41:53 : use        : Tupac                     :                           : Find Weakness             :              :              :       
-01:41:53 : use        : You can no longer         :                           : powers                    :              :              :       
-01:41:53 : use        : You can no longer         :                           : powers                    :              :              :       
-01:41:57 : use        : BigBlackBen               :                           : Knavery                   :              :              :       
-01:41:57 : use        : Sax can no longer         :                           : powers                    :              :              :       
-01:41:57 : use        : Sax can no longer         :                           : powers                    :              :              :       
-01:42:00 : use        : Saas can no longer        :                           : powers                    :              :              :       
-01:42:00 : use        : Saas can no longer        :                           : powers                    :              :              :       
-01:42:05 : use        : AlbiThere can no longer   :                           : powers                    :              :              :       
-01:42:05 : use        : AlbiThere can no longer   :                           : powers                    :              :              :       
-01:42:12 : use        : Dispel                    :                           : Strength of the Stag      :              :              :       
-01:42:32 : use        : Fkrah can no longer       :                           : powers                    :              :              :       
-01:42:32 : use        : Fkrah can no longer       :                           : powers                    :              :              :       
-01:42:34 : use        : Noodle can no longer      :                           : powers                    :              :              :       
-01:42:35 : use        : Noodle can no longer      :                           : powers                    :              :              :       
-01:42:43 : use        : Rylix                     :                           : Stalker's Resiliance      :              :              :       
-01:42:47 : use        : TyyppVee can no longer    :                           : powers                    :              :              :       
-01:42:47 : use        : TyyppVee can no longer    :                           : powers                    :              :              :       
-01:42:49 : use        : xinyu                     :                           : Detect Hidden             :              :              :       
-01:42:50 : use        : Rylix                     :                           : Stalker's Resiliance      :              :              :       
-01:42:51 : use        : hta                       :                           : Treat Wounds              :              :              :       
-01:43:06 : use        : Dispel                    :                           : Strength of the Stag      :              :              :       
-01:43:16 : use        : sudo can no longer        :                           : powers                    :              :              :       
-01:43:16 : use        : sudo can no longer        :                           : powers                    :              :              :       
-01:43:19 : use        : sudo can no longer        :                           : powers                    :              :              :       
-01:43:19 : use        : sudo can no longer        :                           : powers                    :              :              :       
-01:43:22 : use        : Andre                     :                           : Detect Hidden             :              :              :       
-01:43:41 : use        : Nibenay can no longer     :                           : powers                    :              :              :       
-01:43:41 : use        : Nibenay can no longer     :                           : powers                    :              :              :       
-01:43:42 : use        : Ponch can no longer       :                           : powers                    :              :              :       
-01:43:42 : use        : Ponch can no longer       :                           : powers                    :              :              :       
-01:43:44 : use        : DRChuckIt can no longer   :                           : powers                    :              :              :       
-01:43:44 : use        : DRChuckIt can no longer   :                           : powers                    :              :              :       
-01:43:44 : use        : lover can no longer       :                           : powers                    :              :              :       
-01:43:44 : use        : lover can no longer       :                           : powers                    :              :              :       
-01:43:44 : use        : Bearable can no longer    :                           : powers                    :              :              :       
-01:43:44 : use        : DayWalker                 :                           : Stalker's Resiliance      :              :              :       
-01:43:44 : use        : DayWalker                 :                           : Stalker's Resiliance      :              :              :       
-01:43:46 : use        : MyosMoo can no longer     :                           : powers                    :              :              :       
-01:43:46 : use        : MyosMoo can no longer     :                           : powers                    :              :              :       
-01:43:46 : use        : MyosMoo can no longer     :                           : powers                    :              :              :       
-01:43:47 : use        : MyosMoo can no longer     :                           : powers                    :              :              :       
-01:43:47 : use        : Marco can no longer       :                           : powers                    :              :              :       
-01:43:47 : use        : Marco can no longer       :                           : powers                    :              :              :       
-01:43:47 : use        : Marco can no longer       :                           : powers                    :              :              :       
-01:44:09 : use        : Moony                     :                           : Detect Hidden             :              :              :       
-01:44:13 : use        : Liquid can no longer      :                           : powers                    :              :              :       
-01:44:13 : use        : Liquid can no longer      :                           : powers                    :              :              :       
-01:44:16 : use        : Moony                     :                           : Detect Hidden             :              :              :       
-01:44:26 : use        : MDAZJ can no longer       :                           : powers                    :              :              :       
-01:44:26 : use        : MDAZJ can no longer       :                           : powers                    :              :              :       
-01:44:27 : use        : LDSU can no longer        :                           : powers                    :              :              :       
-01:44:27 : use        : LDSU can no longer        :                           : powers                    :              :              :       
-01:44:29 : use        : EricMcC                   :                           : Treat Wounds              :              :              :       
-01:44:31 : use        : xxOxx can no longer       :                           : powers                    :              :              :       
-01:44:31 : use        : xxOxx can no longer       :                           : powers                    :              :              :       
+02:24:35 : use        : Nino                      :                           : Precision                 :              :              :       
+02:24:35 : use        : Nino                      :                           : Treat Wounds              :              :              :       
+02:24:35 : use        : Rhuthi                    :                           : scroll of Identify        :              :              :       

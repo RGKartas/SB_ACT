@@ -1,11 +1,6 @@
 Version     :: 0.0.11.0
-DateTime    :: 11/7/2023 01:41:36 AM
+DateTime    :: 11/7/2023 02:23:58 AM
 RegExType   :: Power :: Enter
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<type>enter)s? [\Wa]?(?<ability>.*)[\.!]
 
 Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
-01:41:50 : enter      : AlbiThere                 :                           : berserker rage            :              :              :       
-01:42:41 : enter      : HuntyPet                  :                           : berserker rage            :              :              :       
-01:43:29 : enter      : Dispel                    :                           : berserker rage            :              :              :       
-01:43:32 : enter      : HuntyPet                  :                           : berserker rage            :              :              :       
-01:43:42 : enter      : Bearable                  :                           : berserker rage            :              :              :       

@@ -1,23 +1,6 @@
 Version     :: 0.0.11.0
-DateTime    :: 11/7/2023 01:41:36 AM
+DateTime    :: 11/7/2023 02:23:58 AM
 RegExType   :: Active :: begin_no_longer
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) [a]?[r]?[e]?[i]?[s]?\W?(?<event_type>.*?)[s]? (?<type>active)ly (?<ability>.*)ing[\.!]
 
 Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
-01:41:51 : active     : Sax                       :                           : block                     : begin        :              :       
-01:41:59 : active     : Sax                       :                           : block                     : no longer    :              :       
-01:42:06 : active     : Drooley                   :                           : block                     : begin        :              :       
-01:42:06 : active     : Drooley                   :                           : block                     : no longer    :              :       
-01:42:23 : active     : Sax                       :                           : block                     : begin        :              :       
-01:42:28 : active     : Sax                       :                           : block                     : no longer    :              :       
-01:42:30 : active     : deez                      :                           : block                     : begin        :              :       
-01:42:33 : active     : deez                      :                           : block                     : no longer    :              :       
-01:43:22 : active     : kwx                       :                           : dodg                      : begin        :              :       
-01:43:22 : active     : kwx                       :                           : dodg                      : no longer    :              :       
-01:43:41 : active     : Bearable                  :                           : parry                     : begin        :              :       
-01:43:45 : active     : Bearable                  :                           : parry                     : no longer    :              :       
-01:43:55 : active     : Sax                       :                           : block                     : begin        :              :       
-01:43:59 : active     : Soda                      :                           : block                     : begin        :              :       
-01:44:02 : active     : Sax                       :                           : block                     : no longer    :              :       
-01:44:06 : active     : Soda                      :                           : block                     : no longer    :              :       
-01:44:29 : active     : Sax                       :                           : block                     : no longer    :              :       

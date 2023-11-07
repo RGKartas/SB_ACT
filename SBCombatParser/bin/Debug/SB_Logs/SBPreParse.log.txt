@@ -1,1394 +1,642 @@
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:52) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:52) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:52) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:52) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:52) Sniper's Incendiary Blast burns you for 235 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:52) Sniper's Incendiary Blast burns You for 235 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:52) You are stunned!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:52) You is stunned!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:52) You are grounded!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:52) You is grounded!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:52) PBAOE hits YOU for 130 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:52) PBAOE hits You for 130 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:52) You are no longer grounded.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:52) You is no longer grounded.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:52) You are no longer grounded.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:52) You is no longer grounded.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:52) PBAOE hits YOU for 90 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:52) PBAOE hits You for 90 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:52) You are exposed to slashing attacks!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:52) You is exposed to slashing attacks!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:52) Vashtur hits YOU for 124 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:52) Vashtur hits You for 124 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:52) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:52) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:52) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:52) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:52) PBAOE hits YOU for 109 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:52) PBAOE hits You for 109 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:53) AlbiThere ForYou hits YOU for 48 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:53) AlbiThere ForYou hits You for 48 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:53) You are exposed to a pinpoint strike!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:53) You is exposed to a pinpoint strike!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:53) AlbiThere ForYou hits YOU for 55 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:53) AlbiThere ForYou hits You for 55 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:53) Vashtur hits YOU for 81 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:53) Vashtur hits You for 81 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:53) You are stunned!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:53) You is stunned!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:53) Priest hits YOU for 33 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:53) Priest hits You for 33 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:53) Priest hits YOU for 42 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:53) Priest hits You for 42 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:53) Sniper's Incendiary Blast burns you for 112 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:53) Sniper's Incendiary Blast burns You for 112 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:53) AlbiThere ForYou hits YOU for 34 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:53) AlbiThere ForYou hits You for 34 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:53) AlbiThere ForYou hits YOU for 70 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:53) AlbiThere ForYou hits You for 70 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:53) PBAOE hits YOU for 90 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:53) PBAOE hits You for 90 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:53) Priest hits YOU for 19 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:53) Priest hits You for 19 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:53) Priest hits YOU for 44 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:53) Priest hits You for 44 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:53) Your blows seem less effective.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:53) You blows seem less effective.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:53) Vashtur hits YOU for 128 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:53) Vashtur hits You for 128 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:53) Your passive defense skills falter!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:53) You passive defense skills falter!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:53) AlbiThere ForYou hits YOU for 50 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:53) AlbiThere ForYou hits You for 50 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:53) PBAOE hits YOU for 112 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:53) PBAOE hits You for 112 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:53) Vashtur hits YOU for 168 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:53) Vashtur hits You for 168 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:53) Priest hits YOU for 48 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:53) Priest hits You for 48 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:53) Your attacks slow.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:53) You attacks slow.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:53) Priest hits YOU for 39 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:53) Priest hits You for 39 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:53) You are no longer stunned.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:53) You is no longer stunned.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:53) You are no longer stunned.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:53) You is no longer stunned.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:53) Your shielding fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:53) You shielding fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:53) Your shielding fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:53) You shielding fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:53) PBAOE hits YOU for 155 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:53) PBAOE hits You for 155 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:53) Vashtur hits YOU for 766 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:53) Vashtur hits You for 766 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:54) Priest hits YOU for 128 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:54) Priest hits You for 128 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:54) Priest hits YOU for 131 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:54) Priest hits You for 131 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:54) Sniper's Incendiary Blast burns you for 257 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:54) Sniper's Incendiary Blast burns You for 257 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:54) You are no longer grounded.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:54) You is no longer grounded.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:54) PBAOE hits YOU for 319 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:54) PBAOE hits You for 319 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:54) You are no longer grounded.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:54) You is no longer grounded.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:54) Your power abilities return.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:54) You power abilities return.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:54) PBAOE hits YOU for 394 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:54) PBAOE hits You for 394 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:54) Your enhanced mana recovery fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:54) You enhanced mana recovery fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:54) Your passive defense skills return.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:54) You passive defense skills return.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:54) Your elemental resistance fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:54) You elemental resistance fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:54) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:54) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:54) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:54) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:54) PBAOE hits YOU for 514 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:54) PBAOE hits You for 514 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:55) Sniper's Incendiary Blast burns you for 160 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:55) Sniper's Incendiary Blast burns You for 160 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:55) You are exposed to slashing attacks!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:55) You is exposed to slashing attacks!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:55) AlbiThere ForYou hits YOU for 281 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:55) AlbiThere ForYou hits You for 281 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:55) AlbiThere ForYou hits YOU for 210 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:55) AlbiThere ForYou hits You for 210 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:55) Your blows regain their former potency.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:55) You blows regain their former potency.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:55) AlbiThere ForYou hits YOU for 220 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:55) AlbiThere ForYou hits You for 220 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:55) PBAOE hits YOU for 352 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:55) PBAOE hits You for 352 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:55) AlbiThere ForYou hits YOU for 299 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:55) AlbiThere ForYou hits You for 299 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:55) Your defense falters.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:55) You defense falters.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:55) AlbiThere ForYou hits YOU for 308 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:55) AlbiThere ForYou hits You for 308 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:55) PBAOE hits YOU for 527 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:55) PBAOE hits You for 527 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:55) AlbiThere ForYou hits YOU for 249 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:55) AlbiThere ForYou hits You for 249 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:55) AlbiThere ForYou hits YOU for 207 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:55) AlbiThere ForYou hits You for 207 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:55) Sniper's Incendiary Blast burns you for 144 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:55) Sniper's Incendiary Blast burns You for 144 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:55) AlbiThere ForYou hits YOU for 178 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:55) AlbiThere ForYou hits You for 178 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:55) Tupac Shakur hits YOU for 21 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:55) Tupac Shakur hits You for 21 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:55) Tupac Shakur hits YOU for 24 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:55) Tupac Shakur hits You for 24 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:55) PBAOE hits YOU for 439 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:55) PBAOE hits You for 439 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:55) Your attacks slow.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:55) You attacks slow.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:55) AlbiThere ForYou hits YOU for 191 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:55) AlbiThere ForYou hits You for 191 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:55) AlbiThere ForYou hits YOU for 284 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:55) AlbiThere ForYou hits You for 284 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:56) Priest hits YOU for 88 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:56) Priest hits You for 88 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:56) Priest hits YOU for 66 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:56) Priest hits You for 66 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:56) Your attacks cannot find their mark.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:56) You attacks cannot find their mark.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:56) AlbiThere ForYou hits YOU for 320 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:56) AlbiThere ForYou hits You for 320 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:56) Tupac Shakur hits YOU for 22 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:56) Tupac Shakur hits You for 22 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:56) Tupac Shakur hits YOU for 29 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:56) Tupac Shakur hits You for 29 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:56) AlbiThere ForYou hits YOU for 220 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:56) AlbiThere ForYou hits You for 220 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:56) AlbiThere ForYou hits YOU for 213 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:56) AlbiThere ForYou hits You for 213 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:56) You are exposed to a pinpoint strike!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:56) You is exposed to a pinpoint strike!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:56) Priest hits YOU for 148 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:56) Priest hits You for 148 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:56) Priest hits YOU for 137 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:56) Priest hits You for 137 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:56) AlbiThere ForYou hits YOU for 93 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:56) AlbiThere ForYou hits You for 93 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:56) Tupac Shakur hits YOU for 26 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:56) Tupac Shakur hits You for 26 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:56) Tupac Shakur hits YOU for 18 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:56) Tupac Shakur hits You for 18 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:56) PBAOE hits YOU for 554 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:56) PBAOE hits You for 554 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:56) Your legs are immobilized!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:56) You legs is immobilized!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:56) Your legs are no longer immobilized.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:56) You legs is no longer immobilized.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:56) Your legs are no longer immobilized.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:56) You legs is no longer immobilized.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:56) Sniper's Incendiary Blast burns you for 279 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:56) Sniper's Incendiary Blast burns You for 279 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:56) Your powerblock immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:56) You powerblock immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:56) PBAOE hits YOU for 383 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:56) PBAOE hits You for 383 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:56) You are wrapped in spectral bonds!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:56) You is wrapped in spectral bonds!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:56) Your bonds fade.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:56) You bonds fade.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:56) Your bonds fade.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:56) You bonds fade.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:56) PBAOE hits YOU for 412 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:56) PBAOE hits You for 412 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:57) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:57) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:57) PBAOE hits YOU for 521 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:57) PBAOE hits You for 521 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:57) Sniper's Incendiary Blast burns you for 243 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:57) Sniper's Incendiary Blast burns You for 243 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:57) PBAOE hits YOU for 636 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:57) PBAOE hits You for 636 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:57) You are stunned!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:57) You is stunned!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:57) You are grounded!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:57) You is grounded!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:57) You are no longer grounded.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:57) You is no longer grounded.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:57) You are no longer grounded.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:57) You is no longer grounded.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:57) Your defenses reassert themselves.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:57) You defenses reassert themselves.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:58) You are no longer on fire.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:58) You is no longer on fire.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:58) You are grounded!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:58) You is grounded!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:58) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:58) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:58) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:58) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:58) PBAOE hits YOU for 380 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:58) PBAOE hits You for 380 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:58) Your strength and agility return.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:58) You strength and agility return.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:58) PBAOE hits YOU for 264 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:58) PBAOE hits You for 264 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:58) PBAOE hits YOU for 133 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:58) PBAOE hits You for 133 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:58) You are no longer grounded.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:58) You is no longer grounded.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:58) You are no longer grounded.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:58) You is no longer grounded.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:58) PBAOE hits YOU for 116 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:58) PBAOE hits You for 116 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:59) Your precision returns.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:59) You precision returns.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:59) PBAOE hits YOU for 172 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:59) PBAOE hits You for 172 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:59) You are no longer grounded.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:59) You is no longer grounded.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:59) You are no longer grounded.
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:59) You is no longer grounded.
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:59) AlbiThere ForYou hits YOU for 108 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:59) AlbiThere ForYou hits You for 108 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:59) AlbiThere ForYou hits YOU for 91 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:59) AlbiThere ForYou hits You for 91 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:59) PBAOE hits YOU for 157 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:59) PBAOE hits You for 157 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:41:59) PBAOE hits YOU for 260 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:41:59) PBAOE hits You for 260 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:00) PBAOE hits YOU for 173 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:00) PBAOE hits You for 173 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:00) AlbiThere ForYou hits YOU for 95 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:00) AlbiThere ForYou hits You for 95 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:00) You are exposed to a pinpoint strike!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:00) You is exposed to a pinpoint strike!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:00) AlbiThere ForYou hits YOU for 267 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:00) AlbiThere ForYou hits You for 267 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:00) AlbiThere ForYou hits YOU for 187 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:00) AlbiThere ForYou hits You for 187 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:01) AlbiThere ForYou hits YOU for 261 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:01) AlbiThere ForYou hits You for 261 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:01) AlbiThere ForYou hits YOU for 234 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:01) AlbiThere ForYou hits You for 234 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:01) Your passive defense skills falter!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:01) You passive defense skills falter!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:03) Your passive defense skills return.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:03) You passive defense skills return.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:05) Your enhanced mana recovery fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:05) You enhanced mana recovery fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:06) Your elemental resistance fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:06) You elemental resistance fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:13) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:13) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:13) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:13) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:14) Noodle's Censure smites you for 365 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:14) Noodle's Censure smites You for 365 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:14) Fatherjoe's Censure smites you for 470 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:14) Fatherjoe's Censure smites You for 470 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:14) WoundedKnee's Mage Bolt strikes you for 172 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:14) WoundedKnee's Mage Bolt strikes You for 172 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:14) Fatherjoe's Censure smites you for 599 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:14) Fatherjoe's Censure smites You for 599 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:14) WoundedKnee's Mage Bolt strikes you for 205 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:14) WoundedKnee's Mage Bolt strikes You for 205 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:15) deez's Censure smites you for 467 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:15) deez's Censure smites You for 467 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:15) WoundedKnee's Mage Bolt strikes you for 240 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:15) WoundedKnee's Mage Bolt strikes You for 240 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:15) You are surrounded by a black mantle.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:15) You is surrounded by a black mantle.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:15) Fatherjoe's Censure smites you for 629 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:15) Fatherjoe's Censure smites You for 629 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:15) Bog's Unholy Blast strikes you for 620 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:15) Bog's Unholy Blast strikes You for 620 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:15) Your shielding fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:15) You shielding fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:15) Your shielding fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:15) You shielding fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:15) PvPP's Mage Bolt strikes you for 444 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:15) PvPP's Mage Bolt strikes You for 444 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:15) WoundedKnee's Mage Bolt strikes you for 502 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:15) WoundedKnee's Mage Bolt strikes You for 502 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:15) deez's Censure smites you for 698 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:15) deez's Censure smites You for 698 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:15) PvPP's Mage Bolt strikes you for 594 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:15) PvPP's Mage Bolt strikes You for 594 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:15) [Combat] Info: You are DEAD!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:15) [Combat] Info: You is DEAD!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:23) You are surrounded by a mystic shield!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:23) You is surrounded by a mystic shield!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:26) Your Call Storm shocks sudo for 218 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:26) You Call Storm shocks sudo for 218 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:26) Your Call Storm shocks LogicNC for 134 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:26) You Call Storm shocks LogicNC for 134 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:26) Your Call Storm shocks Fkrah for 305 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:26) You Call Storm shocks Fkrah for 305 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:26) Your Call Storm shocks First for 296 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:26) You Call Storm shocks First for 296 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:26) Your Call Storm shocks Saas for 259 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:26) You Call Storm shocks Saas for 259 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:26) Your Call Storm shocks HuntyPet for 219 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:26) You Call Storm shocks HuntyPet for 219 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:26) Your Call Storm shocks Bog for 460 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:26) You Call Storm shocks Bog for 460 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:26) Your Call Storm shocks Noodle for 185 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:26) You Call Storm shocks Noodle for 185 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:26) Your Call Storm shocks Yuckfou for 417 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:26) You Call Storm shocks Yuckfou for 417 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:28) Your Fury of Ice freezes Bog for 647 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:28) You Fury of Ice freezes Bog for 647 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:28) Your Fury of Ice freezes Bog for 692 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:28) You Fury of Ice freezes Bog for 692 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:29) Your Fury of Ice freezes Bog for 432 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:29) You Fury of Ice freezes Bog for 432 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:29) Your Fury of Ice freezes Bog for 487 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:29) You Fury of Ice freezes Bog for 487 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:29) Your elemental resistance fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:29) You elemental resistance fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:29) You are slowed by poison!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:29) You is slowed by poison!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:30) Fkrah's Uvoriel's Judgment burns you for 49 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:30) Fkrah's Uvoriel's Judgment burns You for 49 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:30) Your Fury of Ice freezes LogicNC for 822 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:30) You Fury of Ice freezes LogicNC for 822 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:30) Your Fury of Ice freezes LogicNC for 512 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:30) You Fury of Ice freezes LogicNC for 512 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:30) Fkrah's Uvoriel's Judgment burns you for 63 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:30) Fkrah's Uvoriel's Judgment burns You for 63 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:30) Your enhanced mana recovery fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:30) You enhanced mana recovery fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:30) Your Fury of Ice freezes LogicNC for 652 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:30) You Fury of Ice freezes LogicNC for 652 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:30) Fkrah's Brand the Wicked burns you for 136 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:30) Fkrah's Brand the Wicked burns You for 136 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:30) Fkrah's Uvoriel's Judgment burns you for 27 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:30) Fkrah's Uvoriel's Judgment burns You for 27 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:31) Fkrah's Brand the Wicked burns you for 136 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:31) Fkrah's Brand the Wicked burns You for 136 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:31) Fkrah's Uvoriel's Judgment burns you for 52 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:31) Fkrah's Uvoriel's Judgment burns You for 52 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:31) Fkrah's Uvoriel's Judgment burns you for 36 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:31) Fkrah's Uvoriel's Judgment burns You for 36 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:32) Fkrah's Uvoriel's Judgment burns you for 26 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:32) Fkrah's Uvoriel's Judgment burns You for 26 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:32) Fkrah's Uvoriel's Judgment burns you for 27 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:32) Fkrah's Uvoriel's Judgment burns You for 27 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:32) Your Fury of Ice freezes Bog for 491 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:32) You Fury of Ice freezes Bog for 491 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:33) You are no longer on fire.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:33) You is no longer on fire.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:33) Your Fury of Ice freezes Bog for 582 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:33) You Fury of Ice freezes Bog for 582 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:34) Your Fury of Ice freezes Bog for 657 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:34) You Fury of Ice freezes Bog for 657 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:34) Your Fury of Ice freezes First for 481 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:34) You Fury of Ice freezes First for 481 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:35) Your enhanced mana recovery fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:35) You enhanced mana recovery fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:35) Your elemental resistance fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:35) You elemental resistance fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:41) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:41) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:41) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:41) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:41) Holger hits YOU for 88 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:41) Holger hits You for 88 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:41) Holger hits YOU for 126 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:41) Holger hits You for 126 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:41) Someone hits YOU for 372 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:41) Someone hits You for 372 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:41) Holger hits YOU for 61 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:41) Holger hits You for 61 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:41) Holger hits YOU for 85 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:41) Holger hits You for 85 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:42) You are exposed to slashing attacks!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:42) You is exposed to slashing attacks!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:42) Holger hits YOU for 135 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:42) Holger hits You for 135 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:42) Holger hits YOU for 217 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:42) Holger hits You for 217 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:42) Your defense falters.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:42) You defense falters.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:42) Octavius hits YOU for 389 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:42) Octavius hits You for 389 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:42) You are stunned!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:42) You is stunned!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:42) You are grounded!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:42) You is grounded!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:42) Octavius hits YOU for 323 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:42) Octavius hits You for 323 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:42) You are no longer grounded.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:42) You is no longer grounded.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:42) You are no longer grounded.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:42) You is no longer grounded.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:42) Rylix hits YOU for 112 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:42) Rylix hits You for 112 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:42) Octavius hits YOU for 230 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:42) Octavius hits You for 230 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:42) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:42) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:42) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:42) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:42) Rylix's Put to the Torch damages you for 97 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:42) Rylix's Put to the Torch damages You for 97 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:42) Rylix hits YOU for 70 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:42) Rylix hits You for 70 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:42) Your attacks cannot find their mark.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:42) You attacks cannot find their mark.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:42) Octavius hits YOU for 378 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:42) Octavius hits You for 378 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:42) Holger hits YOU for 131 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:42) Holger hits You for 131 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:42) Holger hits YOU for 105 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:42) Holger hits You for 105 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:42) Rylix hits YOU for 72 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:42) Rylix hits You for 72 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:42) Your defenses reassert themselves.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:42) You defenses reassert themselves.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:42) Your defense falters.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:42) You defense falters.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:42) Octavius hits YOU for 461 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:42) Octavius hits You for 461 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:43) Holger hits YOU for 211 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:43) Holger hits You for 211 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:43) Holger hits YOU for 77 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:43) Holger hits You for 77 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:43) Rylix's Put to the Torch damages you for 81 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:43) Rylix's Put to the Torch damages You for 81 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:43) Rylix's Fling Holy Water blasts you for 208 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:43) Rylix's Fling Holy Water blasts You for 208 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:43) Rylix hits YOU for 100 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:43) Rylix hits You for 100 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:43) You are no longer grounded.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:43) You is no longer grounded.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:43) You are no longer grounded.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:43) You is no longer grounded.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:43) Octavius hits YOU for 264 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:43) Octavius hits You for 264 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:43) Rylix's holy weapon strikes you for 496 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:43) Rylix's holy weapon strikes You for 496 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:43) Rylix's Fling Holy Water blasts you for 225 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:43) Rylix's Fling Holy Water blasts You for 225 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:43) Rylix hits YOU for 49 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:43) Rylix hits You for 49 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:43) Octavius hits YOU for 323 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:43) Octavius hits You for 323 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:43) Rylix's Fling Holy Water blasts you for 213 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:43) Rylix's Fling Holy Water blasts You for 213 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:43) Rylix's Put to the Torch damages you for 86 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:43) Rylix's Put to the Torch damages You for 86 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:43) Rylix hits YOU for 53 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:43) Rylix hits You for 53 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:43) Rylix's Fling Holy Water blasts you for 174 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:43) Rylix's Fling Holy Water blasts You for 174 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:43) Your attacks slow.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:43) You attacks slow.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:43) Octavius hits YOU for 432 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:43) Octavius hits You for 432 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:43) Rylix hits YOU for 94 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:43) Rylix hits You for 94 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:43) Rylix's Fling Holy Water blasts you for 202 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:43) Rylix's Fling Holy Water blasts You for 202 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:43) Your defenses reassert themselves.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:43) You defenses reassert themselves.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:43) Your defense falters.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:43) You defense falters.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:43) Octavius hits YOU for 471 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:43) Octavius hits You for 471 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:43) Rylix's holy weapon strikes you for 473 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:43) Rylix's holy weapon strikes You for 473 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:43) Rylix's Put to the Torch damages you for 107 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:43) Rylix's Put to the Torch damages You for 107 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:43) Rylix's Fling Holy Water blasts you for 192 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:43) Rylix's Fling Holy Water blasts You for 192 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:44) Octavius hits YOU for 244 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:44) Octavius hits You for 244 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:44) Octavius hits YOU for 212 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:44) Octavius hits You for 212 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:44) Rylix's Put to the Torch damages you for 75 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:44) Rylix's Put to the Torch damages You for 75 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:44) Octavius hits YOU for 390 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:44) Octavius hits You for 390 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:44) Your defenses reassert themselves.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:44) You defenses reassert themselves.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:44) Someone's Put to the Torch damages you for 98 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:44) Someone's Put to the Torch damages You for 98 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:44) Octavius hits YOU for 370 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:44) Octavius hits You for 370 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:44) Octavius hits YOU for 137 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:44) Octavius hits You for 137 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:44) Someone's Put to the Torch damages you for 85 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:44) Someone's Put to the Torch damages You for 85 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:44) You are stunned!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:44) You is stunned!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:44) You are grounded!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:44) You is grounded!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:44) Your precision returns.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:44) You precision returns.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:44) You are no longer grounded.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:44) You is no longer grounded.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:44) You are no longer grounded.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:44) You is no longer grounded.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:44) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:44) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:44) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:44) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:45) Your defense falters.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:45) You defense falters.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:45) Octavius hits YOU for 317 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:45) Octavius hits You for 317 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:45) You are no longer doused.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:45) You is no longer doused.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:45) You are exposed to a pinpoint strike!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:45) You is exposed to a pinpoint strike!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:45) Octavius hits YOU for 266 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:45) Octavius hits You for 266 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:45) Someone hits YOU for 82 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:45) Someone hits You for 82 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:45) Your defenses reassert themselves.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:45) You defenses reassert themselves.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:45) Your defense falters.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:45) You defense falters.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:45) xinyu hits YOU for 105 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:45) xinyu hits You for 105 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:45) You are no longer grounded.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:45) You is no longer grounded.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:45) You are no longer grounded.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:45) You is no longer grounded.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:45) xinyu hits YOU for 53 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:45) xinyu hits You for 53 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:45) Your blows seem less effective.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:45) You blows seem less effective.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:45) Octavius hits YOU for 253 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:45) Octavius hits You for 253 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:45) Your defenses reassert themselves.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:45) You defenses reassert themselves.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:46) CJW's Hedge of Thorns impales you for 205 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:46) CJW's Hedge of Thorns impales You for 205 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:46) You are entangled in grasping thorns!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:46) You is entangled in grasping thorns!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:46) You are stunned!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:46) You is stunned!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:46) dnst's Cleansing Flame burns you for 226 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:46) dnst's Cleansing Flame burns You for 226 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:46) dnst's Cleansing Flame burns you for 31 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:46) dnst's Cleansing Flame burns You for 31 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:46) CJW's Hedge of Thorns impales you for 183 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:46) CJW's Hedge of Thorns impales You for 183 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:46) CJW's Call Lightning shocks you for 770 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:46) CJW's Call Lightning shocks You for 770 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:46) You are no longer stunned.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:46) You is no longer stunned.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:46) You are no longer stunned.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:46) You is no longer stunned.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:46) Your Call Storm shocks kosnwa for 203 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:46) You Call Storm shocks kosnwa for 203 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:46) Your Call Storm shocks CJW for 296 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:46) You Call Storm shocks CJW for 296 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:46) Your Call Storm shocks dnst for 441 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:46) You Call Storm shocks dnst for 441 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:46) Your blows regain their former potency.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:46) You blows regain their former potency.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:46) You are grounded!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:46) You is grounded!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:46) xinyu hits YOU for 100 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:46) xinyu hits You for 100 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:47) CJW's Hedge of Thorns impales you for 172 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:47) CJW's Hedge of Thorns impales You for 172 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:47) dnst's Cleansing Flame burns you for 301 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:47) dnst's Cleansing Flame burns You for 301 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:47) dnst's Cleansing Flame burns you for 27 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:47) dnst's Cleansing Flame burns You for 27 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:47) xinyu hits YOU for 62 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:47) xinyu hits You for 62 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:47) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:47) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:47) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:47) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:47) Your attacks cannot find their mark.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:47) You attacks cannot find their mark.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:47) xinyu hits YOU for 62 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:47) xinyu hits You for 62 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:47) CJW's Hedge of Thorns impales you for 137 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:47) CJW's Hedge of Thorns impales You for 137 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:47) You are entangled in grasping thorns!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:47) You is entangled in grasping thorns!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:47) Your defense falters.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:47) You defense falters.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:47) xinyu hits YOU for 98 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:47) xinyu hits You for 98 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:47) dnst's Cleansing Flame burns you for 149 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:47) dnst's Cleansing Flame burns You for 149 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:47) dnst's Cleansing Flame burns you for 31 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:47) dnst's Cleansing Flame burns You for 31 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:47) xinyu hits YOU for 88 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:47) xinyu hits You for 88 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:47) Your Call Storm shocks dnst for 325 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:47) You Call Storm shocks dnst for 325 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:47) Your attacks slow.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:47) You attacks slow.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:47) xinyu hits YOU for 120 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:47) xinyu hits You for 120 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:47) CJW's Hedge of Thorns impales you for 168 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:47) CJW's Hedge of Thorns impales You for 168 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:47) xinyu hits YOU for 80 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:47) xinyu hits You for 80 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:48) You are no longer grounded.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:48) You is no longer grounded.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:48) You are no longer grounded.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:48) You is no longer grounded.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:48) dnst's Cleansing Flame burns you for 265 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:48) dnst's Cleansing Flame burns You for 265 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:48) dnst's Cleansing Flame burns you for 33 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:48) dnst's Cleansing Flame burns You for 33 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:48) Your defenses reassert themselves.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:48) You defenses reassert themselves.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:48) Your defense falters.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:48) You defense falters.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:48) xinyu hits YOU for 104 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:48) xinyu hits You for 104 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:48) xinyu hits YOU for 67 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:48) xinyu hits You for 67 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:48) CJW's Hedge of Thorns impales you for 167 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:48) CJW's Hedge of Thorns impales You for 167 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:48) xinyu hits YOU for 46 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:48) xinyu hits You for 46 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:48) xinyu hits YOU for 54 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:48) xinyu hits You for 54 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:48) dnst's Cleansing Flame burns you for 249 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:48) dnst's Cleansing Flame burns You for 249 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:48) dnst's Cleansing Flame burns you for 32 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:48) dnst's Cleansing Flame burns You for 32 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:48) xinyu hits YOU for 54 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:48) xinyu hits You for 54 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:48) Your Call Storm shocks CJW for 591 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:48) You Call Storm shocks CJW for 591 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:48) Your Call Storm shocks dnst for 236 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:48) You Call Storm shocks dnst for 236 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:49) xinyu hits YOU for 86 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:49) xinyu hits You for 86 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:49) CJW's Hedge of Thorns impales you for 172 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:49) CJW's Hedge of Thorns impales You for 172 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:49) xinyu hits YOU for 37 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:49) xinyu hits You for 37 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:49) dnst's Cleansing Flame burns you for 276 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:49) dnst's Cleansing Flame burns You for 276 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:49) dnst's Cleansing Flame burns you for 32 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:49) dnst's Cleansing Flame burns You for 32 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:49) xinyu hits YOU for 51 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:49) xinyu hits You for 51 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:49) CJW's Hedge of Thorns impales you for 136 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:49) CJW's Hedge of Thorns impales You for 136 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:49) Your precision returns.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:49) You precision returns.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:49) Your attacks cannot find their mark.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:49) You attacks cannot find their mark.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:49) xinyu hits YOU for 42 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:49) xinyu hits You for 42 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:49) dnst's Cleansing Flame burns you for 187 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:49) dnst's Cleansing Flame burns You for 187 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:49) dnst's Cleansing Flame burns you for 32 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:49) dnst's Cleansing Flame burns You for 32 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:49) Your defenses reassert themselves.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:49) You defenses reassert themselves.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:49) Your defense falters.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:49) You defense falters.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:49) xinyu hits YOU for 76 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:49) xinyu hits You for 76 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:49) dnst's Cleansing Flame burns you for 370 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:49) dnst's Cleansing Flame burns You for 370 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:49) dnst's Cleansing Flame burns you for 31 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:49) dnst's Cleansing Flame burns You for 31 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:50) xinyu hits YOU for 56 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:50) xinyu hits You for 56 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:50) CJW's Hedge of Thorns impales you for 151 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:50) CJW's Hedge of Thorns impales You for 151 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:50) xinyu hits YOU for 56 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:50) xinyu hits You for 56 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:50) xinyu hits YOU for 141 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:50) xinyu hits You for 141 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:50) dnst's Cleansing Flame burns you for 241 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:50) dnst's Cleansing Flame burns You for 241 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:50) dnst's Cleansing Flame burns you for 32 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:50) dnst's Cleansing Flame burns You for 32 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:50) Your attacks slow.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:50) You attacks slow.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:50) xinyu hits YOU for 108 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:50) xinyu hits You for 108 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:50) Someone's Hedge of Thorns impales you for 143 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:50) Someone's Hedge of Thorns impales You for 143 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:50) Your defenses reassert themselves.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:50) You defenses reassert themselves.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:50) dnst's Cleansing Flame burns you for 263 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:50) dnst's Cleansing Flame burns You for 263 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:50) dnst's Cleansing Flame burns you for 33 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:50) dnst's Cleansing Flame burns You for 33 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:51) You are no longer entangled.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:51) You is no longer entangled.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:51) dnst's Cleansing Flame burns you for 264 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:51) dnst's Cleansing Flame burns You for 264 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:51) dnst's Cleansing Flame burns you for 31 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:51) dnst's Cleansing Flame burns You for 31 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:51) dnst's Cleansing Flame burns you for 737 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:51) dnst's Cleansing Flame burns You for 737 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:51) dnst's Cleansing Flame burns you for 31 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:51) dnst's Cleansing Flame burns You for 31 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:51) dnst's Cleansing Flame burns you for 348 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:51) dnst's Cleansing Flame burns You for 348 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:51) dnst's Cleansing Flame burns you for 32 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:51) dnst's Cleansing Flame burns You for 32 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:51) dnst's Cleansing Flame burns you for 626 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:51) dnst's Cleansing Flame burns You for 626 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:51) dnst's Cleansing Flame burns you for 31 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:51) dnst's Cleansing Flame burns You for 31 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:51) Your precision returns.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:51) You precision returns.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:51) dnst's Cleansing Flame burns you for 173 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:51) dnst's Cleansing Flame burns You for 173 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:51) dnst's Cleansing Flame burns you for 30 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:51) dnst's Cleansing Flame burns You for 30 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:52) dnst's Cleansing Flame burns you for 356 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:52) dnst's Cleansing Flame burns You for 356 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:52) dnst's Cleansing Flame burns you for 32 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:52) dnst's Cleansing Flame burns You for 32 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:52) dnst's Cleansing Flame burns you for 207 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:52) dnst's Cleansing Flame burns You for 207 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:52) dnst's Cleansing Flame burns you for 31 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:52) dnst's Cleansing Flame burns You for 31 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:52) dnst's Cleansing Flame burns you for 271 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:52) dnst's Cleansing Flame burns You for 271 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:52) dnst's Cleansing Flame burns you for 24 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:52) dnst's Cleansing Flame burns You for 24 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:52) Someone's Cleansing Flame burns you for 194 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:52) Someone's Cleansing Flame burns You for 194 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:52) Someone's Cleansing Flame burns you for 25 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:52) Someone's Cleansing Flame burns You for 25 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:52) You are no longer on fire.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:52) You is no longer on fire.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:52) Someone's Cleansing Flame burns you for 166 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:52) Someone's Cleansing Flame burns You for 166 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:52) You are no longer on fire.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:52) You is no longer on fire.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:55) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:55) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:55) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:55) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:55) CJW's Hedge of Thorns impales you for 153 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:55) CJW's Hedge of Thorns impales You for 153 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:55) You are entangled in grasping thorns!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:55) You is entangled in grasping thorns!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:55) You are stunned!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:55) You is stunned!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:55) CJW's Hedge of Thorns impales you for 164 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:55) CJW's Hedge of Thorns impales You for 164 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:55) CJW's Call Lightning shocks you for 315 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:55) CJW's Call Lightning shocks You for 315 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:55) You are no longer stunned.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:55) You is no longer stunned.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:55) You are no longer stunned.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:55) You is no longer stunned.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:55) CJW's Hedge of Thorns impales you for 148 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:55) CJW's Hedge of Thorns impales You for 148 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:55) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:55) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:55) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:55) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:55) CJW's Hedge of Thorns impales you for 141 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:55) CJW's Hedge of Thorns impales You for 141 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:56) Someone's Hedge of Thorns impales you for 129 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:56) Someone's Hedge of Thorns impales You for 129 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:56) Someone's Hedge of Thorns impales you for 140 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:56) Someone's Hedge of Thorns impales You for 140 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:56) CJW's Hedge of Thorns impales you for 175 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:56) CJW's Hedge of Thorns impales You for 175 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:56) You are no longer entangled.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:56) You is no longer entangled.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:56) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:56) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:57) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:57) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:57) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:57) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:58) Your fire and cold resistance fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:58) You fire and cold resistance fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:58) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:58) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:42:58) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:42:58) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:00) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:00) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:00) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:00) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:01) You are surrounded by a mystic shield!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:01) You is surrounded by a mystic shield!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:03) You are surrounded by a mystic shield!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:03) You is surrounded by a mystic shield!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:03) Bambi Look A Bird hits YOU for 82 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:03) Bambi Look A Bird hits You for 82 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:03) Bambi Look A Bird hits YOU for 119 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:03) Bambi Look A Bird hits You for 119 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:03) Your passive defense skills falter!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:03) You passive defense skills falter!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:03) Bambi Look A Bird hits YOU for 85 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:03) Bambi Look A Bird hits You for 85 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:04) Bambi Look A Bird hits YOU for 200 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:04) Bambi Look A Bird hits You for 200 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:04) Bambi Look A Bird hits YOU for 88 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:04) Bambi Look A Bird hits You for 88 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:04) Bambi Look A Bird hits YOU for 116 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:04) Bambi Look A Bird hits You for 116 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:04) Bambi Look A Bird hits YOU for 66 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:04) Bambi Look A Bird hits You for 66 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:04) Bambi Look A Bird hits YOU for 106 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:04) Bambi Look A Bird hits You for 106 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:04) blackgurl's Mage Bolt strikes you for 440 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:04) blackgurl's Mage Bolt strikes You for 440 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:04) wreck's Call Storm shocks you for 90 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:04) wreck's Call Storm shocks You for 90 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:04) Your strength and agility returns.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:04) You strength and agility returns.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:04) Bambi Look A Bird hits YOU for 106 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:04) Bambi Look A Bird hits You for 106 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:04) Bambi Look A Bird hits YOU for 144 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:04) Bambi Look A Bird hits You for 144 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:04) Bambi Look A Bird hits YOU for 71 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:04) Bambi Look A Bird hits You for 71 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) You are poisoned!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) You is poisoned!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) You are poisoned!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) You is poisoned!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) Your attacks slow.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) You attacks slow.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) Bambi Look A Bird hits YOU for 123 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) Bambi Look A Bird hits You for 123 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) Bambi Look A Bird hits YOU for 80 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) Bambi Look A Bird hits You for 80 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) Bambi Look A Bird hits YOU for 52 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) Bambi Look A Bird hits You for 52 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) Bambi Look A Bird hits YOU for 99 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) Bambi Look A Bird hits You for 99 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) Bambi Look A Bird hits YOU for 98 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) Bambi Look A Bird hits You for 98 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) You are exposed to a pinpoint strike!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) You is exposed to a pinpoint strike!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) Bambi Look A Bird hits YOU for 218 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) Bambi Look A Bird hits You for 218 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) Bambi Look A Bird hits YOU for 120 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) Bambi Look A Bird hits You for 120 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) Bambi Look A Bird hits YOU for 84 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) Bambi Look A Bird hits You for 84 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) You are poisoned!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) You is poisoned!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) You are poisoned!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) You is poisoned!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) Bambi Look A Bird hits YOU for 129 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) Bambi Look A Bird hits You for 129 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) Bambi Look A Bird hits YOU for 181 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) Bambi Look A Bird hits You for 181 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) Bambi Look A Bird hits YOU for 180 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) Bambi Look A Bird hits You for 180 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) Bambi Look A Bird hits YOU for 130 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) Bambi Look A Bird hits You for 130 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) Your passive defense skills return.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) You passive defense skills return.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) Bambi Look A Bird hits YOU for 179 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) Bambi Look A Bird hits You for 179 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) Your passive defense skills falter!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) You passive defense skills falter!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) Bambi Look A Bird hits YOU for 215 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) Bambi Look A Bird hits You for 215 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) Bambi Look A Bird hits YOU for 150 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) Bambi Look A Bird hits You for 150 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) Bambi Look A Bird hits YOU for 173 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) Bambi Look A Bird hits You for 173 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) Bambi Look A Bird hits YOU for 142 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) Bambi Look A Bird hits You for 142 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) Bambi Look A Bird hits YOU for 117 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) Bambi Look A Bird hits You for 117 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) wreck's Fury of Wind buffets you for 73 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) wreck's Fury of Wind buffets You for 73 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) You are surrounded by buffeting winds!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) You is surrounded by buffeting winds!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) You are surrounded by buffeting winds!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) You is surrounded by buffeting winds!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) Bambi Look A Bird hits YOU for 184 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) Bambi Look A Bird hits You for 184 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) Your attacks cannot find their mark.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) You attacks cannot find their mark.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:05) Bambi Look A Bird hits YOU for 187 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:05) Bambi Look A Bird hits You for 187 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:06) Bambi Look A Bird hits YOU for 133 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:06) Bambi Look A Bird hits You for 133 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:06) Bambi Look A Bird hits YOU for 176 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:06) Bambi Look A Bird hits You for 176 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:06) Bambi Look A Bird hits YOU for 138 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:06) Bambi Look A Bird hits You for 138 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:06) Bambi Look A Bird hits YOU for 123 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:06) Bambi Look A Bird hits You for 123 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:06) You are stunned!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:06) You is stunned!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:06) wreck's Fury of Wind buffets you for 61 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:06) wreck's Fury of Wind buffets You for 61 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:06) You are no longer stunned.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:06) You is no longer stunned.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:06) You are no longer stunned.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:06) You is no longer stunned.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:06) Your heal resistance fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:06) You heal resistance fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:06) wreck's Fury of Wind buffets you for 94 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:06) wreck's Fury of Wind buffets You for 94 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:06) Your precision returns.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:06) You precision returns.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:06) Bambi Look A Bird hits YOU for 137 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:06) Bambi Look A Bird hits You for 137 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:06) Bambi Look A Bird hits YOU for 184 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:06) Bambi Look A Bird hits You for 184 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:06) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:06) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:06) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:06) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:07) wreck's Fury of Wind buffets you for 85 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:07) wreck's Fury of Wind buffets You for 85 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:07) You are stunned!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:07) You is stunned!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:07) Your passive defense skills return.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:07) You passive defense skills return.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:07) You are no longer stunned.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:07) You is no longer stunned.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:07) You are no longer stunned.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:07) You is no longer stunned.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:07) wreck's Fury of Wind buffets you for 69 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:07) wreck's Fury of Wind buffets You for 69 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:07) wreck's Call Storm shocks you for 76 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:07) wreck's Call Storm shocks You for 76 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:07) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:07) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:07) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:07) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:07) wreck's Fury of Wind buffets you for 69 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:07) wreck's Fury of Wind buffets You for 69 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:08) You are poisoned!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:08) You is poisoned!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:08) You are poisoned!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:08) You is poisoned!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:08) wreck's Fury of Wind buffets you for 52 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:08) wreck's Fury of Wind buffets You for 52 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:08) wreck's Fury of Wind buffets you for 80 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:08) wreck's Fury of Wind buffets You for 80 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:08) You are surrounded by buffeting winds!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:08) You is surrounded by buffeting winds!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:08) You are surrounded by buffeting winds!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:08) You is surrounded by buffeting winds!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:08) You are stunned!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:08) You is stunned!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:08) wreck's Fury of Wind buffets you for 59 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:08) wreck's Fury of Wind buffets You for 59 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:08) You are no longer stunned.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:08) You is no longer stunned.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:08) You are no longer stunned.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:08) You is no longer stunned.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:09) wreck's Fury of Wind buffets you for 38 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:09) wreck's Fury of Wind buffets You for 38 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:09) wreck's Fury of Wind buffets you for 33 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:09) wreck's Fury of Wind buffets You for 33 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:09) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:09) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:09) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:09) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:09) Someone's Fury of Wind buffets you for 42 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:09) Someone's Fury of Wind buffets You for 42 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:09) Someone's Fury of Wind buffets you for 18 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:09) Someone's Fury of Wind buffets You for 18 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:09) Someone's Fury of Wind buffets you for 29 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:09) Someone's Fury of Wind buffets You for 29 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:10) Your shielding fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:10) You shielding fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:10) You are surrounded by a mystic shield!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:10) You is surrounded by a mystic shield!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:13) Your shielding fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:13) You shielding fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:13) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:13) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:13) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:13) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:13) You are surrounded by a mystic shield!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:13) You is surrounded by a mystic shield!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:14) Bambi Look A Bird hits YOU for 33 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:14) Bambi Look A Bird hits You for 33 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:14) Bambi Look A Bird hits YOU for 30 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:14) Bambi Look A Bird hits You for 30 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:15) You are poisoned!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:15) You is poisoned!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:15) You are poisoned!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:15) You is poisoned!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:19) You are no longer as vulnerable to the elements.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:19) You is no longer as vulnerable to the elements.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:22) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:22) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:23) Your shielding fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:23) You shielding fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:30) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:30) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:30) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:30) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:30) You are stunned!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:30) You is stunned!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:30) Your legs are immobilized!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:30) You legs is immobilized!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:30) You are no longer stunned.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:30) You is no longer stunned.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:30) You are no longer stunned.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:30) You is no longer stunned.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:30) FYasz's Censure smites you for 625 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:30) FYasz's Censure smites You for 625 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:30) Your legs are no longer immobilized.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:30) You legs is no longer immobilized.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:30) Your legs are no longer immobilized.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:30) You legs is no longer immobilized.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:31) MDAZJ's Mark of The All-Father hurts you for 418 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:31) MDAZJ's Mark of The All-Father hurts You for 418 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:31) SPF's Censure smites you for 827 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:31) SPF's Censure smites You for 827 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:31) FYasz's Censure smites you for 526 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:31) FYasz's Censure smites You for 526 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:31) SPF's Censure smites you for 722 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:31) SPF's Censure smites You for 722 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:31) MDAZJ's Mark of The All-Father hurts you for 337 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:31) MDAZJ's Mark of The All-Father hurts You for 337 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:31) MDAZJ's Censure smites you for 1042 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:31) MDAZJ's Censure smites You for 1042 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:31) SPF's Censure smites you for 930 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:31) SPF's Censure smites You for 930 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:31) MDAZJ's Mark of The All-Father hurts you for 204 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:31) MDAZJ's Mark of The All-Father hurts You for 204 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:31) SPF's Censure smites you for 908 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:31) SPF's Censure smites You for 908 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:31) SPF's Censure smites you for 906 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:31) SPF's Censure smites You for 906 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:32) MDAZJ's Censure smites you for 1103 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:32) MDAZJ's Censure smites You for 1103 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:32) MDAZJ's Mark of The All-Father hurts you for 195 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:32) MDAZJ's Mark of The All-Father hurts You for 195 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:32) SPF's Censure smites you for 891 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:32) SPF's Censure smites You for 891 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:32) SPF's Censure smites you for 808 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:32) SPF's Censure smites You for 808 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:32) MDAZJ's Mark of The All-Father hurts you for 185 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:32) MDAZJ's Mark of The All-Father hurts You for 185 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:32) Your shielding fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:32) You shielding fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:32) FYasz's Censure smites you for 483 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:32) FYasz's Censure smites You for 483 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:32) MDAZJ's Mark of The All-Father hurts you for 151 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:32) MDAZJ's Mark of The All-Father hurts You for 151 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:32) FYasz's Censure smites you for 482 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:32) FYasz's Censure smites You for 482 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:32) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:32) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:32) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:32) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:32) MDAZJ's Mark of The All-Father hurts you for 215 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:32) MDAZJ's Mark of The All-Father hurts You for 215 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:33) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:33) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:42) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:42) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:42) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:42) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:42) Someone hits YOU for 6 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:42) Someone hits You for 6 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:42) Someone hits YOU for 6 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:42) Someone hits You for 6 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:42) Someone hits YOU for 6 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:42) Someone hits You for 6 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:43) Someone hits YOU for 6 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:43) Someone hits You for 6 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:43) Someone hits YOU for 6 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:43) Someone hits You for 6 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:43) You are stunned!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:43) You is stunned!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:44) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:44) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:44) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:44) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:53) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:53) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:53) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:53) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:53) You are stunned!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:53) You is stunned!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:53) You are no longer stunned.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:53) You is no longer stunned.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:53) You are no longer stunned.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:53) You is no longer stunned.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:54) You are surrounded by a black mantle.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:54) You is surrounded by a black mantle.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:54) Your Shadow Bolt freezes nvwu for 185 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:54) You Shadow Bolt freezes nvwu for 185 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:54) fcd's Fury of Wind buffets you for 104 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:54) fcd's Fury of Wind buffets You for 104 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:54) You are surrounded by buffeting winds!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:54) You is surrounded by buffeting winds!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:54) You are surrounded by buffeting winds!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:54) You is surrounded by buffeting winds!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:54) JMc's Shadow Bolt freezes you for 114 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:54) JMc's Shadow Bolt freezes You for 114 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:55) JMc's Shadow Bolt freezes you for 70 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:55) JMc's Shadow Bolt freezes You for 70 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:55) fcd's Fury of Wind buffets you for 219 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:55) fcd's Fury of Wind buffets You for 219 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:55) JMc's Shadow Bolt freezes you for 126 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:55) JMc's Shadow Bolt freezes You for 126 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:56) fcd's Fury of Wind buffets you for 100 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:56) fcd's Fury of Wind buffets You for 100 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:56) SWK's Blizzard freezes you for 70 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:56) SWK's Blizzard freezes You for 70 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:56) Someone's Fury of Wind buffets you for 110 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:56) Someone's Fury of Wind buffets You for 110 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:56) You are surrounded by a black mantle.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:56) You is surrounded by a black mantle.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:57) Your power misses the target.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:57) You power misses the target.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:57) Someone's Fury of Wind buffets you for 52 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:57) Someone's Fury of Wind buffets You for 52 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:57) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:57) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:57) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:57) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:57) Your power misses the target.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:57) You power misses the target.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:57) You are stunned!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:57) You is stunned!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:57) You are no longer stunned.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:57) You is no longer stunned.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:57) You are no longer stunned.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:57) You is no longer stunned.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:57) Your Shadow Bolt freezes Szmz for 234 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:57) You Shadow Bolt freezes Szmz for 234 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:58) Someone's Fury of Wind buffets you for 122 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:58) Someone's Fury of Wind buffets You for 122 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:58) Your movement slows and you feel resistant to heals!.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:58) Your movement slows and You feel resistant to heals!.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:58) Your movement slows and You feel resistant to heals!.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:58) You movement slows and You feel resistant to heals!.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:58) Your movement slows and you feel resistant to heals!.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:58) Your movement slows and You feel resistant to heals!.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:58) Your movement slows and You feel resistant to heals!.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:58) You movement slows and You feel resistant to heals!.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:58) SWK's Call Lightning shocks you for 80 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:58) SWK's Call Lightning shocks You for 80 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:58) Your movement returns to normal and heal resistance fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:58) You movement returns to normal and heal resistance fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:58) Your Shadow Bolt freezes Szmz for 358 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:58) You Shadow Bolt freezes Szmz for 358 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:58) Your movement returns to normal and heal resistance fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:58) You movement returns to normal and heal resistance fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:58) You are surrounded by a black mantle.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:58) You is surrounded by a black mantle.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:58) Your Shadow Bolt freezes Szmz for 371 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:58) You Shadow Bolt freezes Szmz for 371 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:58) Someone's Fury of Wind buffets you for 72 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:58) Someone's Fury of Wind buffets You for 72 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:59) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:59) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:59) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:59) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:59) You are stunned!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:59) You is stunned!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:59) ysmf's Incendiary Blast burns you for 176 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:59) ysmf's Incendiary Blast burns You for 176 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:59) You are no longer stunned.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:59) You is no longer stunned.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:59) You are no longer stunned.
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:59) You is no longer stunned.
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:59) JMc's Shadow Bolt freezes you for 70 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:59) JMc's Shadow Bolt freezes You for 70 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:43:59) JMc's Shadow Bolt freezes you for 102 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:43:59) JMc's Shadow Bolt freezes You for 102 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:00) ysmf's Incendiary Blast burns you for 111 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:00) ysmf's Incendiary Blast burns You for 111 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:00) JMc's Shadow Bolt freezes you for 133 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:00) JMc's Shadow Bolt freezes You for 133 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:00) You are surrounded by a black mantle.
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:00) You is surrounded by a black mantle.
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:00) JMc's Shadow Bolt freezes you for 117 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:00) JMc's Shadow Bolt freezes You for 117 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:01) ysmf's Incendiary Blast burns you for 95 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:01) ysmf's Incendiary Blast burns You for 95 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:01) JMc's Shadow Bolt freezes you for 129 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:01) JMc's Shadow Bolt freezes You for 129 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:01) Your Shadow Bolt freezes Breeze for 226 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:01) You Shadow Bolt freezes Breeze for 226 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:01) JMc's Shadow Bolt freezes you for 139 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:01) JMc's Shadow Bolt freezes You for 139 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:01) JMc's Shadow Bolt freezes you for 120 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:01) JMc's Shadow Bolt freezes You for 120 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:01) ysmf's Incendiary Blast burns you for 90 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:01) ysmf's Incendiary Blast burns You for 90 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:01) You are no longer on fire.
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:01) You is no longer on fire.
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:01) JMc's Shadow Bolt freezes you for 110 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:01) JMc's Shadow Bolt freezes You for 110 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:01) Your Shadow Bolt freezes JMc for 54 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:01) You Shadow Bolt freezes JMc for 54 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:01) JMc's Shadow Bolt freezes you for 126 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:01) JMc's Shadow Bolt freezes You for 126 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:01) Your Shadow Bolt freezes JMc for 82 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:01) You Shadow Bolt freezes JMc for 82 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:02) JMc's Shadow Bolt freezes you for 134 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:02) JMc's Shadow Bolt freezes You for 134 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:02) Your Shadow Bolt freezes JMc for 74 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:02) You Shadow Bolt freezes JMc for 74 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:02) Your Shadow Bolt freezes JMc for 337 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:02) You Shadow Bolt freezes JMc for 337 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:03) ysmf's Incendiary Blast burns you for 92 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:03) ysmf's Incendiary Blast burns You for 92 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:03) Your Shadow Bolt freezes ysmf for 393 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:03) You Shadow Bolt freezes ysmf for 393 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:03) ysmf's Incendiary Blast burns you for 122 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:03) ysmf's Incendiary Blast burns You for 122 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:04) SWK's Blizzard freezes you for 70 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:04) SWK's Blizzard freezes You for 70 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:04) Your Shadow Bolt freezes ysmf for 338 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:04) You Shadow Bolt freezes ysmf for 338 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:04) Your Shadow Bolt freezes ysmf for 334 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:04) You Shadow Bolt freezes ysmf for 334 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:04) ysmf's Incendiary Blast burns you for 82 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:04) ysmf's Incendiary Blast burns You for 82 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:04) Your Shadow Bolt freezes SWK for 224 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:04) You Shadow Bolt freezes SWK for 224 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:04) ysmf's Incendiary Blast burns you for 91 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:04) ysmf's Incendiary Blast burns You for 91 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:04) Your Shadow Bolt freezes SWK for 255 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:04) You Shadow Bolt freezes SWK for 255 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:05) Someone's Incendiary Blast burns you for 53 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:05) Someone's Incendiary Blast burns You for 53 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:05) Someone's Incendiary Blast burns you for 73 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:05) Someone's Incendiary Blast burns You for 73 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:06) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:06) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:06) Someone's Incendiary Blast burns you for 108 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:06) Someone's Incendiary Blast burns You for 108 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:06) You are no longer on fire.
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:06) You is no longer on fire.
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:08) HolyThug's Righteous Word of Binding smites you for 212 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:08) HolyThug's Righteous Word of Binding smites You for 212 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:10) Your Shadow Bolt freezes Tibins for 170 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:10) You Shadow Bolt freezes Tibins for 170 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:10) Your Shadow Bolt freezes Tibins for 204 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:10) You Shadow Bolt freezes Tibins for 204 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:10) Your Shadow Bolt freezes Tibins for 153 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:10) You Shadow Bolt freezes Tibins for 153 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:11) Your Shadow Bolt freezes Tibins for 391 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:11) You Shadow Bolt freezes Tibins for 391 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:11) Your power misses the target.
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:11) You power misses the target.
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:11) Your Shadow Bolt freezes CaliSent for 200 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:11) You Shadow Bolt freezes CaliSent for 200 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:12) Your Shadow Bolt freezes CaliSent for 214 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:12) You Shadow Bolt freezes CaliSent for 214 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:12) Your power misses the target.
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:12) You power misses the target.
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:12) Your Shadow Bolt freezes CaliSent for 239 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:12) You Shadow Bolt freezes CaliSent for 239 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:13) Your power misses the target.
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:13) You power misses the target.
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:13) Your power misses the target.
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:13) You power misses the target.
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:13) Your Shadow Bolt freezes CaliSent for 203 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:13) You Shadow Bolt freezes CaliSent for 203 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:13) Your focus slips away.
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:13) You focus slips away.
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:14) Your Shadow Bolt freezes Liquid for 161 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:14) You Shadow Bolt freezes Liquid for 161 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:14) Your Shadow Bolt freezes Liquid for 189 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:14) You Shadow Bolt freezes Liquid for 189 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:15) Your Shadow Bolt freezes Prodriver for 145 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:15) You Shadow Bolt freezes Prodriver for 145 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:15) Your Shadow Bolt freezes Prodriver for 148 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:15) You Shadow Bolt freezes Prodriver for 148 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:15) Your Shadow Bolt freezes Prodriver for 147 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:15) You Shadow Bolt freezes Prodriver for 147 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:15) Your power misses the target.
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:15) You power misses the target.
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:16) Your Shadow Bolt freezes Prodriver for 127 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:16) You Shadow Bolt freezes Prodriver for 127 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:16) Your Shadow Bolt freezes Prodriver for 260 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:16) You Shadow Bolt freezes Prodriver for 260 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:16) Your power misses the target.
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:16) You power misses the target.
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:16) Your Shadow Bolt freezes HolyThug for 325 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:16) You Shadow Bolt freezes HolyThug for 325 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:17) Your Shadow Bolt freezes HolyThug for 331 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:17) You Shadow Bolt freezes HolyThug for 331 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:17) Your Shadow Bolt freezes HolyThug for 317 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:17) You Shadow Bolt freezes HolyThug for 317 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:17) Your Shadow Bolt freezes Healn for 212 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:17) You Shadow Bolt freezes Healn for 212 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:17) Your Shadow Bolt freezes Healn for 209 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:17) You Shadow Bolt freezes Healn for 209 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:18) Your Shadow Bolt freezes Healn for 349 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:18) You Shadow Bolt freezes Healn for 349 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:18) Your Shadow Bolt freezes Healn for 392 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:18) You Shadow Bolt freezes Healn for 392 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:18) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:18) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:25) Someone hits YOU for 7 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:25) Someone hits You for 7 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:25) Someone hits YOU for 7 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:25) Someone hits You for 7 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:25) Someone hits YOU for 7 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:25) Someone hits You for 7 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:29) Your enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:29) You enhanced speed fades.
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:30) Your legs are immobilized!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:30) You legs is immobilized!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:30) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:30) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:30) Your stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:30) You stun immunity has worn off.
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:30) Your legs are no longer immobilized.
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:30) You legs is no longer immobilized.
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:30) Your legs are no longer immobilized.
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:30) You legs is no longer immobilized.
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:30) You are stunned!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:30) You is stunned!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:30) yunT's Cleansing Flame burns you for 269 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:30) yunT's Cleansing Flame burns You for 269 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:30) yunT's Cleansing Flame burns you for 24 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:30) yunT's Cleansing Flame burns You for 24 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:30) FYsz's Censure smites you for 476 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:30) FYsz's Censure smites You for 476 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:31) yunT's Cleansing Flame burns you for 111 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:31) yunT's Cleansing Flame burns You for 111 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:31) yunT's Cleansing Flame burns you for 24 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:31) yunT's Cleansing Flame burns You for 24 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:31) Your legs are immobilized!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:31) You legs is immobilized!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:31) FYsz's Censure smites you for 643 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:31) FYsz's Censure smites You for 643 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:31) Your legs are no longer immobilized.
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:31) You legs is no longer immobilized.
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:31) Your legs are no longer immobilized.
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:31) You legs is no longer immobilized.
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:31) eka BH hits YOU for 31 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:31) eka BH hits You for 31 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:31) You are no longer stunned.
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:31) You is no longer stunned.
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:31) You are no longer stunned.
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:31) You is no longer stunned.
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:31) eka BH hits YOU for 47 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:31) eka BH hits You for 47 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:31) eka BH hits YOU for 44 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:31) eka BH hits You for 44 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:31) FYsz's Censure smites you for 602 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:31) FYsz's Censure smites You for 602 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:31) yunT's Cleansing Flame burns you for 217 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:31) yunT's Cleansing Flame burns You for 217 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:31) yunT's Cleansing Flame burns you for 24 points of damage!
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:31) yunT's Cleansing Flame burns You for 24 points of damage!
-SBregExHelper_PreParse_LogWriter :: Before : (01:44:31) You are no longer on fire.
-SBregExHelper_PreParse_LogWriter :: After  : (01:44:31) You is no longer on fire.
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:12) MalzPL's Prayer of Mending heals you for 834 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:12) MalzPL's Prayer of Mending heals You for 834 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:12) MalzDruid's Prayer of Mending heals you for 519 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:12) MalzDruid's Prayer of Mending heals You for 519 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:13) Vorok Mud-Chief's Earthquake hurts you for 341 points of damage.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:13) Vorok Mud-Chief's Earthquake hurts You for 341 points of damage.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:13) MalzPL's Prayer of Mending heals you for 630 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:13) MalzPL's Prayer of Mending heals You for 630 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:13) MalzDruid's Prayer of Mending heals you for 464 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:13) MalzDruid's Prayer of Mending heals You for 464 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:13) MalzPL's Prayer of Mending heals you for 627 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:13) MalzPL's Prayer of Mending heals You for 627 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:13) MalzDruid's Prayer of Mending heals you for 465 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:13) MalzDruid's Prayer of Mending heals You for 465 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:13) MalzPL's Prayer of Mending heals you for 640 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:13) MalzPL's Prayer of Mending heals You for 640 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:13) MalzDruid's Prayer of Mending heals you for 557 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:13) MalzDruid's Prayer of Mending heals You for 557 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:13) MalzPL's Prayer of Mending heals you for 720 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:13) MalzPL's Prayer of Mending heals You for 720 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:13) MalzDruid's Prayer of Mending heals you for 606 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:13) MalzDruid's Prayer of Mending heals You for 606 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:13) MalzPL's Prayer of Mending heals you for 500 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:13) MalzPL's Prayer of Mending heals You for 500 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:13) MalzDruid's Prayer of Mending heals you for 459 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:13) MalzDruid's Prayer of Mending heals You for 459 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:14) MalzPL's Prayer of Mending heals you for 704 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:14) MalzPL's Prayer of Mending heals You for 704 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:14) MalzDruid's Prayer of Mending heals you for 814 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:14) MalzDruid's Prayer of Mending heals You for 814 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:14) MalzPL's Prayer of Mending heals you for 524 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:14) MalzPL's Prayer of Mending heals You for 524 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:14) MalzDruid's Prayer of Mending heals you for 554 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:14) MalzDruid's Prayer of Mending heals You for 554 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:14) MalzPL's Prayer of Mending heals you for 505 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:14) MalzPL's Prayer of Mending heals You for 505 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:14) MalzDruid's Prayer of Mending heals you for 537 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:14) MalzDruid's Prayer of Mending heals You for 537 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:14) MalzPL's Prayer of Mending heals you for 576 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:14) MalzPL's Prayer of Mending heals You for 576 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:14) MalzDruid's Prayer of Mending heals you for 481 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:14) MalzDruid's Prayer of Mending heals You for 481 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:14) MalzPL's Prayer of Mending heals you for 654 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:14) MalzPL's Prayer of Mending heals You for 654 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:14) MalzDruid's Prayer of Mending heals you for 664 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:14) MalzDruid's Prayer of Mending heals You for 664 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:14) MalzPL's Prayer of Mending heals you for 766 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:14) MalzPL's Prayer of Mending heals You for 766 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:14) Moss Ogre's Earthquake hurts you for 298 points of damage.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:14) Moss Ogre's Earthquake hurts You for 298 points of damage.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:15) MalzDruid's Prayer of Mending heals you for 516 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:15) MalzDruid's Prayer of Mending heals You for 516 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:15) MalzPL's Prayer of Mending heals you for 605 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:15) MalzPL's Prayer of Mending heals You for 605 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:15) MalzDruid's Prayer of Mending heals you for 547 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:15) MalzDruid's Prayer of Mending heals You for 547 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:15) MalzPL's Prayer of Mending heals you for 637 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:15) MalzPL's Prayer of Mending heals You for 637 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:15) Moss Ogre's Earthquake hurts you for 387 points of damage.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:15) Moss Ogre's Earthquake hurts You for 387 points of damage.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:15) MalzDruid's Prayer of Mending heals you for 600 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:15) MalzDruid's Prayer of Mending heals You for 600 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:16) MalzPL's Prayer of Mending heals you for 553 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:16) MalzPL's Prayer of Mending heals You for 553 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:16) Moss Ogre's Earthquake hurts you for 372 points of damage.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:16) Moss Ogre's Earthquake hurts You for 372 points of damage.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:16) MalzDruid's Prayer of Mending heals you for 761 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:16) MalzDruid's Prayer of Mending heals You for 761 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:16) MalzPL's Prayer of Mending heals you for 663 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:16) MalzPL's Prayer of Mending heals You for 663 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:16) MalzDruid's Prayer of Mending heals you for 630 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:16) MalzDruid's Prayer of Mending heals You for 630 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:16) MalzPL's Prayer of Mending heals you for 638 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:16) MalzPL's Prayer of Mending heals You for 638 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:16) MalzDruid's Prayer of Mending heals you for 545 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:16) MalzDruid's Prayer of Mending heals You for 545 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:16) MalzPL's Prayer of Mending heals you for 420 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:16) MalzPL's Prayer of Mending heals You for 420 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:16) MalzDruid's Prayer of Mending heals you for 600 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:16) MalzDruid's Prayer of Mending heals You for 600 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:16) MalzPL's Prayer of Mending heals you for 665 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:16) MalzPL's Prayer of Mending heals You for 665 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:16) MalzDruid's Prayer of Mending heals you for 801 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:16) MalzDruid's Prayer of Mending heals You for 801 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:16) MalzPL's Prayer of Mending heals you for 584 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:16) MalzPL's Prayer of Mending heals You for 584 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:16) MalzDruid's Prayer of Mending heals you for 530 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:16) MalzDruid's Prayer of Mending heals You for 530 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:17) MalzPL's Prayer of Mending heals you for 399 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:17) MalzPL's Prayer of Mending heals You for 399 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:17) MalzDruid's Prayer of Mending heals you for 350 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:17) MalzDruid's Prayer of Mending heals You for 350 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:17) The Tavok Chief-brother hits YOU for 103 points of damage!
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:17) The Tavok Chief-brother hits You for 103 points of damage!
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:17) MalzPL's Prayer of Mending heals you for 744 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:17) MalzPL's Prayer of Mending heals You for 744 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:17) MalzDruid's Prayer of Mending heals you for 784 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:17) MalzDruid's Prayer of Mending heals You for 784 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:17) MalzPL's Prayer of Mending heals you for 699 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:17) MalzPL's Prayer of Mending heals You for 699 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:17) MalzDruid's Prayer of Mending heals you for 570 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:17) MalzDruid's Prayer of Mending heals You for 570 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:17) MalzPL's Prayer of Mending heals you for 629 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:17) MalzPL's Prayer of Mending heals You for 629 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:18) MalzDruid's Prayer of Mending heals you for 388 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:18) MalzDruid's Prayer of Mending heals You for 388 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:18) MalzPL's Prayer of Mending heals you for 386 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:18) MalzPL's Prayer of Mending heals You for 386 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:18) MalzDruid's Prayer of Mending heals you for 593 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:18) MalzDruid's Prayer of Mending heals You for 593 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:18) MalzPL's Prayer of Mending heals you for 544 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:18) MalzPL's Prayer of Mending heals You for 544 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:18) MalzDruid's Prayer of Mending heals you for 394 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:18) MalzDruid's Prayer of Mending heals You for 394 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:18) MalzPL's Prayer of Mending heals you for 797 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:18) MalzPL's Prayer of Mending heals You for 797 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:18) MalzDruid's Prayer of Mending heals you for 680 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:18) MalzDruid's Prayer of Mending heals You for 680 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:18) MalzPL's Prayer of Mending heals you for 628 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:18) MalzPL's Prayer of Mending heals You for 628 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:18) MalzDruid's Prayer of Mending heals you for 445 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:18) MalzDruid's Prayer of Mending heals You for 445 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:18) MalzPL's Prayer of Mending heals you for 615 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:18) MalzPL's Prayer of Mending heals You for 615 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:18) MalzDruid's Prayer of Mending heals you for 731 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:18) MalzDruid's Prayer of Mending heals You for 731 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:18) MalzPL's Prayer of Mending heals you for 476 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:18) MalzPL's Prayer of Mending heals You for 476 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:18) MalzDruid's Prayer of Mending heals you for 490 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:18) MalzDruid's Prayer of Mending heals You for 490 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:19) MalzPL's Prayer of Mending heals you for 381 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:19) MalzPL's Prayer of Mending heals You for 381 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:19) MalzDruid's Prayer of Mending heals you for 547 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:19) MalzDruid's Prayer of Mending heals You for 547 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:19) MalzPL's Prayer of Mending heals you for 808 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:19) MalzPL's Prayer of Mending heals You for 808 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:19) MalzDruid's Prayer of Mending heals you for 749 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:19) MalzDruid's Prayer of Mending heals You for 749 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:19) MalzPL's Prayer of Mending heals you for 430 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:19) MalzPL's Prayer of Mending heals You for 430 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:19) MalzDruid's Prayer of Mending heals you for 723 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:19) MalzDruid's Prayer of Mending heals You for 723 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:20) MalzPL's Prayer of Mending heals you for 604 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:20) MalzPL's Prayer of Mending heals You for 604 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:20) MalzDruid's Prayer of Mending heals you for 791 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:20) MalzDruid's Prayer of Mending heals You for 791 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:20) MalzPL's Prayer of Mending heals you for 535 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:20) MalzPL's Prayer of Mending heals You for 535 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:20) MalzDruid's Prayer of Mending heals you for 544 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:20) MalzDruid's Prayer of Mending heals You for 544 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:20) MalzPL's Prayer of Mending heals you for 514 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:20) MalzPL's Prayer of Mending heals You for 514 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:20) MalzDruid's Prayer of Mending heals you for 549 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:20) MalzDruid's Prayer of Mending heals You for 549 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:20) MalzPL's Prayer of Mending heals you for 381 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:20) MalzPL's Prayer of Mending heals You for 381 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:20) MalzDruid's Prayer of Mending heals you for 723 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:20) MalzDruid's Prayer of Mending heals You for 723 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:20) MalzPL's Prayer of Mending heals you for 588 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:20) MalzPL's Prayer of Mending heals You for 588 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:20) MalzDruid's Prayer of Mending heals you for 397 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:20) MalzDruid's Prayer of Mending heals You for 397 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:20) MalzPL's Prayer of Mending heals you for 676 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:20) MalzPL's Prayer of Mending heals You for 676 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:21) MalzDruid's Prayer of Mending heals you for 752 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:21) MalzDruid's Prayer of Mending heals You for 752 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:21) MalzPL's Prayer of Mending heals you for 553 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:21) MalzPL's Prayer of Mending heals You for 553 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:21) MalzDruid's Prayer of Mending heals you for 525 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:21) MalzDruid's Prayer of Mending heals You for 525 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:21) MalzPL's Prayer of Mending heals you for 844 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:21) MalzPL's Prayer of Mending heals You for 844 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:21) MalzDruid's Prayer of Mending heals you for 465 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:21) MalzDruid's Prayer of Mending heals You for 465 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:21) MalzPL's Prayer of Mending heals you for 361 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:21) MalzPL's Prayer of Mending heals You for 361 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:21) MalzDruid's Prayer of Mending heals you for 380 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:21) MalzDruid's Prayer of Mending heals You for 380 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:21) MalzPL's Prayer of Mending heals you for 495 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:21) MalzPL's Prayer of Mending heals You for 495 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:21) MalzDruid's Prayer of Mending heals you for 531 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:21) MalzDruid's Prayer of Mending heals You for 531 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:21) MalzPL's Prayer of Mending heals you for 587 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:21) MalzPL's Prayer of Mending heals You for 587 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:21) MalzDruid's Prayer of Mending heals you for 538 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:21) MalzDruid's Prayer of Mending heals You for 538 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:22) MalzPL's Prayer of Mending heals you for 727 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:22) MalzPL's Prayer of Mending heals You for 727 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:22) MalzDruid's Prayer of Mending heals you for 531 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:22) MalzDruid's Prayer of Mending heals You for 531 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:22) MalzPL's Prayer of Mending heals you for 463 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:22) MalzPL's Prayer of Mending heals You for 463 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:22) MalzDruid's Prayer of Mending heals you for 563 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:22) MalzDruid's Prayer of Mending heals You for 563 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:22) MalzPL's Prayer of Mending heals you for 393 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:22) MalzPL's Prayer of Mending heals You for 393 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:22) MalzDruid's Prayer of Mending heals you for 648 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:22) MalzDruid's Prayer of Mending heals You for 648 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:22) MalzPL's Prayer of Mending heals you for 543 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:22) MalzPL's Prayer of Mending heals You for 543 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:22) MalzDruid's Prayer of Mending heals you for 395 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:22) MalzDruid's Prayer of Mending heals You for 395 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:22) MalzPL's Prayer of Mending heals you for 632 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:22) MalzPL's Prayer of Mending heals You for 632 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:22) MalzDruid's Prayer of Mending heals you for 523 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:22) MalzDruid's Prayer of Mending heals You for 523 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:23) MalzPL's Prayer of Mending heals you for 593 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:23) MalzPL's Prayer of Mending heals You for 593 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:23) MalzDruid's Prayer of Mending heals you for 644 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:23) MalzDruid's Prayer of Mending heals You for 644 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:23) The Mud Ogre hits YOU for 118 points of damage!
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:23) The Mud Ogre hits You for 118 points of damage!
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:23) MalzPL's Prayer of Mending heals you for 652 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:23) MalzPL's Prayer of Mending heals You for 652 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:23) MalzDruid's Prayer of Mending heals you for 467 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:23) MalzDruid's Prayer of Mending heals You for 467 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:23) MalzPL's Prayer of Mending heals you for 745 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:23) MalzPL's Prayer of Mending heals You for 745 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:23) MalzDruid's Prayer of Mending heals you for 609 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:23) MalzDruid's Prayer of Mending heals You for 609 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:23) MalzPL's Prayer of Mending heals you for 720 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:23) MalzPL's Prayer of Mending heals You for 720 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:23) MalzDruid's Prayer of Mending heals you for 332 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:23) MalzDruid's Prayer of Mending heals You for 332 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:24) MalzPL's Prayer of Mending heals you for 499 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:24) MalzPL's Prayer of Mending heals You for 499 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:24) MalzDruid's Prayer of Mending heals you for 548 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:24) MalzDruid's Prayer of Mending heals You for 548 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:24) MalzPL's Prayer of Mending heals you for 689 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:24) MalzPL's Prayer of Mending heals You for 689 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:24) Moss Ogre's Earthquake hurts you for 382 points of damage.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:24) Moss Ogre's Earthquake hurts You for 382 points of damage.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:24) MalzDruid's Prayer of Mending heals you for 514 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:24) MalzDruid's Prayer of Mending heals You for 514 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:24) The Moss Ogre hits YOU for 101 points of damage!
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:24) The Moss Ogre hits You for 101 points of damage!
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:24) MalzPL's Prayer of Mending heals you for 772 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:24) MalzPL's Prayer of Mending heals You for 772 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:24) MalzDruid's Prayer of Mending heals you for 370 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:24) MalzDruid's Prayer of Mending heals You for 370 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:24) MalzPL's Prayer of Mending heals you for 588 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:24) MalzPL's Prayer of Mending heals You for 588 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:24) Moss Ogre's Earthquake hurts you for 312 points of damage.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:24) Moss Ogre's Earthquake hurts You for 312 points of damage.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:24) MalzDruid's Prayer of Mending heals you for 442 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:24) MalzDruid's Prayer of Mending heals You for 442 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:24) MalzPL's Prayer of Mending heals you for 765 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:24) MalzPL's Prayer of Mending heals You for 765 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:24) MalzDruid's Prayer of Mending heals you for 545 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:24) MalzDruid's Prayer of Mending heals You for 545 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:25) MalzPL's Prayer of Mending heals you for 698 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:25) MalzPL's Prayer of Mending heals You for 698 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:25) MalzDruid's Prayer of Mending heals you for 538 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:25) MalzDruid's Prayer of Mending heals You for 538 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:25) The Mud Ogre hits YOU for 124 points of damage!
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:25) The Mud Ogre hits You for 124 points of damage!
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:25) MalzPL's Prayer of Mending heals you for 493 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:25) MalzPL's Prayer of Mending heals You for 493 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:25) MalzDruid's Prayer of Mending heals you for 639 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:25) MalzDruid's Prayer of Mending heals You for 639 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:25) MalzPL's Prayer of Mending heals you for 778 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:25) MalzPL's Prayer of Mending heals You for 778 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:25) MalzDruid's Prayer of Mending heals you for 620 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:25) MalzDruid's Prayer of Mending heals You for 620 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YourAre :: Before : (02:24:25) [Powers] Error: You are in the wrong mode.
+SBregExHelper_PreParse_YourAre :: After  : (02:24:25) [Powers] Error: You is in the wrong mode.
+SBregExHelper_PreParse_YourAre :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:25) MalzPL's Prayer of Mending heals you for 643 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:25) MalzPL's Prayer of Mending heals You for 643 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:25) MalzDruid's Prayer of Mending heals you for 589 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:25) MalzDruid's Prayer of Mending heals You for 589 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:25) MalzPL's Prayer of Mending heals you for 608 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:25) MalzPL's Prayer of Mending heals You for 608 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:26) MalzDruid's Prayer of Mending heals you for 671 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:26) MalzDruid's Prayer of Mending heals You for 671 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:26) MalzPL's Prayer of Mending heals you for 508 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:26) MalzPL's Prayer of Mending heals You for 508 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:26) MalzDruid's Prayer of Mending heals you for 733 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:26) MalzDruid's Prayer of Mending heals You for 733 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:26) MalzPL's Prayer of Mending heals you for 603 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:26) MalzPL's Prayer of Mending heals You for 603 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:26) MalzDruid's Prayer of Mending heals you for 403 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:26) MalzDruid's Prayer of Mending heals You for 403 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:26) MalzPL's Prayer of Mending heals you for 499 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:26) MalzPL's Prayer of Mending heals You for 499 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:26) MalzDruid's Prayer of Mending heals you for 764 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:26) MalzDruid's Prayer of Mending heals You for 764 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:26) MalzPL's Prayer of Mending heals you for 528 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:26) MalzPL's Prayer of Mending heals You for 528 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:26) MalzDruid's Prayer of Mending heals you for 425 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:26) MalzDruid's Prayer of Mending heals You for 425 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:27) MalzPL's Prayer of Mending heals you for 535 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:27) MalzPL's Prayer of Mending heals You for 535 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:27) MalzDruid's Prayer of Mending heals you for 552 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:27) MalzDruid's Prayer of Mending heals You for 552 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:27) MalzPL's Prayer of Mending heals you for 333 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:27) MalzPL's Prayer of Mending heals You for 333 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:27) MalzDruid's Prayer of Mending heals you for 379 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:27) MalzDruid's Prayer of Mending heals You for 379 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:27) MalzPL's Prayer of Mending heals you for 664 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:27) MalzPL's Prayer of Mending heals You for 664 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:27) MalzDruid's Prayer of Mending heals you for 708 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:27) MalzDruid's Prayer of Mending heals You for 708 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:27) MalzPL's Prayer of Mending heals you for 530 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:27) MalzPL's Prayer of Mending heals You for 530 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:27) MalzDruid's Prayer of Mending heals you for 758 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:27) MalzDruid's Prayer of Mending heals You for 758 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:28) MalzPL's Prayer of Mending heals you for 387 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:28) MalzPL's Prayer of Mending heals You for 387 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:28) MalzDruid's Prayer of Mending heals you for 729 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:28) MalzDruid's Prayer of Mending heals You for 729 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YourAre :: Before : (02:24:28) [Powers] Error: You are in the wrong mode.
+SBregExHelper_PreParse_YourAre :: After  : (02:24:28) [Powers] Error: You is in the wrong mode.
+SBregExHelper_PreParse_YourAre :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:28) MalzPL's Prayer of Mending heals you for 474 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:28) MalzPL's Prayer of Mending heals You for 474 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:28) MalzDruid's Prayer of Mending heals you for 456 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:28) MalzDruid's Prayer of Mending heals You for 456 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:28) MalzPL's Prayer of Mending heals you for 602 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:28) MalzPL's Prayer of Mending heals You for 602 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:28) MalzDruid's Prayer of Mending heals you for 525 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:28) MalzDruid's Prayer of Mending heals You for 525 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:28) MalzPL's Prayer of Mending heals you for 785 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:28) MalzPL's Prayer of Mending heals You for 785 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:28) MalzDruid's Prayer of Mending heals you for 646 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:28) MalzDruid's Prayer of Mending heals You for 646 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:28) MalzPL's Prayer of Mending heals you for 582 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:28) MalzPL's Prayer of Mending heals You for 582 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:28) MalzDruid's Prayer of Mending heals you for 598 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:28) MalzDruid's Prayer of Mending heals You for 598 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:29) MalzPL's Prayer of Mending heals you for 344 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:29) MalzPL's Prayer of Mending heals You for 344 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:29) MalzDruid's Prayer of Mending heals you for 583 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:29) MalzDruid's Prayer of Mending heals You for 583 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:29) MalzPL's Prayer of Mending heals you for 460 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:29) MalzPL's Prayer of Mending heals You for 460 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:29) MalzDruid's Prayer of Mending heals you for 554 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:29) MalzDruid's Prayer of Mending heals You for 554 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:29) MalzPL's Prayer of Mending heals you for 633 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:29) MalzPL's Prayer of Mending heals You for 633 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:29) MalzDruid's Prayer of Mending heals you for 482 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:29) MalzDruid's Prayer of Mending heals You for 482 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:29) MalzPL's Prayer of Mending heals you for 577 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:29) MalzPL's Prayer of Mending heals You for 577 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:29) MalzDruid's Prayer of Mending heals you for 791 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:29) MalzDruid's Prayer of Mending heals You for 791 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:29) MalzPL's Prayer of Mending heals you for 594 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:29) MalzPL's Prayer of Mending heals You for 594 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:29) MalzDruid's Prayer of Mending heals you for 335 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:29) MalzDruid's Prayer of Mending heals You for 335 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:30) MalzPL's Prayer of Mending heals you for 639 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:30) MalzPL's Prayer of Mending heals You for 639 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:30) MalzDruid's Prayer of Mending heals you for 564 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:30) MalzDruid's Prayer of Mending heals You for 564 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:30) MalzPL's Prayer of Mending heals you for 299 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:30) MalzPL's Prayer of Mending heals You for 299 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:30) MalzDruid's Prayer of Mending heals you for 535 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:30) MalzDruid's Prayer of Mending heals You for 535 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:30) MalzPL's Prayer of Mending heals you for 555 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:30) MalzPL's Prayer of Mending heals You for 555 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:30) Mud Ogre's Earthquake hurts you for 254 points of damage.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:30) Mud Ogre's Earthquake hurts You for 254 points of damage.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:30) MalzDruid's Prayer of Mending heals you for 478 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:30) MalzDruid's Prayer of Mending heals You for 478 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:30) MalzPL's Prayer of Mending heals you for 577 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:30) MalzPL's Prayer of Mending heals You for 577 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:30) MalzDruid's Prayer of Mending heals you for 481 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:30) MalzDruid's Prayer of Mending heals You for 481 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:30) MalzPL's Prayer of Mending heals you for 797 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:30) MalzPL's Prayer of Mending heals You for 797 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:30) MalzDruid's Prayer of Mending heals you for 522 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:30) MalzDruid's Prayer of Mending heals You for 522 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:30) MalzPL's Prayer of Mending heals you for 615 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:30) MalzPL's Prayer of Mending heals You for 615 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:31) MalzDruid's Prayer of Mending heals you for 317 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:31) MalzDruid's Prayer of Mending heals You for 317 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:31) MalzPL's Prayer of Mending heals you for 468 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:31) MalzPL's Prayer of Mending heals You for 468 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:31) MalzDruid's Prayer of Mending heals you for 454 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:31) MalzDruid's Prayer of Mending heals You for 454 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:31) MalzPL's Prayer of Mending heals you for 652 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:31) MalzPL's Prayer of Mending heals You for 652 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:31) MalzDruid's Prayer of Mending heals you for 541 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:31) MalzDruid's Prayer of Mending heals You for 541 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:31) MalzPL's Prayer of Mending heals you for 512 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:31) MalzPL's Prayer of Mending heals You for 512 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:31) MalzDruid's Prayer of Mending heals you for 615 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:31) MalzDruid's Prayer of Mending heals You for 615 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:31) MalzPL's Prayer of Mending heals you for 629 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:31) MalzPL's Prayer of Mending heals You for 629 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:31) MalzDruid's Prayer of Mending heals you for 708 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:31) MalzDruid's Prayer of Mending heals You for 708 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:32) MalzPL's Prayer of Mending heals you for 611 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:32) MalzPL's Prayer of Mending heals You for 611 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:32) MalzDruid's Prayer of Mending heals you for 526 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:32) MalzDruid's Prayer of Mending heals You for 526 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:32) MalzPL's Prayer of Mending heals you for 474 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:32) MalzPL's Prayer of Mending heals You for 474 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:32) MalzDruid's Prayer of Mending heals you for 462 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:32) MalzDruid's Prayer of Mending heals You for 462 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:32) MalzPL's Prayer of Mending heals you for 553 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:32) MalzPL's Prayer of Mending heals You for 553 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:32) MalzDruid's Prayer of Mending heals you for 641 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:32) MalzDruid's Prayer of Mending heals You for 641 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:32) MalzPL's Prayer of Mending heals you for 473 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:32) MalzPL's Prayer of Mending heals You for 473 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:32) MalzDruid's Prayer of Mending heals you for 419 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:32) MalzDruid's Prayer of Mending heals You for 419 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:32) MalzPL's Prayer of Mending heals you for 506 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:32) MalzPL's Prayer of Mending heals You for 506 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:32) MalzDruid's Prayer of Mending heals you for 479 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:32) MalzDruid's Prayer of Mending heals You for 479 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:33) MalzPL's Prayer of Mending heals you for 609 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:33) MalzPL's Prayer of Mending heals You for 609 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:33) MalzDruid's Prayer of Mending heals you for 613 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:33) MalzDruid's Prayer of Mending heals You for 613 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:33) MalzPL's Prayer of Mending heals you for 686 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:33) MalzPL's Prayer of Mending heals You for 686 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:33) MalzDruid's Prayer of Mending heals you for 498 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:33) MalzDruid's Prayer of Mending heals You for 498 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:33) Moss Ogre's Earthquake hurts you for 457 points of damage.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:33) Moss Ogre's Earthquake hurts You for 457 points of damage.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:33) MalzPL's Prayer of Mending heals you for 534 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:33) MalzPL's Prayer of Mending heals You for 534 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:33) MalzDruid's Prayer of Mending heals you for 523 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:33) MalzDruid's Prayer of Mending heals You for 523 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:33) MalzPL's Prayer of Mending heals you for 435 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:33) MalzPL's Prayer of Mending heals You for 435 points.
+SBregExHelper_PreParse_YouCaseReplace :: 
+SBregExHelper_PreParse_YouCaseReplace :: Before : (02:24:33) MalzDruid's Prayer of Mending heals you for 633 points.
+SBregExHelper_PreParse_YouCaseReplace :: After  : (02:24:33) MalzDruid's Prayer of Mending heals You for 633 points.
+SBregExHelper_PreParse_YouCaseReplace :: 

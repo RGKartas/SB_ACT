@@ -1,14 +1,6 @@
 Version     :: 0.0.11.0
-DateTime    :: 11/7/2023 01:41:36 AM
+DateTime    :: 11/7/2023 02:23:58 AM
 RegExType   :: Evade :: Miss Power
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r's]? power (?<type>miss)[es]* (?<target>.*)[\.!]
 
 Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
-01:43:57 : miss       : You                       : target                    :                           :              :              :       
-01:43:57 : miss       : You                       : target                    :                           :              :              :       
-01:44:11 : miss       : You                       : target                    :                           :              :              :       
-01:44:12 : miss       : You                       : target                    :                           :              :              :       
-01:44:13 : miss       : You                       : target                    :                           :              :              :       
-01:44:13 : miss       : You                       : target                    :                           :              :              :       
-01:44:15 : miss       : You                       : target                    :                           :              :              :       
-01:44:16 : miss       : You                       : target                    :                           :              :              :       

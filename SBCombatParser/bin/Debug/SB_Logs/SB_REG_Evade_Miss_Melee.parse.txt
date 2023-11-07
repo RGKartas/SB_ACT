@@ -1,509 +1,106 @@
 Version     :: 0.0.11.0
-DateTime    :: 11/7/2023 01:41:36 AM
+DateTime    :: 11/7/2023 02:23:58 AM
 RegExType   :: Evade :: Miss Melee
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>miss)[es]* (?<target>.*)[\.!]
 
 Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
-01:41:51 : miss       : HuntyPet Cobra            : BigBlackBen               :                           :              :              :       
-01:41:52 : miss       : Miha                      : BigBlackBen               :                           :              :              :       
-01:41:52 : miss       : HuntyPet Cobra            : Vashtur                   :                           :              :              :       
-01:41:53 : miss       : AlbiThere ForYou          : YOU                       :                           :              :              :       
-01:41:53 : miss       : Tupac Shakur              : YOU                       :                           :              :              :       
-01:41:53 : miss       : Tupac Shakur              : YOU                       :                           :              :              :       
-01:41:53 : miss       : Tupac Shakur              : YOU                       :                           :              :              :       
-01:41:53 : miss       : Tupac Shakur              : YOU                       :                           :              :              :       
-01:41:54 : miss       : Vashtur                   : Vashteera's Companion     :                           :              :              :       
-01:41:55 : miss       : Dispel Cobra              : Vashtur                   :                           :              :              :       
-01:41:56 : miss       : PBAOE                     : YOU                       :                           :              :              :       
-01:41:56 : miss       : BigBlackBen               : lover                     :                           :              :              :       
-01:41:56 : miss       : BigBlackBen               : lover                     :                           :              :              :       
-01:41:56 : miss       : Vashteera's Companion     : Tupac Shakur              :                           :              :              :       
-01:41:56 : miss       : Tupac Shakur              : Vashteera's Companion     :                           :              :              :       
-01:41:56 : miss       : Tupac Shakur              : Vashteera's Companion     :                           :              :              :       
-01:41:56 : miss       : HuntyPet Cobra            : Priest                    :                           :              :              :       
-01:41:57 : miss       : Tupac Shakur              : Vashteera's Companion     :                           :              :              :       
-01:41:57 : miss       : Tupac Shakur              : Vashteera's Companion     :                           :              :              :       
-01:41:57 : miss       : Tupac Shakur              : Vashteera's Companion     :                           :              :              :       
-01:41:57 : miss       : Tupac Shakur              : Vashteera's Companion     :                           :              :              :       
-01:41:57 : miss       : WillPowder                : Sax                       :                           :              :              :       
-01:41:57 : miss       : Sax                       : BigBlackBen               :                           :              :              :       
-01:41:57 : miss       : PBAOE                     : YOU                       :                           :              :              :       
-01:41:57 : miss       : HuntyPet Cobra            : Priest                    :                           :              :              :       
-01:41:58 : miss       : Tupac Shakur              : Vashteera's Companion     :                           :              :              :       
-01:41:58 : miss       : Tupac Shakur              : Vashteera's Companion     :                           :              :              :       
-01:41:58 : miss       : Tupac Shakur              : YOU                       :                           :              :              :       
-01:41:58 : miss       : Tupac Shakur              : YOU                       :                           :              :              :       
-01:41:59 : miss       : Tupac Shakur              : YOU                       :                           :              :              :       
-01:41:59 : miss       : Tupac Shakur              : YOU                       :                           :              :              :       
-01:41:59 : miss       : Tupac Shakur              : YOU                       :                           :              :              :       
-01:41:59 : miss       : Tupac Shakur              : YOU                       :                           :              :              :       
-01:41:59 : miss       : Tupac Shakur              : YOU                       :                           :              :              :       
-01:41:59 : miss       : Tupac Shakur              : YOU                       :                           :              :              :       
-01:42:00 : miss       : Tupac Shakur              : YOU                       :                           :              :              :       
-01:42:00 : miss       : Tupac Shakur              : YOU                       :                           :              :              :       
-01:42:00 : miss       : BigBlackBen               : lover                     :                           :              :              :       
-01:42:00 : miss       : Tupac Shakur              : Saas y                    :                           :              :              :       
-01:42:00 : miss       : Tupac Shakur              : Saas y                    :                           :              :              :       
-01:42:00 : miss       : AlbiThere ForYou          : YOU                       :                           :              :              :       
-01:42:00 : miss       : Tupac Shakur              : Saas y                    :                           :              :              :       
-01:42:00 : miss       : HuntyPet Cobra            : Long                      :                           :              :              :       
-01:42:01 : miss       : Tupac Shakur              : Vashteera's Companion     :                           :              :              :       
-01:42:01 : miss       : Tupac Shakur              : Vashteera's Companion     :                           :              :              :       
-01:42:01 : miss       : AlbiThere ForYou          : YOU                       :                           :              :              :       
-01:42:01 : miss       : AlbiThere ForYou          : YOU                       :                           :              :              :       
-01:42:01 : miss       : Tupac Shakur              : Vashteera's Companion     :                           :              :              :       
-01:42:01 : miss       : Tupac Shakur              : Vashteera's Companion     :                           :              :              :       
-01:42:01 : miss       : BigBlackBen               : lover                     :                           :              :              :       
-01:42:01 : miss       : lover                     : Tupac Shakur              :                           :              :              :       
-01:42:01 : miss       : lover                     : Tupac Shakur              :                           :              :              :       
-01:42:01 : miss       : Miha                      : Tupac Shakur              :                           :              :              :       
-01:42:01 : miss       : lover                     : Tupac Shakur              :                           :              :              :       
-01:42:02 : miss       : Tupac Shakur              : lover                     :                           :              :              :       
-01:42:02 : miss       : Tupac Shakur              : lover                     :                           :              :              :       
-01:42:02 : miss       : Dispel Cobra              : Tupac Shakur              :                           :              :              :       
-01:42:02 : miss       : HuntyPet Cobra            : Tupac Shakur              :                           :              :              :       
-01:42:02 : miss       : Tupac Shakur              : Vashteera's Companion     :                           :              :              :       
-01:42:02 : miss       : Tupac Shakur              : Vashteera's Companion     :                           :              :              :       
-01:42:03 : miss       : AlbiThere ForYou          : lover                     :                           :              :              :       
-01:42:03 : miss       : Vashteera's Companion     : Sax                       :                           :              :              :       
-01:42:03 : miss       : lover                     : BigBlackBen               :                           :              :              :       
-01:42:04 : miss       : BigBlackBen               : lover                     :                           :              :              :       
-01:42:05 : miss       : lover                     : Long                      :                           :              :              :       
-01:42:05 : miss       : lover                     : Long                      :                           :              :              :       
-01:42:05 : miss       : lover                     : Drooley                   :                           :              :              :       
-01:42:05 : miss       : lover                     : Drooley                   :                           :              :              :       
-01:42:05 : miss       : Dispel Cobra              : Drooley                   :                           :              :              :       
-01:42:05 : miss       : lover                     : Drooley                   :                           :              :              :       
-01:42:05 : miss       : HuntyPet Cobra            : Drooley                   :                           :              :              :       
-01:42:06 : miss       : lover                     : Drooley                   :                           :              :              :       
-01:42:06 : miss       : Sax                       : AlbiThere ForYou          :                           :              :              :       
-01:42:06 : miss       : Miha                      : Drooley                   :                           :              :              :       
-01:42:06 : miss       : Drooley                   : Vashteera's Companion     :                           :              :              :       
-01:42:14 : miss       : HuntyPet Cobra            : DMT                       :                           :              :              :       
-01:42:15 : miss       : lover                     : Yuckfou                   :                           :              :              :       
-01:42:15 : miss       : HuntyPet Cobra            : Fkrah                     :                           :              :              :       
-01:42:17 : miss       : deez nuts                 : LogicNC                   :                           :              :              :       
-01:42:19 : miss       : Miha                      : LogicNC                   :                           :              :              :       
-01:42:20 : miss       : HuntyPet Cobra            : deez nuts                 :                           :              :              :       
-01:42:22 : miss       : WoundedKnee               : Vashteera's Companion     :                           :              :              :       
-01:42:22 : miss       : WoundedKnee               : Vashteera's Companion     :                           :              :              :       
-01:42:23 : miss       : WoundedKnee               : Vashteera's Companion     :                           :              :              :       
-01:42:23 : miss       : WoundedKnee               : Vashteera's Companion     :                           :              :              :       
-01:42:23 : miss       : WoundedKnee               : Vashteera's Companion     :                           :              :              :       
-01:42:23 : miss       : WoundedKnee               : Vashteera's Companion     :                           :              :              :       
-01:42:24 : miss       : lover                     : SeeNo Evil                :                           :              :              :       
-01:42:25 : miss       : lover                     : SeeNo Evil                :                           :              :              :       
-01:42:26 : miss       : Miha                      : SeeNo Evil                :                           :              :              :       
-01:42:27 : miss       : Miha                      : Bog                       :                           :              :              :       
-01:42:27 : miss       : lover                     : Bog                       :                           :              :              :       
-01:42:28 : miss       : HuntyPet Cobra            : Bog                       :                           :              :              :       
-01:42:29 : miss       : lover                     : Bog                       :                           :              :              :       
-01:42:29 : miss       : HuntyPet Cobra            : Bog                       :                           :              :              :       
-01:42:29 : miss       : lover                     : Bog                       :                           :              :              :       
-01:42:30 : miss       : lover                     : Fkrah                     :                           :              :              :       
-01:42:31 : miss       : Vashteera's Thrall        : Yuckfou                   :                           :              :              :       
-01:42:31 : miss       : Miha                      : Yuckfou                   :                           :              :              :       
-01:42:32 : miss       : Bog                       : Vashteera's Thrall        :                           :              :              :       
-01:42:32 : miss       : HuntyPet Cobra            : Bog                       :                           :              :              :       
-01:42:33 : miss       : Bog                       : Vashteera's Thrall        :                           :              :              :       
-01:42:33 : miss       : Bog                       : Vashteera's Thrall        :                           :              :              :       
-01:42:33 : miss       : lover                     : Bog                       :                           :              :              :       
-01:42:33 : miss       : Bog                       : Vashteera's Thrall        :                           :              :              :       
-01:42:33 : miss       : lover                     : Bog                       :                           :              :              :       
-01:42:34 : miss       : lover                     : Fkrah                     :                           :              :              :       
-01:42:34 : miss       : Miha                      : Fkrah                     :                           :              :              :       
-01:42:34 : miss       : Sax                       : Noodle                    :                           :              :              :       
-01:42:35 : miss       : Sax                       : Noodle                    :                           :              :              :       
-01:42:41 : miss       : HuntyPet Cobra            : Imagine Defense lol       :                           :              :              :       
-01:42:44 : miss       : Dispel Cobra              : Octavius                  :                           :              :              :       
-01:42:44 : miss       : Dispel Cobra              : Octavius                  :                           :              :              :       
-01:42:44 : miss       : Dispel Cobra              : Octavius                  :                           :              :              :       
-01:42:44 : miss       : Dispel Cobra              : Octavius                  :                           :              :              :       
-01:42:44 : miss       : TyyppVee                  : Octavius                  :                           :              :              :       
-01:42:44 : miss       : HuntyPet Cobra            : Octavius                  :                           :              :              :       
-01:42:44 : miss       : Dispel Cobra              : Octavius                  :                           :              :              :       
-01:42:44 : miss       : HuntyPet Cobra            : Octavius                  :                           :              :              :       
-01:42:44 : miss       : TyyppVee                  : Octavius                  :                           :              :              :       
-01:42:44 : miss       : Dispel Cobra              : Octavius                  :                           :              :              :       
-01:42:44 : miss       : HuntyPet Cobra            : Octavius                  :                           :              :              :       
-01:42:44 : miss       : Octavius                  : YOU                       :                           :              :              :       
-01:42:44 : miss       : TyyppVee                  : Octavius                  :                           :              :              :       
-01:42:44 : miss       : HuntyPet Cobra            : Octavius                  :                           :              :              :       
-01:42:44 : miss       : TyyppVee                  : Octavius                  :                           :              :              :       
-01:42:44 : miss       : HuntyPet Cobra            : Octavius                  :                           :              :              :       
-01:42:44 : miss       : HuntyPet Cobra            : Octavius                  :                           :              :              :       
-01:42:44 : miss       : TyyppVee                  : Octavius                  :                           :              :              :       
-01:42:45 : miss       : HuntyPet Cobra            : Octavius                  :                           :              :              :       
-01:42:45 : miss       : TyyppVee                  : Octavius                  :                           :              :              :       
-01:42:45 : miss       : HuntyPet Cobra            : Octavius                  :                           :              :              :       
-01:42:45 : miss       : TyyppVee                  : Octavius                  :                           :              :              :       
-01:42:45 : miss       : HuntyPet Cobra            : Octavius                  :                           :              :              :       
-01:42:45 : miss       : HuntyPet Cobra            : Octavius                  :                           :              :              :       
-01:42:45 : miss       : TyyppVee                  : Octavius                  :                           :              :              :       
-01:42:45 : miss       : Dispel Cobra              : Octavius                  :                           :              :              :       
-01:42:45 : miss       : HuntyPet Cobra            : Octavius                  :                           :              :              :       
-01:42:45 : miss       : HuntyPet Cobra            : Octavius                  :                           :              :              :       
-01:42:45 : miss       : Vashteera's Companion     : Octavius                  :                           :              :              :       
-01:42:45 : miss       : Dispel Cobra              : Octavius                  :                           :              :              :       
-01:42:45 : miss       : TyyppVee                  : xinyu                     :                           :              :              :       
-01:42:45 : miss       : TyyppVee                  : xinyu                     :                           :              :              :       
-01:42:45 : miss       : HuntyPet Cobra            : xinyu                     :                           :              :              :       
-01:42:45 : miss       : TyyppVee                  : xinyu                     :                           :              :              :       
-01:42:46 : miss       : HuntyPet Cobra            : xinyu                     :                           :              :              :       
-01:42:46 : miss       : HuntyPet Cobra            : xinyu                     :                           :              :              :       
-01:42:46 : miss       : HuntyPet Cobra            : hta �C   NZSP             :                           :              :              :       
-01:42:46 : miss       : HuntyPet Cobra            : hta �C   NZSP             :                           :              :              :       
-01:42:47 : miss       : HuntyPet Cobra            : hta �C   NZSP             :                           :              :              :       
-01:42:47 : miss       : hta �C   NZSP             : TyyppVee                  :                           :              :              :       
-01:42:48 : miss       : hta �C   NZSP             : TyyppVee                  :                           :              :              :       
-01:42:48 : miss       : TyyppVee                  : CJW CN                    :                           :              :              :       
-01:42:48 : miss       : Rylix                     : TyyppVee                  :                           :              :              :       
-01:42:49 : miss       : HuntyPet Cobra            : hta �C   NZSP             :                           :              :              :       
-01:42:49 : miss       : xinyu                     : YOU                       :                           :              :              :       
-01:42:50 : miss       : Dispel Cobra              : xinyu                     :                           :              :              :       
-01:42:50 : miss       : Dispel Cobra              : xinyu                     :                           :              :              :       
-01:42:51 : miss       : Dispel Cobra              : xinyu                     :                           :              :              :       
-01:42:51 : miss       : Dispel Cobra              : xinyu                     :                           :              :              :       
-01:42:54 : miss       : Dread Moss                : dnst ' NZSP              :                           :              :              :       
-01:42:55 : miss       : Mud Fiend                 : Dispel Cobra              :                           :              :              :       
-01:42:56 : miss       : HuntyPet Cobra            : dnst ' NZSP              :                           :              :              :       
-01:42:56 : miss       : Huge Bog Legs             : HuntyPet Cobra            :                           :              :              :       
-01:42:56 : miss       : HuntyPet Cobra            : Huge Bog Legs             :                           :              :              :       
-01:42:56 : miss       : HuntyPet Cobra            : Huge Bog Legs             :                           :              :              :       
-01:42:57 : miss       : Vashteera's Thrall        : CJW CN                    :                           :              :              :       
-01:42:58 : miss       : HuntyPet Cobra            : Novac Bellugh Nuathal Priest :                           :              :              :       
-01:42:58 : miss       : HuntyPet Cobra            : Novac Bellugh Nuathal Priest :                           :              :              :       
-01:42:58 : miss       : TyyppVee                  : Novac Bellugh Nuathal Priest :                           :              :              :       
-01:42:58 : miss       : HuntyPet Cobra            : Novac Bellugh Nuathal Priest :                           :              :              :       
-01:42:58 : miss       : TyyppVee                  : Novac Bellugh Nuathal Priest :                           :              :              :       
-01:42:58 : miss       : HuntyPet Cobra            : Novac Bellugh Nuathal Priest :                           :              :              :       
-01:42:58 : miss       : TyyppVee                  : Novac Bellugh Nuathal Priest :                           :              :              :       
-01:42:58 : miss       : HuntyPet Cobra            : Novac Bellugh Nuathal Priest :                           :              :              :       
-01:42:58 : miss       : TyyppVee                  : Novac Bellugh Nuathal Priest :                           :              :              :       
-01:42:58 : miss       : HuntyPet Cobra            : Novac Bellugh Nuathal Priest :                           :              :              :       
-01:42:58 : miss       : TyyppVee                  : Novac Bellugh Nuathal Priest :                           :              :              :       
-01:42:58 : miss       : HuntyPet Cobra            : Novac Bellugh Nuathal Priest :                           :              :              :       
-01:42:58 : miss       : HuntyPet Cobra            : Novac Bellugh Nuathal Priest :                           :              :              :       
-01:42:58 : miss       : TyyppVee                  : Novac Bellugh Nuathal Priest :                           :              :              :       
-01:42:58 : miss       : HuntyPet Cobra            : Novac Bellugh Nuathal Priest :                           :              :              :       
-01:42:58 : miss       : HuntyPet Cobra            : Novac Bellugh Nuathal Priest :                           :              :              :       
-01:42:59 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:42:59 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:42:59 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:42:59 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:42:59 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:42:59 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:42:59 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:42:59 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:42:59 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:42:59 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:42:59 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:42:59 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:42:59 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:42:59 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:42:59 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:42:59 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:42:59 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:42:59 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:42:59 : miss       : sudo                      : Guard Tower               :                           :              :              :       
-01:42:59 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:42:59 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:42:59 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:42:59 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:42:59 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:42:59 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:00 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : TyyppVee                  : Guard Tower               :                           :              :              :       
-01:43:01 : miss       : sudo                      : Guard Tower               :                           :              :              :       
-01:43:02 : miss       : sudo                      : Guard Tower               :                           :              :              :       
-01:43:02 : miss       : sudo                      : Guard Tower               :                           :              :              :       
-01:43:04 : miss       : TyyppVee                  : Rain Up In Sky            :                           :              :              :       
-01:43:04 : miss       : HuntyPet Cobra            : Rain Up In Sky            :                           :              :              :       
-01:43:04 : miss       : Bambi Look A Bird         : YOU                       :                           :              :              :       
-01:43:05 : miss       : Dispel Cobra              : blackgurl sandslave       :                           :              :              :       
-01:43:05 : miss       : HuntyPet Cobra            : wreck                     :                           :              :              :       
-01:43:06 : miss       : HuntyPet Cobra            : wreck                     :                           :              :              :       
-01:43:07 : miss       : Bambi Look A Bird         : TyyppVee                  :                           :              :              :       
-01:43:08 : miss       : HuntyPet Cobra            : KSlater Up In Sky         :                           :              :              :       
-01:43:08 : miss       : Dispel Cobra              : wreck                     :                           :              :              :       
-01:43:09 : miss       : HuntyPet Cobra            : Vashteera's Companion     :                           :              :              :       
-01:43:09 : miss       : HuntyPet Cobra            : Vashteera's Companion     :                           :              :              :       
-01:43:11 : miss       : HuntyPet Cobra            : Guard Tower               :                           :              :              :       
-01:43:11 : miss       : HuntyPet Cobra            : Guard Tower               :                           :              :              :       
-01:43:15 : miss       : Dispel Cobra              : Bambi Look A Bird         :                           :              :              :       
-01:43:16 : miss       : TyyppVee                  : blackgurl sandslave       :                           :              :              :       
-01:43:16 : miss       : TyyppVee                  : blackgurl sandslave       :                           :              :              :       
-01:43:16 : miss       : Dispel Cobra              : blackgurl sandslave       :                           :              :              :       
-01:43:16 : miss       : TyyppVee                  : blackgurl sandslave       :                           :              :              :       
-01:43:16 : miss       : TyyppVee                  : blackgurl sandslave       :                           :              :              :       
-01:43:17 : miss       : TyyppVee                  : blackgurl sandslave       :                           :              :              :       
-01:43:17 : miss       : TyyppVee                  : blackgurl sandslave       :                           :              :              :       
-01:43:17 : miss       : TyyppVee                  : blackgurl sandslave       :                           :              :              :       
-01:43:17 : miss       : TyyppVee                  : blackgurl sandslave       :                           :              :              :       
-01:43:18 : miss       : Vashteera's Companion     : wreck                     :                           :              :              :       
-01:43:20 : miss       : HuntyPet Cobra            : KSlater Up In Sky         :                           :              :              :       
-01:43:20 : miss       : HuntyPet Cobra            : KSlater Up In Sky         :                           :              :              :       
-01:43:21 : miss       : HuntyPet Cobra            : wreck                     :                           :              :              :       
-01:43:21 : miss       : HuntyPet Cobra            : kwx                       :                           :              :              :       
-01:43:21 : miss       : HuntyPet Cobra            : kwx                       :                           :              :              :       
-01:43:21 : miss       : HuntyPet Cobra            : kwx                       :                           :              :              :       
-01:43:21 : miss       : HuntyPet Cobra            : kwx                       :                           :              :              :       
-01:43:21 : miss       : HuntyPet Cobra            : kwx                       :                           :              :              :       
-01:43:21 : miss       : TyyppVee                  : kwx                       :                           :              :              :       
-01:43:21 : miss       : HuntyPet Cobra            : kwx                       :                           :              :              :       
-01:43:22 : miss       : Dispel Cobra              : kwx                       :                           :              :              :       
-01:43:22 : miss       : Dispel Cobra              : kwx                       :                           :              :              :       
-01:43:22 : miss       : Dispel Cobra              : kwx                       :                           :              :              :       
-01:43:22 : miss       : Dispel Cobra              : kwx                       :                           :              :              :       
-01:43:22 : miss       : Dispel Cobra              : kwx                       :                           :              :              :       
-01:43:22 : miss       : Dispel Cobra              : kwx                       :                           :              :              :       
-01:43:22 : miss       : Dispel Cobra              : kwx                       :                           :              :              :       
-01:43:22 : miss       : Dispel Cobra              : kwx                       :                           :              :              :       
-01:43:22 : miss       : Dispel Cobra              : kwx                       :                           :              :              :       
-01:43:22 : miss       : TyyppVee                  : Andre                     :                           :              :              :       
-01:43:22 : miss       : TyyppVee                  : Andre                     :                           :              :              :       
-01:43:22 : miss       : Dispel Cobra              : Andre                     :                           :              :              :       
-01:43:22 : miss       : TyyppVee                  : Andre                     :                           :              :              :       
-01:43:22 : miss       : Dispel Cobra              : Andre                     :                           :              :              :       
-01:43:22 : miss       : Dispel Cobra              : Andre                     :                           :              :              :       
-01:43:23 : miss       : Dispel Cobra              : Andre                     :                           :              :              :       
-01:43:23 : miss       : Dispel Cobra              : Andre                     :                           :              :              :       
-01:43:23 : miss       : Dispel Cobra              : Andre                     :                           :              :              :       
-01:43:23 : miss       : Dispel Cobra              : Andre                     :                           :              :              :       
-01:43:23 : miss       : Andre                     : HuntyPet Cobra            :                           :              :              :       
-01:43:30 : miss       : syszj BH                  : Vashteera's Companion     :                           :              :              :       
-01:43:30 : miss       : syszj BH                  : Vashteera's Companion     :                           :              :              :       
-01:43:31 : miss       : Dispel Cobra              : FYasz BH                  :                           :              :              :       
-01:43:31 : miss       : Dispel Cobra              : FYasz BH                  :                           :              :              :       
-01:43:31 : miss       : Dispel Cobra              : FYasz BH                  :                           :              :              :       
-01:43:31 : miss       : TyyppVee                  : SPF � BH                 :                           :              :              :       
-01:43:31 : miss       : TyyppVee                  : MDAZJ BH                  :                           :              :              :       
-01:43:32 : miss       : Dispel Cobra              : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : Dispel Cobra              : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : Dispel Cobra              : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : HuntyPet Cobra            : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : Dispel Cobra              : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : Vashteera's Companion     : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : FYasz BH                  : Vashteera's Companion     :                           :              :              :       
-01:43:32 : miss       : HuntyPet Cobra            : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : TyyppVee                  : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : Dispel Cobra              : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : HuntyPet Cobra            : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : Dispel Cobra              : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : TyyppVee                  : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : FYasz BH                  : Vashteera's Companion     :                           :              :              :       
-01:43:32 : miss       : HuntyPet Cobra            : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : Dispel Cobra              : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : TyyppVee                  : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : HuntyPet Cobra            : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : Dispel Cobra              : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : HuntyPet Cobra            : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : TyyppVee                  : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : Dispel Cobra              : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : HuntyPet Cobra            : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : TyyppVee                  : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : Dispel Cobra              : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : HuntyPet Cobra            : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : Dispel Cobra              : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : TyyppVee                  : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : HuntyPet Cobra            : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : Dispel Cobra              : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : TyyppVee                  : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : Dispel Cobra              : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : HuntyPet Cobra            : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : TyyppVee                  : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : Dispel Cobra              : FYasz BH                  :                           :              :              :       
-01:43:32 : miss       : Dispel Cobra              : FYasz BH                  :                           :              :              :       
-01:43:33 : miss       : TyyppVee                  : FYasz BH                  :                           :              :              :       
-01:43:33 : miss       : Vashteera's Companion     : FYasz BH                  :                           :              :              :       
-01:43:33 : miss       : Dispel Cobra              : FYasz BH                  :                           :              :              :       
-01:43:33 : miss       : Dispel Cobra              : FYasz BH                  :                           :              :              :       
-01:43:33 : miss       : Dispel Cobra              : FYasz BH                  :                           :              :              :       
-01:43:33 : miss       : Dispel Cobra              : FYasz BH                  :                           :              :              :       
-01:43:33 : miss       : Dispel Cobra              : FYasz BH                  :                           :              :              :       
-01:43:33 : miss       : TyyppVee                  : FYasz BH                  :                           :              :              :       
-01:43:33 : miss       : HuntyPet Cobra            : FYasz BH                  :                           :              :              :       
-01:43:33 : miss       : TyyppVee                  : FYasz BH                  :                           :              :              :       
-01:43:33 : miss       : HuntyPet Cobra            : FYasz BH                  :                           :              :              :       
-01:43:33 : miss       : TyyppVee                  : FYasz BH                  :                           :              :              :       
-01:43:33 : miss       : Dispel Cobra              : FYasz BH                  :                           :              :              :       
-01:43:33 : miss       : HuntyPet Cobra            : FYasz BH                  :                           :              :              :       
-01:43:33 : miss       : TyyppVee                  : FYasz BH                  :                           :              :              :       
-01:43:33 : miss       : Dispel Cobra              : FYasz BH                  :                           :              :              :       
-01:43:33 : miss       : Vashteera's Companion     : FYasz BH                  :                           :              :              :       
-01:43:33 : miss       : HuntyPet Cobra            : FYasz BH                  :                           :              :              :       
-01:43:33 : miss       : Dispel Cobra              : FYasz BH                  :                           :              :              :       
-01:43:33 : miss       : TyyppVee                  : FYasz BH                  :                           :              :              :       
-01:43:33 : miss       : HuntyPet Cobra            : FYasz BH                  :                           :              :              :       
-01:43:33 : miss       : HuntyPet Cobra            : FYasz BH                  :                           :              :              :       
-01:43:33 : miss       : Vashteera's Companion     : FYasz BH                  :                           :              :              :       
-01:43:33 : miss       : HuntyPet Cobra            : FYasz BH                  :                           :              :              :       
-01:43:33 : miss       : Vashteera's Companion     : FYasz BH                  :                           :              :              :       
-01:43:34 : miss       : HuntyPet Cobra            : FYasz BH                  :                           :              :              :       
-01:43:41 : miss       : CountHyde                 : Nibenay                   :                           :              :              :       
-01:43:41 : miss       : CloudA                    : Nibenay                   :                           :              :              :       
-01:43:41 : miss       : CountHyde                 : Nibenay                   :                           :              :              :       
-01:43:41 : miss       : DRChuckIt                 : Nibenay                   :                           :              :              :       
-01:43:41 : miss       : CloudA                    : Nibenay                   :                           :              :              :       
-01:43:41 : miss       : lover                     : Nibenay                   :                           :              :              :       
-01:43:41 : miss       : DRChuckIt                 : Nibenay                   :                           :              :              :       
-01:43:42 : miss       : CloudA                    : Nibenay                   :                           :              :              :       
-01:43:42 : miss       : lover                     : Nibenay                   :                           :              :              :       
-01:43:42 : miss       : DRChuckIt                 : Nibenay                   :                           :              :              :       
-01:43:42 : miss       : CloudA                    : Nibenay                   :                           :              :              :       
-01:43:42 : miss       : lover                     : Nibenay                   :                           :              :              :       
-01:43:42 : miss       : lover                     : Nibenay                   :                           :              :              :       
-01:43:42 : miss       : DRChuckIt                 : Nibenay                   :                           :              :              :       
-01:43:42 : miss       : DayWalker                 : CountHyde                 :                           :              :              :       
-01:43:42 : miss       : DRChuckIt                 : Nibenay                   :                           :              :              :       
-01:43:43 : miss       : Soda                      : Ponch                     :                           :              :              :       
-01:43:43 : miss       : SKERD u                   : Ponch                     :                           :              :              :       
-01:43:43 : miss       : SKERD u                   : Ponch                     :                           :              :              :       
-01:43:44 : miss       : DRChuckIt                 : Bearable                  :                           :              :              :       
-01:43:44 : miss       : Soda                      : Bearable                  :                           :              :              :       
-01:43:44 : miss       : You                       : Bearable                  :                           :              :              :       
-01:43:45 : miss       : SKERD u                   : Mephistopheles            :                           :              :              :       
-01:43:46 : miss       : SKERD u                   : Mephistopheles            :                           :              :              :       
-01:43:47 : miss       : TyyppVee                  : Marco                     :                           :              :              :       
-01:43:47 : miss       : You                       : MyosMoo                   :                           :              :              :       
-01:43:47 : miss       : Ninja                     : Marco                     :                           :              :              :       
-01:43:57 : miss       : vVv                       : ysmf T�                   :                           :              :              :       
-01:43:57 : miss       : CloudA                    : Szmz                      :                           :              :              :       
-01:43:58 : miss       : Sithranis                 : Szmz                      :                           :              :              :       
-01:43:59 : miss       : CloudA                    : Breeze                    :                           :              :              :       
-01:44:01 : miss       : vVv                       : JMc                       :                           :              :              :       
-01:44:02 : miss       : vVv                       : JMc                       :                           :              :              :       
-01:44:02 : miss       : Hold MyHand               : JMc                       :                           :              :              :       
-01:44:02 : miss       : Hold MyHand               : JMc                       :                           :              :              :       
-01:44:08 : miss       : Soda                      : Prodriver                 :                           :              :              :       
-01:44:11 : miss       : Moony                     : Sithranis                 :                           :              :              :       
-01:44:11 : miss       : Moony                     : Sithranis                 :                           :              :              :       
-01:44:11 : miss       : CloudA                    : CaliSent                  :                           :              :              :       
-01:44:11 : miss       : CloudA                    : CaliSent                  :                           :              :              :       
-01:44:12 : miss       : Moony                     : Sithranis                 :                           :              :              :       
-01:44:12 : miss       : CloudA                    : CaliSent                  :                           :              :              :       
-01:44:12 : miss       : vVv                       : Prodriver                 :                           :              :              :       
-01:44:12 : miss       : Hold MyHand               : CaliSent                  :                           :              :              :       
-01:44:12 : miss       : Moony                     : Sithranis                 :                           :              :              :       
-01:44:12 : miss       : Hold MyHand               : CaliSent                  :                           :              :              :       
-01:44:12 : miss       : Hold MyHand               : CaliSent                  :                           :              :              :       
-01:44:12 : miss       : Hold MyHand               : CaliSent                  :                           :              :              :       
-01:44:13 : miss       : vVv                       : CaliSent                  :                           :              :              :       
-01:44:13 : miss       : vVv                       : CaliSent                  :                           :              :              :       
-01:44:13 : miss       : Hold MyHand               : CaliSent                  :                           :              :              :       
-01:44:13 : miss       : vVv                       : CaliSent                  :                           :              :              :       
-01:44:13 : miss       : Hold MyHand               : CaliSent                  :                           :              :              :       
-01:44:13 : miss       : CloudA                    : Vaginex                   :                           :              :              :       
-01:44:14 : miss       : CloudA                    : Prodriver                 :                           :              :              :       
-01:44:15 : miss       : CloudA                    : Prodriver                 :                           :              :              :       
-01:44:15 : miss       : vVv                       : Prodriver                 :                           :              :              :       
-01:44:15 : miss       : Sithranis                 : Prodriver                 :                           :              :              :       
-01:44:15 : miss       : vVv                       : Prodriver                 :                           :              :              :       
-01:44:15 : miss       : Hold MyHand               : Prodriver                 :                           :              :              :       
-01:44:15 : miss       : Sithranis                 : Prodriver                 :                           :              :              :       
-01:44:15 : miss       : vVv                       : Prodriver                 :                           :              :              :       
-01:44:15 : miss       : CloudA                    : Prodriver                 :                           :              :              :       
-01:44:15 : miss       : Hold MyHand               : Prodriver                 :                           :              :              :       
-01:44:15 : miss       : Sithranis                 : Prodriver                 :                           :              :              :       
-01:44:15 : miss       : vVv                       : Prodriver                 :                           :              :              :       
-01:44:15 : miss       : CloudA                    : Prodriver                 :                           :              :              :       
-01:44:15 : miss       : Hold MyHand               : Prodriver                 :                           :              :              :       
-01:44:15 : miss       : Sithranis                 : Prodriver                 :                           :              :              :       
-01:44:15 : miss       : vVv                       : Prodriver                 :                           :              :              :       
-01:44:15 : miss       : CloudA                    : Prodriver                 :                           :              :              :       
-01:44:15 : miss       : Hold MyHand               : Prodriver                 :                           :              :              :       
-01:44:15 : miss       : Sithranis                 : Prodriver                 :                           :              :              :       
-01:44:15 : miss       : vVv                       : Prodriver                 :                           :              :              :       
-01:44:16 : miss       : CloudA                    : Prodriver                 :                           :              :              :       
-01:44:16 : miss       : Hold MyHand               : Prodriver                 :                           :              :              :       
-01:44:16 : miss       : Sithranis                 : Prodriver                 :                           :              :              :       
-01:44:16 : miss       : vVv                       : Prodriver                 :                           :              :              :       
-01:44:16 : miss       : CloudA                    : Prodriver                 :                           :              :              :       
-01:44:16 : miss       : Hold MyHand               : Prodriver                 :                           :              :              :       
-01:44:16 : miss       : Sithranis                 : Prodriver                 :                           :              :              :       
-01:44:16 : miss       : You                       : HolyThug                  :                           :              :              :       
-01:44:16 : miss       : You                       : HolyThug                  :                           :              :              :       
-01:44:17 : miss       : vVv                       : Moony                     :                           :              :              :       
-01:44:25 : miss       : Sasss y                   : MDAZJ BH                  :                           :              :              :       
-01:44:25 : miss       : Typechi                   : MDAZJ BH                  :                           :              :              :       
-01:44:26 : miss       : You                       : MDAZJ BH                  :                           :              :              :       
-01:44:27 : miss       : Rokaw                     : LDSU mS BH                :                           :              :              :       
-01:44:28 : miss       : You                       : HHDD k� BH                :                           :              :              :       
-01:44:31 : miss       : Rokaw                     : yunT                      :                           :              :              :       
+02:24:12 : miss       : Moss Ogre                 : YOU                       :                           :              :              :       
+02:24:12 : miss       : Moss Ogre                 : MalzPL                    :                           :              :              :       
+02:24:13 : miss       : Tavok Chief-brother       : YOU                       :                           :              :              :       
+02:24:13 : miss       : Tavok Chief-brother       : MalzPL                    :                           :              :              :       
+02:24:13 : miss       : Vorok Mud-Chief           : MalzPL                    :                           :              :              :       
+02:24:13 : miss       : Vorok Mud-Chief           : MalzDruid                 :                           :              :              :       
+02:24:13 : miss       : Tavok Chief-brother       : MalzPL                    :                           :              :              :       
+02:24:13 : miss       : Moss Ogre                 : MalzDruid                 :                           :              :              :       
+02:24:13 : miss       : MalzDruid                 : Moss Ogre                 :                           :              :              :       
+02:24:14 : miss       : Moss Ogre                 : MalzDruid                 :                           :              :              :       
+02:24:14 : miss       : Vorok Mud-Chief           : MalzDruid                 :                           :              :              :       
+02:24:14 : miss       : MalzSent                  : Moss Ogre                 :                           :              :              :       
+02:24:15 : miss       : Mud Ogre                  : MalzSent                  :                           :              :              :       
+02:24:15 : miss       : Moss Ogre                 : MalzDruid                 :                           :              :              :       
+02:24:15 : miss       : Mud Ogre                  : MalzSent                  :                           :              :              :       
+02:24:15 : miss       : Moss Ogre                 : MalzPL                    :                           :              :              :       
+02:24:16 : miss       : Moss Ogre                 : MalzDruid                 :                           :              :              :       
+02:24:16 : miss       : Moss Ogre                 : YOU                       :                           :              :              :       
+02:24:16 : miss       : Vorok Mud-Chief           : MalzSent                  :                           :              :              :       
+02:24:16 : miss       : Vorok Mud-Chief           : MalzPL                    :                           :              :              :       
+02:24:16 : miss       : Moss Ogre                 : MalzPL                    :                           :              :              :       
+02:24:17 : miss       : Moss Ogre                 : MalzDruid                 :                           :              :              :       
+02:24:17 : miss       : Moss Ogre                 : MalzPL                    :                           :              :              :       
+02:24:17 : miss       : Moss Ogre                 : MalzSent                  :                           :              :              :       
+02:24:17 : miss       : Mud Ogre                  : MalzSent                  :                           :              :              :       
+02:24:18 : miss       : Moss Ogre                 : MalzDruid                 :                           :              :              :       
+02:24:18 : miss       : Moss Ogre                 : MalzPL                    :                           :              :              :       
+02:24:18 : miss       : Moss Ogre                 : MalzPL                    :                           :              :              :       
+02:24:18 : miss       : Vorok Mud-Chief           : MalzSent                  :                           :              :              :       
+02:24:19 : miss       : Mud Ogre                  : MalzSent                  :                           :              :              :       
+02:24:19 : miss       : Moss Ogre                 : MalzPL                    :                           :              :              :       
+02:24:19 : miss       : Mud Ogre                  : MalzPL                    :                           :              :              :       
+02:24:19 : miss       : Mud Ogre                  : MalzDruid                 :                           :              :              :       
+02:24:19 : miss       : Moss Ogre                 : MalzPL                    :                           :              :              :       
+02:24:19 : miss       : Tavok Chief-brother       : YOU                       :                           :              :              :       
+02:24:19 : miss       : Vorok Mud-Chief           : MalzDruid                 :                           :              :              :       
+02:24:20 : miss       : Tavok Chief-brother       : YOU                       :                           :              :              :       
+02:24:20 : miss       : Mud Ogre                  : MalzDruid                 :                           :              :              :       
+02:24:20 : miss       : Moss Ogre                 : MalzPL                    :                           :              :              :       
+02:24:20 : miss       : Moss Ogre                 : MalzPL                    :                           :              :              :       
+02:24:20 : miss       : Mud Ogre                  : MalzPL                    :                           :              :              :       
+02:24:20 : miss       : Mud Ogre                  : MalzSent                  :                           :              :              :       
+02:24:21 : miss       : Moss Ogre                 : MalzPL                    :                           :              :              :       
+02:24:21 : miss       : MalzPL                    : Moss Ogre                 :                           :              :              :       
+02:24:21 : miss       : Moss Ogre                 : MalzDruid                 :                           :              :              :       
+02:24:21 : miss       : Vorok Mud-Chief           : MalzSent                  :                           :              :              :       
+02:24:22 : miss       : Moss Ogre                 : YOU                       :                           :              :              :       
+02:24:22 : miss       : Mud Ogre                  : MalzPL                    :                           :              :              :       
+02:24:22 : miss       : Moss Ogre                 : MalzDruid                 :                           :              :              :       
+02:24:22 : miss       : Moss Ogre                 : MalzDruid                 :                           :              :              :       
+02:24:22 : miss       : Mud Ogre                  : MalzSent                  :                           :              :              :       
+02:24:22 : miss       : MalzSent                  : Mud Ogre                  :                           :              :              :       
+02:24:22 : miss       : MalzPL                    : Mud Ogre                  :                           :              :              :       
+02:24:23 : miss       : Moss Ogre                 : MalzDruid                 :                           :              :              :       
+02:24:24 : miss       : Moss Ogre                 : MalzDruid                 :                           :              :              :       
+02:24:24 : miss       : Moss Ogre                 : MalzPL                    :                           :              :              :       
+02:24:24 : miss       : Moss Ogre                 : MalzDruid                 :                           :              :              :       
+02:24:25 : miss       : Mud Ogre                  : MalzDruid                 :                           :              :              :       
+02:24:25 : miss       : Mud Ogre                  : MalzPL                    :                           :              :              :       
+02:24:25 : miss       : Mud Ogre                  : MalzDruid                 :                           :              :              :       
+02:24:26 : miss       : Moss Ogre                 : MalzPL                    :                           :              :              :       
+02:24:26 : miss       : MalzDruid                 : Mud Ogre                  :                           :              :              :       
+02:24:26 : miss       : Moss Ogre                 : MalzSent                  :                           :              :              :       
+02:24:26 : miss       : MalzSent                  : Moss Ogre                 :                           :              :              :       
+02:24:26 : miss       : Moss Ogre                 : MalzSent                  :                           :              :              :       
+02:24:26 : miss       : Vorok Mud-Chief           : YOU                       :                           :              :              :       
+02:24:26 : miss       : Vorok Mud-Chief           : YOU                       :                           :              :              :       
+02:24:26 : miss       : Mud Ogre                  : YOU                       :                           :              :              :       
+02:24:27 : miss       : Moss Ogre                 : MalzSent                  :                           :              :              :       
+02:24:27 : miss       : Mud Ogre                  : MalzPL                    :                           :              :              :       
+02:24:27 : miss       : Mud Ogre                  : MalzDruid                 :                           :              :              :       
+02:24:27 : miss       : Moss Ogre                 : MalzSent                  :                           :              :              :       
+02:24:28 : miss       : Moss Ogre                 : MalzSent                  :                           :              :              :       
+02:24:28 : miss       : Vorok Mud-Chief           : MalzSent                  :                           :              :              :       
+02:24:28 : miss       : Mud Ogre                  : YOU                       :                           :              :              :       
+02:24:29 : miss       : Moss Ogre                 : MalzPL                    :                           :              :              :       
+02:24:29 : miss       : Moss Ogre                 : MalzDruid                 :                           :              :              :       
+02:24:29 : miss       : Moss Ogre                 : MalzPL                    :                           :              :              :       
+02:24:29 : miss       : Moss Ogre                 : MalzDruid                 :                           :              :              :       
+02:24:30 : miss       : Vorok Mud-Chief           : YOU                       :                           :              :              :       
+02:24:30 : miss       : Moss Ogre                 : MalzPL                    :                           :              :              :       
+02:24:30 : miss       : Mud Ogre                  : MalzDruid                 :                           :              :              :       
+02:24:30 : miss       : Moss Ogre                 : MalzSent                  :                           :              :              :       
+02:24:31 : miss       : Tavok Chief-brother       : YOU                       :                           :              :              :       
+02:24:31 : miss       : Tavok Chief-brother       : MalzPL                    :                           :              :              :       
+02:24:31 : miss       : Moss Ogre                 : YOU                       :                           :              :              :       
+02:24:31 : miss       : Mud Ogre                  : MalzDruid                 :                           :              :              :       
+02:24:31 : miss       : Moss Ogre                 : YOU                       :                           :              :              :       
+02:24:31 : miss       : Moss Ogre                 : MalzDruid                 :                           :              :              :       
+02:24:31 : miss       : MalzDruid                 : Moss Ogre                 :                           :              :              :       
+02:24:32 : miss       : Moss Ogre                 : MalzDruid                 :                           :              :              :       
+02:24:32 : miss       : Moss Ogre                 : MalzDruid                 :                           :              :              :       
+02:24:32 : miss       : Mud Ogre                  : MalzSent                  :                           :              :              :       
+02:24:32 : miss       : Moss Ogre                 : MalzSent                  :                           :              :              :       
+02:24:32 : miss       : Moss Ogre                 : MalzDruid                 :                           :              :              :       
+02:24:32 : miss       : Moss Ogre                 : MalzPL                    :                           :              :              :       
+02:24:33 : miss       : Mud Ogre                  : MalzPL                    :                           :              :              :       
+02:24:33 : miss       : MalzDruid                 : Mud Ogre                  :                           :              :              :       
+02:24:33 : miss       : Moss Ogre                 : MalzSent                  :                           :              :              :       
+02:24:33 : miss       : Vorok Mud-Chief           : MalzDruid                 :                           :              :              :       

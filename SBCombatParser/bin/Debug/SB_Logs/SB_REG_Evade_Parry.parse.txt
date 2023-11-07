@@ -1,10 +1,28 @@
 Version     :: 0.0.11.0
-DateTime    :: 11/7/2023 01:41:36 AM
+DateTime    :: 11/7/2023 02:23:58 AM
 RegExType   :: Evade :: Parry
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>parr)[yies]+ (?<source>.*)'s .*[\.!]
 
 Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
-01:42:51 : parr       : Mud Fiend                 : hta �C   NZSP             :                           :              :              :       
-01:43:44 : parr       : Soda                      : Bearable                  :                           :              :              :       
-01:43:45 : parr       : Soda                      : Bearable                  :                           :              :              :       
-01:43:45 : parr       : Soda                      : Bearable                  :                           :              :              :       
+02:24:12 : parr       : Vorok Mud-Chief           : You                       :                           :              :              :       
+02:24:15 : parr       : Moss Ogre                 : You                       :                           :              :              :       
+02:24:15 : parr       : Tavok Chief-brother       : You                       :                           :              :              :       
+02:24:15 : parr       : Moss Ogre                 : You                       :                           :              :              :       
+02:24:15 : parr       : Tavok Chief-brother       : You                       :                           :              :              :       
+02:24:17 : parr       : Tavok Chief-brother       : You                       :                           :              :              :       
+02:24:17 : parr       : Tavok Chief-brother       : You                       :                           :              :              :       
+02:24:17 : parr       : Moss Ogre                 : MalzSent                  :                           :              :              :       
+02:24:20 : parr       : Tavok Chief-brother       : You                       :                           :              :              :       
+02:24:20 : parr       : Tavok Chief-brother       : You                       :                           :              :              :       
+02:24:24 : parr       : Moss Ogre                 : You                       :                           :              :              :       
+02:24:25 : parr       : Mud Ogre                  : You                       :                           :              :              :       
+02:24:25 : parr       : Tavok Chief-brother       : You                       :                           :              :              :       
+02:24:25 : parr       : Moss Ogre                 : You                       :                           :              :              :       
+02:24:26 : parr       : Vorok Mud-Chief           : You                       :                           :              :              :       
+02:24:26 : parr       : Vorok Mud-Chief           : You                       :                           :              :              :       
+02:24:27 : parr       : Tavok Chief-brother       : You                       :                           :              :              :       
+02:24:28 : parr       : Moss Ogre                 : You                       :                           :              :              :       
+02:24:28 : parr       : Moss Ogre                 : You                       :                           :              :              :       
+02:24:31 : parr       : Moss Ogre                 : You                       :                           :              :              :       
+02:24:32 : parr       : Mud Ogre                  : You                       :                           :              :              :       
+02:24:33 : parr       : Moss Ogre                 : You                       :                           :              :              :       
