@@ -1,6 +1,431 @@
-Version     :: 0.0.11.0
-DateTime    :: 11/7/2023 02:23:58 AM
+Version     :: 0.0.11.5
+DateTime    :: 11/7/2023 04:12:41 PM
 RegExType   :: Damage :: Darius' Fist
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']?[s]? (?<ability>Darius' Fist) (?<type>.{3,11}?)s? (?<target>.*) for (?<value>\d*) .*[\.!]
 
 Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
+16:13:04 : smite      : Sax                       : BigBlackBen               : Darius' Fist              :              :              : 190   
+16:13:04 : smite      : Sax                       : Drooley                   : Darius' Fist              :              :              : 227   
+16:13:05 : smite      : WillPowder                : Sax                       : Darius' Fist              :              :              : 170   
+16:13:05 : smite      : Sax                       : BigBlackBen               : Darius' Fist              :              :              : 148   
+16:13:05 : smite      : Sax                       : Drooley                   : Darius' Fist              :              :              : 270   
+16:13:05 : smite      : WillPowder                : Sax                       : Darius' Fist              :              :              : 199   
+16:13:06 : smite      : Sax                       : BigBlackBen               : Darius' Fist              :              :              : 156   
+16:13:06 : smite      : Sax                       : Drooley                   : Darius' Fist              :              :              : 150   
+16:13:06 : smite      : WillPowder                : Sax                       : Darius' Fist              :              :              : 97    
+16:13:06 : smite      : Sax                       : BigBlackBen               : Darius' Fist              :              :              : 262   
+16:13:06 : smite      : Sax                       : Drooley                   : Darius' Fist              :              :              : 99    
+16:13:06 : smite      : WillPowder                : Sax                       : Darius' Fist              :              :              : 179   
+16:13:07 : smite      : Sax                       : BigBlackBen               : Darius' Fist              :              :              : 192   
+16:13:07 : smite      : Sax                       : Drooley                   : Darius' Fist              :              :              : 201   
+16:13:07 : smite      : WillPowder                : Sax                       : Darius' Fist              :              :              : 95    
+16:13:07 : smite      : Sax                       : BigBlackBen               : Darius' Fist              :              :              : 224   
+16:13:07 : smite      : Sax                       : Drooley                   : Darius' Fist              :              :              : 195   
+16:13:08 : smite      : WillPowder                : Sax                       : Darius' Fist              :              :              : 264   
+16:13:08 : smite      : Sax                       : BigBlackBen               : Darius' Fist              :              :              : 144   
+16:13:08 : smite      : Sax                       : Drooley                   : Darius' Fist              :              :              : 246   
+16:13:08 : smite      : WillPowder                : Sax                       : Darius' Fist              :              :              : 114   
+16:13:09 : smite      : Sax                       : BigBlackBen               : Darius' Fist              :              :              : 213   
+16:13:09 : smite      : Sax                       : AlbiThere                 : Darius' Fist              :              :              : 269   
+16:13:10 : smite      : Sax                       : BigBlackBen               : Darius' Fist              :              :              : 133   
+16:13:10 : smite      : Sax                       : AlbiThere                 : Darius' Fist              :              :              : 123   
+16:13:10 : smite      : Sax                       : BigBlackBen               : Darius' Fist              :              :              : 137   
+16:13:10 : smite      : Sax                       : AlbiThere                 : Darius' Fist              :              :              : 256   
+16:13:11 : smite      : Sax                       : BigBlackBen               : Darius' Fist              :              :              : 211   
+16:13:11 : smite      : Sax                       : AlbiThere                 : Darius' Fist              :              :              : 257   
+16:13:11 : smite      : Sax                       : AlbiThere                 : Darius' Fist              :              :              : 208   
+16:13:12 : smite      : Sax                       : AlbiThere                 : Darius' Fist              :              :              : 152   
+16:13:12 : smite      : Sax                       : AlbiThere                 : Darius' Fist              :              :              : 174   
+16:13:13 : smite      : Sax                       : AlbiThere                 : Darius' Fist              :              :              : 154   
+16:13:13 : smite      : Sax                       : AlbiThere                 : Darius' Fist              :              :              : 123   
+16:13:13 : smite      : Sax                       : AlbiThere                 : Darius' Fist              :              :              : 172   
+16:13:13 : smite      : Sax                       : AlbiThere                 : Darius' Fist              :              :              : 127   
+16:13:13 : smite      : Sax                       : AlbiThere                 : Darius' Fist              :              :              : 169   
+16:13:38 : smite      : Sax                       : Yuckfou                   : Darius' Fist              :              :              : 328   
+16:13:49 : smite      : Holger                    : TyyppVee                  : Darius' Fist              :              :              : 95    
+16:13:49 : smite      : Holger                    : TyyppVee                  : Darius' Fist              :              :              : 85    
+16:13:50 : smite      : Holger                    : TyyppVee                  : Darius' Fist              :              :              : 52    
+16:13:50 : smite      : SOMEONE                   : TyyppVee                  : Darius' Fist              :              :              : 37    
+16:13:50 : smite      : SOMEONE                   : TyyppVee                  : Darius' Fist              :              :              : 49    
+16:13:50 : smite      : SOMEONE                   : TyyppVee                  : Darius' Fist              :              :              : 67    
+16:13:51 : smite      : SOMEONE                   : TyyppVee                  : Darius' Fist              :              :              : 46    
+16:14:39 : smite      : FYasz                     : HuntyPet                  : Darius' Fist              :              :              : 99    
+16:14:39 : smite      : FYasz                     : HuntyPet                  : Darius' Fist              :              :              : 135   
+16:14:39 : smite      : FYasz                     : HuntyPet                  : Darius' Fist              :              :              : 79    
+16:14:39 : smite      : FYasz                     : HuntyPet                  : Darius' Fist              :              :              : 113   
+16:14:39 : smite      : FYasz                     : HuntyPet                  : Darius' Fist              :              :              : 92    
+16:14:39 : smite      : FYasz                     : HuntyPet                  : Darius' Fist              :              :              : 108   
+16:14:40 : smite      : FYasz                     : HuntyPet                  : Darius' Fist              :              :              : 89    
+16:15:16 : smite      : Soda                      : Prodriver                 : Darius' Fist              :              :              : 274   
+16:15:16 : smite      : Soda                      : Manshoon                  : Darius' Fist              :              :              : 177   
+16:15:16 : smite      : Soda                      : Liquid                    : Darius' Fist              :              :              : 122   
+16:15:16 : smite      : Soda                      : Tibins                    : Darius' Fist              :              :              : 278   
+16:15:16 : smite      : Soda                      : CaliSent                  : Darius' Fist              :              :              : 121   
+16:15:16 : smite      : Soda                      : Toy                       : Darius' Fist              :              :              : 214   
+16:15:16 : smite      : Soda                      : Moony                     : Darius' Fist              :              :              : 259   
+16:15:16 : smite      : Soda                      : Prodriver                 : Darius' Fist              :              :              : 227   
+16:15:16 : smite      : Soda                      : Manshoon                  : Darius' Fist              :              :              : 199   
+16:15:16 : smite      : Soda                      : Liquid                    : Darius' Fist              :              :              : 170   
+16:15:16 : smite      : Soda                      : Tibins                    : Darius' Fist              :              :              : 227   
+16:15:16 : smite      : Soda                      : CaliSent                  : Darius' Fist              :              :              : 148   
+16:15:16 : smite      : Soda                      : Toy                       : Darius' Fist              :              :              : 275   
+16:15:16 : smite      : Soda                      : Moony                     : Darius' Fist              :              :              : 165   
+16:15:17 : smite      : Soda                      : Prodriver                 : Darius' Fist              :              :              : 197   
+16:15:17 : smite      : Soda                      : Manshoon                  : Darius' Fist              :              :              : 146   
+16:15:17 : smite      : Soda                      : Liquid                    : Darius' Fist              :              :              : 237   
+16:15:17 : smite      : Soda                      : Tibins                    : Darius' Fist              :              :              : 237   
+16:15:17 : smite      : Soda                      : CaliSent                  : Darius' Fist              :              :              : 158   
+16:15:17 : smite      : Soda                      : Toy                       : Darius' Fist              :              :              : 181   
+16:15:17 : smite      : Soda                      : Moony                     : Darius' Fist              :              :              : 304   
+16:15:17 : smite      : Soda                      : Prodriver                 : Darius' Fist              :              :              : 139   
+16:15:18 : smite      : Soda                      : Manshoon                  : Darius' Fist              :              :              : 116   
+16:15:18 : smite      : Soda                      : Liquid                    : Darius' Fist              :              :              : 178   
+16:15:18 : smite      : Soda                      : Tibins                    : Darius' Fist              :              :              : 189   
+16:15:18 : smite      : Soda                      : CaliSent                  : Darius' Fist              :              :              : 205   
+16:15:18 : smite      : Soda                      : Toy                       : Darius' Fist              :              :              : 265   
+16:15:18 : smite      : Soda                      : Moony                     : Darius' Fist              :              :              : 335   
+16:15:18 : smite      : Soda                      : Prodriver                 : Darius' Fist              :              :              : 240   
+16:15:18 : smite      : Soda                      : Manshoon                  : Darius' Fist              :              :              : 187   
+16:15:18 : smite      : Soda                      : Liquid                    : Darius' Fist              :              :              : 230   
+16:15:18 : smite      : Soda                      : CaliSent                  : Darius' Fist              :              :              : 189   
+16:15:18 : smite      : Soda                      : Tibins                    : Darius' Fist              :              :              : 162   
+16:15:18 : smite      : Soda                      : Toy                       : Darius' Fist              :              :              : 154   
+16:15:18 : smite      : Soda                      : Moony                     : Darius' Fist              :              :              : 350   
+16:15:19 : smite      : Soda                      : Prodriver                 : Darius' Fist              :              :              : 130   
+16:15:19 : smite      : Soda                      : Liquid                    : Darius' Fist              :              :              : 134   
+16:15:19 : smite      : Soda                      : Manshoon                  : Darius' Fist              :              :              : 298   
+16:15:19 : smite      : Soda                      : CaliSent                  : Darius' Fist              :              :              : 240   
+16:15:19 : smite      : Soda                      : Toy                       : Darius' Fist              :              :              : 281   
+16:15:19 : smite      : Soda                      : Moony                     : Darius' Fist              :              :              : 224   
+16:15:19 : smite      : Soda                      : Prodriver                 : Darius' Fist              :              :              : 158   
+16:15:19 : smite      : Soda                      : Manshoon                  : Darius' Fist              :              :              : 198   
+16:15:19 : smite      : Soda                      : Liquid                    : Darius' Fist              :              :              : 177   
+16:15:19 : smite      : Soda                      : CaliSent                  : Darius' Fist              :              :              : 243   
+16:15:19 : smite      : Soda                      : Toy                       : Darius' Fist              :              :              : 197   
+16:15:19 : smite      : Soda                      : Moony                     : Darius' Fist              :              :              : 338   
+16:15:42 : smite      : FYsz                      : Rokaw                     : Darius' Fist              :              :              : 126   
+16:15:42 : smite      : FYsz                      : Sauce                     : Darius' Fist              :              :              : 178   
+16:15:42 : smite      : FYsz                      : Typechi                   : Darius' Fist              :              :              : 156   
+16:15:42 : smite      : FYsz                      : DRChuckIt                 : Darius' Fist              :              :              : 158   
+16:15:42 : smite      : FYsz                      : Sasss                     : Darius' Fist              :              :              : 157   
+16:15:42 : smite      : FYsz                      : TypeVee                   : Darius' Fist              :              :              : 120   
+16:15:43 : smite      : FYsz                      : Rokaw                     : Darius' Fist              :              :              : 97    
+16:15:43 : smite      : FYsz                      : Sauce                     : Darius' Fist              :              :              : 173   
+16:15:43 : smite      : FYsz                      : Typechi                   : Darius' Fist              :              :              : 132   
+16:15:43 : smite      : FYsz                      : DRChuckIt                 : Darius' Fist              :              :              : 125   
+16:15:43 : smite      : FYsz                      : Sasss                     : Darius' Fist              :              :              : 246   
+16:15:43 : smite      : FYsz                      : TypeVee                   : Darius' Fist              :              :              : 89    
+16:15:44 : smite      : FYsz                      : Sauce                     : Darius' Fist              :              :              : 172   
+16:15:44 : smite      : FYsz                      : Rokaw                     : Darius' Fist              :              :              : 136   
+16:15:44 : smite      : FYsz                      : Typechi                   : Darius' Fist              :              :              : 202   
+16:15:44 : smite      : FYsz                      : Sasss                     : Darius' Fist              :              :              : 124   
+16:15:44 : smite      : FYsz                      : DRChuckIt                 : Darius' Fist              :              :              : 185   
+16:15:44 : smite      : FYsz                      : TypeVee                   : Darius' Fist              :              :              : 154   
+16:15:45 : smite      : FYsz                      : Sauce                     : Darius' Fist              :              :              : 138   
+16:15:45 : smite      : FYsz                      : Rokaw                     : Darius' Fist              :              :              : 97    
+16:15:45 : smite      : FYsz                      : Typechi                   : Darius' Fist              :              :              : 99    
+16:15:45 : smite      : FYsz                      : DRChuckIt                 : Darius' Fist              :              :              : 139   
+16:15:45 : smite      : FYsz                      : Sasss                     : Darius' Fist              :              :              : 133   
+16:15:45 : smite      : FYsz                      : TypeVee                   : Darius' Fist              :              :              : 191   
+16:15:45 : smite      : FYsz                      : Rokaw                     : Darius' Fist              :              :              : 140   
+16:15:45 : smite      : FYsz                      : Sauce                     : Darius' Fist              :              :              : 107   
+16:15:45 : smite      : FYsz                      : Typechi                   : Darius' Fist              :              :              : 110   
+16:15:46 : smite      : FYsz                      : DRChuckIt                 : Darius' Fist              :              :              : 191   
+16:15:46 : smite      : FYsz                      : Sasss                     : Darius' Fist              :              :              : 260   
+16:15:46 : smite      : FYsz                      : TypeVee                   : Darius' Fist              :              :              : 211   
+16:15:46 : smite      : FYsz                      : TypeVee                   : Darius' Fist              :              :              : 139   
+16:15:46 : smite      : FYsz                      : Sauce                     : Darius' Fist              :              :              : 157   
+16:15:46 : smite      : FYsz                      : LeiBruc                   : Darius' Fist              :              :              : 120   
+16:15:46 : smite      : FYsz                      : YOU                       : Darius' Fist              :              :              : 192   
+16:15:46 : smite      : FYsz                      : Rokaw                     : Darius' Fist              :              :              : 137   
+16:15:46 : smite      : FYsz                      : Typechi                   : Darius' Fist              :              :              : 151   
+16:15:46 : smite      : FYsz                      : DRChuckIt                 : Darius' Fist              :              :              : 156   
+16:15:46 : smite      : FYsz                      : Sasss                     : Darius' Fist              :              :              : 208   
+16:15:47 : smite      : FYsz                      : TypeVee                   : Darius' Fist              :              :              : 103   
+16:15:47 : smite      : FYsz                      : Sauce                     : Darius' Fist              :              :              : 119   
+16:15:47 : smite      : FYsz                      : LeiBruc                   : Darius' Fist              :              :              : 126   
+16:15:47 : smite      : FYsz                      : YOU                       : Darius' Fist              :              :              : 141   
+16:15:47 : smite      : FYsz                      : Rokaw                     : Darius' Fist              :              :              : 102   
+16:15:47 : smite      : FYsz                      : Typechi                   : Darius' Fist              :              :              : 217   
+16:15:47 : smite      : FYsz                      : DRChuckIt                 : Darius' Fist              :              :              : 148   
+16:15:47 : smite      : FYsz                      : Sasss                     : Darius' Fist              :              :              : 224   
+16:15:48 : smite      : FYsz                      : Sauce                     : Darius' Fist              :              :              : 80    
+16:15:48 : smite      : FYsz                      : LeiBruc                   : Darius' Fist              :              :              : 133   
+16:15:48 : smite      : FYsz                      : YOU                       : Darius' Fist              :              :              : 115   
+16:15:48 : smite      : FYsz                      : Rokaw                     : Darius' Fist              :              :              : 184   
+16:15:48 : smite      : FYsz                      : Typechi                   : Darius' Fist              :              :              : 126   
+16:15:48 : smite      : FYsz                      : DRChuckIt                 : Darius' Fist              :              :              : 167   
+16:15:48 : smite      : FYsz                      : Sasss                     : Darius' Fist              :              :              : 168   
+16:15:48 : smite      : FYsz                      : LeiBruc                   : Darius' Fist              :              :              : 107   
+16:15:48 : smite      : FYsz                      : Sauce                     : Darius' Fist              :              :              : 146   
+16:15:48 : smite      : FYsz                      : YOU                       : Darius' Fist              :              :              : 171   
+16:15:48 : smite      : FYsz                      : Rokaw                     : Darius' Fist              :              :              : 138   
+16:15:48 : smite      : FYsz                      : Typechi                   : Darius' Fist              :              :              : 208   
+16:15:48 : smite      : FYsz                      : Sasss                     : Darius' Fist              :              :              : 153   
+16:15:48 : smite      : FYsz                      : DRChuckIt                 : Darius' Fist              :              :              : 179   
+16:15:49 : smite      : FYsz                      : LeiBruc                   : Darius' Fist              :              :              : 137   
+16:15:49 : smite      : FYsz                      : Sauce                     : Darius' Fist              :              :              : 162   
+16:15:49 : smite      : FYsz                      : YOU                       : Darius' Fist              :              :              : 147   
+16:15:49 : smite      : FYsz                      : Typechi                   : Darius' Fist              :              :              : 147   
+16:15:49 : smite      : FYsz                      : DRChuckIt                 : Darius' Fist              :              :              : 89    
+16:15:49 : smite      : FYsz                      : Sasss                     : Darius' Fist              :              :              : 204   
+16:15:49 : smite      : FYsz                      : Rokaw                     : Darius' Fist              :              :              : 144   
+16:15:49 : smite      : FYsz                      : Sauce                     : Darius' Fist              :              :              : 105   
+16:15:49 : smite      : FYsz                      : LeiBruc                   : Darius' Fist              :              :              : 169   
+16:15:49 : smite      : FYsz                      : YOU                       : Darius' Fist              :              :              : 195   
+16:15:49 : smite      : FYsz                      : Sasss                     : Darius' Fist              :              :              : 183   
+16:15:49 : smite      : FYsz                      : DRChuckIt                 : Darius' Fist              :              :              : 207   
+16:15:49 : smite      : FYsz                      : Rokaw                     : Darius' Fist              :              :              : 154   
+16:15:49 : smite      : FYsz                      : Typechi                   : Darius' Fist              :              :              : 178   
+16:15:50 : smite      : FYsz                      : LeiBruc                   : Darius' Fist              :              :              : 115   
+16:15:50 : smite      : FYsz                      : Sauce                     : Darius' Fist              :              :              : 179   
+16:15:50 : smite      : FYsz                      : YOU                       : Darius' Fist              :              :              : 205   
+16:15:50 : smite      : FYsz                      : Rokaw                     : Darius' Fist              :              :              : 129   
+16:15:50 : smite      : FYsz                      : DRChuckIt                 : Darius' Fist              :              :              : 157   
+16:15:50 : smite      : FYsz                      : Sasss                     : Darius' Fist              :              :              : 154   
+16:15:50 : smite      : FYsz                      : Typechi                   : Darius' Fist              :              :              : 180   
+16:16:12 : smite      : Sax                       : Priest                    : Darius' Fist              :              :              : 327   
+16:16:25 : smite      : FYasz                     : Sax                       : Darius' Fist              :              :              : 72    
+16:16:25 : smite      : Sax                       : FYasz                     : Darius' Fist              :              :              : 235   
+16:16:25 : smite      : FYasz                     : Sax                       : Darius' Fist              :              :              : 97    
+16:16:26 : smite      : FYasz                     : Sax                       : Darius' Fist              :              :              : 62    
+16:16:26 : smite      : FYasz                     : Sax                       : Darius' Fist              :              :              : 69    
+16:16:26 : smite      : FYasz                     : Sax                       : Darius' Fist              :              :              : 79    
+16:16:27 : smite      : FYasz                     : Sax                       : Darius' Fist              :              :              : 52    
+16:16:27 : smite      : FYasz                     : Sax                       : Darius' Fist              :              :              : 52    
+16:16:33 : smite      : Sax                       : PBAOE                     : Darius' Fist              :              :              : 222   
+16:16:53 : smite      : Hoof                      : YOU                       : Darius' Fist              :              :              : 102   
+16:16:53 : smite      : Hoof                      : Pockets                   : Darius' Fist              :              :              : 190   
+16:16:53 : smite      : Hoof                      : Pockets                   : Darius' Fist              :              :              : 220   
+16:16:54 : smite      : Hoof                      : Pockets                   : Darius' Fist              :              :              : 165   
+16:16:54 : smite      : Hoof                      : Pockets                   : Darius' Fist              :              :              : 202   
+16:16:54 : smite      : Hoof                      : Pockets                   : Darius' Fist              :              :              : 249   
+16:16:55 : smite      : Hoof                      : Pockets                   : Darius' Fist              :              :              : 146   
+16:17:57 : smite      : Sax                       : TPPB                      : Darius' Fist              :              :              : 170   
+16:17:58 : smite      : Sax                       : TPPB                      : Darius' Fist              :              :              : 268   
+16:17:59 : smite      : Sax                       : TPPB                      : Darius' Fist              :              :              : 174   
+16:17:59 : smite      : Sax                       : TPPB                      : Darius' Fist              :              :              : 254   
+16:18:00 : smite      : Sax                       : TPPB                      : Darius' Fist              :              :              : 232   
+16:18:00 : smite      : Sax                       : TPPB                      : Darius' Fist              :              :              : 175   
+16:18:01 : smite      : Sax                       : TPPB                      : Darius' Fist              :              :              : 231   
+16:18:20 : smite      : Sax                       : sudo                      : Darius' Fist              :              :              : 160   
+16:18:20 : smite      : Sax                       : Jon                       : Darius' Fist              :              :              : 222   
+16:18:20 : smite      : Sax                       : Yixim                     : Darius' Fist              :              :              : 290   
+16:18:20 : smite      : Sax                       : Hwsz                      : Darius' Fist              :              :              : 245   
+16:18:20 : smite      : Sax                       : Vashteera's Thrall        : Darius' Fist              :              :              : 187   
+16:18:20 : smite      : Sax                       : TFst                      : Darius' Fist              :              :              : 253   
+16:18:20 : smite      : Sax                       : KooP                      : Darius' Fist              :              :              : 207   
+16:18:20 : smite      : Sax                       : sudo                      : Darius' Fist              :              :              : 158   
+16:18:20 : smite      : Sax                       : Jon                       : Darius' Fist              :              :              : 198   
+16:18:20 : smite      : Sax                       : Hwsz                      : Darius' Fist              :              :              : 211   
+16:18:20 : smite      : Sax                       : Yixim                     : Darius' Fist              :              :              : 192   
+16:18:20 : smite      : Sax                       : Vashteera's Thrall        : Darius' Fist              :              :              : 212   
+16:18:20 : smite      : Sax                       : TFst                      : Darius' Fist              :              :              : 204   
+16:18:20 : smite      : Sax                       : KooP                      : Darius' Fist              :              :              : 199   
+16:18:21 : smite      : Sax                       : sudo                      : Darius' Fist              :              :              : 178   
+16:18:21 : smite      : Sax                       : Jon                       : Darius' Fist              :              :              : 151   
+16:18:21 : smite      : Sax                       : Hwsz                      : Darius' Fist              :              :              : 297   
+16:18:21 : smite      : Sax                       : Yixim                     : Darius' Fist              :              :              : 179   
+16:18:21 : smite      : Sax                       : Vashteera's Thrall        : Darius' Fist              :              :              : 182   
+16:18:21 : smite      : Sax                       : TFst                      : Darius' Fist              :              :              : 202   
+16:18:21 : smite      : Sax                       : KooP                      : Darius' Fist              :              :              : 130   
+16:18:21 : smite      : Sax                       : sudo                      : Darius' Fist              :              :              : 259   
+16:18:21 : smite      : Sax                       : Jon                       : Darius' Fist              :              :              : 152   
+16:18:21 : smite      : Sax                       : Hwsz                      : Darius' Fist              :              :              : 294   
+16:18:21 : smite      : Sax                       : Yixim                     : Darius' Fist              :              :              : 143   
+16:18:21 : smite      : Sax                       : Vashteera's Thrall        : Darius' Fist              :              :              : 115   
+16:18:21 : smite      : Sax                       : KooP                      : Darius' Fist              :              :              : 150   
+16:18:22 : smite      : Sax                       : sudo                      : Darius' Fist              :              :              : 244   
+16:18:22 : smite      : Sax                       : Hwsz                      : Darius' Fist              :              :              : 232   
+16:18:22 : smite      : Sax                       : Jon                       : Darius' Fist              :              :              : 149   
+16:18:22 : smite      : Sax                       : Yixim                     : Darius' Fist              :              :              : 222   
+16:18:22 : smite      : Sax                       : Vashteera's Thrall        : Darius' Fist              :              :              : 274   
+16:18:22 : smite      : Sax                       : KooP                      : Darius' Fist              :              :              : 223   
+16:18:23 : smite      : Sax                       : sudo                      : Darius' Fist              :              :              : 214   
+16:18:23 : smite      : Sax                       : Jon                       : Darius' Fist              :              :              : 201   
+16:18:23 : smite      : Sax                       : Yixim                     : Darius' Fist              :              :              : 286   
+16:18:23 : smite      : Sax                       : Hwsz                      : Darius' Fist              :              :              : 175   
+16:18:23 : smite      : Sax                       : Vashteera's Thrall        : Darius' Fist              :              :              : 203   
+16:18:23 : smite      : Sax                       : KooP                      : Darius' Fist              :              :              : 115   
+16:18:23 : smite      : FYasz                     : KERDC                     : Darius' Fist              :              :              : 144   
+16:18:23 : smite      : FYasz                     : Miha                      : Darius' Fist              :              :              : 55    
+16:18:23 : smite      : FYasz                     : Saas                      : Darius' Fist              :              :              : 66    
+16:18:23 : smite      : FYasz                     : LeiBruc                   : Darius' Fist              :              :              : 49    
+16:18:23 : smite      : FYasz                     : Vashteera's Thrall        : Darius' Fist              :              :              : 105   
+16:18:23 : smite      : Sax                       : sudo                      : Darius' Fist              :              :              : 224   
+16:18:23 : smite      : Sax                       : Jon                       : Darius' Fist              :              :              : 298   
+16:18:23 : smite      : Sax                       : Hwsz                      : Darius' Fist              :              :              : 222   
+16:18:23 : smite      : Sax                       : Yixim                     : Darius' Fist              :              :              : 249   
+16:18:23 : smite      : Sax                       : Vashteera's Thrall        : Darius' Fist              :              :              : 225   
+16:18:23 : smite      : Sax                       : KooP                      : Darius' Fist              :              :              : 151   
+16:18:24 : smite      : FYasz                     : KERDC                     : Darius' Fist              :              :              : 135   
+16:18:24 : smite      : FYasz                     : Miha                      : Darius' Fist              :              :              : 76    
+16:18:24 : smite      : FYasz                     : Saas                      : Darius' Fist              :              :              : 114   
+16:18:24 : smite      : FYasz                     : LeiBruc                   : Darius' Fist              :              :              : 41    
+16:18:24 : smite      : FYasz                     : Vashteera's Thrall        : Darius' Fist              :              :              : 96    
+16:18:24 : smite      : FYasz                     : KERDC                     : Darius' Fist              :              :              : 126   
+16:18:24 : smite      : FYasz                     : Miha                      : Darius' Fist              :              :              : 101   
+16:18:24 : smite      : FYasz                     : LeiBruc                   : Darius' Fist              :              :              : 73    
+16:18:24 : smite      : FYasz                     : Saas                      : Darius' Fist              :              :              : 117   
+16:18:24 : smite      : FYasz                     : Vashteera's Thrall        : Darius' Fist              :              :              : 123   
+16:18:25 : smite      : FYasz                     : KERDC                     : Darius' Fist              :              :              : 150   
+16:18:25 : smite      : FYasz                     : Miha                      : Darius' Fist              :              :              : 79    
+16:18:25 : smite      : FYasz                     : Saas                      : Darius' Fist              :              :              : 148   
+16:18:25 : smite      : FYasz                     : LeiBruc                   : Darius' Fist              :              :              : 43    
+16:18:25 : smite      : FYasz                     : Vashteera's Thrall        : Darius' Fist              :              :              : 90    
+16:18:25 : smite      : FYasz                     : KERDC                     : Darius' Fist              :              :              : 115   
+16:18:25 : smite      : FYasz                     : Miha                      : Darius' Fist              :              :              : 92    
+16:18:25 : smite      : FYasz                     : LeiBruc                   : Darius' Fist              :              :              : 50    
+16:18:25 : smite      : FYasz                     : Saas                      : Darius' Fist              :              :              : 101   
+16:18:25 : smite      : FYasz                     : Vashteera's Thrall        : Darius' Fist              :              :              : 79    
+16:18:26 : smite      : FYasz                     : KERDC                     : Darius' Fist              :              :              : 106   
+16:18:26 : smite      : FYasz                     : Miha                      : Darius' Fist              :              :              : 77    
+16:18:26 : smite      : FYasz                     : Saas                      : Darius' Fist              :              :              : 122   
+16:18:26 : smite      : FYasz                     : LeiBruc                   : Darius' Fist              :              :              : 48    
+16:18:26 : smite      : FYasz                     : Vashteera's Thrall        : Darius' Fist              :              :              : 140   
+16:18:26 : smite      : FYasz                     : KERDC                     : Darius' Fist              :              :              : 93    
+16:18:26 : smite      : FYasz                     : Miha                      : Darius' Fist              :              :              : 74    
+16:18:26 : smite      : FYasz                     : LeiBruc                   : Darius' Fist              :              :              : 67    
+16:18:26 : smite      : FYasz                     : Saas                      : Darius' Fist              :              :              : 71    
+16:18:26 : smite      : Sax                       : Jon                       : Darius' Fist              :              :              : 296   
+16:18:26 : smite      : Sax                       : sudo                      : Darius' Fist              :              :              : 281   
+16:18:26 : smite      : Sax                       : Vashteera's Thrall        : Darius' Fist              :              :              : 174   
+16:18:26 : smite      : Sax                       : Vashteera's Thrall        : Darius' Fist              :              :              : 304   
+16:18:26 : smite      : Sax                       : Yixim                     : Darius' Fist              :              :              : 190   
+16:18:27 : smite      : Sax                       : sudo                      : Darius' Fist              :              :              : 272   
+16:18:27 : smite      : Sax                       : Vashteera's Thrall        : Darius' Fist              :              :              : 253   
+16:18:27 : smite      : Sax                       : Vashteera's Thrall        : Darius' Fist              :              :              : 278   
+16:18:27 : smite      : Sax                       : Yixim                     : Darius' Fist              :              :              : 163   
+16:18:27 : smite      : FYasz                     : Jon                       : Darius' Fist              :              :              : 84    
+16:18:27 : smite      : FYasz                     : Bourbon                   : Darius' Fist              :              :              : 91    
+16:18:27 : smite      : FYasz                     : Saas                      : Darius' Fist              :              :              : 92    
+16:18:27 : smite      : FYasz                     : lover                     : Darius' Fist              :              :              : 60    
+16:18:27 : smite      : Sax                       : sudo                      : Darius' Fist              :              :              : 238   
+16:18:27 : smite      : Sax                       : Vashteera's Thrall        : Darius' Fist              :              :              : 136   
+16:18:27 : smite      : Sax                       : Vashteera's Thrall        : Darius' Fist              :              :              : 200   
+16:18:27 : smite      : Sax                       : Yixim                     : Darius' Fist              :              :              : 301   
+16:18:28 : smite      : FYasz                     : Jon                       : Darius' Fist              :              :              : 105   
+16:18:28 : smite      : FYasz                     : Bourbon                   : Darius' Fist              :              :              : 99    
+16:18:28 : smite      : FYasz                     : Saas                      : Darius' Fist              :              :              : 97    
+16:18:28 : smite      : FYasz                     : lover                     : Darius' Fist              :              :              : 76    
+16:18:28 : smite      : Sax                       : sudo                      : Darius' Fist              :              :              : 204   
+16:18:28 : smite      : Sax                       : Vashteera's Thrall        : Darius' Fist              :              :              : 190   
+16:18:28 : smite      : Sax                       : Vashteera's Thrall        : Darius' Fist              :              :              : 214   
+16:18:28 : smite      : Sax                       : Yixim                     : Darius' Fist              :              :              : 214   
+16:18:28 : smite      : FYasz                     : Bourbon                   : Darius' Fist              :              :              : 57    
+16:18:28 : smite      : FYasz                     : Jon                       : Darius' Fist              :              :              : 57    
+16:18:28 : smite      : FYasz                     : lover                     : Darius' Fist              :              :              : 36    
+16:18:28 : smite      : FYasz                     : Saas                      : Darius' Fist              :              :              : 49    
+16:18:29 : smite      : Sax                       : sudo                      : Darius' Fist              :              :              : 200   
+16:18:29 : smite      : Sax                       : Vashteera's Thrall        : Darius' Fist              :              :              : 247   
+16:18:29 : smite      : Sax                       : Vashteera's Thrall        : Darius' Fist              :              :              : 282   
+16:18:29 : smite      : Sax                       : Yixim                     : Darius' Fist              :              :              : 231   
+16:18:29 : smite      : FYasz                     : Bourbon                   : Darius' Fist              :              :              : 73    
+16:18:29 : smite      : FYasz                     : Jon                       : Darius' Fist              :              :              : 92    
+16:18:29 : smite      : FYasz                     : Saas                      : Darius' Fist              :              :              : 80    
+16:18:29 : smite      : FYasz                     : lover                     : Darius' Fist              :              :              : 41    
+16:18:29 : smite      : Sax                       : sudo                      : Darius' Fist              :              :              : 203   
+16:18:29 : smite      : Sax                       : Vashteera's Thrall        : Darius' Fist              :              :              : 231   
+16:18:29 : smite      : Sax                       : Vashteera's Thrall        : Darius' Fist              :              :              : 262   
+16:18:29 : smite      : Sax                       : Yixim                     : Darius' Fist              :              :              : 253   
+16:18:29 : smite      : FYasz                     : Bourbon                   : Darius' Fist              :              :              : 64    
+16:18:29 : smite      : FYasz                     : lover                     : Darius' Fist              :              :              : 39    
+16:18:29 : smite      : FYasz                     : Saas                      : Darius' Fist              :              :              : 81    
+16:18:30 : smite      : FYasz                     : Bourbon                   : Darius' Fist              :              :              : 93    
+16:18:30 : smite      : FYasz                     : Saas                      : Darius' Fist              :              :              : 62    
+16:18:30 : smite      : FYasz                     : lover                     : Darius' Fist              :              :              : 40    
+16:18:30 : smite      : Sax                       : Yixim                     : Darius' Fist              :              :              : 225   
+16:18:30 : smite      : Sax                       : sudo                      : Darius' Fist              :              :              : 182   
+16:18:30 : smite      : Sax                       : Vashteera's Thrall        : Darius' Fist              :              :              : 210   
+16:18:30 : smite      : FYasz                     : Bourbon                   : Darius' Fist              :              :              : 67    
+16:18:30 : smite      : FYasz                     : lover                     : Darius' Fist              :              :              : 47    
+16:18:30 : smite      : FYasz                     : Saas                      : Darius' Fist              :              :              : 63    
+16:18:30 : smite      : Sax                       : sudo                      : Darius' Fist              :              :              : 249   
+16:18:30 : smite      : Sax                       : Yixim                     : Darius' Fist              :              :              : 203   
+16:18:30 : smite      : Sax                       : Vashteera's Thrall        : Darius' Fist              :              :              : 223   
+16:18:31 : smite      : Sax                       : Vashteera's Thrall        : Darius' Fist              :              :              : 225   
+16:18:31 : smite      : Sax                       : sudo                      : Darius' Fist              :              :              : 226   
+16:18:31 : smite      : Sax                       : Vashteera's Thrall        : Darius' Fist              :              :              : 135   
+16:18:31 : smite      : Sax                       : sudo                      : Darius' Fist              :              :              : 189   
+16:18:32 : smite      : Sax                       : Vashteera's Thrall        : Darius' Fist              :              :              : 238   
+16:18:32 : smite      : Sax                       : sudo                      : Darius' Fist              :              :              : 263   
+16:18:32 : smite      : Sax                       : sudo                      : Darius' Fist              :              :              : 323   
+16:18:32 : smite      : Sax                       : Vashteera's Thrall        : Darius' Fist              :              :              : 226   
+16:18:32 : smite      : Sax                       : sudo                      : Darius' Fist              :              :              : 258   
+16:19:25 : smite      : Soda                      : Talendor                  : Darius' Fist              :              :              : 189   
+16:19:25 : smite      : Soda                      : Brutikus                  : Darius' Fist              :              :              : 129   
+16:19:25 : smite      : Soda                      : Zoomy                     : Darius' Fist              :              :              : 192   
+16:19:25 : smite      : Soda                      : Schmeat                   : Darius' Fist              :              :              : 267   
+16:19:26 : smite      : Soda                      : Talendor                  : Darius' Fist              :              :              : 193   
+16:19:26 : smite      : Soda                      : Zoomy                     : Darius' Fist              :              :              : 180   
+16:19:26 : smite      : Soda                      : Schmeat                   : Darius' Fist              :              :              : 258   
+16:19:26 : smite      : Soda                      : Talendor                  : Darius' Fist              :              :              : 141   
+16:19:26 : smite      : Soda                      : Zoomy                     : Darius' Fist              :              :              : 94    
+16:19:26 : smite      : Soda                      : Schmeat                   : Darius' Fist              :              :              : 170   
+16:19:27 : smite      : Soda                      : Talendor                  : Darius' Fist              :              :              : 162   
+16:19:27 : smite      : Soda                      : Zoomy                     : Darius' Fist              :              :              : 218   
+16:19:27 : smite      : Soda                      : Schmeat                   : Darius' Fist              :              :              : 101   
+16:19:27 : smite      : Soda                      : Talendor                  : Darius' Fist              :              :              : 114   
+16:19:27 : smite      : Soda                      : Schmeat                   : Darius' Fist              :              :              : 201   
+16:19:27 : smite      : Soda                      : Zoomy                     : Darius' Fist              :              :              : 186   
+16:19:28 : smite      : Soda                      : Talendor                  : Darius' Fist              :              :              : 265   
+16:19:28 : smite      : Soda                      : Schmeat                   : Darius' Fist              :              :              : 177   
+16:19:28 : smite      : Soda                      : Zoomy                     : Darius' Fist              :              :              : 191   
+16:19:28 : smite      : Soda                      : Talendor                  : Darius' Fist              :              :              : 267   
+16:19:28 : smite      : Soda                      : Schmeat                   : Darius' Fist              :              :              : 229   
+16:19:28 : smite      : Soda                      : Zoomy                     : Darius' Fist              :              :              : 116   
+16:19:30 : smite      : Soda                      : Luca                      : Darius' Fist              :              :              : 178   
+16:19:30 : smite      : Soda                      : Luca                      : Darius' Fist              :              :              : 143   
+16:19:31 : smite      : Soda                      : Luca                      : Darius' Fist              :              :              : 138   
+16:19:31 : smite      : Soda                      : Luca                      : Darius' Fist              :              :              : 89    
+16:19:32 : smite      : Soda                      : Luca                      : Darius' Fist              :              :              : 147   
+16:19:32 : smite      : Soda                      : Luca                      : Darius' Fist              :              :              : 206   
+16:19:33 : smite      : Soda                      : Luca                      : Darius' Fist              :              :              : 119   
+16:19:43 : smite      : Soda                      : Tizoc                     : Darius' Fist              :              :              : 271   
+16:19:44 : smite      : Soda                      : Tizoc                     : Darius' Fist              :              :              : 135   
+16:19:44 : smite      : Soda                      : Tizoc                     : Darius' Fist              :              :              : 244   
+16:20:48 : smite      : Soda                      : CapDD                     : Darius' Fist              :              :              : 175   
+16:20:48 : smite      : Soda                      : Apocgg                    : Darius' Fist              :              :              : 159   
+16:20:48 : smite      : Soda                      : Drooley                   : Darius' Fist              :              :              : 120   
+16:20:49 : smite      : Soda                      : Apocgg                    : Darius' Fist              :              :              : 149   
+16:20:49 : smite      : Soda                      : CapDD                     : Darius' Fist              :              :              : 221   
+16:20:49 : smite      : Soda                      : Drooley                   : Darius' Fist              :              :              : 175   
+16:20:49 : smite      : Soda                      : Apocgg                    : Darius' Fist              :              :              : 122   
+16:20:49 : smite      : Soda                      : CapDD                     : Darius' Fist              :              :              : 154   
+16:20:49 : smite      : Soda                      : Drooley                   : Darius' Fist              :              :              : 170   
+16:20:50 : smite      : Soda                      : CapDD                     : Darius' Fist              :              :              : 258   
+16:20:50 : smite      : Soda                      : Apocgg                    : Darius' Fist              :              :              : 221   
+16:20:50 : smite      : Soda                      : Drooley                   : Darius' Fist              :              :              : 158   
+16:20:51 : smite      : Soda                      : CapDD                     : Darius' Fist              :              :              : 270   
+16:20:51 : smite      : Soda                      : Apocgg                    : Darius' Fist              :              :              : 174   
+16:20:51 : smite      : Soda                      : Drooley                   : Darius' Fist              :              :              : 236   
+16:20:51 : smite      : Soda                      : CapDD                     : Darius' Fist              :              :              : 205   
+16:20:51 : smite      : Soda                      : Apocgg                    : Darius' Fist              :              :              : 250   
+16:20:51 : smite      : Soda                      : Drooley                   : Darius' Fist              :              :              : 142   
+16:20:52 : smite      : Soda                      : Apocgg                    : Darius' Fist              :              :              : 116   
+16:20:52 : smite      : Soda                      : CapDD                     : Darius' Fist              :              :              : 96    
+16:20:52 : smite      : Soda                      : Drooley                   : Darius' Fist              :              :              : 182   
+16:21:46 : smite      : Soda                      : Vashteera's Companion     : Darius' Fist              :              :              : 164   
+16:21:46 : smite      : Soda                      : asir                      : Darius' Fist              :              :              : 236   
+16:21:46 : smite      : Soda                      : Vashteera's Companion     : Darius' Fist              :              :              : 197   
+16:21:46 : smite      : Soda                      : asir                      : Darius' Fist              :              :              : 199   
+16:21:47 : smite      : Soda                      : Vashteera's Companion     : Darius' Fist              :              :              : 141   
+16:21:47 : smite      : Soda                      : asir                      : Darius' Fist              :              :              : 141   
+16:21:47 : smite      : Soda                      : Vashteera's Companion     : Darius' Fist              :              :              : 246   
+16:21:47 : smite      : Soda                      : asir                      : Darius' Fist              :              :              : 135   
+16:21:48 : smite      : Soda                      : Vashteera's Companion     : Darius' Fist              :              :              : 199   
+16:21:48 : smite      : Soda                      : asir                      : Darius' Fist              :              :              : 265   
+16:21:48 : smite      : Soda                      : Vashteera's Companion     : Darius' Fist              :              :              : 203   
+16:21:48 : smite      : Soda                      : asir                      : Darius' Fist              :              :              : 168   
+16:21:49 : smite      : Soda                      : Vashteera's Companion     : Darius' Fist              :              :              : 251   
+16:21:49 : smite      : Soda                      : asir                      : Darius' Fist              :              :              : 172   
+16:21:50 : smite      : Soda                      : JYMS                      : Darius' Fist              :              :              : 241   
+16:21:50 : smite      : Soda                      : Vashteera's Companion     : Darius' Fist              :              :              : 291   
+16:21:50 : smite      : Soda                      : JYMS                      : Darius' Fist              :              :              : 157   
+16:21:50 : smite      : Soda                      : Vashteera's Companion     : Darius' Fist              :              :              : 166   
+16:21:51 : smite      : Soda                      : JYMS                      : Darius' Fist              :              :              : 190   
+16:21:51 : smite      : Soda                      : Vashteera's Companion     : Darius' Fist              :              :              : 183   
+16:21:51 : smite      : Soda                      : JYMS                      : Darius' Fist              :              :              : 206   
+16:21:51 : smite      : Soda                      : Vashteera's Companion     : Darius' Fist              :              :              : 184   
+16:21:52 : smite      : Soda                      : Vashteera's Companion     : Darius' Fist              :              :              : 220   
+16:21:52 : smite      : Soda                      : Vashteera's Companion     : Darius' Fist              :              :              : 95    

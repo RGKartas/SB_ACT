@@ -1,6 +1,69 @@
-Version     :: 0.0.11.0
-DateTime    :: 11/7/2023 02:23:58 AM
+Version     :: 0.0.11.5
+DateTime    :: 11/7/2023 04:12:41 PM
 RegExType   :: Evade :: Dodge
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>dodge)s? (?<source>.*?)[r']?[s]? attack[\.!]
 
 Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
+16:13:20 : dodge      : Dispel Cobra              : DMT                       :                           :              :              :       
+16:13:51 : dodge      : Dispel Cobra              : Octavius                  :                           :              :              :       
+16:13:51 : dodge      : Dispel Cobra              : Octavius                  :                           :              :              :       
+16:13:51 : dodge      : Dispel Cobra              : Octavius                  :                           :              :              :       
+16:13:57 : dodge      : Dispel Cobra              : xinyu                     :                           :              :              :       
+16:13:57 : dodge      : HuntyPet Cobra            : Rylix                     :                           :              :              :       
+16:13:57 : dodge      : HuntyPet Cobra            : Rylix                     :                           :              :              :       
+16:14:29 : dodge      : TyyppVee                  : kwx                       :                           :              :              :       
+16:14:29 : dodge      : TyyppVee                  : kwx                       :                           :              :              :       
+16:14:51 : dodge      : TyyppVee                  : DayWalker                 :                           :              :              :       
+16:14:52 : dodge      : TyyppVee                  : DayWalker                 :                           :              :              :       
+16:14:52 : dodge      : TyyppVee                  : DayWalker                 :                           :              :              :       
+16:16:21 : dodge      : PBAOE                     : AfkSlayer - KillerXIII -  :                           :              :              :       
+16:16:21 : dodge      : PBAOE                     : AfkSlayer - KillerXIII -  :                           :              :              :       
+16:16:27 : dodge      : the Giant Sand Troll      : AfkSlayer - KillerXIII -  :                           :              :              :       
+16:16:49 : dodge      : Diana                     : Pockets                   :                           :              :              :       
+16:16:50 : dodge      : Ptress                    : Pockets                   :                           :              :              :       
+16:16:50 : dodge      : the Vashteera's Companion : Pockets                   :                           :              :              :       
+16:16:52 : dodge      : Diana                     : Pockets                   :                           :              :              :       
+16:16:52 : dodge      : Diana                     : Pockets                   :                           :              :              :       
+16:18:29 : dodge      : HuntyPet Cobra            : AfkSlayer - KillerXIII -  :                           :              :              :       
+16:18:41 : dodge      : Hero                      : Apdo                      :                           :              :              :       
+16:18:41 : dodge      : Hero                      : Apdo                      :                           :              :              :       
+16:18:42 : dodge      : Jill                      : Apdo                      :                           :              :              :       
+16:18:42 : dodge      : Hero                      : Apdo                      :                           :              :              :       
+16:18:43 : dodge      : Hero                      : Apdo                      :                           :              :              :       
+16:18:43 : dodge      : Jill                      : Redneck                   :                           :              :              :       
+16:18:43 : dodge      : Hero                      : Redneck                   :                           :              :              :       
+16:18:43 : dodge      : Jill                      : Redneck                   :                           :              :              :       
+16:18:45 : dodge      : SOMEONE                   : Eyes Bank Mice Elf        :                           :              :              :       
+16:18:45 : dodge      : xlxl cc                   : Eyes Bank Mice Elf        :                           :              :              :       
+16:18:45 : dodge      : SOMEONE                   : Eyes Bank Mice Elf        :                           :              :              :       
+16:18:45 : dodge      : SOMEONE                   : Eyes Bank Mice Elf        :                           :              :              :       
+16:18:45 : dodge      : xllxl cc                  : Eyes Bank Mice Elf        :                           :              :              :       
+16:18:45 : dodge      : xlxlll cc                 : Eyes Bank Mice Elf        :                           :              :              :       
+16:18:45 : dodge      : xlxll cc                  : Eyes Bank Mice Elf        :                           :              :              :       
+16:18:46 : dodge      : xlxll cc                  : Eyes Bank Mice Elf        :                           :              :              :       
+16:18:46 : dodge      : xlxlll cc                 : Eyes Bank Mice Elf        :                           :              :              :       
+16:18:46 : dodge      : xlxll cc                  : Eyes Bank Mice Elf        :                           :              :              :       
+16:18:46 : dodge      : xlxll cc                  : Eyes Bank Mice Elf        :                           :              :              :       
+16:18:46 : dodge      : SOMEONE                   : Eyes Bank Mice Elf        :                           :              :              :       
+16:18:52 : dodge      : Hero                      : xllxl cc                  :                           :              :              :       
+16:18:52 : dodge      : Hero                      : xllxl cc                  :                           :              :              :       
+16:19:42 : dodge      : Tizoc De Teotihuacan      : Uhtred                    :                           :              :              :       
+16:19:42 : dodge      : Stylebane                 : Uhtred                    :                           :              :              :       
+16:19:42 : dodge      : Bozo                      : Uhtred                    :                           :              :              :       
+16:19:42 : dodge      : Stylebane                 : Uhtred                    :                           :              :              :       
+16:19:42 : dodge      : YOU                       : Uhtred                    :                           :              :              :       
+16:19:43 : dodge      : PonyV                     : Uhtred                    :                           :              :              :       
+16:19:43 : dodge      : Stylebane                 : Uhtred                    :                           :              :              :       
+16:19:43 : dodge      : Jill                      : Uhtred                    :                           :              :              :       
+16:19:43 : dodge      : PonyV                     : Uhtred                    :                           :              :              :       
+16:19:43 : dodge      : Stylebane                 : Uhtred                    :                           :              :              :       
+16:19:43 : dodge      : PonyV                     : Uhtred                    :                           :              :              :       
+16:19:43 : dodge      : Bozo                      : Uhtred                    :                           :              :              :       
+16:19:43 : dodge      : Jill                      : Uhtred                    :                           :              :              :       
+16:22:41 : dodge      : Stylebane                 : FireAS - Killer XIII -    :                           :              :              :       
+16:22:42 : dodge      : Stylebane                 : FireAS - Killer XIII -    :                           :              :              :       
+16:22:42 : dodge      : Vlad Tepes                : FireAS - Killer XIII -    :                           :              :              :       
+16:23:04 : dodge      : Hold MyHand               : Dhampir                   :                           :              :              :       
+16:23:06 : dodge      : vVv                       : Dhampir                   :                           :              :              :       
+16:23:06 : dodge      : vVv                       : Dhampir                   :                           :              :              :       
+16:23:07 : dodge      : vVv                       : Dhampir                   :                           :              :              :       

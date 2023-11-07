@@ -1,6 +1,191 @@
-Version     :: 0.0.11.0
-DateTime    :: 11/7/2023 02:23:58 AM
+Version     :: 0.0.11.5
+DateTime    :: 11/7/2023 04:12:41 PM
 RegExType   :: Damage :: Saint Malorn's Wrath
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>\w*)[r's]* (?<ability>Saint.*'.*) (?<type>.{3,8})s (?<target>.*) for (?<value>\d*) .*[\.!]
 
 Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
+16:13:04 : burn       : BigBlackBen               : Miha                      : Saint Malorn's Wrath      :              :              : 351   
+16:13:04 : burn       : BigBlackBen               : Dispel                    : Saint Malorn's Wrath      :              :              : 412   
+16:13:04 : burn       : BigBlackBen               : Sax                       : Saint Malorn's Wrath      :              :              : 543   
+16:13:04 : burn       : BigBlackBen               : Saas                      : Saint Malorn's Wrath      :              :              : 479   
+16:13:04 : burn       : BigBlackBen               : Bourbon                   : Saint Malorn's Wrath      :              :              : 359   
+16:13:04 : burn       : BigBlackBen               : lover                     : Saint Malorn's Wrath      :              :              : 609   
+16:13:04 : burn       : BigBlackBen               : HuntyPet                  : Saint Malorn's Wrath      :              :              : 527   
+16:13:50 : smite      : Hunger                    : Vashteera's Companion     : Saint Lorne's Ire         :              :              : 774   
+16:13:50 : smite      : Hunger                    : Vashteera's Companion     : Saint Lorne's Ire         :              :              : 740   
+16:13:50 : smite      : Hunger                    : HuntyPet                  : Saint Lorne's Ire         :              :              : 719   
+16:13:50 : smite      : Hunger                    : YOU                       : Saint Lorne's Ire         :              :              : 577   
+16:13:50 : smite      : Hunger                    : sudo                      : Saint Lorne's Ire         :              :              : 528   
+16:13:50 : smite      : Hunger                    : TyyppVee                  : Saint Lorne's Ire         :              :              : 829   
+16:14:37 : smite      : MDAZJ                     : YOU                       : Saint Lorne's Ire         :              :              : 491   
+16:14:37 : smite      : SPF                       : HuntyPet                  : Saint Lorne's Ire         :              :              : 593   
+16:14:37 : smite      : SPF                       : TyyppVee                  : Saint Lorne's Ire         :              :              : 510   
+16:14:37 : smite      : SPF                       : Dispel                    : Saint Lorne's Ire         :              :              : 681   
+16:14:37 : smite      : SPF                       : sudo                      : Saint Lorne's Ire         :              :              : 452   
+16:14:37 : smite      : SPF                       : Vashteera's Companion     : Saint Lorne's Ire         :              :              : 674   
+16:14:39 : smite      : SPF                       : YOU                       : Saint Lorne's Ire         :              :              : 682   
+16:15:15 : smite      : Tibins                    : tickles                   : Saint Lorne's Ire         :              :              : 160   
+16:15:15 : smite      : Tibins                    : Sax                       : Saint Lorne's Ire         :              :              : 105   
+16:15:15 : smite      : Tibins                    : Soda                      : Saint Lorne's Ire         :              :              : 110   
+16:15:15 : smite      : Tibins                    : vVv                       : Saint Lorne's Ire         :              :              : 304   
+16:15:15 : smite      : Tibins                    : Hold                      : Saint Lorne's Ire         :              :              : 224   
+16:15:45 : burn       : xxOxx                     : Sauce                     : Saint Malorn's Wrath      :              :              : 308   
+16:15:45 : burn       : xxOxx                     : stuffed                   : Saint Malorn's Wrath      :              :              : 507   
+16:15:45 : burn       : xxOxx                     : Sax                       : Saint Malorn's Wrath      :              :              : 470   
+16:15:45 : burn       : xxOxx                     : DRChuckIt                 : Saint Malorn's Wrath      :              :              : 480   
+16:15:45 : burn       : xxOxx                     : Sasss                     : Saint Malorn's Wrath      :              :              : 308   
+16:16:02 : smite      : Libai                     : Trashcans                 : Saint Lorne's Ire         :              :              : 592   
+16:16:02 : smite      : Libai                     : Vashteera's Thrall        : Saint Lorne's Ire         :              :              : 638   
+16:16:05 : smite      : Libai                     : Tupoc                     : Saint Lorne's Ire         :              :              : 439   
+16:16:05 : smite      : Libai                     : Priest                    : Saint Lorne's Ire         :              :              : 590   
+16:16:05 : smite      : Libai                     : Tupac                     : Saint Lorne's Ire         :              :              : 433   
+16:16:05 : smite      : Libai                     : Hellio                    : Saint Lorne's Ire         :              :              : 598   
+16:16:08 : smite      : Libai                     : LeiBruc                   : Saint Lorne's Ire         :              :              : 453   
+16:16:08 : smite      : Libai                     : KERDC                     : Saint Lorne's Ire         :              :              : 628   
+16:16:08 : smite      : Libai                     : YOU                       : Saint Lorne's Ire         :              :              : 585   
+16:16:08 : smite      : Libai                     : lover                     : Saint Lorne's Ire         :              :              : 427   
+16:16:08 : smite      : Libai                     : HuntyPet                  : Saint Lorne's Ire         :              :              : 617   
+16:16:08 : smite      : Libai                     : Saas                      : Saint Lorne's Ire         :              :              : 580   
+16:16:08 : smite      : Libai                     : Sniper                    : Saint Lorne's Ire         :              :              : 605   
+16:16:13 : smite      : KooP                      : Vashteera's Companion     : Saint Lorne's Ire         :              :              : 711   
+16:16:13 : smite      : KooP                      : Sax                       : Saint Lorne's Ire         :              :              : 491   
+16:16:13 : smite      : KooP                      : Saas                      : Saint Lorne's Ire         :              :              : 344   
+16:16:13 : smite      : KooP                      : YOU                       : Saint Lorne's Ire         :              :              : 527   
+16:16:13 : smite      : KooP                      : HuntyPet                  : Saint Lorne's Ire         :              :              : 503   
+16:16:13 : smite      : KooP                      : KERDC                     : Saint Lorne's Ire         :              :              : 549   
+16:16:13 : smite      : KooP                      : lover                     : Saint Lorne's Ire         :              :              : 454   
+16:16:14 : smite      : Libai                     : YOU                       : Saint Lorne's Ire         :              :              : 575   
+16:16:14 : smite      : Libai                     : Sax                       : Saint Lorne's Ire         :              :              : 560   
+16:16:14 : smite      : Libai                     : HuntyPet                  : Saint Lorne's Ire         :              :              : 728   
+16:16:14 : smite      : Libai                     : lover                     : Saint Lorne's Ire         :              :              : 351   
+16:16:14 : smite      : Libai                     : Saas                      : Saint Lorne's Ire         :              :              : 665   
+16:16:14 : smite      : Libai                     : KERDC                     : Saint Lorne's Ire         :              :              : 648   
+16:16:18 : smite      : Libai                     : YOU                       : Saint Lorne's Ire         :              :              : 564   
+16:16:18 : smite      : Libai                     : HuntyPet                  : Saint Lorne's Ire         :              :              : 712   
+16:16:18 : smite      : Libai                     : KERDC                     : Saint Lorne's Ire         :              :              : 647   
+16:16:18 : smite      : Libai                     : lover                     : Saint Lorne's Ire         :              :              : 352   
+16:16:18 : smite      : Libai                     : Sniper                    : Saint Lorne's Ire         :              :              : 485   
+16:16:18 : smite      : Libai                     : Sax                       : Saint Lorne's Ire         :              :              : 466   
+16:16:18 : smite      : Libai                     : Miha                      : Saint Lorne's Ire         :              :              : 601   
+16:16:46 : smite      : TactzP                    : LordStu                   : Saint Lorne's Ire         :              :              : 436   
+16:16:55 : smite      : TactzP                    : Pockets                   : Saint Lorne's Ire         :              :              : 595   
+16:16:55 : smite      : TactzP                    : Sass                      : Saint Lorne's Ire         :              :              : 374   
+16:16:55 : smite      : TactzP                    : LordStu                   : Saint Lorne's Ire         :              :              : 419   
+16:17:21 : burn       : BigBlackBen               : TyypeVee                  : Saint Malorn's Wrath      :              :              : 574   
+16:17:21 : burn       : BigBlackBen               : YOU                       : Saint Malorn's Wrath      :              :              : 409   
+16:17:21 : burn       : BigBlackBen               : DRChuckIt                 : Saint Malorn's Wrath      :              :              : 401   
+16:17:21 : burn       : BigBlackBen               : BamBam                    : Saint Malorn's Wrath      :              :              : 454   
+16:17:21 : burn       : BigBlackBen               : sudo                      : Saint Malorn's Wrath      :              :              : 546   
+16:17:23 : burn       : BigBlackBen               : LeiBruc                   : Saint Malorn's Wrath      :              :              : 456   
+16:17:23 : burn       : BigBlackBen               : Juandunder                : Saint Malorn's Wrath      :              :              : 229   
+16:17:23 : burn       : BigBlackBen               : krahS                     : Saint Malorn's Wrath      :              :              : 410   
+16:17:23 : burn       : BigBlackBen               : TypeVee                   : Saint Malorn's Wrath      :              :              : 482   
+16:17:23 : burn       : BigBlackBen               : Flimzy                    : Saint Malorn's Wrath      :              :              : 542   
+16:17:23 : burn       : BigBlackBen               : sudo                      : Saint Malorn's Wrath      :              :              : 676   
+16:17:29 : burn       : BigBlackBen               : Que                       : Saint Malorn's Wrath      :              :              : 342   
+16:17:29 : burn       : BigBlackBen               : TyypeVee                  : Saint Malorn's Wrath      :              :              : 391   
+16:17:29 : burn       : BigBlackBen               : Luke                      : Saint Malorn's Wrath      :              :              : 549   
+16:17:29 : burn       : BigBlackBen               : Stylebane                 : Saint Malorn's Wrath      :              :              : 183   
+16:17:29 : burn       : BigBlackBen               : Typechi                   : Saint Malorn's Wrath      :              :              : 253   
+16:17:29 : burn       : BigBlackBen               : DRChuckIt                 : Saint Malorn's Wrath      :              :              : 405   
+16:17:32 : burn       : BigBlackBen               : TyypeVee                  : Saint Malorn's Wrath      :              :              : 676   
+16:17:32 : burn       : BigBlackBen               : Stylebane                 : Saint Malorn's Wrath      :              :              : 203   
+16:17:32 : burn       : BigBlackBen               : Typechi                   : Saint Malorn's Wrath      :              :              : 525   
+16:17:32 : burn       : BigBlackBen               : YOU                       : Saint Malorn's Wrath      :              :              : 324   
+16:17:32 : burn       : BigBlackBen               : DRChuckIt                 : Saint Malorn's Wrath      :              :              : 349   
+16:17:34 : burn       : BigBlackBen               : Que                       : Saint Malorn's Wrath      :              :              : 207   
+16:17:34 : burn       : BigBlackBen               : TyypeVee                  : Saint Malorn's Wrath      :              :              : 754   
+16:17:34 : burn       : BigBlackBen               : LeiBruc                   : Saint Malorn's Wrath      :              :              : 424   
+16:17:34 : burn       : BigBlackBen               : Stylebane                 : Saint Malorn's Wrath      :              :              : 272   
+16:17:34 : burn       : BigBlackBen               : Typechi                   : Saint Malorn's Wrath      :              :              : 351   
+16:17:34 : burn       : BigBlackBen               : krahS                     : Saint Malorn's Wrath      :              :              : 609   
+16:17:38 : burn       : BigBlackBen               : TyypeVee                  : Saint Malorn's Wrath      :              :              : 312   
+16:17:38 : burn       : BigBlackBen               : LeiBruc                   : Saint Malorn's Wrath      :              :              : 522   
+16:17:38 : burn       : BigBlackBen               : Typechi                   : Saint Malorn's Wrath      :              :              : 378   
+16:17:38 : burn       : BigBlackBen               : krahS                     : Saint Malorn's Wrath      :              :              : 330   
+16:17:38 : burn       : BigBlackBen               : DRChuckIt                 : Saint Malorn's Wrath      :              :              : 633   
+16:17:47 : smite      : Libai                     : Dispel                    : Saint Lorne's Ire         :              :              : 655   
+16:17:47 : smite      : Libai                     : Vashteera's Companion     : Saint Lorne's Ire         :              :              : 456   
+16:17:47 : smite      : Libai                     : Kansas                    : Saint Lorne's Ire         :              :              : 468   
+16:17:47 : smite      : Libai                     : KERDC                     : Saint Lorne's Ire         :              :              : 728   
+16:17:47 : smite      : Libai                     : Sax                       : Saint Lorne's Ire         :              :              : 442   
+16:17:48 : smite      : Libai                     : Saas                      : Saint Lorne's Ire         :              :              : 501   
+16:17:48 : smite      : KooP                      : Dispel                    : Saint Lorne's Ire         :              :              : 475   
+16:17:48 : smite      : KooP                      : YOU                       : Saint Lorne's Ire         :              :              : 535   
+16:17:48 : smite      : KooP                      : Vashteera's Companion     : Saint Lorne's Ire         :              :              : 687   
+16:17:48 : smite      : KooP                      : Kansas                    : Saint Lorne's Ire         :              :              : 216   
+16:17:48 : smite      : KooP                      : HuntyPet                  : Saint Lorne's Ire         :              :              : 429   
+16:17:48 : smite      : KooP                      : Sax                       : Saint Lorne's Ire         :              :              : 327   
+16:17:48 : smite      : KooP                      : Saas                      : Saint Lorne's Ire         :              :              : 496   
+16:17:53 : smite      : KooP                      : TOKR                      : Saint Lorne's Ire         :              :              : 787   
+16:17:53 : smite      : KooP                      : Dispel                    : Saint Lorne's Ire         :              :              : 501   
+16:17:53 : smite      : KooP                      : Lqws                      : Saint Lorne's Ire         :              :              : 424   
+16:17:53 : smite      : KooP                      : lover                     : Saint Lorne's Ire         :              :              : 376   
+16:17:53 : smite      : KooP                      : Sax                       : Saint Lorne's Ire         :              :              : 468   
+16:17:53 : smite      : KooP                      : HuntyPet                  : Saint Lorne's Ire         :              :              : 531   
+16:17:53 : smite      : KooP                      : LeiBruc                   : Saint Lorne's Ire         :              :              : 409   
+16:17:57 : smite      : XFzj                      : Vashteera's Companion     : Saint Lorne's Ire         :              :              : 241   
+16:17:57 : smite      : XFzj                      : LeiBruc                   : Saint Lorne's Ire         :              :              : 138   
+16:17:58 : smite      : XFzj                      : Sax                       : Saint Lorne's Ire         :              :              : 411   
+16:17:58 : smite      : XFzj                      : Miha                      : Saint Lorne's Ire         :              :              : 278   
+16:17:58 : smite      : XFzj                      : YOU                       : Saint Lorne's Ire         :              :              : 304   
+16:17:58 : smite      : XFzj                      : KERDC                     : Saint Lorne's Ire         :              :              : 314   
+16:17:58 : smite      : XFzj                      : Bourbon                   : Saint Lorne's Ire         :              :              : 416   
+16:17:59 : burn       : TPPB                      : Miha                      : Saint Malorn's Wrath      :              :              : 235   
+16:17:59 : burn       : TPPB                      : sudo                      : Saint Malorn's Wrath      :              :              : 579   
+16:17:59 : burn       : TPPB                      : Sax                       : Saint Malorn's Wrath      :              :              : 427   
+16:17:59 : burn       : TPPB                      : Saas                      : Saint Malorn's Wrath      :              :              : 374   
+16:17:59 : burn       : TPPB                      : Bourbon                   : Saint Malorn's Wrath      :              :              : 250   
+16:18:00 : smite      : KooP                      : Miha                      : Saint Lorne's Ire         :              :              : 462   
+16:18:00 : smite      : KooP                      : Vashteera's Companion     : Saint Lorne's Ire         :              :              : 409   
+16:18:00 : smite      : KooP                      : lover                     : Saint Lorne's Ire         :              :              : 373   
+16:18:00 : smite      : KooP                      : Vashteera's Companion     : Saint Lorne's Ire         :              :              : 438   
+16:18:00 : smite      : KooP                      : Kansas                    : Saint Lorne's Ire         :              :              : 367   
+16:18:00 : smite      : KooP                      : Sax                       : Saint Lorne's Ire         :              :              : 501   
+16:18:16 : smite      : Libai                     : Vashteera's Companion     : Saint Lorne's Ire         :              :              : 575   
+16:18:16 : smite      : Libai                     : Vashteera's Companion     : Saint Lorne's Ire         :              :              : 639   
+16:18:16 : smite      : Libai                     : KERDC                     : Saint Lorne's Ire         :              :              : 854   
+16:18:16 : smite      : Libai                     : Dispel                    : Saint Lorne's Ire         :              :              : 806   
+16:18:16 : smite      : Libai                     : Saas                      : Saint Lorne's Ire         :              :              : 562   
+16:18:16 : smite      : Libai                     : LeiBruc                   : Saint Lorne's Ire         :              :              : 367   
+16:18:16 : smite      : Libai                     : Sax                       : Saint Lorne's Ire         :              :              : 605   
+16:18:19 : smite      : KooP                      : Sax                       : Saint Lorne's Ire         :              :              : 681   
+16:18:19 : smite      : KooP                      : Yixim                     : Saint Lorne's Ire         :              :              : 644   
+16:18:19 : smite      : KooP                      : Bourbon                   : Saint Lorne's Ire         :              :              : 454   
+16:18:19 : smite      : KooP                      : lover                     : Saint Lorne's Ire         :              :              : 456   
+16:18:19 : smite      : KooP                      : Miha                      : Saint Lorne's Ire         :              :              : 436   
+16:18:19 : smite      : KooP                      : KERDC                     : Saint Lorne's Ire         :              :              : 614   
+16:18:19 : smite      : KooP                      : LeiBruc                   : Saint Lorne's Ire         :              :              : 427   
+16:18:23 : smite      : XFzj                      : YOU                       : Saint Lorne's Ire         :              :              : 422   
+16:18:24 : smite      : KooP                      : YOU                       : Saint Lorne's Ire         :              :              : 486   
+16:18:26 : smite      : KooP                      : Vashteera's Companion     : Saint Lorne's Ire         :              :              : 481   
+16:18:26 : smite      : XFzj                      : Dispel                    : Saint Lorne's Ire         :              :              : 482   
+16:18:26 : smite      : XFzj                      : lover                     : Saint Lorne's Ire         :              :              : 476   
+16:18:26 : smite      : XFzj                      : Miha                      : Saint Lorne's Ire         :              :              : 398   
+16:18:26 : smite      : KooP                      : sudo                      : Saint Lorne's Ire         :              :              : 622   
+16:18:26 : smite      : XFzj                      : Yixim                     : Saint Lorne's Ire         :              :              : 638   
+16:18:26 : smite      : XFzj                      : Saas                      : Saint Lorne's Ire         :              :              : 787   
+16:18:26 : smite      : KooP                      : lover                     : Saint Lorne's Ire         :              :              : 343   
+16:18:26 : smite      : KooP                      : Dispel                    : Saint Lorne's Ire         :              :              : 601   
+16:18:26 : smite      : KooP                      : Kansas                    : Saint Lorne's Ire         :              :              : 499   
+16:18:29 : smite      : XFzj                      : lover                     : Saint Lorne's Ire         :              :              : 407   
+16:18:29 : smite      : XFzj                      : LeiBruc                   : Saint Lorne's Ire         :              :              : 321   
+16:18:29 : smite      : XFzj                      : Miha                      : Saint Lorne's Ire         :              :              : 427   
+16:18:29 : smite      : XFzj                      : Yixim                     : Saint Lorne's Ire         :              :              : 362   
+16:18:29 : smite      : XFzj                      : Sax                       : Saint Lorne's Ire         :              :              : 514   
+16:18:29 : smite      : XFzj                      : Kansas                    : Saint Lorne's Ire         :              :              : 424   
+16:18:29 : smite      : XFzj                      : KERDC                     : Saint Lorne's Ire         :              :              : 580   
+16:18:31 : smite      : XFzj                      : Dispel                    : Saint Lorne's Ire         :              :              : 575   
+16:18:31 : smite      : XFzj                      : LeiBruc                   : Saint Lorne's Ire         :              :              : 342   
+16:18:31 : smite      : XFzj                      : Miha                      : Saint Lorne's Ire         :              :              : 375   
+16:18:31 : smite      : XFzj                      : Bourbon                   : Saint Lorne's Ire         :              :              : 592   
+16:18:31 : smite      : XFzj                      : Saas                      : Saint Lorne's Ire         :              :              : 576   
+16:21:21 : burn       : TheHerp                   : typeB                     : Saint Malorn's Wrath      :              :              : 363   
+16:21:21 : burn       : TheHerp                   : Zadok                     : Saint Malorn's Wrath      :              :              : 1933  
+16:21:21 : burn       : TheHerp                   : YOU                       : Saint Malorn's Wrath      :              :              : 2083  
+16:21:21 : burn       : TheHerp                   : Uther                     : Saint Malorn's Wrath      :              :              : 678   
+16:21:21 : burn       : TheHerp                   : Sax                       : Saint Malorn's Wrath      :              :              : 190   
+16:21:22 : burn       : TheHerp                   : typeB                     : Saint Malorn's Wrath      :              :              : 411   
+16:21:22 : burn       : TheHerp                   : Zadok                     : Saint Malorn's Wrath      :              :              : 432   
+16:21:22 : burn       : TheHerp                   : YOU                       : Saint Malorn's Wrath      :              :              : 772   
+16:21:22 : burn       : TheHerp                   : Uther                     : Saint Malorn's Wrath      :              :              : 621   

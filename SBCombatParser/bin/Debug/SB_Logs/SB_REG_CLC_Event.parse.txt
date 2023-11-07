@@ -1,8 +1,52 @@
-Version     :: 0.0.11.0
-DateTime    :: 11/7/2023 02:23:58 AM
+Version     :: 0.0.11.5
+DateTime    :: 11/7/2023 04:12:41 PM
 RegExType   :: CLC :: Event
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>CLC) (?<type>.*) (?<event_type>.*) \:\: (?<event_detail>.*)
 
 Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
-02:24:12 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\Combat1.log.txt :       
-02:24:35 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\Combat1.log.txt :       
+16:12:56 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\10bro.txt :       
+16:13:13 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\10bro.txt :       
+16:13:18 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\10v14tomb.txt :       
+16:13:42 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\10v14tomb.txt :       
+16:13:47 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\1111.txt :       
+16:14:31 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\1111.txt :       
+16:14:36 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\11111.txt :       
+16:14:43 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\11111.txt :       
+16:14:48 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\122222.txt :       
+16:14:55 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\122222.txt :       
+16:15:00 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\123.txt :       
+16:15:26 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\123.txt :       
+16:15:31 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\1234.txt :       
+16:15:57 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\1234.txt :       
+16:16:02 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\15man928.txt :       
+16:16:36 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\15man928.txt :       
+16:16:41 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\20man.txt :       
+16:16:56 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\20man.txt :       
+16:17:01 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\20man911.txt :       
+16:17:40 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\20man911.txt :       
+16:17:45 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\20man928.txt :       
+16:18:10 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\20man928.txt :       
+16:18:15 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\20man9282.txt :       
+16:18:35 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\20man9282.txt :       
+16:18:40 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\412ap.txt :       
+16:18:54 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\412ap.txt :       
+16:18:59 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\412obv.txt :       
+16:19:15 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\412obv.txt :       
+16:19:20 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\419.txt :       
+16:19:36 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\419.txt :       
+16:19:42 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\4191.txt :       
+16:19:45 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\4191.txt :       
+16:19:50 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\419ab.txt :       
+16:20:31 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\419ab.txt :       
+16:20:36 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\419bog.txt :       
+16:21:06 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\419bog.txt :       
+16:21:11 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\420.txt :       
+16:21:25 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\420.txt :       
+16:21:30 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\420bh.txt :       
+16:21:59 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\420bh.txt :       
+16:22:04 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\421ap.txt :       
+16:22:21 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\421ap.txt :       
+16:22:27 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\421pf.txt :       
+16:22:52 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\421pf.txt :       
+16:22:57 : LogFile    : CLC                       :                           :                           : Start        : .\LogFiles\Input\From_Type\422.txt :       
+16:23:22 : LogFile    : CLC                       :                           :                           : Stop         : .\LogFiles\Input\From_Type\422.txt :       

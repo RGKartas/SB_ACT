@@ -1,28 +1,42 @@
-Version     :: 0.0.11.0
-DateTime    :: 11/7/2023 02:23:58 AM
+Version     :: 0.0.11.5
+DateTime    :: 11/7/2023 04:12:41 PM
 RegExType   :: Evade :: Parry
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>parr)[yies]+ (?<source>.*)'s .*[\.!]
 
 Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
-02:24:12 : parr       : Vorok Mud-Chief           : You                       :                           :              :              :       
-02:24:15 : parr       : Moss Ogre                 : You                       :                           :              :              :       
-02:24:15 : parr       : Tavok Chief-brother       : You                       :                           :              :              :       
-02:24:15 : parr       : Moss Ogre                 : You                       :                           :              :              :       
-02:24:15 : parr       : Tavok Chief-brother       : You                       :                           :              :              :       
-02:24:17 : parr       : Tavok Chief-brother       : You                       :                           :              :              :       
-02:24:17 : parr       : Tavok Chief-brother       : You                       :                           :              :              :       
-02:24:17 : parr       : Moss Ogre                 : MalzSent                  :                           :              :              :       
-02:24:20 : parr       : Tavok Chief-brother       : You                       :                           :              :              :       
-02:24:20 : parr       : Tavok Chief-brother       : You                       :                           :              :              :       
-02:24:24 : parr       : Moss Ogre                 : You                       :                           :              :              :       
-02:24:25 : parr       : Mud Ogre                  : You                       :                           :              :              :       
-02:24:25 : parr       : Tavok Chief-brother       : You                       :                           :              :              :       
-02:24:25 : parr       : Moss Ogre                 : You                       :                           :              :              :       
-02:24:26 : parr       : Vorok Mud-Chief           : You                       :                           :              :              :       
-02:24:26 : parr       : Vorok Mud-Chief           : You                       :                           :              :              :       
-02:24:27 : parr       : Tavok Chief-brother       : You                       :                           :              :              :       
-02:24:28 : parr       : Moss Ogre                 : You                       :                           :              :              :       
-02:24:28 : parr       : Moss Ogre                 : You                       :                           :              :              :       
-02:24:31 : parr       : Moss Ogre                 : You                       :                           :              :              :       
-02:24:32 : parr       : Mud Ogre                  : You                       :                           :              :              :       
-02:24:33 : parr       : Moss Ogre                 : You                       :                           :              :              :       
+16:13:58 : parr       : the Mud Fiend             : hta �C   NZSP             :                           :              :              :       
+16:14:51 : parr       : Soda                      : Bearable                  :                           :              :              :       
+16:14:52 : parr       : Soda                      : Bearable                  :                           :              :              :       
+16:14:52 : parr       : Soda                      : Bearable                  :                           :              :              :       
+16:16:44 : parr       : SOMEONE                   : iThallia                  :                           :              :              :       
+16:16:45 : parr       : Pockets                   : iThallia                  :                           :              :              :       
+16:16:48 : parr       : Pockets                   : iThallia                  :                           :              :              :       
+16:16:48 : parr       : Pockets                   : iThallia                  :                           :              :              :       
+16:16:48 : parr       : Pockets                   : iThallia                  :                           :              :              :       
+16:16:49 : parr       : Pockets                   : iThallia                  :                           :              :              :       
+16:16:52 : parr       : HORSE DlCK                : YOU                       :                           :              :              :       
+16:16:53 : parr       : HORSE DlCK                : YOU                       :                           :              :              :       
+16:16:53 : parr       : Hoof Hearted              : YOU                       :                           :              :              :       
+16:16:54 : parr       : Necromancer               : Sexting                   :                           :              :              :       
+16:17:06 : parr       : HIM                       : Roka                      :                           :              :              :       
+16:17:06 : parr       : Selee                     : Roka                      :                           :              :              :       
+16:17:07 : parr       : HIM                       : Roka                      :                           :              :              :       
+16:17:07 : parr       : HIM                       : Roka                      :                           :              :              :       
+16:17:07 : parr       : Chaos                     : Roka                      :                           :              :              :       
+16:17:07 : parr       : iThallia                  : Roka                      :                           :              :              :       
+16:17:08 : parr       : HIM                       : Roka                      :                           :              :              :       
+16:17:08 : parr       : HIM                       : Roka                      :                           :              :              :       
+16:17:08 : parr       : HIM                       : Roka                      :                           :              :              :       
+16:17:08 : parr       : HIM                       : Roka                      :                           :              :              :       
+16:20:07 : parr       : Lister                    : occifer                   :                           :              :              :       
+16:20:44 : parr       : Soda                      : CapDD                     :                           :              :              :       
+16:21:14 : parr       : TheHerp                   : Zadok                     :                           :              :              :       
+16:21:15 : parr       : TheHerp                   : Zadok                     :                           :              :              :       
+16:21:16 : parr       : TheHerp                   : Zadok                     :                           :              :              :       
+16:21:16 : parr       : TheHerp                   : Zadok                     :                           :              :              :       
+16:21:17 : parr       : TheHerp                   : Zadok                     :                           :              :              :       
+16:21:18 : parr       : Zadok                     : Warrior                   :                           :              :              :       
+16:21:18 : parr       : Zadok                     : Warrior                   :                           :              :              :       
+16:21:18 : parr       : Zadok                     : Warrior                   :                           :              :              :       
+16:21:18 : parr       : Zadok                     : Warrior                   :                           :              :              :       
+16:21:19 : parr       : Zadok                     : Warrior                   :                           :              :              :       

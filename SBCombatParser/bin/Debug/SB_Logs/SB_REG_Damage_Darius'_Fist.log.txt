@@ -1,6 +1,431 @@
-Version     :: 0.0.11.0
-DateTime    :: 11/7/2023 02:23:58 AM
+Version     :: 0.0.11.5
+DateTime    :: 11/7/2023 04:12:41 PM
 RegExType   :: Damage :: Darius' Fist
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']?[s]? (?<ability>Darius' Fist) (?<type>.{3,11}?)s? (?<target>.*) for (?<value>\d*) .*[\.!]
 
 
+(16:13:04) Sax's Darius' Fist smites BigBlackBen for 190 points of damage!
+(16:13:04) Sax's Darius' Fist smites Drooley for 227 points of damage!
+(16:13:05) WillPowder's Darius' Fist smites Sax for 170 points of damage!
+(16:13:05) Sax's Darius' Fist smites BigBlackBen for 148 points of damage!
+(16:13:05) Sax's Darius' Fist smites Drooley for 270 points of damage!
+(16:13:05) WillPowder's Darius' Fist smites Sax for 199 points of damage!
+(16:13:06) Sax's Darius' Fist smites BigBlackBen for 156 points of damage!
+(16:13:06) Sax's Darius' Fist smites Drooley for 150 points of damage!
+(16:13:06) WillPowder's Darius' Fist smites Sax for 97 points of damage!
+(16:13:06) Sax's Darius' Fist smites BigBlackBen for 262 points of damage!
+(16:13:06) Sax's Darius' Fist smites Drooley for 99 points of damage!
+(16:13:06) WillPowder's Darius' Fist smites Sax for 179 points of damage!
+(16:13:07) Sax's Darius' Fist smites BigBlackBen for 192 points of damage!
+(16:13:07) Sax's Darius' Fist smites Drooley for 201 points of damage!
+(16:13:07) WillPowder's Darius' Fist smites Sax for 95 points of damage!
+(16:13:07) Sax's Darius' Fist smites BigBlackBen for 224 points of damage!
+(16:13:07) Sax's Darius' Fist smites Drooley for 195 points of damage!
+(16:13:08) WillPowder's Darius' Fist smites Sax for 264 points of damage!
+(16:13:08) Sax's Darius' Fist smites BigBlackBen for 144 points of damage!
+(16:13:08) Sax's Darius' Fist smites Drooley for 246 points of damage!
+(16:13:08) WillPowder's Darius' Fist smites Sax for 114 points of damage!
+(16:13:09) Sax's Darius' Fist smites BigBlackBen for 213 points of damage!
+(16:13:09) Sax's Darius' Fist smites AlbiThere for 269 points of damage!
+(16:13:10) Sax's Darius' Fist smites BigBlackBen for 133 points of damage!
+(16:13:10) Sax's Darius' Fist smites AlbiThere for 123 points of damage!
+(16:13:10) Sax's Darius' Fist smites BigBlackBen for 137 points of damage!
+(16:13:10) Sax's Darius' Fist smites AlbiThere for 256 points of damage!
+(16:13:11) Sax's Darius' Fist smites BigBlackBen for 211 points of damage!
+(16:13:11) Sax's Darius' Fist smites AlbiThere for 257 points of damage!
+(16:13:11) Sax's Darius' Fist smites AlbiThere for 208 points of damage!
+(16:13:12) Sax's Darius' Fist smites AlbiThere for 152 points of damage!
+(16:13:12) Sax's Darius' Fist smites AlbiThere for 174 points of damage!
+(16:13:13) Sax's Darius' Fist smites AlbiThere for 154 points of damage!
+(16:13:13) Sax's Darius' Fist smites AlbiThere for 123 points of damage!
+(16:13:13) Sax's Darius' Fist smites AlbiThere for 172 points of damage!
+(16:13:13) Sax's Darius' Fist smites AlbiThere for 127 points of damage!
+(16:13:13) Sax's Darius' Fist smites AlbiThere for 169 points of damage!
+(16:13:38) Sax's Darius' Fist smites Yuckfou for 328 points of damage!
+(16:13:49) Holger's Darius' Fist smites TyyppVee for 95 points of damage!
+(16:13:49) Holger's Darius' Fist smites TyyppVee for 85 points of damage!
+(16:13:50) Holger's Darius' Fist smites TyyppVee for 52 points of damage!
+(16:13:50) SOMEONE's Darius' Fist smites TyyppVee for 37 points of damage!
+(16:13:50) SOMEONE's Darius' Fist smites TyyppVee for 49 points of damage!
+(16:13:50) SOMEONE's Darius' Fist smites TyyppVee for 67 points of damage!
+(16:13:51) SOMEONE's Darius' Fist smites TyyppVee for 46 points of damage!
+(16:14:39) FYasz's Darius' Fist smites HuntyPet for 99 points of damage!
+(16:14:39) FYasz's Darius' Fist smites HuntyPet for 135 points of damage!
+(16:14:39) FYasz's Darius' Fist smites HuntyPet for 79 points of damage!
+(16:14:39) FYasz's Darius' Fist smites HuntyPet for 113 points of damage!
+(16:14:39) FYasz's Darius' Fist smites HuntyPet for 92 points of damage!
+(16:14:39) FYasz's Darius' Fist smites HuntyPet for 108 points of damage!
+(16:14:40) FYasz's Darius' Fist smites HuntyPet for 89 points of damage!
+(16:15:16) Soda's Darius' Fist smites Prodriver for 274 points of damage!
+(16:15:16) Soda's Darius' Fist smites Manshoon for 177 points of damage!
+(16:15:16) Soda's Darius' Fist smites Liquid for 122 points of damage!
+(16:15:16) Soda's Darius' Fist smites Tibins for 278 points of damage!
+(16:15:16) Soda's Darius' Fist smites CaliSent for 121 points of damage!
+(16:15:16) Soda's Darius' Fist smites Toy for 214 points of damage!
+(16:15:16) Soda's Darius' Fist smites Moony for 259 points of damage!
+(16:15:16) Soda's Darius' Fist smites Prodriver for 227 points of damage!
+(16:15:16) Soda's Darius' Fist smites Manshoon for 199 points of damage!
+(16:15:16) Soda's Darius' Fist smites Liquid for 170 points of damage!
+(16:15:16) Soda's Darius' Fist smites Tibins for 227 points of damage!
+(16:15:16) Soda's Darius' Fist smites CaliSent for 148 points of damage!
+(16:15:16) Soda's Darius' Fist smites Toy for 275 points of damage!
+(16:15:16) Soda's Darius' Fist smites Moony for 165 points of damage!
+(16:15:17) Soda's Darius' Fist smites Prodriver for 197 points of damage!
+(16:15:17) Soda's Darius' Fist smites Manshoon for 146 points of damage!
+(16:15:17) Soda's Darius' Fist smites Liquid for 237 points of damage!
+(16:15:17) Soda's Darius' Fist smites Tibins for 237 points of damage!
+(16:15:17) Soda's Darius' Fist smites CaliSent for 158 points of damage!
+(16:15:17) Soda's Darius' Fist smites Toy for 181 points of damage!
+(16:15:17) Soda's Darius' Fist smites Moony for 304 points of damage!
+(16:15:17) Soda's Darius' Fist smites Prodriver for 139 points of damage!
+(16:15:18) Soda's Darius' Fist smites Manshoon for 116 points of damage!
+(16:15:18) Soda's Darius' Fist smites Liquid for 178 points of damage!
+(16:15:18) Soda's Darius' Fist smites Tibins for 189 points of damage!
+(16:15:18) Soda's Darius' Fist smites CaliSent for 205 points of damage!
+(16:15:18) Soda's Darius' Fist smites Toy for 265 points of damage!
+(16:15:18) Soda's Darius' Fist smites Moony for 335 points of damage!
+(16:15:18) Soda's Darius' Fist smites Prodriver for 240 points of damage!
+(16:15:18) Soda's Darius' Fist smites Manshoon for 187 points of damage!
+(16:15:18) Soda's Darius' Fist smites Liquid for 230 points of damage!
+(16:15:18) Soda's Darius' Fist smites CaliSent for 189 points of damage!
+(16:15:18) Soda's Darius' Fist smites Tibins for 162 points of damage!
+(16:15:18) Soda's Darius' Fist smites Toy for 154 points of damage!
+(16:15:18) Soda's Darius' Fist smites Moony for 350 points of damage!
+(16:15:19) Soda's Darius' Fist smites Prodriver for 130 points of damage!
+(16:15:19) Soda's Darius' Fist smites Liquid for 134 points of damage!
+(16:15:19) Soda's Darius' Fist smites Manshoon for 298 points of damage!
+(16:15:19) Soda's Darius' Fist smites CaliSent for 240 points of damage!
+(16:15:19) Soda's Darius' Fist smites Toy for 281 points of damage!
+(16:15:19) Soda's Darius' Fist smites Moony for 224 points of damage!
+(16:15:19) Soda's Darius' Fist smites Prodriver for 158 points of damage!
+(16:15:19) Soda's Darius' Fist smites Manshoon for 198 points of damage!
+(16:15:19) Soda's Darius' Fist smites Liquid for 177 points of damage!
+(16:15:19) Soda's Darius' Fist smites CaliSent for 243 points of damage!
+(16:15:19) Soda's Darius' Fist smites Toy for 197 points of damage!
+(16:15:19) Soda's Darius' Fist smites Moony for 338 points of damage!
+(16:15:42) FYsz's Darius' Fist smites Rokaw for 126 points of damage!
+(16:15:42) FYsz's Darius' Fist smites Sauce for 178 points of damage!
+(16:15:42) FYsz's Darius' Fist smites Typechi for 156 points of damage!
+(16:15:42) FYsz's Darius' Fist smites DRChuckIt for 158 points of damage!
+(16:15:42) FYsz's Darius' Fist smites Sasss for 157 points of damage!
+(16:15:42) FYsz's Darius' Fist smites TypeVee for 120 points of damage!
+(16:15:43) FYsz's Darius' Fist smites Rokaw for 97 points of damage!
+(16:15:43) FYsz's Darius' Fist smites Sauce for 173 points of damage!
+(16:15:43) FYsz's Darius' Fist smites Typechi for 132 points of damage!
+(16:15:43) FYsz's Darius' Fist smites DRChuckIt for 125 points of damage!
+(16:15:43) FYsz's Darius' Fist smites Sasss for 246 points of damage!
+(16:15:43) FYsz's Darius' Fist smites TypeVee for 89 points of damage!
+(16:15:44) FYsz's Darius' Fist smites Sauce for 172 points of damage!
+(16:15:44) FYsz's Darius' Fist smites Rokaw for 136 points of damage!
+(16:15:44) FYsz's Darius' Fist smites Typechi for 202 points of damage!
+(16:15:44) FYsz's Darius' Fist smites Sasss for 124 points of damage!
+(16:15:44) FYsz's Darius' Fist smites DRChuckIt for 185 points of damage!
+(16:15:44) FYsz's Darius' Fist smites TypeVee for 154 points of damage!
+(16:15:45) FYsz's Darius' Fist smites Sauce for 138 points of damage!
+(16:15:45) FYsz's Darius' Fist smites Rokaw for 97 points of damage!
+(16:15:45) FYsz's Darius' Fist smites Typechi for 99 points of damage!
+(16:15:45) FYsz's Darius' Fist smites DRChuckIt for 139 points of damage!
+(16:15:45) FYsz's Darius' Fist smites Sasss for 133 points of damage!
+(16:15:45) FYsz's Darius' Fist smites TypeVee for 191 points of damage!
+(16:15:45) FYsz's Darius' Fist smites Rokaw for 140 points of damage!
+(16:15:45) FYsz's Darius' Fist smites Sauce for 107 points of damage!
+(16:15:45) FYsz's Darius' Fist smites Typechi for 110 points of damage!
+(16:15:46) FYsz's Darius' Fist smites DRChuckIt for 191 points of damage!
+(16:15:46) FYsz's Darius' Fist smites Sasss for 260 points of damage!
+(16:15:46) FYsz's Darius' Fist smites TypeVee for 211 points of damage!
+(16:15:46) FYsz's Darius' Fist smites TypeVee for 139 points of damage!
+(16:15:46) FYsz's Darius' Fist smites Sauce for 157 points of damage!
+(16:15:46) FYsz's Darius' Fist smites LeiBruc for 120 points of damage!
+(16:15:46) FYsz's Darius' Fist smites YOU for 192 points of damage!
+(16:15:46) FYsz's Darius' Fist smites Rokaw for 137 points of damage!
+(16:15:46) FYsz's Darius' Fist smites Typechi for 151 points of damage!
+(16:15:46) FYsz's Darius' Fist smites DRChuckIt for 156 points of damage!
+(16:15:46) FYsz's Darius' Fist smites Sasss for 208 points of damage!
+(16:15:47) FYsz's Darius' Fist smites TypeVee for 103 points of damage!
+(16:15:47) FYsz's Darius' Fist smites Sauce for 119 points of damage!
+(16:15:47) FYsz's Darius' Fist smites LeiBruc for 126 points of damage!
+(16:15:47) FYsz's Darius' Fist smites YOU for 141 points of damage!
+(16:15:47) FYsz's Darius' Fist smites Rokaw for 102 points of damage!
+(16:15:47) FYsz's Darius' Fist smites Typechi for 217 points of damage!
+(16:15:47) FYsz's Darius' Fist smites DRChuckIt for 148 points of damage!
+(16:15:47) FYsz's Darius' Fist smites Sasss for 224 points of damage!
+(16:15:48) FYsz's Darius' Fist smites Sauce for 80 points of damage!
+(16:15:48) FYsz's Darius' Fist smites LeiBruc for 133 points of damage!
+(16:15:48) FYsz's Darius' Fist smites YOU for 115 points of damage!
+(16:15:48) FYsz's Darius' Fist smites Rokaw for 184 points of damage!
+(16:15:48) FYsz's Darius' Fist smites Typechi for 126 points of damage!
+(16:15:48) FYsz's Darius' Fist smites DRChuckIt for 167 points of damage!
+(16:15:48) FYsz's Darius' Fist smites Sasss for 168 points of damage!
+(16:15:48) FYsz's Darius' Fist smites LeiBruc for 107 points of damage!
+(16:15:48) FYsz's Darius' Fist smites Sauce for 146 points of damage!
+(16:15:48) FYsz's Darius' Fist smites YOU for 171 points of damage!
+(16:15:48) FYsz's Darius' Fist smites Rokaw for 138 points of damage!
+(16:15:48) FYsz's Darius' Fist smites Typechi for 208 points of damage!
+(16:15:48) FYsz's Darius' Fist smites Sasss for 153 points of damage!
+(16:15:48) FYsz's Darius' Fist smites DRChuckIt for 179 points of damage!
+(16:15:49) FYsz's Darius' Fist smites LeiBruc for 137 points of damage!
+(16:15:49) FYsz's Darius' Fist smites Sauce for 162 points of damage!
+(16:15:49) FYsz's Darius' Fist smites YOU for 147 points of damage!
+(16:15:49) FYsz's Darius' Fist smites Typechi for 147 points of damage!
+(16:15:49) FYsz's Darius' Fist smites DRChuckIt for 89 points of damage!
+(16:15:49) FYsz's Darius' Fist smites Sasss for 204 points of damage!
+(16:15:49) FYsz's Darius' Fist smites Rokaw for 144 points of damage!
+(16:15:49) FYsz's Darius' Fist smites Sauce for 105 points of damage!
+(16:15:49) FYsz's Darius' Fist smites LeiBruc for 169 points of damage!
+(16:15:49) FYsz's Darius' Fist smites YOU for 195 points of damage!
+(16:15:49) FYsz's Darius' Fist smites Sasss for 183 points of damage!
+(16:15:49) FYsz's Darius' Fist smites DRChuckIt for 207 points of damage!
+(16:15:49) FYsz's Darius' Fist smites Rokaw for 154 points of damage!
+(16:15:49) FYsz's Darius' Fist smites Typechi for 178 points of damage!
+(16:15:50) FYsz's Darius' Fist smites LeiBruc for 115 points of damage!
+(16:15:50) FYsz's Darius' Fist smites Sauce for 179 points of damage!
+(16:15:50) FYsz's Darius' Fist smites YOU for 205 points of damage!
+(16:15:50) FYsz's Darius' Fist smites Rokaw for 129 points of damage!
+(16:15:50) FYsz's Darius' Fist smites DRChuckIt for 157 points of damage!
+(16:15:50) FYsz's Darius' Fist smites Sasss for 154 points of damage!
+(16:15:50) FYsz's Darius' Fist smites Typechi for 180 points of damage!
+(16:16:12) Sax's Darius' Fist smites Priest for 327 points of damage!
+(16:16:25) FYasz's Darius' Fist smites Sax for 72 points of damage!
+(16:16:25) Sax's Darius' Fist smites FYasz for 235 points of damage!
+(16:16:25) FYasz's Darius' Fist smites Sax for 97 points of damage!
+(16:16:26) FYasz's Darius' Fist smites Sax for 62 points of damage!
+(16:16:26) FYasz's Darius' Fist smites Sax for 69 points of damage!
+(16:16:26) FYasz's Darius' Fist smites Sax for 79 points of damage!
+(16:16:27) FYasz's Darius' Fist smites Sax for 52 points of damage!
+(16:16:27) FYasz's Darius' Fist smites Sax for 52 points of damage!
+(16:16:33) Sax's Darius' Fist smites PBAOE for 222 points of damage!
+(16:16:53) Hoof's Darius' Fist smites YOU for 102 points of damage!
+(16:16:53) Hoof's Darius' Fist smites Pockets for 190 points of damage!
+(16:16:53) Hoof's Darius' Fist smites Pockets for 220 points of damage!
+(16:16:54) Hoof's Darius' Fist smites Pockets for 165 points of damage!
+(16:16:54) Hoof's Darius' Fist smites Pockets for 202 points of damage!
+(16:16:54) Hoof's Darius' Fist smites Pockets for 249 points of damage!
+(16:16:55) Hoof's Darius' Fist smites Pockets for 146 points of damage!
+(16:17:57) Sax's Darius' Fist smites TPPB for 170 points of damage!
+(16:17:58) Sax's Darius' Fist smites TPPB for 268 points of damage!
+(16:17:59) Sax's Darius' Fist smites TPPB for 174 points of damage!
+(16:17:59) Sax's Darius' Fist smites TPPB for 254 points of damage!
+(16:18:00) Sax's Darius' Fist smites TPPB for 232 points of damage!
+(16:18:00) Sax's Darius' Fist smites TPPB for 175 points of damage!
+(16:18:01) Sax's Darius' Fist smites TPPB for 231 points of damage!
+(16:18:20) Sax's Darius' Fist smites sudo for 160 points of damage!
+(16:18:20) Sax's Darius' Fist smites Jon for 222 points of damage!
+(16:18:20) Sax's Darius' Fist smites Yixim for 290 points of damage!
+(16:18:20) Sax's Darius' Fist smites Hwsz for 245 points of damage!
+(16:18:20) Sax's Darius' Fist smites Vashteera's Thrall for 187 points of damage!
+(16:18:20) Sax's Darius' Fist smites TFst for 253 points of damage!
+(16:18:20) Sax's Darius' Fist smites KooP for 207 points of damage!
+(16:18:20) Sax's Darius' Fist smites sudo for 158 points of damage!
+(16:18:20) Sax's Darius' Fist smites Jon for 198 points of damage!
+(16:18:20) Sax's Darius' Fist smites Hwsz for 211 points of damage!
+(16:18:20) Sax's Darius' Fist smites Yixim for 192 points of damage!
+(16:18:20) Sax's Darius' Fist smites Vashteera's Thrall for 212 points of damage!
+(16:18:20) Sax's Darius' Fist smites TFst for 204 points of damage!
+(16:18:20) Sax's Darius' Fist smites KooP for 199 points of damage!
+(16:18:21) Sax's Darius' Fist smites sudo for 178 points of damage!
+(16:18:21) Sax's Darius' Fist smites Jon for 151 points of damage!
+(16:18:21) Sax's Darius' Fist smites Hwsz for 297 points of damage!
+(16:18:21) Sax's Darius' Fist smites Yixim for 179 points of damage!
+(16:18:21) Sax's Darius' Fist smites Vashteera's Thrall for 182 points of damage!
+(16:18:21) Sax's Darius' Fist smites TFst for 202 points of damage!
+(16:18:21) Sax's Darius' Fist smites KooP for 130 points of damage!
+(16:18:21) Sax's Darius' Fist smites sudo for 259 points of damage!
+(16:18:21) Sax's Darius' Fist smites Jon for 152 points of damage!
+(16:18:21) Sax's Darius' Fist smites Hwsz for 294 points of damage!
+(16:18:21) Sax's Darius' Fist smites Yixim for 143 points of damage!
+(16:18:21) Sax's Darius' Fist smites Vashteera's Thrall for 115 points of damage!
+(16:18:21) Sax's Darius' Fist smites KooP for 150 points of damage!
+(16:18:22) Sax's Darius' Fist smites sudo for 244 points of damage!
+(16:18:22) Sax's Darius' Fist smites Hwsz for 232 points of damage!
+(16:18:22) Sax's Darius' Fist smites Jon for 149 points of damage!
+(16:18:22) Sax's Darius' Fist smites Yixim for 222 points of damage!
+(16:18:22) Sax's Darius' Fist smites Vashteera's Thrall for 274 points of damage!
+(16:18:22) Sax's Darius' Fist smites KooP for 223 points of damage!
+(16:18:23) Sax's Darius' Fist smites sudo for 214 points of damage!
+(16:18:23) Sax's Darius' Fist smites Jon for 201 points of damage!
+(16:18:23) Sax's Darius' Fist smites Yixim for 286 points of damage!
+(16:18:23) Sax's Darius' Fist smites Hwsz for 175 points of damage!
+(16:18:23) Sax's Darius' Fist smites Vashteera's Thrall for 203 points of damage!
+(16:18:23) Sax's Darius' Fist smites KooP for 115 points of damage!
+(16:18:23) FYasz's Darius' Fist smites KERDC for 144 points of damage!
+(16:18:23) FYasz's Darius' Fist smites Miha for 55 points of damage!
+(16:18:23) FYasz's Darius' Fist smites Saas for 66 points of damage!
+(16:18:23) FYasz's Darius' Fist smites LeiBruc for 49 points of damage!
+(16:18:23) FYasz's Darius' Fist smites Vashteera's Thrall for 105 points of damage!
+(16:18:23) Sax's Darius' Fist smites sudo for 224 points of damage!
+(16:18:23) Sax's Darius' Fist smites Jon for 298 points of damage!
+(16:18:23) Sax's Darius' Fist smites Hwsz for 222 points of damage!
+(16:18:23) Sax's Darius' Fist smites Yixim for 249 points of damage!
+(16:18:23) Sax's Darius' Fist smites Vashteera's Thrall for 225 points of damage!
+(16:18:23) Sax's Darius' Fist smites KooP for 151 points of damage!
+(16:18:24) FYasz's Darius' Fist smites KERDC for 135 points of damage!
+(16:18:24) FYasz's Darius' Fist smites Miha for 76 points of damage!
+(16:18:24) FYasz's Darius' Fist smites Saas for 114 points of damage!
+(16:18:24) FYasz's Darius' Fist smites LeiBruc for 41 points of damage!
+(16:18:24) FYasz's Darius' Fist smites Vashteera's Thrall for 96 points of damage!
+(16:18:24) FYasz's Darius' Fist smites KERDC for 126 points of damage!
+(16:18:24) FYasz's Darius' Fist smites Miha for 101 points of damage!
+(16:18:24) FYasz's Darius' Fist smites LeiBruc for 73 points of damage!
+(16:18:24) FYasz's Darius' Fist smites Saas for 117 points of damage!
+(16:18:24) FYasz's Darius' Fist smites Vashteera's Thrall for 123 points of damage!
+(16:18:25) FYasz's Darius' Fist smites KERDC for 150 points of damage!
+(16:18:25) FYasz's Darius' Fist smites Miha for 79 points of damage!
+(16:18:25) FYasz's Darius' Fist smites Saas for 148 points of damage!
+(16:18:25) FYasz's Darius' Fist smites LeiBruc for 43 points of damage!
+(16:18:25) FYasz's Darius' Fist smites Vashteera's Thrall for 90 points of damage!
+(16:18:25) FYasz's Darius' Fist smites KERDC for 115 points of damage!
+(16:18:25) FYasz's Darius' Fist smites Miha for 92 points of damage!
+(16:18:25) FYasz's Darius' Fist smites LeiBruc for 50 points of damage!
+(16:18:25) FYasz's Darius' Fist smites Saas for 101 points of damage!
+(16:18:25) FYasz's Darius' Fist smites Vashteera's Thrall for 79 points of damage!
+(16:18:26) FYasz's Darius' Fist smites KERDC for 106 points of damage!
+(16:18:26) FYasz's Darius' Fist smites Miha for 77 points of damage!
+(16:18:26) FYasz's Darius' Fist smites Saas for 122 points of damage!
+(16:18:26) FYasz's Darius' Fist smites LeiBruc for 48 points of damage!
+(16:18:26) FYasz's Darius' Fist smites Vashteera's Thrall for 140 points of damage!
+(16:18:26) FYasz's Darius' Fist smites KERDC for 93 points of damage!
+(16:18:26) FYasz's Darius' Fist smites Miha for 74 points of damage!
+(16:18:26) FYasz's Darius' Fist smites LeiBruc for 67 points of damage!
+(16:18:26) FYasz's Darius' Fist smites Saas for 71 points of damage!
+(16:18:26) Sax's Darius' Fist smites Jon for 296 points of damage!
+(16:18:26) Sax's Darius' Fist smites sudo for 281 points of damage!
+(16:18:26) Sax's Darius' Fist smites Vashteera's Thrall for 174 points of damage!
+(16:18:26) Sax's Darius' Fist smites Vashteera's Thrall for 304 points of damage!
+(16:18:26) Sax's Darius' Fist smites Yixim for 190 points of damage!
+(16:18:27) Sax's Darius' Fist smites sudo for 272 points of damage!
+(16:18:27) Sax's Darius' Fist smites Vashteera's Thrall for 253 points of damage!
+(16:18:27) Sax's Darius' Fist smites Vashteera's Thrall for 278 points of damage!
+(16:18:27) Sax's Darius' Fist smites Yixim for 163 points of damage!
+(16:18:27) FYasz's Darius' Fist smites Jon for 84 points of damage!
+(16:18:27) FYasz's Darius' Fist smites Bourbon for 91 points of damage!
+(16:18:27) FYasz's Darius' Fist smites Saas for 92 points of damage!
+(16:18:27) FYasz's Darius' Fist smites lover for 60 points of damage!
+(16:18:27) Sax's Darius' Fist smites sudo for 238 points of damage!
+(16:18:27) Sax's Darius' Fist smites Vashteera's Thrall for 136 points of damage!
+(16:18:27) Sax's Darius' Fist smites Vashteera's Thrall for 200 points of damage!
+(16:18:27) Sax's Darius' Fist smites Yixim for 301 points of damage!
+(16:18:28) FYasz's Darius' Fist smites Jon for 105 points of damage!
+(16:18:28) FYasz's Darius' Fist smites Bourbon for 99 points of damage!
+(16:18:28) FYasz's Darius' Fist smites Saas for 97 points of damage!
+(16:18:28) FYasz's Darius' Fist smites lover for 76 points of damage!
+(16:18:28) Sax's Darius' Fist smites sudo for 204 points of damage!
+(16:18:28) Sax's Darius' Fist smites Vashteera's Thrall for 190 points of damage!
+(16:18:28) Sax's Darius' Fist smites Vashteera's Thrall for 214 points of damage!
+(16:18:28) Sax's Darius' Fist smites Yixim for 214 points of damage!
+(16:18:28) FYasz's Darius' Fist smites Bourbon for 57 points of damage!
+(16:18:28) FYasz's Darius' Fist smites Jon for 57 points of damage!
+(16:18:28) FYasz's Darius' Fist smites lover for 36 points of damage!
+(16:18:28) FYasz's Darius' Fist smites Saas for 49 points of damage!
+(16:18:29) Sax's Darius' Fist smites sudo for 200 points of damage!
+(16:18:29) Sax's Darius' Fist smites Vashteera's Thrall for 247 points of damage!
+(16:18:29) Sax's Darius' Fist smites Vashteera's Thrall for 282 points of damage!
+(16:18:29) Sax's Darius' Fist smites Yixim for 231 points of damage!
+(16:18:29) FYasz's Darius' Fist smites Bourbon for 73 points of damage!
+(16:18:29) FYasz's Darius' Fist smites Jon for 92 points of damage!
+(16:18:29) FYasz's Darius' Fist smites Saas for 80 points of damage!
+(16:18:29) FYasz's Darius' Fist smites lover for 41 points of damage!
+(16:18:29) Sax's Darius' Fist smites sudo for 203 points of damage!
+(16:18:29) Sax's Darius' Fist smites Vashteera's Thrall for 231 points of damage!
+(16:18:29) Sax's Darius' Fist smites Vashteera's Thrall for 262 points of damage!
+(16:18:29) Sax's Darius' Fist smites Yixim for 253 points of damage!
+(16:18:29) FYasz's Darius' Fist smites Bourbon for 64 points of damage!
+(16:18:29) FYasz's Darius' Fist smites lover for 39 points of damage!
+(16:18:29) FYasz's Darius' Fist smites Saas for 81 points of damage!
+(16:18:30) FYasz's Darius' Fist smites Bourbon for 93 points of damage!
+(16:18:30) FYasz's Darius' Fist smites Saas for 62 points of damage!
+(16:18:30) FYasz's Darius' Fist smites lover for 40 points of damage!
+(16:18:30) Sax's Darius' Fist smites Yixim for 225 points of damage!
+(16:18:30) Sax's Darius' Fist smites sudo for 182 points of damage!
+(16:18:30) Sax's Darius' Fist smites Vashteera's Thrall for 210 points of damage!
+(16:18:30) FYasz's Darius' Fist smites Bourbon for 67 points of damage!
+(16:18:30) FYasz's Darius' Fist smites lover for 47 points of damage!
+(16:18:30) FYasz's Darius' Fist smites Saas for 63 points of damage!
+(16:18:30) Sax's Darius' Fist smites sudo for 249 points of damage!
+(16:18:30) Sax's Darius' Fist smites Yixim for 203 points of damage!
+(16:18:30) Sax's Darius' Fist smites Vashteera's Thrall for 223 points of damage!
+(16:18:31) Sax's Darius' Fist smites Vashteera's Thrall for 225 points of damage!
+(16:18:31) Sax's Darius' Fist smites sudo for 226 points of damage!
+(16:18:31) Sax's Darius' Fist smites Vashteera's Thrall for 135 points of damage!
+(16:18:31) Sax's Darius' Fist smites sudo for 189 points of damage!
+(16:18:32) Sax's Darius' Fist smites Vashteera's Thrall for 238 points of damage!
+(16:18:32) Sax's Darius' Fist smites sudo for 263 points of damage!
+(16:18:32) Sax's Darius' Fist smites sudo for 323 points of damage!
+(16:18:32) Sax's Darius' Fist smites Vashteera's Thrall for 226 points of damage!
+(16:18:32) Sax's Darius' Fist smites sudo for 258 points of damage!
+(16:19:25) Soda's Darius' Fist smites Talendor for 189 points of damage!
+(16:19:25) Soda's Darius' Fist smites Brutikus for 129 points of damage!
+(16:19:25) Soda's Darius' Fist smites Zoomy for 192 points of damage!
+(16:19:25) Soda's Darius' Fist smites Schmeat for 267 points of damage!
+(16:19:26) Soda's Darius' Fist smites Talendor for 193 points of damage!
+(16:19:26) Soda's Darius' Fist smites Zoomy for 180 points of damage!
+(16:19:26) Soda's Darius' Fist smites Schmeat for 258 points of damage!
+(16:19:26) Soda's Darius' Fist smites Talendor for 141 points of damage!
+(16:19:26) Soda's Darius' Fist smites Zoomy for 94 points of damage!
+(16:19:26) Soda's Darius' Fist smites Schmeat for 170 points of damage!
+(16:19:27) Soda's Darius' Fist smites Talendor for 162 points of damage!
+(16:19:27) Soda's Darius' Fist smites Zoomy for 218 points of damage!
+(16:19:27) Soda's Darius' Fist smites Schmeat for 101 points of damage!
+(16:19:27) Soda's Darius' Fist smites Talendor for 114 points of damage!
+(16:19:27) Soda's Darius' Fist smites Schmeat for 201 points of damage!
+(16:19:27) Soda's Darius' Fist smites Zoomy for 186 points of damage!
+(16:19:28) Soda's Darius' Fist smites Talendor for 265 points of damage!
+(16:19:28) Soda's Darius' Fist smites Schmeat for 177 points of damage!
+(16:19:28) Soda's Darius' Fist smites Zoomy for 191 points of damage!
+(16:19:28) Soda's Darius' Fist smites Talendor for 267 points of damage!
+(16:19:28) Soda's Darius' Fist smites Schmeat for 229 points of damage!
+(16:19:28) Soda's Darius' Fist smites Zoomy for 116 points of damage!
+(16:19:30) Soda's Darius' Fist smites Luca for 178 points of damage!
+(16:19:30) Soda's Darius' Fist smites Luca for 143 points of damage!
+(16:19:31) Soda's Darius' Fist smites Luca for 138 points of damage!
+(16:19:31) Soda's Darius' Fist smites Luca for 89 points of damage!
+(16:19:32) Soda's Darius' Fist smites Luca for 147 points of damage!
+(16:19:32) Soda's Darius' Fist smites Luca for 206 points of damage!
+(16:19:33) Soda's Darius' Fist smites Luca for 119 points of damage!
+(16:19:43) Soda's Darius' Fist smites Tizoc for 271 points of damage!
+(16:19:44) Soda's Darius' Fist smites Tizoc for 135 points of damage!
+(16:19:44) Soda's Darius' Fist smites Tizoc for 244 points of damage!
+(16:20:48) Soda's Darius' Fist smites CapDD for 175 points of damage!
+(16:20:48) Soda's Darius' Fist smites Apocgg for 159 points of damage!
+(16:20:48) Soda's Darius' Fist smites Drooley for 120 points of damage!
+(16:20:49) Soda's Darius' Fist smites Apocgg for 149 points of damage!
+(16:20:49) Soda's Darius' Fist smites CapDD for 221 points of damage!
+(16:20:49) Soda's Darius' Fist smites Drooley for 175 points of damage!
+(16:20:49) Soda's Darius' Fist smites Apocgg for 122 points of damage!
+(16:20:49) Soda's Darius' Fist smites CapDD for 154 points of damage!
+(16:20:49) Soda's Darius' Fist smites Drooley for 170 points of damage!
+(16:20:50) Soda's Darius' Fist smites CapDD for 258 points of damage!
+(16:20:50) Soda's Darius' Fist smites Apocgg for 221 points of damage!
+(16:20:50) Soda's Darius' Fist smites Drooley for 158 points of damage!
+(16:20:51) Soda's Darius' Fist smites CapDD for 270 points of damage!
+(16:20:51) Soda's Darius' Fist smites Apocgg for 174 points of damage!
+(16:20:51) Soda's Darius' Fist smites Drooley for 236 points of damage!
+(16:20:51) Soda's Darius' Fist smites CapDD for 205 points of damage!
+(16:20:51) Soda's Darius' Fist smites Apocgg for 250 points of damage!
+(16:20:51) Soda's Darius' Fist smites Drooley for 142 points of damage!
+(16:20:52) Soda's Darius' Fist smites Apocgg for 116 points of damage!
+(16:20:52) Soda's Darius' Fist smites CapDD for 96 points of damage!
+(16:20:52) Soda's Darius' Fist smites Drooley for 182 points of damage!
+(16:21:46) Soda's Darius' Fist smites Vashteera's Companion for 164 points of damage!
+(16:21:46) Soda's Darius' Fist smites asir for 236 points of damage!
+(16:21:46) Soda's Darius' Fist smites Vashteera's Companion for 197 points of damage!
+(16:21:46) Soda's Darius' Fist smites asir for 199 points of damage!
+(16:21:47) Soda's Darius' Fist smites Vashteera's Companion for 141 points of damage!
+(16:21:47) Soda's Darius' Fist smites asir for 141 points of damage!
+(16:21:47) Soda's Darius' Fist smites Vashteera's Companion for 246 points of damage!
+(16:21:47) Soda's Darius' Fist smites asir for 135 points of damage!
+(16:21:48) Soda's Darius' Fist smites Vashteera's Companion for 199 points of damage!
+(16:21:48) Soda's Darius' Fist smites asir for 265 points of damage!
+(16:21:48) Soda's Darius' Fist smites Vashteera's Companion for 203 points of damage!
+(16:21:48) Soda's Darius' Fist smites asir for 168 points of damage!
+(16:21:49) Soda's Darius' Fist smites Vashteera's Companion for 251 points of damage!
+(16:21:49) Soda's Darius' Fist smites asir for 172 points of damage!
+(16:21:50) Soda's Darius' Fist smites JYMS for 241 points of damage!
+(16:21:50) Soda's Darius' Fist smites Vashteera's Companion for 291 points of damage!
+(16:21:50) Soda's Darius' Fist smites JYMS for 157 points of damage!
+(16:21:50) Soda's Darius' Fist smites Vashteera's Companion for 166 points of damage!
+(16:21:51) Soda's Darius' Fist smites JYMS for 190 points of damage!
+(16:21:51) Soda's Darius' Fist smites Vashteera's Companion for 183 points of damage!
+(16:21:51) Soda's Darius' Fist smites JYMS for 206 points of damage!
+(16:21:51) Soda's Darius' Fist smites Vashteera's Companion for 184 points of damage!
+(16:21:52) Soda's Darius' Fist smites Vashteera's Companion for 220 points of damage!
+(16:21:52) Soda's Darius' Fist smites Vashteera's Companion for 95 points of damage!

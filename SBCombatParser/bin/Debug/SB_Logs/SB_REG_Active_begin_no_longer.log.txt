@@ -1,6 +1,104 @@
-Version     :: 0.0.11.0
-DateTime    :: 11/7/2023 02:23:58 AM
+Version     :: 0.0.11.5
+DateTime    :: 11/7/2023 04:12:41 PM
 RegExType   :: Active :: begin_no_longer
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) [a]?[r]?[e]?[i]?[s]?\W?(?<event_type>.*?)[s]? (?<type>active)ly (?<ability>.*)ing[\.!]
 
 
+(16:12:57) Sax begins actively blocking!
+(16:13:05) Sax is no longer actively blocking.
+(16:13:12) Drooley begins actively blocking!
+(16:13:13) Drooley is no longer actively blocking.
+(16:13:30) Sax begins actively blocking!
+(16:13:35) Sax is no longer actively blocking.
+(16:13:36) deez begins actively blocking!
+(16:13:39) deez is no longer actively blocking.
+(16:14:28) kwx begins actively dodging!
+(16:14:29) kwx is no longer actively dodging.
+(16:14:48) Bearable begins actively parrying!
+(16:14:52) Bearable is no longer actively parrying.
+(16:15:02) Sax begins actively blocking!
+(16:15:06) Soda begins actively blocking!
+(16:15:10) Sax is no longer actively blocking.
+(16:15:13) Soda is no longer actively blocking.
+(16:15:36) Sax is no longer actively blocking.
+(16:16:05) Jon begins actively parrying!
+(16:16:06) Sax begins actively blocking!
+(16:16:09) brms begins actively blocking!
+(16:16:11) Jon is no longer actively parrying.
+(16:16:11) Sax is no longer actively blocking.
+(16:16:14) brms is no longer actively blocking.
+(16:16:17) KERDC begins actively blocking!
+(16:16:22) KERDC is no longer actively blocking.
+(16:16:44) Sax begins actively blocking!
+(16:16:51) Sax is no longer actively blocking.
+(16:16:55) Sexting begins actively blocking!
+(16:17:18) sudo begins actively blocking!
+(16:17:20) LeiBruc begins actively blocking!
+(16:17:27) sudo is no longer actively blocking.
+(16:17:29) LeiBruc is no longer actively blocking.
+(16:17:46) Sax begins actively blocking!
+(16:17:56) Sax is no longer actively blocking.
+(16:17:59) KERDC begins actively blocking!
+(16:18:00) dwh begins actively blocking!
+(16:18:03) dwh is no longer actively blocking.
+(16:18:06) KERDC is no longer actively blocking.
+(16:18:15) Sax begins actively blocking!
+(16:18:18) KERDC begins actively blocking!
+(16:18:20) Yixim begins actively blocking!
+(16:18:24) Sax is no longer actively blocking.
+(16:18:26) KERDC is no longer actively blocking.
+(16:18:29) Yixim is no longer actively blocking.
+(16:18:41) Jill begins actively blocking!
+(16:18:44) Jill is no longer actively blocking.
+(16:18:52) xllxl begins actively dodging!
+(16:18:52) xllxl is no longer actively dodging.
+(16:19:04) Soda begins actively blocking!
+(16:19:05) Sax begins actively blocking!
+(16:19:11) BSZ begins actively blocking!
+(16:19:12) Soda is no longer actively blocking.
+(16:19:12) ASaz begins actively blocking!
+(16:19:12) Sax is no longer actively blocking.
+(16:19:13) WMW begins actively blocking!
+(16:19:14) WMW is no longer actively blocking.
+(16:19:24) Lister begins actively blocking!
+(16:19:29) Sax begins actively blocking!
+(16:19:32) Lister is no longer actively blocking.
+(16:19:34) Talendor begins actively parrying!
+(16:19:35) Sax is no longer actively blocking.
+(16:19:35) Talendor is no longer actively parrying.
+(16:19:43) Uhtred is no longer actively dodging.
+(16:20:14) Lister begins actively blocking!
+(16:20:15) Bozo begins actively blocking!
+(16:20:22) Lister is no longer actively blocking.
+(16:20:24) Bozo is no longer actively blocking.
+(16:20:44) Qwert begins actively blocking!
+(16:20:45) Qwert is no longer actively blocking.
+(16:20:52) Soda begins actively blocking!
+(16:20:55) Soda is no longer actively blocking.
+(16:20:59) Jill begins actively blocking!
+(16:21:00) Sax begins actively blocking!
+(16:21:01) Drooley begins actively blocking!
+(16:21:01) Sax is no longer actively blocking.
+(16:21:03) Jill is no longer actively blocking.
+(16:21:04) Stylebane begins actively blocking!
+(16:21:05) Stylebane is no longer actively blocking.
+(16:21:12) Sax begins actively blocking!
+(16:21:15) Drooley begins actively blocking!
+(16:21:15) Drooley is no longer actively blocking.
+(16:21:19) Sax is no longer actively blocking.
+(16:21:46) Soda begins actively blocking!
+(16:21:50) JYMS begins actively blocking!
+(16:21:51) JYMS is no longer actively blocking.
+(16:21:52) Soda is no longer actively blocking.
+(16:22:07) Sax begins actively blocking!
+(16:22:07) somebody begins actively blocking!
+(16:22:11) Tactz begins actively blocking!
+(16:22:12) Tactz is no longer actively blocking.
+(16:22:17) Sax is no longer actively blocking.
+(16:22:17) somebody is no longer actively blocking.
+(16:22:28) Vlad begins actively blocking!
+(16:22:31) somebody begins actively blocking!
+(16:22:32) Vlad is no longer actively blocking.
+(16:22:33) TOGNAAR begins actively blocking!
+(16:22:38) somebody is no longer actively blocking.
+(16:22:40) TOGNAAR is no longer actively blocking.

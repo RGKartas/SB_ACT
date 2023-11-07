@@ -1,0 +1,499 @@
+Version     :: 0.0.11.5
+DateTime    :: 11/7/2023 04:12:41 PM
+RegExType   :: Power :: Execute-prepare
+RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<event_type>prepare) to (?<type>execute)s? [\Wa]*(?<ability>.*)[\.!]
+
+Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
+16:14:49 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:14:49 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:14:49 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:14:50 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:14:51 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:14:51 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:14:51 : execute    : YOU                       :                           : Circle Swing              : prepare      :              :       
+16:14:51 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:14:52 : execute    : YOU                       :                           : Batter                    : prepare      :              :       
+16:14:52 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:14:53 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:14:53 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:14:53 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:14:54 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:14:54 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:14:54 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:15:32 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:15:32 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:15:33 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:15:33 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:15:34 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:15:34 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:15:34 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:15:35 : execute    : YOU                       :                           : Circle Swing              : prepare      :              :       
+16:15:35 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:15:35 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:15:35 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:15:36 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:15:39 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:15:40 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:15:44 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:15:45 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:15:46 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:15:46 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:15:47 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:15:47 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:15:48 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:15:55 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:15:55 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:15:55 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:15:56 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:15:56 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:17:03 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:17:03 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:17:04 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:17:04 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:17:07 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:17:08 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:17:08 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:17:08 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:17:09 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:17:09 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:17:09 : execute    : YOU                       :                           : Circle Swing              : prepare      :              :       
+16:17:10 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:17:10 : execute    : YOU                       :                           : Batter                    : prepare      :              :       
+16:17:10 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:17:11 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:17:11 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:17:12 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:17:12 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:17:12 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:17:12 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:17:13 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:17:13 : execute    : YOU                       :                           : Batter                    : prepare      :              :       
+16:17:13 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:17:14 : execute    : YOU                       :                           : Circle Swing              : prepare      :              :       
+16:17:15 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:17:16 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:17:16 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:17:16 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:17:17 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:17:17 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:17:18 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:17:18 : execute    : YOU                       :                           : Batter                    : prepare      :              :       
+16:17:18 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:17:19 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:17:20 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:17:20 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:17:21 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:17:21 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:17:22 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:17:22 : execute    : YOU                       :                           : Circle Swing              : prepare      :              :       
+16:17:23 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:17:23 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:17:24 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:17:24 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:17:24 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:17:24 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:17:25 : execute    : YOU                       :                           : Batter                    : prepare      :              :       
+16:17:25 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:17:26 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:17:26 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:17:27 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:17:28 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:17:28 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:17:28 : execute    : YOU                       :                           : Circle Swing              : prepare      :              :       
+16:17:28 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:17:29 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:17:29 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:17:29 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:17:30 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:17:30 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:17:31 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:17:31 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:17:32 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:17:32 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:17:33 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:17:34 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:17:34 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:18:41 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:18:43 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:18:44 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:18:44 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:18:44 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:18:44 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:18:45 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:18:45 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:18:45 : execute    : YOU                       :                           : Chant of the Dwarves      : prepare      :              :       
+16:18:45 : execute    : YOU                       :                           : Circle Swing              : prepare      :              :       
+16:18:46 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:18:46 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:18:46 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:18:46 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:18:47 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:18:47 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:18:47 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:18:47 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:18:47 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:18:47 : execute    : YOU                       :                           : Batter                    : prepare      :              :       
+16:18:50 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:18:50 : execute    : YOU                       :                           : Circle Swing              : prepare      :              :       
+16:18:50 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:18:50 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:18:51 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:18:51 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:18:51 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:18:52 : execute    : YOU                       :                           : Circle Swing              : prepare      :              :       
+16:18:52 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:18:52 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:19:03 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:19:03 : execute    : YOU                       :                           : Circle Swing              : prepare      :              :       
+16:19:03 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:19:03 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:19:03 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:19:04 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:19:05 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:19:05 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:19:05 : execute    : YOU                       :                           : Batter                    : prepare      :              :       
+16:19:05 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:19:06 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:19:06 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:19:06 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:19:07 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:19:07 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:19:08 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:19:08 : execute    : YOU                       :                           : Batter                    : prepare      :              :       
+16:19:08 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:19:08 : execute    : YOU                       :                           : Circle Swing              : prepare      :              :       
+16:19:09 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:19:10 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:19:10 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:19:10 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:19:11 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:19:11 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:19:11 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:19:12 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:19:12 : execute    : YOU                       :                           : Circle Swing              : prepare      :              :       
+16:19:12 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:19:13 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:19:13 : execute    : YOU                       :                           : Batter                    : prepare      :              :       
+16:19:13 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:19:13 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:19:14 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:19:14 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:19:22 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:19:22 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:19:24 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:19:24 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:19:24 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:19:25 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:19:25 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:19:26 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:19:26 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:19:26 : execute    : YOU                       :                           : Batter                    : prepare      :              :       
+16:19:27 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:19:27 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:19:29 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:19:29 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:19:29 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:19:30 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:19:30 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:19:30 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:19:31 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:19:31 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:19:32 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:19:32 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:19:33 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:19:33 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:19:33 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:19:34 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:19:34 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:19:34 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:19:34 : execute    : YOU                       :                           : Chant of the Dwarves      : prepare      :              :       
+16:19:35 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:19:35 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:19:35 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:19:35 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:19:36 : execute    : YOU                       :                           : Circle Swing              : prepare      :              :       
+16:19:36 : execute    : YOU                       :                           : Chant of the Dwarves      : prepare      :              :       
+16:19:36 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:19:42 : execute    : YOU                       :                           : Chant of the Dwarves      : prepare      :              :       
+16:19:42 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:19:42 : execute    : YOU                       :                           : Circle Swing              : prepare      :              :       
+16:19:43 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:19:43 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:19:43 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:19:44 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:19:44 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:19:45 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:19:55 : execute    : YOU                       :                           : Chant of the Dwarves      : prepare      :              :       
+16:19:55 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:19:55 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:19:56 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:19:56 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:19:57 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:19:57 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:19:57 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:19:58 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:19:58 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:19:59 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:19:59 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:20:00 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:20:00 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:20:00 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:20:01 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:20:02 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:20:02 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:20:03 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:20:03 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:20:03 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:20:04 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:20:04 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:20:04 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:20:05 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:20:05 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:20:06 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:20:06 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:20:06 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:20:07 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:20:08 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:20:08 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:20:08 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:20:09 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:20:09 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:20:09 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:20:10 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:20:10 : execute    : YOU                       :                           : Batter                    : prepare      :              :       
+16:20:10 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:20:11 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:20:11 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:20:11 : execute    : YOU                       :                           : Circle Swing              : prepare      :              :       
+16:20:12 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:20:12 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:20:12 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:20:12 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:20:13 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:20:13 : execute    : YOU                       :                           : Batter                    : prepare      :              :       
+16:20:14 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:20:14 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:20:14 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:20:15 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:20:15 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:20:17 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:20:17 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:20:17 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:20:18 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:20:18 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:20:20 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:20:20 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:20:21 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:20:21 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:20:22 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:20:23 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:20:23 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:20:24 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:20:24 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:20:24 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:20:25 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:20:25 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:20:25 : execute    : YOU                       :                           : Batter                    : prepare      :              :       
+16:20:26 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:20:26 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:20:26 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:20:27 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:20:27 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:20:27 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:20:27 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:20:28 : execute    : YOU                       :                           : Batter                    : prepare      :              :       
+16:20:28 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:20:28 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:20:28 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:20:29 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:20:29 : execute    : YOU                       :                           : Chant of the Dwarves      : prepare      :              :       
+16:20:29 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:20:30 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:20:30 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:20:40 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:20:40 : execute    : YOU                       :                           : Chant of the Dwarves      : prepare      :              :       
+16:20:41 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:20:41 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:20:42 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:20:42 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:20:42 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:20:43 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:20:43 : execute    : YOU                       :                           : Batter                    : prepare      :              :       
+16:20:44 : execute    : YOU                       :                           : Circle Swing              : prepare      :              :       
+16:20:46 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:20:47 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:20:47 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:20:47 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:20:48 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:20:48 : execute    : YOU                       :                           : Batter                    : prepare      :              :       
+16:20:48 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:20:49 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:20:49 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:20:49 : execute    : YOU                       :                           : Circle Swing              : prepare      :              :       
+16:20:50 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:20:50 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:20:51 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:20:52 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:20:52 : execute    : YOU                       :                           : Chant of the Dwarves      : prepare      :              :       
+16:20:52 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:20:53 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:20:53 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:20:54 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:20:54 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:20:55 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:20:55 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:20:55 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:20:55 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:20:56 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:20:56 : execute    : YOU                       :                           : Batter                    : prepare      :              :       
+16:21:12 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:21:13 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:21:13 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:21:13 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:21:14 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:21:14 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:21:15 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:21:15 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:21:15 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:21:16 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:21:16 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:21:16 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:21:17 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:21:17 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:21:17 : execute    : YOU                       :                           : Batter                    : prepare      :              :       
+16:21:18 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:21:18 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:21:18 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:21:19 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:21:19 : execute    : YOU                       :                           : Circle Swing              : prepare      :              :       
+16:21:19 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:21:20 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:21:20 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:21:20 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:21:21 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:21:21 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:21:22 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:21:22 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:21:22 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:21:22 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:21:22 : execute    : YOU                       :                           : Circle Swing              : prepare      :              :       
+16:21:22 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:21:22 : execute    : YOU                       :                           : Chant of the Dwarves      : prepare      :              :       
+16:21:22 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:21:23 : execute    : YOU                       :                           : Batter                    : prepare      :              :       
+16:21:23 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:21:23 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:21:23 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:21:23 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:21:23 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:21:23 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:21:23 : execute    : YOU                       :                           : Batter                    : prepare      :              :       
+16:21:24 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:21:24 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:21:24 : execute    : YOU                       :                           : Chant of the Dwarves      : prepare      :              :       
+16:21:24 : execute    : YOU                       :                           : Circle Swing              : prepare      :              :       
+16:21:24 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:21:31 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:21:32 : execute    : YOU                       :                           : Chant of the Dwarves      : prepare      :              :       
+16:21:32 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:21:33 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:21:33 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:21:34 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:21:34 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:21:35 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:21:35 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:21:36 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:21:36 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:21:37 : execute    : YOU                       :                           : Batter                    : prepare      :              :       
+16:21:38 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:21:39 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:21:40 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:21:40 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:21:41 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:21:42 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:21:43 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:21:43 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:21:43 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:21:44 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:21:45 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:21:45 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:21:46 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:21:46 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:21:47 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:21:47 : execute    : YOU                       :                           : Chant of the Dwarves      : prepare      :              :       
+16:21:48 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:21:49 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:21:49 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:21:49 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:21:49 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:21:50 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:21:50 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:21:50 : execute    : YOU                       :                           : Chant of the Dwarves      : prepare      :              :       
+16:21:51 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:21:51 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:21:51 : execute    : YOU                       :                           : Batter                    : prepare      :              :       
+16:21:52 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:21:53 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:21:53 : execute    : YOU                       :                           : Chant of the Dwarves      : prepare      :              :       
+16:21:53 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:21:53 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:21:53 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:21:54 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:21:54 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:21:54 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:21:55 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:21:55 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:21:55 : execute    : YOU                       :                           : Chant of the Dwarves      : prepare      :              :       
+16:21:55 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:21:57 : execute    : YOU                       :                           : Chant of the Dwarves      : prepare      :              :       
+16:21:57 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:21:57 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:21:58 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:22:07 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:22:08 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:22:08 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:22:09 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:22:09 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:22:09 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:22:10 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:22:10 : execute    : YOU                       :                           : Batter                    : prepare      :              :       
+16:22:10 : execute    : YOU                       :                           : Circle Swing              : prepare      :              :       
+16:22:12 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:22:13 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:22:13 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:22:14 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:22:14 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:22:15 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:22:15 : execute    : YOU                       :                           : Batter                    : prepare      :              :       
+16:22:16 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:22:16 : execute    : YOU                       :                           : Circle Swing              : prepare      :              :       
+16:22:17 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:22:18 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:22:18 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:22:19 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:22:20 : execute    : YOU                       :                           : Chant of the Dwarves      : prepare      :              :       
+16:22:21 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:22:31 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:22:36 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:22:36 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:22:37 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:22:38 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:22:39 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:22:39 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:22:39 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:22:40 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:22:40 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:22:40 : execute    : YOU                       :                           : Batter                    : prepare      :              :       
+16:22:41 : execute    : YOU                       :                           : Circle Swing              : prepare      :              :       
+16:22:42 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:22:42 : execute    : YOU                       :                           : Smash                     : prepare      :              :       
+16:22:43 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:22:44 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:22:44 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       
+16:22:44 : execute    : YOU                       :                           : Aim for the Arm           : prepare      :              :       
+16:22:44 : execute    : YOU                       :                           : Shield Ringer             : prepare      :              :       
+16:22:44 : execute    : YOU                       :                           : Spinning Block            : prepare      :              :       
+16:22:45 : execute    : YOU                       :                           : Bruising Strike           : prepare      :              :       
+16:22:45 : execute    : YOU                       :                           : Batter                    : prepare      :              :       
+16:22:46 : execute    : YOU                       :                           : Kneeshot                  : prepare      :              :       
+16:22:46 : execute    : YOU                       :                           : Mark of Shame             : prepare      :              :       

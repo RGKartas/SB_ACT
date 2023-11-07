@@ -1,5 +1,5 @@
-Version     :: 0.0.11.0
-DateTime    :: 11/7/2023 02:23:58 AM
+Version     :: 0.0.11.5
+DateTime    :: 11/7/2023 04:12:41 PM
 RegExType   :: Damage :: Pallando's Pernicious Puns
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>Pallando.*Puns) (?<type>\w{3,11}?) (?<target>.*) for (?<value>\d*) .*[\.!]
 

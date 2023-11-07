@@ -1,6 +1,69 @@
-Version     :: 0.0.11.0
-DateTime    :: 11/7/2023 02:23:58 AM
+Version     :: 0.0.11.5
+DateTime    :: 11/7/2023 04:12:41 PM
 RegExType   :: Evade :: Dodge
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>dodge)s? (?<source>.*?)[r']?[s]? attack[\.!]
 
 
+(16:13:20) DMT dodges Dispel Cobra's attack.
+(16:13:51) Octavius dodges Dispel Cobra's attack.
+(16:13:51) Octavius dodges Dispel Cobra's attack.
+(16:13:51) Octavius dodges Dispel Cobra's attack.
+(16:13:57) xinyu dodges Dispel Cobra's attack.
+(16:13:57) Rylix dodges HuntyPet Cobra's attack.
+(16:13:57) Rylix dodges HuntyPet Cobra's attack.
+(16:14:29) kwx dodges TyyppVee's attack.
+(16:14:29) kwx dodges TyyppVee's attack.
+(16:14:51) DayWalker dodges TyyppVee's attack.
+(16:14:52) DayWalker dodges TyyppVee's attack.
+(16:14:52) DayWalker dodges TyyppVee's attack.
+(16:16:21) AfkSlayer - KillerXIII - dodges PBAOE's attack.
+(16:16:21) AfkSlayer - KillerXIII - dodges PBAOE's attack.
+(16:16:27) AfkSlayer - KillerXIII - dodges the Giant Sand Troll's attack.
+(16:16:49) Pockets dodges Diana's attack.
+(16:16:50) Pockets dodges Ptress's attack.
+(16:16:50) Pockets dodges the Vashteera's Companion's attack.
+(16:16:52) Pockets dodges Diana's attack.
+(16:16:52) Pockets dodges Diana's attack.
+(16:18:29) AfkSlayer - KillerXIII - dodges HuntyPet Cobra's attack.
+(16:18:41) Apdo dodges Hero's attack.
+(16:18:41) Apdo dodges Hero's attack.
+(16:18:42) Apdo dodges Jill's attack.
+(16:18:42) Apdo dodges Hero's attack.
+(16:18:43) Apdo dodges Hero's attack.
+(16:18:43) Redneck dodges Jill's attack.
+(16:18:43) Redneck dodges Hero's attack.
+(16:18:43) Redneck dodges Jill's attack.
+(16:18:45) Eyes Bank Mice Elf dodges SOMEONE's attack.
+(16:18:45) Eyes Bank Mice Elf dodges xlxl cc's attack.
+(16:18:45) Eyes Bank Mice Elf dodges SOMEONE's attack.
+(16:18:45) Eyes Bank Mice Elf dodges SOMEONE's attack.
+(16:18:45) Eyes Bank Mice Elf dodges xllxl cc's attack.
+(16:18:45) Eyes Bank Mice Elf dodges xlxlll cc's attack.
+(16:18:45) Eyes Bank Mice Elf dodges xlxll cc's attack.
+(16:18:46) Eyes Bank Mice Elf dodges xlxll cc's attack.
+(16:18:46) Eyes Bank Mice Elf dodges xlxlll cc's attack.
+(16:18:46) Eyes Bank Mice Elf dodges xlxll cc's attack.
+(16:18:46) Eyes Bank Mice Elf dodges xlxll cc's attack.
+(16:18:46) Eyes Bank Mice Elf dodges SOMEONE's attack.
+(16:18:52) xllxl cc dodges Hero's attack.
+(16:18:52) xllxl cc dodges Hero's attack.
+(16:19:42) Uhtred dodges Tizoc De Teotihuacan's attack.
+(16:19:42) Uhtred dodges Stylebane's attack.
+(16:19:42) Uhtred dodges Bozo's attack.
+(16:19:42) Uhtred dodges Stylebane's attack.
+(16:19:42) Uhtred dodges YOU attack!
+(16:19:43) Uhtred dodges PonyV's attack.
+(16:19:43) Uhtred dodges Stylebane's attack.
+(16:19:43) Uhtred dodges Jill's attack.
+(16:19:43) Uhtred dodges PonyV's attack.
+(16:19:43) Uhtred dodges Stylebane's attack.
+(16:19:43) Uhtred dodges PonyV's attack.
+(16:19:43) Uhtred dodges Bozo's attack.
+(16:19:43) Uhtred dodges Jill's attack.
+(16:22:41) FireAS - Killer XIII - dodges Stylebane's attack.
+(16:22:42) FireAS - Killer XIII - dodges Stylebane's attack.
+(16:22:42) FireAS - Killer XIII - dodges Vlad Tepes's attack.
+(16:23:04) Dhampir dodges Hold MyHand's attack.
+(16:23:06) Dhampir dodges vVv's attack.
+(16:23:06) Dhampir dodges vVv's attack.
+(16:23:07) Dhampir dodges vVv's attack.

@@ -1,6 +1,32 @@
-Version     :: 0.0.11.0
-DateTime    :: 11/7/2023 02:23:58 AM
+Version     :: 0.0.11.5
+DateTime    :: 11/7/2023 04:12:41 PM
 RegExType   :: Debuff :: Blind
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>kick[s]? dirt) .* (?<target>\w*)[r's]+ .*[\.!]
 
 Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
+16:13:03 : kicks dirt : BigBlackBen               : lover                     :                           :              :              :       
+16:15:44 : kicks dirt : DRChuckIt                 : yunT                      :                           :              :              :       
+16:16:45 : kicks dirt : iThallia                  : Roka                      :                           :              :              :       
+16:16:47 : kicks dirt : Necromancer               : Sax                       :                           :              :              :       
+16:17:06 : kicks dirt : iThallia                  : Roka                      :                           :              :              :       
+16:17:08 : kicks dirt : BigBlackBen               : TyyppVee                  :                           :              :              :       
+16:17:09 : kicks dirt : BamBam                    : Typechi                   :                           :              :              :       
+16:18:41 : kicks dirt : typeV                     : Apdo                      :                           :              :              :       
+16:18:41 : kicks dirt : Apdo                      : Apdo                      :                           :              :              :       
+16:18:52 : kicks dirt : typeV                     : xlxl                      :                           :              :              :       
+16:18:52 : kicks dirt : xlxl cc                   : xlxl                      :                           :              :              :       
+16:19:04 : kicks dirt : Jill                      : CCJFsD                    :                           :              :              :       
+16:19:12 : kicks dirt : Stylebane                 : WMW                       :                           :              :              :       
+16:19:12 : kicks dirt : typeV                     : WMW                       :                           :              :              :       
+16:19:14 : kicks dirt : PonyV                     : WMW                       :                           :              :              :       
+16:19:42 : kicks dirt : PonyV                     : Uhtred                    :                           :              :              :       
+16:19:42 : kicks dirt : Stylebane                 : Uhtred                    :                           :              :              :       
+16:19:42 : kicks dirt : Jill                      : Uhtred                    :                           :              :              :       
+16:20:17 : kicks dirt : Brutikus                  : Bozo                      :                           :              :              :       
+16:21:01 : kicks dirt : Bozo                      : CapDD                     :                           :              :              :       
+16:21:19 : kicks dirt : typeB                     : Cumtaker                  :                           :              :              :       
+16:21:24 : kicks dirt : typeV                     : TheHerp                   :                           :              :              :       
+16:21:41 : kicks dirt : Bozo                      : CCJFsD                    :                           :              :              :       
+16:21:42 : kicks dirt : AIucard                   : mybjT                     :                           :              :              :       
+16:21:45 : kicks dirt : mybjT }�  MorDor          : mybjT                     :                           :              :              :       
+16:22:48 : kicks dirt : WarPonch                  : sdx                       :                           :              :              :       

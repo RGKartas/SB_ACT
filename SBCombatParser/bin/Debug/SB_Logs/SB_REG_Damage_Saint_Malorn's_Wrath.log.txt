@@ -1,6 +1,191 @@
-Version     :: 0.0.11.0
-DateTime    :: 11/7/2023 02:23:58 AM
+Version     :: 0.0.11.5
+DateTime    :: 11/7/2023 04:12:41 PM
 RegExType   :: Damage :: Saint Malorn's Wrath
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>\w*)[r's]* (?<ability>Saint.*'.*) (?<type>.{3,8})s (?<target>.*) for (?<value>\d*) .*[\.!]
 
 
+(16:13:04) BigBlackBen's Saint Malorn's Wrath burns Miha for 351 points of damage!
+(16:13:04) BigBlackBen's Saint Malorn's Wrath burns Dispel for 412 points of damage!
+(16:13:04) BigBlackBen's Saint Malorn's Wrath burns Sax for 543 points of damage!
+(16:13:04) BigBlackBen's Saint Malorn's Wrath burns Saas for 479 points of damage!
+(16:13:04) BigBlackBen's Saint Malorn's Wrath burns Bourbon for 359 points of damage!
+(16:13:04) BigBlackBen's Saint Malorn's Wrath burns lover for 609 points of damage!
+(16:13:04) BigBlackBen's Saint Malorn's Wrath burns HuntyPet for 527 points of damage!
+(16:13:50) Hunger's Saint Lorne's Ire smites Vashteera's Companion for 774 points of damage!
+(16:13:50) Hunger's Saint Lorne's Ire smites Vashteera's Companion for 740 points of damage!
+(16:13:50) Hunger's Saint Lorne's Ire smites HuntyPet for 719 points of damage!
+(16:13:50) Hunger's Saint Lorne's Ire smites YOU for 577 points of damage!
+(16:13:50) Hunger's Saint Lorne's Ire smites sudo for 528 points of damage!
+(16:13:50) Hunger's Saint Lorne's Ire smites TyyppVee for 829 points of damage!
+(16:14:37) MDAZJ's Saint Lorne's Ire smites YOU for 491 points of damage!
+(16:14:37) SPF's Saint Lorne's Ire smites HuntyPet for 593 points of damage!
+(16:14:37) SPF's Saint Lorne's Ire smites TyyppVee for 510 points of damage!
+(16:14:37) SPF's Saint Lorne's Ire smites Dispel for 681 points of damage!
+(16:14:37) SPF's Saint Lorne's Ire smites sudo for 452 points of damage!
+(16:14:37) SPF's Saint Lorne's Ire smites Vashteera's Companion for 674 points of damage!
+(16:14:39) SPF's Saint Lorne's Ire smites YOU for 682 points of damage!
+(16:15:15) Tibins's Saint Lorne's Ire smites tickles for 160 points of damage!
+(16:15:15) Tibins's Saint Lorne's Ire smites Sax for 105 points of damage!
+(16:15:15) Tibins's Saint Lorne's Ire smites Soda for 110 points of damage!
+(16:15:15) Tibins's Saint Lorne's Ire smites vVv for 304 points of damage!
+(16:15:15) Tibins's Saint Lorne's Ire smites Hold for 224 points of damage!
+(16:15:45) xxOxx's Saint Malorn's Wrath burns Sauce for 308 points of damage!
+(16:15:45) xxOxx's Saint Malorn's Wrath burns stuffed for 507 points of damage!
+(16:15:45) xxOxx's Saint Malorn's Wrath burns Sax for 470 points of damage!
+(16:15:45) xxOxx's Saint Malorn's Wrath burns DRChuckIt for 480 points of damage!
+(16:15:45) xxOxx's Saint Malorn's Wrath burns Sasss for 308 points of damage!
+(16:16:02) Libai's Saint Lorne's Ire smites Trashcans for 592 points of damage!
+(16:16:02) Libai's Saint Lorne's Ire smites Vashteera's Thrall for 638 points of damage!
+(16:16:05) Libai's Saint Lorne's Ire smites Tupoc for 439 points of damage!
+(16:16:05) Libai's Saint Lorne's Ire smites Priest for 590 points of damage!
+(16:16:05) Libai's Saint Lorne's Ire smites Tupac for 433 points of damage!
+(16:16:05) Libai's Saint Lorne's Ire smites Hellio for 598 points of damage!
+(16:16:08) Libai's Saint Lorne's Ire smites LeiBruc for 453 points of damage!
+(16:16:08) Libai's Saint Lorne's Ire smites KERDC for 628 points of damage!
+(16:16:08) Libai's Saint Lorne's Ire smites YOU for 585 points of damage!
+(16:16:08) Libai's Saint Lorne's Ire smites lover for 427 points of damage!
+(16:16:08) Libai's Saint Lorne's Ire smites HuntyPet for 617 points of damage!
+(16:16:08) Libai's Saint Lorne's Ire smites Saas for 580 points of damage!
+(16:16:08) Libai's Saint Lorne's Ire smites Sniper for 605 points of damage!
+(16:16:13) KooP's Saint Lorne's Ire smites Vashteera's Companion for 711 points of damage!
+(16:16:13) KooP's Saint Lorne's Ire smites Sax for 491 points of damage!
+(16:16:13) KooP's Saint Lorne's Ire smites Saas for 344 points of damage!
+(16:16:13) KooP's Saint Lorne's Ire smites YOU for 527 points of damage!
+(16:16:13) KooP's Saint Lorne's Ire smites HuntyPet for 503 points of damage!
+(16:16:13) KooP's Saint Lorne's Ire smites KERDC for 549 points of damage!
+(16:16:13) KooP's Saint Lorne's Ire smites lover for 454 points of damage!
+(16:16:14) Libai's Saint Lorne's Ire smites YOU for 575 points of damage!
+(16:16:14) Libai's Saint Lorne's Ire smites Sax for 560 points of damage!
+(16:16:14) Libai's Saint Lorne's Ire smites HuntyPet for 728 points of damage!
+(16:16:14) Libai's Saint Lorne's Ire smites lover for 351 points of damage!
+(16:16:14) Libai's Saint Lorne's Ire smites Saas for 665 points of damage!
+(16:16:14) Libai's Saint Lorne's Ire smites KERDC for 648 points of damage!
+(16:16:18) Libai's Saint Lorne's Ire smites YOU for 564 points of damage!
+(16:16:18) Libai's Saint Lorne's Ire smites HuntyPet for 712 points of damage!
+(16:16:18) Libai's Saint Lorne's Ire smites KERDC for 647 points of damage!
+(16:16:18) Libai's Saint Lorne's Ire smites lover for 352 points of damage!
+(16:16:18) Libai's Saint Lorne's Ire smites Sniper for 485 points of damage!
+(16:16:18) Libai's Saint Lorne's Ire smites Sax for 466 points of damage!
+(16:16:18) Libai's Saint Lorne's Ire smites Miha for 601 points of damage!
+(16:16:46) TactzP's Saint Lorne's Ire smites LordStu for 436 points of damage!
+(16:16:55) TactzP's Saint Lorne's Ire smites Pockets for 595 points of damage!
+(16:16:55) TactzP's Saint Lorne's Ire smites Sass for 374 points of damage!
+(16:16:55) TactzP's Saint Lorne's Ire smites LordStu for 419 points of damage!
+(16:17:21) BigBlackBen's Saint Malorn's Wrath burns TyypeVee for 574 points of damage!
+(16:17:21) BigBlackBen's Saint Malorn's Wrath burns YOU for 409 points of damage!
+(16:17:21) BigBlackBen's Saint Malorn's Wrath burns DRChuckIt for 401 points of damage!
+(16:17:21) BigBlackBen's Saint Malorn's Wrath burns BamBam for 454 points of damage!
+(16:17:21) BigBlackBen's Saint Malorn's Wrath burns sudo for 546 points of damage!
+(16:17:23) BigBlackBen's Saint Malorn's Wrath burns LeiBruc for 456 points of damage!
+(16:17:23) BigBlackBen's Saint Malorn's Wrath burns Juandunder for 229 points of damage!
+(16:17:23) BigBlackBen's Saint Malorn's Wrath burns krahS for 410 points of damage!
+(16:17:23) BigBlackBen's Saint Malorn's Wrath burns TypeVee for 482 points of damage!
+(16:17:23) BigBlackBen's Saint Malorn's Wrath burns Flimzy for 542 points of damage!
+(16:17:23) BigBlackBen's Saint Malorn's Wrath burns sudo for 676 points of damage!
+(16:17:29) BigBlackBen's Saint Malorn's Wrath burns Que for 342 points of damage!
+(16:17:29) BigBlackBen's Saint Malorn's Wrath burns TyypeVee for 391 points of damage!
+(16:17:29) BigBlackBen's Saint Malorn's Wrath burns Luke for 549 points of damage!
+(16:17:29) BigBlackBen's Saint Malorn's Wrath burns Stylebane for 183 points of damage!
+(16:17:29) BigBlackBen's Saint Malorn's Wrath burns Typechi for 253 points of damage!
+(16:17:29) BigBlackBen's Saint Malorn's Wrath burns DRChuckIt for 405 points of damage!
+(16:17:32) BigBlackBen's Saint Malorn's Wrath burns TyypeVee for 676 points of damage!
+(16:17:32) BigBlackBen's Saint Malorn's Wrath burns Stylebane for 203 points of damage!
+(16:17:32) BigBlackBen's Saint Malorn's Wrath burns Typechi for 525 points of damage!
+(16:17:32) BigBlackBen's Saint Malorn's Wrath burns YOU for 324 points of damage!
+(16:17:32) BigBlackBen's Saint Malorn's Wrath burns DRChuckIt for 349 points of damage!
+(16:17:34) BigBlackBen's Saint Malorn's Wrath burns Que for 207 points of damage!
+(16:17:34) BigBlackBen's Saint Malorn's Wrath burns TyypeVee for 754 points of damage!
+(16:17:34) BigBlackBen's Saint Malorn's Wrath burns LeiBruc for 424 points of damage!
+(16:17:34) BigBlackBen's Saint Malorn's Wrath burns Stylebane for 272 points of damage!
+(16:17:34) BigBlackBen's Saint Malorn's Wrath burns Typechi for 351 points of damage!
+(16:17:34) BigBlackBen's Saint Malorn's Wrath burns krahS for 609 points of damage!
+(16:17:38) BigBlackBen's Saint Malorn's Wrath burns TyypeVee for 312 points of damage!
+(16:17:38) BigBlackBen's Saint Malorn's Wrath burns LeiBruc for 522 points of damage!
+(16:17:38) BigBlackBen's Saint Malorn's Wrath burns Typechi for 378 points of damage!
+(16:17:38) BigBlackBen's Saint Malorn's Wrath burns krahS for 330 points of damage!
+(16:17:38) BigBlackBen's Saint Malorn's Wrath burns DRChuckIt for 633 points of damage!
+(16:17:47) Libai's Saint Lorne's Ire smites Dispel for 655 points of damage!
+(16:17:47) Libai's Saint Lorne's Ire smites Vashteera's Companion for 456 points of damage!
+(16:17:47) Libai's Saint Lorne's Ire smites Kansas for 468 points of damage!
+(16:17:47) Libai's Saint Lorne's Ire smites KERDC for 728 points of damage!
+(16:17:47) Libai's Saint Lorne's Ire smites Sax for 442 points of damage!
+(16:17:48) Libai's Saint Lorne's Ire smites Saas for 501 points of damage!
+(16:17:48) KooP's Saint Lorne's Ire smites Dispel for 475 points of damage!
+(16:17:48) KooP's Saint Lorne's Ire smites YOU for 535 points of damage!
+(16:17:48) KooP's Saint Lorne's Ire smites Vashteera's Companion for 687 points of damage!
+(16:17:48) KooP's Saint Lorne's Ire smites Kansas for 216 points of damage!
+(16:17:48) KooP's Saint Lorne's Ire smites HuntyPet for 429 points of damage!
+(16:17:48) KooP's Saint Lorne's Ire smites Sax for 327 points of damage!
+(16:17:48) KooP's Saint Lorne's Ire smites Saas for 496 points of damage!
+(16:17:53) KooP's Saint Lorne's Ire smites TOKR for 787 points of damage!
+(16:17:53) KooP's Saint Lorne's Ire smites Dispel for 501 points of damage!
+(16:17:53) KooP's Saint Lorne's Ire smites Lqws for 424 points of damage!
+(16:17:53) KooP's Saint Lorne's Ire smites lover for 376 points of damage!
+(16:17:53) KooP's Saint Lorne's Ire smites Sax for 468 points of damage!
+(16:17:53) KooP's Saint Lorne's Ire smites HuntyPet for 531 points of damage!
+(16:17:53) KooP's Saint Lorne's Ire smites LeiBruc for 409 points of damage!
+(16:17:57) XFzj's Saint Lorne's Ire smites Vashteera's Companion for 241 points of damage!
+(16:17:57) XFzj's Saint Lorne's Ire smites LeiBruc for 138 points of damage!
+(16:17:58) XFzj's Saint Lorne's Ire smites Sax for 411 points of damage!
+(16:17:58) XFzj's Saint Lorne's Ire smites Miha for 278 points of damage!
+(16:17:58) XFzj's Saint Lorne's Ire smites YOU for 304 points of damage!
+(16:17:58) XFzj's Saint Lorne's Ire smites KERDC for 314 points of damage!
+(16:17:58) XFzj's Saint Lorne's Ire smites Bourbon for 416 points of damage!
+(16:17:59) TPPB's Saint Malorn's Wrath burns Miha for 235 points of damage!
+(16:17:59) TPPB's Saint Malorn's Wrath burns sudo for 579 points of damage!
+(16:17:59) TPPB's Saint Malorn's Wrath burns Sax for 427 points of damage!
+(16:17:59) TPPB's Saint Malorn's Wrath burns Saas for 374 points of damage!
+(16:17:59) TPPB's Saint Malorn's Wrath burns Bourbon for 250 points of damage!
+(16:18:00) KooP's Saint Lorne's Ire smites Miha for 462 points of damage!
+(16:18:00) KooP's Saint Lorne's Ire smites Vashteera's Companion for 409 points of damage!
+(16:18:00) KooP's Saint Lorne's Ire smites lover for 373 points of damage!
+(16:18:00) KooP's Saint Lorne's Ire smites Vashteera's Companion for 438 points of damage!
+(16:18:00) KooP's Saint Lorne's Ire smites Kansas for 367 points of damage!
+(16:18:00) KooP's Saint Lorne's Ire smites Sax for 501 points of damage!
+(16:18:16) Libai's Saint Lorne's Ire smites Vashteera's Companion for 575 points of damage!
+(16:18:16) Libai's Saint Lorne's Ire smites Vashteera's Companion for 639 points of damage!
+(16:18:16) Libai's Saint Lorne's Ire smites KERDC for 854 points of damage!
+(16:18:16) Libai's Saint Lorne's Ire smites Dispel for 806 points of damage!
+(16:18:16) Libai's Saint Lorne's Ire smites Saas for 562 points of damage!
+(16:18:16) Libai's Saint Lorne's Ire smites LeiBruc for 367 points of damage!
+(16:18:16) Libai's Saint Lorne's Ire smites Sax for 605 points of damage!
+(16:18:19) KooP's Saint Lorne's Ire smites Sax for 681 points of damage!
+(16:18:19) KooP's Saint Lorne's Ire smites Yixim for 644 points of damage!
+(16:18:19) KooP's Saint Lorne's Ire smites Bourbon for 454 points of damage!
+(16:18:19) KooP's Saint Lorne's Ire smites lover for 456 points of damage!
+(16:18:19) KooP's Saint Lorne's Ire smites Miha for 436 points of damage!
+(16:18:19) KooP's Saint Lorne's Ire smites KERDC for 614 points of damage!
+(16:18:19) KooP's Saint Lorne's Ire smites LeiBruc for 427 points of damage!
+(16:18:23) XFzj's Saint Lorne's Ire smites YOU for 422 points of damage!
+(16:18:24) KooP's Saint Lorne's Ire smites YOU for 486 points of damage!
+(16:18:26) KooP's Saint Lorne's Ire smites Vashteera's Companion for 481 points of damage!
+(16:18:26) XFzj's Saint Lorne's Ire smites Dispel for 482 points of damage!
+(16:18:26) XFzj's Saint Lorne's Ire smites lover for 476 points of damage!
+(16:18:26) XFzj's Saint Lorne's Ire smites Miha for 398 points of damage!
+(16:18:26) KooP's Saint Lorne's Ire smites sudo for 622 points of damage!
+(16:18:26) XFzj's Saint Lorne's Ire smites Yixim for 638 points of damage!
+(16:18:26) XFzj's Saint Lorne's Ire smites Saas for 787 points of damage!
+(16:18:26) KooP's Saint Lorne's Ire smites lover for 343 points of damage!
+(16:18:26) KooP's Saint Lorne's Ire smites Dispel for 601 points of damage!
+(16:18:26) KooP's Saint Lorne's Ire smites Kansas for 499 points of damage!
+(16:18:29) XFzj's Saint Lorne's Ire smites lover for 407 points of damage!
+(16:18:29) XFzj's Saint Lorne's Ire smites LeiBruc for 321 points of damage!
+(16:18:29) XFzj's Saint Lorne's Ire smites Miha for 427 points of damage!
+(16:18:29) XFzj's Saint Lorne's Ire smites Yixim for 362 points of damage!
+(16:18:29) XFzj's Saint Lorne's Ire smites Sax for 514 points of damage!
+(16:18:29) XFzj's Saint Lorne's Ire smites Kansas for 424 points of damage!
+(16:18:29) XFzj's Saint Lorne's Ire smites KERDC for 580 points of damage!
+(16:18:31) XFzj's Saint Lorne's Ire smites Dispel for 575 points of damage!
+(16:18:31) XFzj's Saint Lorne's Ire smites LeiBruc for 342 points of damage!
+(16:18:31) XFzj's Saint Lorne's Ire smites Miha for 375 points of damage!
+(16:18:31) XFzj's Saint Lorne's Ire smites Bourbon for 592 points of damage!
+(16:18:31) XFzj's Saint Lorne's Ire smites Saas for 576 points of damage!
+(16:21:21) TheHerp's Saint Malorn's Wrath burns typeB for 363 points of damage!
+(16:21:21) TheHerp's Saint Malorn's Wrath burns Zadok for 1933 points of damage!
+(16:21:21) TheHerp's Saint Malorn's Wrath burns YOU for 2083 points of damage!
+(16:21:21) TheHerp's Saint Malorn's Wrath burns Uther for 678 points of damage!
+(16:21:21) TheHerp's Saint Malorn's Wrath burns Sax for 190 points of damage!
+(16:21:22) TheHerp's Saint Malorn's Wrath burns typeB for 411 points of damage!
+(16:21:22) TheHerp's Saint Malorn's Wrath burns Zadok for 432 points of damage!
+(16:21:22) TheHerp's Saint Malorn's Wrath burns YOU for 772 points of damage!
+(16:21:22) TheHerp's Saint Malorn's Wrath burns Uther for 621 points of damage!

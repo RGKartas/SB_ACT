@@ -1,106 +1,1880 @@
-Version     :: 0.0.11.0
-DateTime    :: 11/7/2023 02:23:58 AM
+Version     :: 0.0.11.5
+DateTime    :: 11/7/2023 04:12:41 PM
 RegExType   :: Evade :: Miss Melee
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>miss)[es]* (?<target>.*)[\.!]
 
 
-(02:24:12) The Moss Ogre misses YOU!
-(02:24:12) The Moss Ogre misses MalzPL.
-(02:24:13) The Tavok Chief-brother misses YOU!
-(02:24:13) The Tavok Chief-brother misses MalzPL.
-(02:24:13) The Vorok Mud-Chief misses MalzPL.
-(02:24:13) The Vorok Mud-Chief misses MalzDruid.
-(02:24:13) The Tavok Chief-brother misses MalzPL.
-(02:24:13) The Moss Ogre misses MalzDruid.
-(02:24:13) MalzDruid misses the Moss Ogre.
-(02:24:14) The Moss Ogre misses MalzDruid.
-(02:24:14) The Vorok Mud-Chief misses MalzDruid.
-(02:24:14) MalzSent misses the Moss Ogre.
-(02:24:15) The Mud Ogre misses MalzSent.
-(02:24:15) The Moss Ogre misses MalzDruid.
-(02:24:15) The Mud Ogre misses MalzSent.
-(02:24:15) The Moss Ogre misses MalzPL.
-(02:24:16) The Moss Ogre misses MalzDruid.
-(02:24:16) The Moss Ogre misses YOU!
-(02:24:16) The Vorok Mud-Chief misses MalzSent.
-(02:24:16) The Vorok Mud-Chief misses MalzPL.
-(02:24:16) The Moss Ogre misses MalzPL.
-(02:24:17) The Moss Ogre misses MalzDruid.
-(02:24:17) The Moss Ogre misses MalzPL.
-(02:24:17) The Moss Ogre misses MalzSent.
-(02:24:17) The Mud Ogre misses MalzSent.
-(02:24:18) The Moss Ogre misses MalzDruid.
-(02:24:18) The Moss Ogre misses MalzPL.
-(02:24:18) The Moss Ogre misses MalzPL.
-(02:24:18) The Vorok Mud-Chief misses MalzSent.
-(02:24:19) The Mud Ogre misses MalzSent.
-(02:24:19) The Moss Ogre misses MalzPL.
-(02:24:19) The Mud Ogre misses MalzPL.
-(02:24:19) The Mud Ogre misses MalzDruid.
-(02:24:19) The Moss Ogre misses MalzPL.
-(02:24:19) The Tavok Chief-brother misses YOU!
-(02:24:19) The Vorok Mud-Chief misses MalzDruid.
-(02:24:20) The Tavok Chief-brother misses YOU!
-(02:24:20) The Mud Ogre misses MalzDruid.
-(02:24:20) The Moss Ogre misses MalzPL.
-(02:24:20) The Moss Ogre misses MalzPL.
-(02:24:20) The Mud Ogre misses MalzPL.
-(02:24:20) The Mud Ogre misses MalzSent.
-(02:24:21) The Moss Ogre misses MalzPL.
-(02:24:21) MalzPL misses the Moss Ogre.
-(02:24:21) The Moss Ogre misses MalzDruid.
-(02:24:21) The Vorok Mud-Chief misses MalzSent.
-(02:24:22) The Moss Ogre misses YOU!
-(02:24:22) The Mud Ogre misses MalzPL.
-(02:24:22) The Moss Ogre misses MalzDruid.
-(02:24:22) The Moss Ogre misses MalzDruid.
-(02:24:22) The Mud Ogre misses MalzSent.
-(02:24:22) MalzSent misses the Mud Ogre.
-(02:24:22) MalzPL misses the Mud Ogre.
-(02:24:23) The Moss Ogre misses MalzDruid.
-(02:24:24) The Moss Ogre misses MalzDruid.
-(02:24:24) The Moss Ogre misses MalzPL.
-(02:24:24) The Moss Ogre misses MalzDruid.
-(02:24:25) The Mud Ogre misses MalzDruid.
-(02:24:25) The Mud Ogre misses MalzPL.
-(02:24:25) The Mud Ogre misses MalzDruid.
-(02:24:26) The Moss Ogre misses MalzPL.
-(02:24:26) MalzDruid misses the Mud Ogre.
-(02:24:26) The Moss Ogre misses MalzSent.
-(02:24:26) MalzSent misses the Moss Ogre.
-(02:24:26) The Moss Ogre misses MalzSent.
-(02:24:26) The Vorok Mud-Chief misses YOU!
-(02:24:26) The Vorok Mud-Chief misses YOU!
-(02:24:26) The Mud Ogre misses YOU!
-(02:24:27) The Moss Ogre misses MalzSent.
-(02:24:27) The Mud Ogre misses MalzPL.
-(02:24:27) The Mud Ogre misses MalzDruid.
-(02:24:27) The Moss Ogre misses MalzSent.
-(02:24:28) The Moss Ogre misses MalzSent.
-(02:24:28) The Vorok Mud-Chief misses MalzSent.
-(02:24:28) The Mud Ogre misses YOU!
-(02:24:29) The Moss Ogre misses MalzPL.
-(02:24:29) The Moss Ogre misses MalzDruid.
-(02:24:29) The Moss Ogre misses MalzPL.
-(02:24:29) The Moss Ogre misses MalzDruid.
-(02:24:30) The Vorok Mud-Chief misses YOU!
-(02:24:30) The Moss Ogre misses MalzPL.
-(02:24:30) The Mud Ogre misses MalzDruid.
-(02:24:30) The Moss Ogre misses MalzSent.
-(02:24:31) The Tavok Chief-brother misses YOU!
-(02:24:31) The Tavok Chief-brother misses MalzPL.
-(02:24:31) The Moss Ogre misses YOU!
-(02:24:31) The Mud Ogre misses MalzDruid.
-(02:24:31) The Moss Ogre misses YOU!
-(02:24:31) The Moss Ogre misses MalzDruid.
-(02:24:31) MalzDruid misses the Moss Ogre.
-(02:24:32) The Moss Ogre misses MalzDruid.
-(02:24:32) The Moss Ogre misses MalzDruid.
-(02:24:32) The Mud Ogre misses MalzSent.
-(02:24:32) The Moss Ogre misses MalzSent.
-(02:24:32) The Moss Ogre misses MalzDruid.
-(02:24:32) The Moss Ogre misses MalzPL.
-(02:24:33) The Mud Ogre misses MalzPL.
-(02:24:33) MalzDruid misses the Mud Ogre.
-(02:24:33) The Moss Ogre misses MalzSent.
-(02:24:33) The Vorok Mud-Chief misses MalzDruid.
+(16:12:58) HuntyPet Cobra misses BigBlackBen.
+(16:12:58) Miha misses BigBlackBen.
+(16:12:59) HuntyPet Cobra misses Vashtur.
+(16:12:59) AlbiThere ForYou misses YOU!
+(16:13:00) Tupac Shakur misses YOU!
+(16:13:00) Tupac Shakur misses YOU!
+(16:13:00) Tupac Shakur misses YOU!
+(16:13:00) Tupac Shakur misses YOU!
+(16:13:01) Vashtur misses the Vashteera's Companion.
+(16:13:01) Dispel Cobra misses Vashtur.
+(16:13:02) PBAOE misses YOU!
+(16:13:02) BigBlackBen misses lover.
+(16:13:03) BigBlackBen misses lover.
+(16:13:03) The Vashteera's Companion misses Tupac Shakur.
+(16:13:03) Tupac Shakur misses the Vashteera's Companion.
+(16:13:03) Tupac Shakur misses the Vashteera's Companion.
+(16:13:03) HuntyPet Cobra misses Priest.
+(16:13:03) Tupac Shakur misses the Vashteera's Companion.
+(16:13:03) Tupac Shakur misses the Vashteera's Companion.
+(16:13:03) Tupac Shakur misses the Vashteera's Companion.
+(16:13:03) Tupac Shakur misses the Vashteera's Companion.
+(16:13:03) WillPowder misses Sax.
+(16:13:04) Sax misses BigBlackBen.
+(16:13:04) PBAOE misses YOU!
+(16:13:04) HuntyPet Cobra misses Priest.
+(16:13:04) Tupac Shakur misses the Vashteera's Companion.
+(16:13:04) Tupac Shakur misses the Vashteera's Companion.
+(16:13:05) Tupac Shakur misses YOU!
+(16:13:05) Tupac Shakur misses YOU!
+(16:13:05) Tupac Shakur misses YOU!
+(16:13:05) Tupac Shakur misses YOU!
+(16:13:05) Tupac Shakur misses YOU!
+(16:13:05) Tupac Shakur misses YOU!
+(16:13:06) Tupac Shakur misses YOU!
+(16:13:06) Tupac Shakur misses YOU!
+(16:13:06) Tupac Shakur misses YOU!
+(16:13:06) Tupac Shakur misses YOU!
+(16:13:06) BigBlackBen misses lover.
+(16:13:06) Tupac Shakur misses Saas y.
+(16:13:06) Tupac Shakur misses Saas y.
+(16:13:07) AlbiThere ForYou misses YOU!
+(16:13:07) Tupac Shakur misses Saas y.
+(16:13:07) HuntyPet Cobra misses Long.
+(16:13:07) Tupac Shakur misses the Vashteera's Companion.
+(16:13:07) Tupac Shakur misses the Vashteera's Companion.
+(16:13:07) AlbiThere ForYou misses YOU!
+(16:13:07) AlbiThere ForYou misses YOU!
+(16:13:07) Tupac Shakur misses the Vashteera's Companion.
+(16:13:07) Tupac Shakur misses the Vashteera's Companion.
+(16:13:07) BigBlackBen misses lover.
+(16:13:08) lover misses Tupac Shakur.
+(16:13:08) lover misses Tupac Shakur.
+(16:13:08) Miha misses Tupac Shakur.
+(16:13:08) lover misses Tupac Shakur.
+(16:13:08) Tupac Shakur misses lover.
+(16:13:08) Tupac Shakur misses lover.
+(16:13:08) Dispel Cobra misses Tupac Shakur.
+(16:13:09) HuntyPet Cobra misses Tupac Shakur.
+(16:13:09) Tupac Shakur misses the Vashteera's Companion.
+(16:13:09) Tupac Shakur misses the Vashteera's Companion.
+(16:13:10) AlbiThere ForYou misses lover.
+(16:13:10) The Vashteera's Companion misses Sax.
+(16:13:10) lover misses BigBlackBen.
+(16:13:11) BigBlackBen misses lover.
+(16:13:11) lover misses Long.
+(16:13:11) lover misses Long.
+(16:13:12) lover misses Drooley.
+(16:13:12) lover misses Drooley.
+(16:13:12) Dispel Cobra misses Drooley.
+(16:13:12) lover misses Drooley.
+(16:13:12) HuntyPet Cobra misses Drooley.
+(16:13:12) lover misses Drooley.
+(16:13:12) Sax misses AlbiThere ForYou.
+(16:13:12) Miha misses Drooley.
+(16:13:13) Drooley misses the Vashteera's Companion.
+(16:13:20) HuntyPet Cobra misses DMT.
+(16:13:21) lover misses Yuckfou.
+(16:13:22) HuntyPet Cobra misses Fkrah.
+(16:13:24) deez nuts misses LogicNC.
+(16:13:26) Miha misses LogicNC.
+(16:13:27) HuntyPet Cobra misses deez nuts.
+(16:13:29) WoundedKnee misses the Vashteera's Companion.
+(16:13:29) WoundedKnee misses the Vashteera's Companion.
+(16:13:29) WoundedKnee misses the Vashteera's Companion.
+(16:13:29) WoundedKnee misses the Vashteera's Companion.
+(16:13:29) WoundedKnee misses the Vashteera's Companion.
+(16:13:29) WoundedKnee misses the Vashteera's Companion.
+(16:13:31) lover misses SeeNo Evil.
+(16:13:31) lover misses SeeNo Evil.
+(16:13:32) Miha misses SeeNo Evil.
+(16:13:34) Miha misses Bog.
+(16:13:34) lover misses Bog.
+(16:13:35) HuntyPet Cobra misses Bog.
+(16:13:35) lover misses Bog.
+(16:13:35) HuntyPet Cobra misses Bog.
+(16:13:36) lover misses Bog.
+(16:13:36) lover misses Fkrah.
+(16:13:37) The Vashteera's Thrall misses Yuckfou.
+(16:13:38) Miha misses Yuckfou.
+(16:13:39) Bog misses the Vashteera's Thrall.
+(16:13:39) HuntyPet Cobra misses Bog.
+(16:13:39) Bog misses the Vashteera's Thrall.
+(16:13:39) Bog misses the Vashteera's Thrall.
+(16:13:39) lover misses Bog.
+(16:13:39) Bog misses the Vashteera's Thrall.
+(16:13:40) lover misses Bog.
+(16:13:40) lover misses Fkrah.
+(16:13:41) Miha misses Fkrah.
+(16:13:41) Sax misses Noodle.
+(16:13:41) Sax misses Noodle.
+(16:13:48) HuntyPet Cobra misses Imagine Defense lol.
+(16:13:50) Dispel Cobra misses Octavius.
+(16:13:51) Dispel Cobra misses Octavius.
+(16:13:51) Dispel Cobra misses Octavius.
+(16:13:51) Dispel Cobra misses Octavius.
+(16:13:51) TyyppVee misses Octavius.
+(16:13:51) HuntyPet Cobra misses Octavius.
+(16:13:51) Dispel Cobra misses Octavius.
+(16:13:51) HuntyPet Cobra misses Octavius.
+(16:13:51) TyyppVee misses Octavius.
+(16:13:51) Dispel Cobra misses Octavius.
+(16:13:51) HuntyPet Cobra misses Octavius.
+(16:13:51) Octavius misses YOU!
+(16:13:51) TyyppVee misses Octavius.
+(16:13:51) HuntyPet Cobra misses Octavius.
+(16:13:51) TyyppVee misses Octavius.
+(16:13:51) HuntyPet Cobra misses Octavius.
+(16:13:51) HuntyPet Cobra misses Octavius.
+(16:13:51) TyyppVee misses Octavius.
+(16:13:51) HuntyPet Cobra misses Octavius.
+(16:13:51) TyyppVee misses Octavius.
+(16:13:51) HuntyPet Cobra misses Octavius.
+(16:13:51) TyyppVee misses Octavius.
+(16:13:51) HuntyPet Cobra misses Octavius.
+(16:13:51) HuntyPet Cobra misses Octavius.
+(16:13:51) TyyppVee misses Octavius.
+(16:13:51) Dispel Cobra misses Octavius.
+(16:13:52) HuntyPet Cobra misses Octavius.
+(16:13:52) HuntyPet Cobra misses Octavius.
+(16:13:52) The Vashteera's Companion misses Octavius.
+(16:13:52) Dispel Cobra misses Octavius.
+(16:13:52) TyyppVee misses xinyu.
+(16:13:52) TyyppVee misses xinyu.
+(16:13:52) HuntyPet Cobra misses xinyu.
+(16:13:52) TyyppVee misses xinyu.
+(16:13:52) HuntyPet Cobra misses xinyu.
+(16:13:53) HuntyPet Cobra misses xinyu.
+(16:13:53) HuntyPet Cobra misses hta �C   NZSP.
+(16:13:53) HuntyPet Cobra misses hta �C   NZSP.
+(16:13:53) HuntyPet Cobra misses hta �C   NZSP.
+(16:13:54) hta �C   NZSP misses TyyppVee.
+(16:13:54) hta �C   NZSP misses TyyppVee.
+(16:13:54) TyyppVee misses CJW CN.
+(16:13:55) Rylix misses TyyppVee.
+(16:13:56) HuntyPet Cobra misses hta �C   NZSP.
+(16:13:56) xinyu misses YOU!
+(16:13:57) Dispel Cobra misses xinyu.
+(16:13:57) Dispel Cobra misses xinyu.
+(16:13:57) Dispel Cobra misses xinyu.
+(16:13:57) Dispel Cobra misses xinyu.
+(16:14:01) The Dread Moss misses dnst ' NZSP.
+(16:14:02) The Mud Fiend misses Dispel Cobra.
+(16:14:02) HuntyPet Cobra misses dnst ' NZSP.
+(16:14:03) The Huge Bog Legs misses HuntyPet Cobra.
+(16:14:03) HuntyPet Cobra misses the Huge Bog Legs.
+(16:14:03) HuntyPet Cobra misses the Huge Bog Legs.
+(16:14:03) The Vashteera's Thrall misses CJW CN.
+(16:14:04) HuntyPet Cobra misses the Novac the Bellugh Nuathal Priest.
+(16:14:04) HuntyPet Cobra misses the Novac the Bellugh Nuathal Priest.
+(16:14:04) TyyppVee misses the Novac the Bellugh Nuathal Priest.
+(16:14:04) HuntyPet Cobra misses the Novac the Bellugh Nuathal Priest.
+(16:14:04) TyyppVee misses the Novac the Bellugh Nuathal Priest.
+(16:14:05) HuntyPet Cobra misses the Novac the Bellugh Nuathal Priest.
+(16:14:05) TyyppVee misses the Novac the Bellugh Nuathal Priest.
+(16:14:05) HuntyPet Cobra misses the Novac the Bellugh Nuathal Priest.
+(16:14:05) TyyppVee misses the Novac the Bellugh Nuathal Priest.
+(16:14:05) HuntyPet Cobra misses the Novac the Bellugh Nuathal Priest.
+(16:14:05) TyyppVee misses the Novac the Bellugh Nuathal Priest.
+(16:14:05) HuntyPet Cobra misses the Novac the Bellugh Nuathal Priest.
+(16:14:05) HuntyPet Cobra misses the Novac the Bellugh Nuathal Priest.
+(16:14:05) TyyppVee misses the Novac the Bellugh Nuathal Priest.
+(16:14:05) HuntyPet Cobra misses the Novac the Bellugh Nuathal Priest.
+(16:14:05) HuntyPet Cobra misses the Novac the Bellugh Nuathal Priest.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) sudo misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:06) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:07) TyyppVee misses Guard Tower.
+(16:14:08) TyyppVee misses Guard Tower.
+(16:14:08) TyyppVee misses Guard Tower.
+(16:14:08) TyyppVee misses Guard Tower.
+(16:14:08) TyyppVee misses Guard Tower.
+(16:14:08) TyyppVee misses Guard Tower.
+(16:14:08) TyyppVee misses Guard Tower.
+(16:14:08) TyyppVee misses Guard Tower.
+(16:14:08) TyyppVee misses Guard Tower.
+(16:14:08) TyyppVee misses Guard Tower.
+(16:14:08) TyyppVee misses Guard Tower.
+(16:14:08) TyyppVee misses Guard Tower.
+(16:14:08) TyyppVee misses Guard Tower.
+(16:14:08) TyyppVee misses Guard Tower.
+(16:14:08) TyyppVee misses Guard Tower.
+(16:14:08) TyyppVee misses Guard Tower.
+(16:14:08) TyyppVee misses Guard Tower.
+(16:14:08) TyyppVee misses Guard Tower.
+(16:14:08) TyyppVee misses Guard Tower.
+(16:14:08) TyyppVee misses Guard Tower.
+(16:14:08) TyyppVee misses Guard Tower.
+(16:14:08) TyyppVee misses Guard Tower.
+(16:14:08) TyyppVee misses Guard Tower.
+(16:14:08) TyyppVee misses Guard Tower.
+(16:14:08) TyyppVee misses Guard Tower.
+(16:14:08) sudo misses Guard Tower.
+(16:14:09) sudo misses Guard Tower.
+(16:14:09) sudo misses Guard Tower.
+(16:14:10) TyyppVee misses Rain Up In The Sky.
+(16:14:11) HuntyPet Cobra misses Rain Up In The Sky.
+(16:14:11) Bambi Look A Bird misses YOU!
+(16:14:11) Dispel Cobra misses blackgurl the sandslave.
+(16:14:12) HuntyPet Cobra misses wreck.
+(16:14:12) HuntyPet Cobra misses wreck.
+(16:14:14) Bambi Look A Bird misses TyyppVee.
+(16:14:14) HuntyPet Cobra misses KSlater Up In The Sky.
+(16:14:15) Dispel Cobra misses wreck.
+(16:14:16) HuntyPet Cobra misses the Vashteera's Companion.
+(16:14:16) HuntyPet Cobra misses the Vashteera's Companion.
+(16:14:17) HuntyPet Cobra misses Guard Tower.
+(16:14:18) HuntyPet Cobra misses Guard Tower.
+(16:14:22) Dispel Cobra misses Bambi Look A Bird.
+(16:14:22) TyyppVee misses blackgurl the sandslave.
+(16:14:22) TyyppVee misses blackgurl the sandslave.
+(16:14:23) Dispel Cobra misses blackgurl the sandslave.
+(16:14:23) TyyppVee misses blackgurl the sandslave.
+(16:14:23) TyyppVee misses blackgurl the sandslave.
+(16:14:23) TyyppVee misses blackgurl the sandslave.
+(16:14:24) TyyppVee misses blackgurl the sandslave.
+(16:14:24) TyyppVee misses blackgurl the sandslave.
+(16:14:24) TyyppVee misses blackgurl the sandslave.
+(16:14:25) The Vashteera's Companion misses wreck.
+(16:14:26) HuntyPet Cobra misses KSlater Up In The Sky.
+(16:14:27) HuntyPet Cobra misses KSlater Up In The Sky.
+(16:14:27) HuntyPet Cobra misses wreck.
+(16:14:28) HuntyPet Cobra misses kwx.
+(16:14:28) HuntyPet Cobra misses kwx.
+(16:14:28) HuntyPet Cobra misses kwx.
+(16:14:28) HuntyPet Cobra misses kwx.
+(16:14:28) HuntyPet Cobra misses kwx.
+(16:14:28) TyyppVee misses kwx.
+(16:14:28) HuntyPet Cobra misses kwx.
+(16:14:28) Dispel Cobra misses kwx.
+(16:14:28) Dispel Cobra misses kwx.
+(16:14:28) Dispel Cobra misses kwx.
+(16:14:28) Dispel Cobra misses kwx.
+(16:14:28) Dispel Cobra misses kwx.
+(16:14:29) Dispel Cobra misses kwx.
+(16:14:29) Dispel Cobra misses kwx.
+(16:14:29) Dispel Cobra misses kwx.
+(16:14:29) Dispel Cobra misses kwx.
+(16:14:29) TyyppVee misses Andre.
+(16:14:29) TyyppVee misses Andre.
+(16:14:29) Dispel Cobra misses Andre.
+(16:14:29) TyyppVee misses Andre.
+(16:14:29) Dispel Cobra misses Andre.
+(16:14:29) Dispel Cobra misses Andre.
+(16:14:29) Dispel Cobra misses Andre.
+(16:14:29) Dispel Cobra misses Andre.
+(16:14:30) Dispel Cobra misses Andre.
+(16:14:30) Dispel Cobra misses Andre.
+(16:14:30) Andre misses HuntyPet Cobra.
+(16:14:37) syszj BH misses the Vashteera's Companion.
+(16:14:37) syszj BH misses the Vashteera's Companion.
+(16:14:38) Dispel Cobra misses FYasz BH.
+(16:14:38) Dispel Cobra misses FYasz BH.
+(16:14:38) Dispel Cobra misses FYasz BH.
+(16:14:38) TyyppVee misses SPF � BH.
+(16:14:38) TyyppVee misses MDAZJ BH.
+(16:14:39) Dispel Cobra misses FYasz BH.
+(16:14:39) Dispel Cobra misses FYasz BH.
+(16:14:39) Dispel Cobra misses FYasz BH.
+(16:14:39) HuntyPet Cobra misses FYasz BH.
+(16:14:39) Dispel Cobra misses FYasz BH.
+(16:14:39) The Vashteera's Companion misses FYasz BH.
+(16:14:39) FYasz BH misses the Vashteera's Companion.
+(16:14:39) HuntyPet Cobra misses FYasz BH.
+(16:14:39) TyyppVee misses FYasz BH.
+(16:14:39) Dispel Cobra misses FYasz BH.
+(16:14:39) HuntyPet Cobra misses FYasz BH.
+(16:14:39) Dispel Cobra misses FYasz BH.
+(16:14:39) TyyppVee misses FYasz BH.
+(16:14:39) FYasz BH misses the Vashteera's Companion.
+(16:14:39) HuntyPet Cobra misses FYasz BH.
+(16:14:39) Dispel Cobra misses FYasz BH.
+(16:14:39) TyyppVee misses FYasz BH.
+(16:14:39) HuntyPet Cobra misses FYasz BH.
+(16:14:39) Dispel Cobra misses FYasz BH.
+(16:14:39) HuntyPet Cobra misses FYasz BH.
+(16:14:39) TyyppVee misses FYasz BH.
+(16:14:39) Dispel Cobra misses FYasz BH.
+(16:14:39) HuntyPet Cobra misses FYasz BH.
+(16:14:39) TyyppVee misses FYasz BH.
+(16:14:39) Dispel Cobra misses FYasz BH.
+(16:14:39) HuntyPet Cobra misses FYasz BH.
+(16:14:39) Dispel Cobra misses FYasz BH.
+(16:14:39) TyyppVee misses FYasz BH.
+(16:14:39) HuntyPet Cobra misses FYasz BH.
+(16:14:39) Dispel Cobra misses FYasz BH.
+(16:14:39) TyyppVee misses FYasz BH.
+(16:14:39) Dispel Cobra misses FYasz BH.
+(16:14:39) HuntyPet Cobra misses FYasz BH.
+(16:14:39) TyyppVee misses FYasz BH.
+(16:14:39) Dispel Cobra misses FYasz BH.
+(16:14:39) Dispel Cobra misses FYasz BH.
+(16:14:39) TyyppVee misses FYasz BH.
+(16:14:39) The Vashteera's Companion misses FYasz BH.
+(16:14:39) Dispel Cobra misses FYasz BH.
+(16:14:40) Dispel Cobra misses FYasz BH.
+(16:14:40) Dispel Cobra misses FYasz BH.
+(16:14:40) Dispel Cobra misses FYasz BH.
+(16:14:40) Dispel Cobra misses FYasz BH.
+(16:14:40) TyyppVee misses FYasz BH.
+(16:14:40) HuntyPet Cobra misses FYasz BH.
+(16:14:40) TyyppVee misses FYasz BH.
+(16:14:40) HuntyPet Cobra misses FYasz BH.
+(16:14:40) TyyppVee misses FYasz BH.
+(16:14:40) Dispel Cobra misses FYasz BH.
+(16:14:40) HuntyPet Cobra misses FYasz BH.
+(16:14:40) TyyppVee misses FYasz BH.
+(16:14:40) Dispel Cobra misses FYasz BH.
+(16:14:40) The Vashteera's Companion misses FYasz BH.
+(16:14:40) HuntyPet Cobra misses FYasz BH.
+(16:14:40) Dispel Cobra misses FYasz BH.
+(16:14:40) TyyppVee misses FYasz BH.
+(16:14:40) HuntyPet Cobra misses FYasz BH.
+(16:14:40) HuntyPet Cobra misses FYasz BH.
+(16:14:40) The Vashteera's Companion misses FYasz BH.
+(16:14:40) HuntyPet Cobra misses FYasz BH.
+(16:14:40) The Vashteera's Companion misses FYasz BH.
+(16:14:40) HuntyPet Cobra misses FYasz BH.
+(16:14:48) CountHyde misses Nibenay.
+(16:14:48) CloudA misses Nibenay.
+(16:14:48) CountHyde misses Nibenay.
+(16:14:48) DRChuckIt misses Nibenay.
+(16:14:48) CloudA misses Nibenay.
+(16:14:48) lover misses Nibenay.
+(16:14:48) DRChuckIt misses Nibenay.
+(16:14:48) CloudA misses Nibenay.
+(16:14:49) lover misses Nibenay.
+(16:14:49) DRChuckIt misses Nibenay.
+(16:14:49) CloudA misses Nibenay.
+(16:14:49) lover misses Nibenay.
+(16:14:49) lover misses Nibenay.
+(16:14:49) DRChuckIt misses Nibenay.
+(16:14:49) DayWalker misses CountHyde.
+(16:14:49) DRChuckIt misses Nibenay.
+(16:14:50) Soda misses Ponch.
+(16:14:50) SKERD u misses Ponch.
+(16:14:50) SKERD u misses Ponch.
+(16:14:50) DRChuckIt misses Bearable.
+(16:14:51) Soda misses Bearable.
+(16:14:51) YOU miss Bearable!
+(16:14:52) SKERD u misses Mephistopheles.
+(16:14:53) SKERD u misses Mephistopheles.
+(16:14:54) TyyppVee misses Marco.
+(16:14:54) YOU miss MyosMoo!
+(16:14:54) Ninja misses Marco.
+(16:15:04) vVv misses ysmf T�.
+(16:15:04) CloudA misses Szmz.
+(16:15:05) Sithranis misses Szmz.
+(16:15:06) CloudA misses Breeze.
+(16:15:08) vVv misses JMc.
+(16:15:09) vVv misses JMc.
+(16:15:09) Hold MyHand misses JMc.
+(16:15:09) Hold MyHand misses JMc.
+(16:15:15) Soda misses Prodriver.
+(16:15:18) Moony misses Sithranis.
+(16:15:18) Moony misses Sithranis.
+(16:15:18) CloudA misses CaliSent.
+(16:15:19) CloudA misses CaliSent.
+(16:15:19) Moony misses Sithranis.
+(16:15:19) CloudA misses CaliSent.
+(16:15:19) vVv misses Prodriver.
+(16:15:19) Hold MyHand misses CaliSent.
+(16:15:19) Moony misses Sithranis.
+(16:15:19) Hold MyHand misses CaliSent.
+(16:15:19) Hold MyHand misses CaliSent.
+(16:15:20) Hold MyHand misses CaliSent.
+(16:15:20) vVv misses CaliSent.
+(16:15:20) vVv misses CaliSent.
+(16:15:20) Hold MyHand misses CaliSent.
+(16:15:20) vVv misses CaliSent.
+(16:15:20) Hold MyHand misses CaliSent.
+(16:15:21) CloudA misses Vaginex.
+(16:15:22) CloudA misses Prodriver.
+(16:15:22) CloudA misses Prodriver.
+(16:15:22) vVv misses Prodriver.
+(16:15:22) Sithranis misses Prodriver.
+(16:15:22) vVv misses Prodriver.
+(16:15:22) Hold MyHand misses Prodriver.
+(16:15:22) Sithranis misses Prodriver.
+(16:15:22) vVv misses Prodriver.
+(16:15:22) CloudA misses Prodriver.
+(16:15:22) Hold MyHand misses Prodriver.
+(16:15:22) Sithranis misses Prodriver.
+(16:15:22) vVv misses Prodriver.
+(16:15:22) CloudA misses Prodriver.
+(16:15:22) Hold MyHand misses Prodriver.
+(16:15:22) Sithranis misses Prodriver.
+(16:15:22) vVv misses Prodriver.
+(16:15:22) CloudA misses Prodriver.
+(16:15:22) Hold MyHand misses Prodriver.
+(16:15:22) Sithranis misses Prodriver.
+(16:15:23) vVv misses Prodriver.
+(16:15:23) CloudA misses Prodriver.
+(16:15:23) Hold MyHand misses Prodriver.
+(16:15:23) Sithranis misses Prodriver.
+(16:15:23) vVv misses Prodriver.
+(16:15:23) CloudA misses Prodriver.
+(16:15:23) Hold MyHand misses Prodriver.
+(16:15:23) Sithranis misses Prodriver.
+(16:15:23) YOU miss HolyThug!
+(16:15:23) YOU miss HolyThug!
+(16:15:25) vVv misses Moony.
+(16:15:32) Sasss y misses MDAZJ BH.
+(16:15:32) Typechi misses MDAZJ BH.
+(16:15:33) YOU miss MDAZJ BH!
+(16:15:34) Rokaw misses LDSU mS BH.
+(16:15:35) YOU miss HHDD k� BH!
+(16:15:38) Rokaw misses yunT.
+(16:15:39) Rokaw misses yunT.
+(16:15:39) Typechi misses yunT.
+(16:15:39) Rokaw misses yunT.
+(16:15:41) EarthZS BH misses YOU!
+(16:15:42) EarthZS BH misses YOU!
+(16:15:42) yunT misses YOU!
+(16:15:44) YOU miss xxOxx!
+(16:15:44) xxOxx misses YOU!
+(16:15:44) YOU miss xxOxx!
+(16:15:45) EarthZS BH misses YOU!
+(16:15:45) YOU miss xxOxx!
+(16:15:45) YOU miss xxOxx!
+(16:15:45) Typechi misses xxOxx.
+(16:15:45) EarthZS BH misses YOU!
+(16:15:45) YOU miss xxOxx!
+(16:15:46) YOU miss xxOxx!
+(16:15:46) YOU miss xxOxx!
+(16:15:46) YOU miss xxOxx!
+(16:15:46) EarthZS BH misses YOU!
+(16:15:47) DRChuckIt misses xxOxx.
+(16:15:47) YEP misses xxOxx.
+(16:15:47) Typechi misses xxOxx.
+(16:15:48) EarthZS BH misses stuffed mufff.
+(16:15:48) Sauce misses FYsz BH.
+(16:15:49) DRChuckIt misses yunT.
+(16:15:49) SPA � BH misses LeiBruc.
+(16:15:49) Sasss y misses yunT.
+(16:15:50) SPA � BH misses LeiBruc.
+(16:15:50) lii misses LeiBruc.
+(16:15:50) eka BH misses LeiBruc.
+(16:15:51) eka BH misses LeiBruc.
+(16:15:54) Rokaw misses FYsz BH.
+(16:16:02) AfkSlayer - KillerXIII - misses AlbiThere ForYou.
+(16:16:02) Priest misses FYasz BH.
+(16:16:02) Priest misses FYasz BH.
+(16:16:02) Priest misses FYasz BH.
+(16:16:02) Priest misses FYasz BH.
+(16:16:02) Tupoc misses TPPB BH.
+(16:16:03) Priest misses FYasz BH.
+(16:16:03) Priest misses FYasz BH.
+(16:16:03) TPPB BH misses Tupac Shakur.
+(16:16:03) Priest misses FYasz BH.
+(16:16:03) Priest misses FYasz BH.
+(16:16:03) Priest misses FYasz BH.
+(16:16:03) Priest misses FYasz BH.
+(16:16:03) Priest misses FYasz BH.
+(16:16:03) Priest misses FYasz BH.
+(16:16:03) Priest misses FYasz BH.
+(16:16:04) ChopSuey misses Jon Snow cf BH.
+(16:16:04) Priest misses FYasz BH.
+(16:16:04) Priest misses FYasz BH.
+(16:16:04) Priest misses FYasz BH.
+(16:16:04) ChopSuey misses Jon Snow cf BH.
+(16:16:04) PBAOE misses TPPB BH.
+(16:16:04) ChopSuey misses Jon Snow cf BH.
+(16:16:06) AfkSlayer - KillerXIII - misses AlbiThere ForYou.
+(16:16:07) HuntyPet Cobra misses dwh dw BH.
+(16:16:08) PBAOE misses FYasz BH.
+(16:16:09) PBAOE misses FYasz BH.
+(16:16:09) Dispel Cobra misses brms ;�Q BH.
+(16:16:09) ChopSuey misses FYasz BH.
+(16:16:09) ChopSuey misses FYasz BH.
+(16:16:09) Dispel Cobra misses brms ;�Q BH.
+(16:16:09) ChopSuey misses FYasz BH.
+(16:16:09) Tupoc misses FYasz BH.
+(16:16:09) ChopSuey misses FYasz BH.
+(16:16:09) ChopSuey misses FYasz BH.
+(16:16:09) Tupoc misses FYasz BH.
+(16:16:09) Tupoc misses FYasz BH.
+(16:16:10) brms ;�Q BH misses the Vashteera's Companion.
+(16:16:10) brms ;�Q BH misses the Vashteera's Companion.
+(16:16:10) lover misses AlbiThere ForYou.
+(16:16:10) brms ;�Q BH misses the Vashteera's Companion.
+(16:16:12) lover misses Priest.
+(16:16:12) HuntyPet Cobra misses Priest.
+(16:16:13) Dispel Cobra misses ChopSuey.
+(16:16:13) AfkSlayer - KillerXIII - misses Kansas.
+(16:16:14) HuntyPet Cobra misses KooP BH.
+(16:16:14) hao BH misses Sax.
+(16:16:14) hao BH misses Sax.
+(16:16:14) hao BH misses Sax.
+(16:16:15) hao BH misses Sax.
+(16:16:15) hao BH misses Sax.
+(16:16:15) Dispel Cobra misses Libai BH.
+(16:16:15) PBAOE misses Ims �; BH.
+(16:16:15) HuntyPet Cobra misses TPPB BH.
+(16:16:16) AfkSlayer - KillerXIII - misses Kansas.
+(16:16:16) hao BH misses sudo.
+(16:16:16) HuntyPet Cobra misses ICBC �; BH.
+(16:16:16) hao BH misses sudo.
+(16:16:16) HuntyPet Cobra misses ICBC �; BH.
+(16:16:16) hao BH misses HuntyPet Cobra.
+(16:16:17) Dispel Cobra misses Hwsz  BH.
+(16:16:17) The Vashteera's Companion misses Hwsz  BH.
+(16:16:17) lover misses Hwsz  BH.
+(16:16:18) AfkSlayer - KillerXIII - misses Kansas.
+(16:16:23) HuntyPet Cobra misses TOKR �  BH.
+(16:16:23) HuntyPet Cobra misses TOKR �  BH.
+(16:16:23) HuntyPet Cobra misses TOKR �  BH.
+(16:16:23) lover misses TOKR �  BH.
+(16:16:23) Dispel Cobra misses TOKR �  BH.
+(16:16:23) HuntyPet Cobra misses TOKR �  BH.
+(16:16:23) HuntyPet Cobra misses TOKR �  BH.
+(16:16:23) Dispel Cobra misses TOKR �  BH.
+(16:16:23) HuntyPet Cobra misses TOKR �  BH.
+(16:16:23) lover misses TOKR �  BH.
+(16:16:23) Dispel Cobra misses TOKR �  BH.
+(16:16:23) HuntyPet Cobra misses TOKR �  BH.
+(16:16:23) Dispel Cobra misses TOKR �  BH.
+(16:16:24) HuntyPet Cobra misses TOKR �  BH.
+(16:16:24) lover misses FYasz BH.
+(16:16:24) Sax misses FYasz BH.
+(16:16:24) lover misses FYasz BH.
+(16:16:24) HuntyPet Cobra misses FYasz BH.
+(16:16:24) Sax misses FYasz BH.
+(16:16:24) lover misses FYasz BH.
+(16:16:24) HuntyPet Cobra misses FYasz BH.
+(16:16:25) HuntyPet Cobra misses FYasz BH.
+(16:16:25) HuntyPet Cobra misses FYasz BH.
+(16:16:25) HuntyPet Cobra misses FYasz BH.
+(16:16:25) lover misses FYasz BH.
+(16:16:25) AfkSlayer - KillerXIII - misses lover.
+(16:16:26) lover misses hao BH.
+(16:16:26) Dispel Cobra misses FYsz BH.
+(16:16:26) Dispel Cobra misses FYsz BH.
+(16:16:27) Dispel Cobra misses FYsz BH.
+(16:16:27) lover misses FYsz BH.
+(16:16:27) lover misses FYsz BH.
+(16:16:27) AfkSlayer - KillerXIII - misses lover.
+(16:16:27) lover misses FYsz BH.
+(16:16:27) lover misses FYsz BH.
+(16:16:27) lover misses FYsz BH.
+(16:16:27) lover misses FYsz BH.
+(16:16:28) PBAOE misses Ims �; BH.
+(16:16:28) lover misses FYsz BH.
+(16:16:28) lover misses FYsz BH.
+(16:16:28) PBAOE misses Ims �; BH.
+(16:16:31) PBAOE misses hao BH.
+(16:16:33) HuntyPet Cobra misses PBAOE.
+(16:16:42) The Vashteera's Companion misses Roka.
+(16:16:43) The Vashteera's Companion misses Roka.
+(16:16:44) Ptress misses Roka.
+(16:16:44) Nitro Desi misses Roka.
+(16:16:44) iThallia misses Roka.
+(16:16:45) Necromancer misses Sax.
+(16:16:46) Nitro Desi misses Sexting.
+(16:16:46) Necromancer misses Sax.
+(16:16:46) iThallia misses Sax.
+(16:16:46) Nitro Desi misses Sexting.
+(16:16:46) Necromancer misses Sax.
+(16:16:46) iThallia misses Sax.
+(16:16:46) Nitro Desi misses Sexting.
+(16:16:46) HORSE DlCK misses Sass y.
+(16:16:46) Diana misses Sax.
+(16:16:46) Necromancer misses Sax.
+(16:16:46) HORSE DlCK misses Sass y.
+(16:16:46) HORSE DlCK misses Sass y.
+(16:16:46) HORSE DlCK misses Sass y.
+(16:16:46) Sax misses the Vashteera's Companion.
+(16:16:47) HORSE DlCK misses Sass y.
+(16:16:47) Necromancer misses Sax.
+(16:16:47) Necromancer misses Sax.
+(16:16:47) Diana misses Sax.
+(16:16:47) Ptress misses Sexting.
+(16:16:47) Ptress misses Sexting.
+(16:16:48) Sax misses the Vashteera's Companion.
+(16:16:48) DeathieCS misses Chase.
+(16:16:48) Pockets misses iThallia.
+(16:16:48) iThallia misses Rue.
+(16:16:48) The Vashteera's Companion misses Sax.
+(16:16:48) DeathieCS misses Chase.
+(16:16:48) Ptress misses Pockets.
+(16:16:48) Pockets misses iThallia.
+(16:16:48) Sax misses the Vashteera's Companion.
+(16:16:49) Pockets misses iThallia.
+(16:16:49) Pockets misses iThallia.
+(16:16:49) HORSE DlCK misses Luke Dwarf Walker.
+(16:16:49) Necromancer misses Luke Dwarf Walker.
+(16:16:49) HORSE DlCK misses Luke Dwarf Walker.
+(16:16:49) LordStu misses Rue.
+(16:16:50) HORSE DlCK misses Luke Dwarf Walker.
+(16:16:50) iThallia misses Luke Dwarf Walker.
+(16:16:51) DeathieCS misses Sax.
+(16:16:51) Necromancer misses Luke Dwarf Walker.
+(16:16:51) Necromancer misses Sax.
+(16:16:51) iThallia misses YOU!
+(16:16:52) Nitro Desi misses YOU!
+(16:16:52) HORSE DlCK misses Sexting.
+(16:16:52) Nitro Desi misses YOU!
+(16:16:52) iThallia misses YOU!
+(16:16:52) Nitro Desi misses YOU!
+(16:16:52) HORSE DlCK misses Sexting.
+(16:16:52) iThallia misses YOU!
+(16:16:52) Hoof Hearted misses YOU!
+(16:16:52) Pockets misses Hoof Hearted.
+(16:16:52) Pockets misses Hoof Hearted.
+(16:16:52) Pockets misses Hoof Hearted.
+(16:16:52) Pockets misses Hoof Hearted.
+(16:16:52) Diana misses YOU!
+(16:16:52) Pockets misses Hoof Hearted.
+(16:16:52) Pockets misses Hoof Hearted.
+(16:16:52) LordStu misses YOU!
+(16:16:52) Pockets misses Hoof Hearted.
+(16:16:52) Pockets misses Hoof Hearted.
+(16:16:53) Pockets misses Hoof Hearted.
+(16:16:53) Pockets misses Hoof Hearted.
+(16:16:53) Pockets misses Hoof Hearted.
+(16:16:53) Pockets misses Hoof Hearted.
+(16:16:53) Pockets misses Hoof Hearted.
+(16:16:53) Pockets misses Hoof Hearted.
+(16:16:53) Pockets misses Hoof Hearted.
+(16:16:53) Pockets misses Hoof Hearted.
+(16:16:53) Pockets misses Hoof Hearted.
+(16:16:53) Pockets misses Hoof Hearted.
+(16:16:54) iThallia misses Sexting.
+(16:16:54) Necromancer misses Sax.
+(16:16:54) iThallia misses Sexting.
+(16:16:54) Necromancer misses Sax.
+(16:16:54) iThallia misses Sexting.
+(16:16:54) Diana misses Chase.
+(16:16:54) LordStu misses Sax.
+(16:16:54) iThallia misses Sexting.
+(16:16:54) Pockets misses Hoof Hearted.
+(16:16:54) Pockets misses Hoof Hearted.
+(16:16:54) iThallia misses Sexting.
+(16:16:54) iThallia misses Sexting.
+(16:16:54) Ptress misses Sass y.
+(16:16:54) HORSE DlCK misses Sax.
+(16:16:55) iThallia misses Sexting.
+(16:16:55) iThallia misses Sexting.
+(16:16:55) iThallia misses Sexting.
+(16:16:55) LordStu misses Sexting.
+(16:16:55) iThallia misses Sexting.
+(16:16:55) LordStu misses Sexting.
+(16:17:03) Selee misses paul.
+(16:17:04) TyypeVee misses Necromancer.
+(16:17:04) Chaos misses paul.
+(16:17:04) HIM misses paul.
+(16:17:05) Chaos misses paul.
+(16:17:05) BamBam misses paul.
+(16:17:05) Chaos misses paul.
+(16:17:06) HORSE DlCK misses YOU!
+(16:17:06) iThallia misses Roka.
+(16:17:06) HIM misses Roka.
+(16:17:06) HIM misses Roka.
+(16:17:06) Chaos misses Roka.
+(16:17:06) iThallia misses Roka.
+(16:17:06) HIM misses Roka.
+(16:17:06) HIM misses Roka.
+(16:17:06) HIM misses Roka.
+(16:17:07) DRChuckIt misses HORSE DlCK.
+(16:17:07) HORSE DlCK misses Roka.
+(16:17:07) Stylebane misses Necromancer.
+(16:17:07) DRChuckIt misses HORSE DlCK.
+(16:17:07) iThallia misses Roka.
+(16:17:07) Chaos misses Roka.
+(16:17:08) DRChuckIt misses HORSE DlCK.
+(16:17:08) HIM misses Roka.
+(16:17:08) HIM misses Roka.
+(16:17:08) HORSE DlCK misses Roka.
+(16:17:08) Necromancer misses Roka.
+(16:17:08) BamBam misses Typechi.
+(16:17:09) BamBam misses Typechi.
+(16:17:09) Necromancer misses Stylebane.
+(16:17:10) HIM misses TyyppVee.
+(16:17:10) HIM misses TyyppVee.
+(16:17:10) YOU miss Chaos!
+(16:17:10) HIM misses TyyppVee.
+(16:17:11) HORSE DlCK misses TyyppVee.
+(16:17:11) HIM misses TyyppVee.
+(16:17:11) HIM misses TyyppVee.
+(16:17:12) BamBam misses TyyppVee.
+(16:17:12) TyypeVee misses HORSE DlCK.
+(16:17:12) Chaos misses LeiBruc.
+(16:17:13) BigBlackBen misses LeiBruc.
+(16:17:13) BamBam misses LeiBruc.
+(16:17:13) Chaos misses LeiBruc.
+(16:17:13) Selee misses LeiBruc.
+(16:17:13) HORSE DlCK misses LeiBruc.
+(16:17:14) HIM misses LeiBruc.
+(16:17:14) Chaos misses LeiBruc.
+(16:17:15) Chaos misses LeiBruc.
+(16:17:15) HIM misses LeiBruc.
+(16:17:15) HIM misses LeiBruc.
+(16:17:15) BigBlackBen misses LeiBruc.
+(16:17:16) Typechi misses MyMan.
+(16:17:16) HIM misses LeiBruc.
+(16:17:16) Chaos misses LeiBruc.
+(16:17:16) HIM misses LeiBruc.
+(16:17:17) HIM misses LeiBruc.
+(16:17:17) Chaos misses LeiBruc.
+(16:17:17) Flimzy Dagger misses sudo.
+(16:17:17) Chaos misses LeiBruc.
+(16:17:17) Flimzy Dagger misses LeiBruc.
+(16:17:17) Flimzy Dagger misses LeiBruc.
+(16:17:18) Flimzy Dagger misses LeiBruc.
+(16:17:18) Flimzy Dagger misses LeiBruc.
+(16:17:18) TyypeVee misses Necromancer.
+(16:17:18) BamBam misses LeiBruc.
+(16:17:18) Necromancer misses LeiBruc.
+(16:17:18) Flimzy Dagger misses LeiBruc.
+(16:17:19) HIM misses LeiBruc.
+(16:17:19) HIM misses LeiBruc.
+(16:17:19) HIM misses LeiBruc.
+(16:17:20) Flimzy Dagger misses LeiBruc.
+(16:17:20) DRChuckIt misses HORSE DlCK.
+(16:17:20) BamBam misses TypeVee.
+(16:17:20) DRChuckIt misses HORSE DlCK.
+(16:17:20) Flimzy Dagger misses LeiBruc.
+(16:17:20) Flimzy Dagger misses LeiBruc.
+(16:17:20) DRChuckIt misses HORSE DlCK.
+(16:17:21) Flimzy Dagger misses TypeVee.
+(16:17:21) DRChuckIt misses HORSE DlCK.
+(16:17:21) Flimzy Dagger misses TypeVee.
+(16:17:22) Flimzy Dagger misses TypeVee.
+(16:17:22) Flimzy Dagger misses TypeVee.
+(16:17:22) TyypeVee misses Chaos.
+(16:17:22) HIM misses TypeVee.
+(16:17:23) Selee misses LeiBruc.
+(16:17:24) DRChuckIt misses HORSE DlCK.
+(16:17:24) HIM misses TypeVee.
+(16:17:24) HORSE DlCK misses sudo.
+(16:17:24) BamBam misses TypeVee.
+(16:17:24) DRChuckIt misses HORSE DlCK.
+(16:17:24) TyypeVee misses HORSE DlCK.
+(16:17:25) DRChuckIt misses HORSE DlCK.
+(16:17:25) BamBam misses TypeVee.
+(16:17:25) TyypeVee misses HORSE DlCK.
+(16:17:25) HORSE DlCK misses sudo.
+(16:17:25) TyypeVee misses HORSE DlCK.
+(16:17:25) TyypeVee misses HORSE DlCK.
+(16:17:25) DRChuckIt misses HORSE DlCK.
+(16:17:25) Typechi misses HORSE DlCK.
+(16:17:25) HIM misses TypeVee.
+(16:17:25) YOU miss BamBam!
+(16:17:25) TyypeVee misses HORSE DlCK.
+(16:17:25) DRChuckIt misses HORSE DlCK.
+(16:17:26) TyypeVee misses HORSE DlCK.
+(16:17:26) DRChuckIt misses HORSE DlCK.
+(16:17:26) Luke Dwarf Walker misses Typechi.
+(16:17:26) Selee misses LeiBruc.
+(16:17:26) HIM misses LeiBruc.
+(16:17:26) BamBam misses sudo.
+(16:17:27) HIM misses LeiBruc.
+(16:17:27) Flimzy Dagger misses sudo.
+(16:17:27) HIM misses sudo.
+(16:17:27) HIM misses sudo.
+(16:17:27) HIM misses sudo.
+(16:17:28) Selee misses sudo.
+(16:17:28) HIM misses sudo.
+(16:17:28) YOU miss Selee!
+(16:17:28) BigBlackBen misses sudo.
+(16:17:28) HORSE DlCK misses sudo.
+(16:17:28) Flimzy Dagger misses sudo.
+(16:17:28) HIM misses sudo.
+(16:17:29) TyypeVee misses HORSE DlCK.
+(16:17:29) TyypeVee misses HORSE DlCK.
+(16:17:29) TyypeVee misses HORSE DlCK.
+(16:17:30) HIM misses Luke Dwarf Walker.
+(16:17:30) HIM misses Luke Dwarf Walker.
+(16:17:30) Stylebane misses HORSE DlCK.
+(16:17:31) Flimzy Dagger misses Luke Dwarf Walker.
+(16:17:31) Stylebane misses HORSE DlCK.
+(16:17:31) Flimzy Dagger misses Luke Dwarf Walker.
+(16:17:31) Stylebane misses HORSE DlCK.
+(16:17:31) HIM misses Luke Dwarf Walker.
+(16:17:32) HORSE DlCK misses LeiBruc.
+(16:17:32) HIM misses Luke Dwarf Walker.
+(16:17:32) HORSE DlCK misses Que.
+(16:17:32) HORSE DlCK misses Que.
+(16:17:32) Selee misses Que.
+(16:17:33) Selee misses Que.
+(16:17:33) HORSE DlCK misses Que.
+(16:17:33) HIM misses YOU!
+(16:17:33) BigBlackBen misses YOU!
+(16:17:34) HIM misses YOU!
+(16:17:34) TyypeVee misses HORSE DlCK.
+(16:17:34) YOU miss Mabel Peavey!
+(16:17:34) TyypeVee misses HORSE DlCK.
+(16:17:34) Selee misses YOU!
+(16:17:34) BigBlackBen misses TyypeVee.
+(16:17:34) HIM misses YOU!
+(16:17:35) HIM misses YOU!
+(16:17:35) HORSE DlCK misses YOU!
+(16:17:35) DRChuckIt misses Mabel Peavey.
+(16:17:35) HIM misses YOU!
+(16:17:35) HIM misses YOU!
+(16:17:35) Selee misses YOU!
+(16:17:35) TyypeVee misses HORSE DlCK.
+(16:17:35) HIM misses Que.
+(16:17:36) TyypeVee misses HORSE DlCK.
+(16:17:36) Selee misses Typechi.
+(16:17:36) Flimzy Dagger misses Que.
+(16:17:36) TyypeVee misses HORSE DlCK.
+(16:17:36) Flimzy Dagger misses Que.
+(16:17:36) Selee misses Typechi.
+(16:17:36) Flimzy Dagger misses Que.
+(16:17:36) Selee misses Que.
+(16:17:37) HORSE DlCK misses Que.
+(16:17:37) HIM misses Que.
+(16:17:37) Flimzy Dagger misses Que.
+(16:17:37) Flimzy Dagger misses Que.
+(16:17:38) Flimzy Dagger misses Que.
+(16:17:38) HIM misses Que.
+(16:17:38) HIM misses Que.
+(16:17:38) DRChuckIt misses HORSE DlCK.
+(16:17:38) HIM misses Que.
+(16:17:38) DRChuckIt misses HORSE DlCK.
+(16:17:38) Selee misses Que.
+(16:17:38) DRChuckIt misses HORSE DlCK.
+(16:17:38) TyypeVee misses BigBlackBen.
+(16:17:39) TyypeVee misses BigBlackBen.
+(16:17:39) Typechi misses krahS.
+(16:17:39) HIM misses LeiBruc.
+(16:17:39) HIM misses LeiBruc.
+(16:17:39) TyypeVee misses HORSE DlCK.
+(16:17:39) HIM misses LeiBruc.
+(16:17:40) TyypeVee misses BigBlackBen.
+(16:17:40) HIM misses LeiBruc.
+(16:17:47) Miha misses Libai BH.
+(16:17:47) Kansas misses Libai BH.
+(16:17:49) Kansas misses TFst BH.
+(16:17:50) Kansas misses TFst BH.
+(16:17:50) Kansas misses TFst BH.
+(16:17:50) HuntyPet Cobra misses TOKR �  BH.
+(16:17:50) Kansas misses TFst BH.
+(16:17:50) Elwl �e BH misses the Vashteera's Companion.
+(16:17:51) lover misses Elwl �e BH.
+(16:17:52) The Vashteera's Thrall misses YOU!
+(16:17:52) Kansas misses TFst BH.
+(16:17:52) TFst BH misses YOU!
+(16:17:52) Yixim BH misses YOU!
+(16:17:52) The Vashteera's Companion misses SYgzs � BH.
+(16:17:52) Yixim BH misses YOU!
+(16:17:53) AfkSlayer - KillerXIII - misses YOU!
+(16:17:53) lover misses SYgzs � BH.
+(16:17:54) Dispel Cobra misses TFst BH.
+(16:17:54) Dispel Cobra misses TFst BH.
+(16:17:55) TOKR �  BH misses YOU!
+(16:17:55) Kansas misses TFst BH.
+(16:17:55) HuntyPet Cobra misses TFst BH.
+(16:17:55) HuntyPet Cobra misses TFst BH.
+(16:17:55) Kansas misses TFst BH.
+(16:17:55) HuntyPet Cobra misses TFst BH.
+(16:17:56) lover misses TFst BH.
+(16:17:56) Sax misses TPPB BH.
+(16:17:56) lover misses TFst BH.
+(16:17:56) HuntyPet Cobra misses TFst BH.
+(16:17:56) Sax misses TPPB BH.
+(16:17:57) TFst BH misses YOU!
+(16:17:57) Sax misses TPPB BH.
+(16:17:57) TFst BH misses the Vashteera's Companion.
+(16:17:57) Sax misses TPPB BH.
+(16:17:57) Dispel Cobra misses TFst BH.
+(16:17:58) Sax misses TPPB BH.
+(16:17:59) Dispel Cobra misses XFzj �� BH.
+(16:17:59) Dispel Cobra misses XFzj �� BH.
+(16:17:59) Dispel Cobra misses XFzj �� BH.
+(16:18:00) Kansas misses KooP BH.
+(16:18:01) Dispel Cobra misses XFzj �� BH.
+(16:18:01) Dispel Cobra misses XFzj �� BH.
+(16:18:01) Dispel Cobra misses XFzj �� BH.
+(16:18:01) Dispel Cobra misses XFzj �� BH.
+(16:18:02) Kansas misses NnAF |  BH.
+(16:18:02) Dispel Cobra misses NnAF |  BH.
+(16:18:03) HuntyPet Cobra misses Yixim BH.
+(16:18:03) Dispel Cobra misses TPPB BH.
+(16:18:03) Dispel Cobra misses TPPB BH.
+(16:18:03) Dispel Cobra misses TPPB BH.
+(16:18:03) Dispel Cobra misses TPPB BH.
+(16:18:04) Dispel Cobra misses TPPB BH.
+(16:18:04) mouthy misses YOU!
+(16:18:04) Dispel Cobra misses mouthy.
+(16:18:04) Dispel Cobra misses mouthy.
+(16:18:04) mouthy misses YOU!
+(16:18:04) Dispel Cobra misses mouthy.
+(16:18:04) HuntyPet Cobra misses Gengar.
+(16:18:04) Dispel Cobra misses mouthy.
+(16:18:04) Dispel Cobra misses mouthy.
+(16:18:04) mouthy misses YOU!
+(16:18:05) Kansas misses Gengar.
+(16:18:06) Dispel Cobra misses Gengar.
+(16:18:08) lover misses FYasz BH.
+(16:18:08) Kansas misses FYasz BH.
+(16:18:08) lover misses FYasz BH.
+(16:18:08) HuntyPet Cobra misses FYasz BH.
+(16:18:08) Dispel Cobra misses FYasz BH.
+(16:18:08) lover misses FYasz BH.
+(16:18:08) Miha misses FYasz BH.
+(16:18:09) Sax misses FYasz BH.
+(16:18:09) Miha misses FYasz BH.
+(16:18:09) Miha misses FYasz BH.
+(16:18:16) AfkSlayer - KillerXIII - misses YOU!
+(16:18:17) lover misses TOKR �  BH.
+(16:18:17) HuntyPet Cobra misses TOKR �  BH.
+(16:18:18) TFst BH misses sudo.
+(16:18:19) lover misses TFst BH.
+(16:18:19) lover misses TFst BH.
+(16:18:19) lover misses TFst BH.
+(16:18:20) lover misses TFst BH.
+(16:18:20) Hwsz  BH misses lover.
+(16:18:20) AfkSlayer - KillerXIII - misses YOU!
+(16:18:20) lover misses TFst BH.
+(16:18:20) lover misses TFst BH.
+(16:18:20) Hwsz  BH misses lover.
+(16:18:20) TFst BH misses KERDC.
+(16:18:20) HuntyPet Cobra misses Yixim BH.
+(16:18:20) Miha misses TFst BH.
+(16:18:20) lover misses TFst BH.
+(16:18:20) HuntyPet Cobra misses TFst BH.
+(16:18:21) lover misses TFst BH.
+(16:18:21) HuntyPet Cobra misses TFst BH.
+(16:18:21) Hwsz  BH misses lover.
+(16:18:21) Miha misses TFst BH.
+(16:18:21) HuntyPet Cobra misses TFst BH.
+(16:18:22) Dispel Cobra misses FYasz BH.
+(16:18:22) FYasz BH misses LeiBruc.
+(16:18:23) HuntyPet Cobra misses XFzj �� BH.
+(16:18:23) The Vashteera's Companion misses XFzj �� BH.
+(16:18:24) lover misses TPPB BH.
+(16:18:24) HuntyPet Cobra misses XFzj �� BH.
+(16:18:24) lover misses TPPB BH.
+(16:18:24) AfkSlayer - KillerXIII - misses YOU!
+(16:18:25) The Vashteera's Thrall misses YOU!
+(16:18:25) Sax misses FYasz BH.
+(16:18:25) HuntyPet Cobra misses Yixim BH.
+(16:18:25) lover misses FYasz BH.
+(16:18:25) Sax misses FYasz BH.
+(16:18:25) lover misses FYasz BH.
+(16:18:26) lover misses FYasz BH.
+(16:18:26) Sax misses FYasz BH.
+(16:18:26) Miha misses FYasz BH.
+(16:18:26) Sax misses FYasz BH.
+(16:18:26) Miha misses FYasz BH.
+(16:18:26) lover misses FYasz BH.
+(16:18:26) Miha misses FYasz BH.
+(16:18:26) lover misses FYasz BH.
+(16:18:26) Sax misses FYasz BH.
+(16:18:26) Miha misses FYasz BH.
+(16:18:26) lover misses FYasz BH.
+(16:18:26) HuntyPet Cobra misses FYasz BH.
+(16:18:26) Miha misses FYasz BH.
+(16:18:26) lover misses FYasz BH.
+(16:18:27) Sax misses FYasz BH.
+(16:18:27) HuntyPet Cobra misses FYasz BH.
+(16:18:27) Miha misses FYasz BH.
+(16:18:28) Dispel Cobra misses Jon Snow cf BH.
+(16:18:29) Dispel Cobra misses Jon Snow cf BH.
+(16:18:29) Kansas misses Jon Snow cf BH.
+(16:18:40) Jill misses Guard Tower.
+(16:18:41) YOU miss Apdo!
+(16:18:41) Hero misses Apdo.
+(16:18:41) Jill misses Apdo.
+(16:18:41) Redneck misses Uther Eats.
+(16:18:41) Redneck misses Jill.
+(16:18:41) Redneck misses Jill.
+(16:18:41) Redneck misses Jill.
+(16:18:42) Apdo misses YOU!
+(16:18:42) Redneck misses YOU!
+(16:18:43) YOU miss Redneck!
+(16:18:43) Redneck misses YOU!
+(16:18:43) Redneck misses YOU!
+(16:18:43) Hero misses Redneck.
+(16:18:43) YOU miss Redneck!
+(16:18:43) Jill misses Redneck.
+(16:18:43) Hero misses Redneck.
+(16:18:44) Hero misses Redneck.
+(16:18:45) Hero misses Redneck.
+(16:18:45) Hero misses Redneck.
+(16:18:45) YOU miss Redneck!
+(16:18:45) Hero misses Redneck.
+(16:18:45) Hero misses Redneck.
+(16:18:45) YOU miss Redneck!
+(16:18:45) Hero misses Redneck.
+(16:18:45) Jill misses Redneck.
+(16:18:45) Hero misses Redneck.
+(16:18:45) Apdo misses Sax.
+(16:18:45) Apdo misses Sax.
+(16:18:45) Jill misses Redneck.
+(16:18:45) Apdo misses Sax.
+(16:18:45) Jill misses Redneck.
+(16:18:45) Hero misses Redneck.
+(16:18:45) Hero misses Redneck.
+(16:18:45) Jill misses Redneck.
+(16:18:45) Hero misses Redneck.
+(16:18:46) Jill misses Redneck.
+(16:18:46) Apdo misses Sax.
+(16:18:46) Hero misses Redneck.
+(16:18:46) Apdo misses Sax.
+(16:18:46) Jill misses Redneck.
+(16:18:46) Hero misses Redneck.
+(16:18:46) Hero misses Redneck.
+(16:18:46) Jill misses Redneck.
+(16:18:46) Hero misses Redneck.
+(16:18:46) Jill misses Redneck.
+(16:18:46) Hero misses Redneck.
+(16:18:46) Jill misses Redneck.
+(16:18:48) xlxll cc misses Guard Tower.
+(16:18:48) Sax misses Guard Tower.
+(16:18:49) SOMEONE misses YOU!
+(16:18:50) xlxl cc misses YOU!
+(16:18:51) Hero misses xlxll cc.
+(16:18:51) Hero misses xlxll cc.
+(16:18:51) Hero misses xlxll cc.
+(16:18:52) Sax misses xlxl cc.
+(16:19:03) niugg target misses Soda.
+(16:19:04) m  misses Soda.
+(16:19:04) niugg target misses Soda.
+(16:19:05) WMW Dong TarGet misses Soda.
+(16:19:05) niugg target misses Soda.
+(16:19:06) Fnc $   JLSD misses CloudA.
+(16:19:06) PonyV misses WMW Dong TarGet.
+(16:19:07) YOU miss CQFZm �Vs� TarGet!
+(16:19:07) Hero misses GAI �  TARGET.
+(16:19:09) Fnc $   JLSD misses CloudA.
+(16:19:09) WMW Dong TarGet misses CloudA.
+(16:19:09) PonyV misses Fnc $   JLSD.
+(16:19:10) WMW Dong TarGet misses CloudA.
+(16:19:11) Jill misses ASaz % TA.
+(16:19:12) CloudA misses WMW Dong TarGet.
+(16:19:12) CloudA misses WMW Dong TarGet.
+(16:19:12) CloudA misses WMW Dong TarGet.
+(16:19:12) CloudA misses WMW Dong TarGet.
+(16:19:13) Stylebane misses WMW Dong TarGet.
+(16:19:13) PonyV misses WMW Dong TarGet.
+(16:19:13) CloudA misses WMW Dong TarGet.
+(16:19:13) Lister misses WMW Dong TarGet.
+(16:19:13) PonyV misses WMW Dong TarGet.
+(16:19:14) Stylebane misses Guard Tower.
+(16:19:15) Sax misses BYMS }� NZSP.
+(16:19:15) PonyV misses Guard Tower.
+(16:19:15) Jill misses BYMS }� NZSP.
+(16:19:15) Sax misses BYMS }� NZSP.
+(16:19:22) Talendor Ta'Kier misses Lister.
+(16:19:23) Zoomy misses Lister.
+(16:19:23) Talendor Ta'Kier misses Lister.
+(16:19:23) Schmeat misses Lister.
+(16:19:23) Talendor Ta'Kier misses Lister.
+(16:19:23) Talendor Ta'Kier misses Lister.
+(16:19:23) Talendor Ta'Kier misses Lister.
+(16:19:24) Schmeat misses Lister.
+(16:19:24) Gimli misses Lister.
+(16:19:24) Schmeat misses Lister.
+(16:19:24) Talendor Ta'Kier misses Lister.
+(16:19:24) Talendor Ta'Kier misses Lister.
+(16:19:24) Relent misses Lister.
+(16:19:25) vVv misses Brutikus Wrathborn.
+(16:19:25) Relent misses Lister.
+(16:19:26) Talendor Ta'Kier misses Lister.
+(16:19:26) Jaye Summers misses Lister.
+(16:19:26) Schmeat misses Lister.
+(16:19:26) Talendor Ta'Kier misses vVv.
+(16:19:26) Relent misses vVv.
+(16:19:27) Relent misses vVv.
+(16:19:27) YOU miss Relent!
+(16:19:27) Jill misses Relent.
+(16:19:27) Schmeat misses Lister.
+(16:19:27) Bozo misses Relent.
+(16:19:27) Relent misses vVv.
+(16:19:27) Jill misses Relent.
+(16:19:27) Relent misses vVv.
+(16:19:27) Schmeat misses vVv.
+(16:19:28) Relent misses vVv.
+(16:19:28) Relent misses vVv.
+(16:19:28) Relent misses vVv.
+(16:19:29) Jaye Summers misses Qwert Noblebrew.
+(16:19:29) Jaye Summers misses Qwert Noblebrew.
+(16:19:29) Talendor Ta'Kier misses Lister.
+(16:19:29) Talendor Ta'Kier misses Lister.
+(16:19:29) Gimli misses Lister.
+(16:19:29) Zoomy misses Sax.
+(16:19:29) Jaye Summers misses Qwert Noblebrew.
+(16:19:29) Zoomy misses Lister.
+(16:19:29) Gimli misses Lister.
+(16:19:29) Zoomy misses Lister.
+(16:19:30) Bozo misses Zoomy.
+(16:19:31) PonyV misses Gimli.
+(16:19:32) Talendor Ta'Kier misses Soda.
+(16:19:32) Schmeat misses Soda.
+(16:19:32) Talendor Ta'Kier misses Soda.
+(16:19:32) YOU miss Gimli!
+(16:19:32) Talendor Ta'Kier misses Soda.
+(16:19:32) Schmeat misses Soda.
+(16:19:32) Schmeat misses Soda.
+(16:19:33) Talendor Ta'Kier misses Soda.
+(16:19:33) Hero misses fluff.
+(16:19:33) Talendor Ta'Kier misses Soda.
+(16:19:33) Talendor Ta'Kier misses Soda.
+(16:19:33) Talendor Ta'Kier misses Soda.
+(16:19:33) Talendor Ta'Kier misses Soda.
+(16:19:33) Talendor Ta'Kier misses Qwert Noblebrew.
+(16:19:33) Hero misses fluff.
+(16:19:34) Soda misses Talendor Ta'Kier.
+(16:19:34) Bozo misses Dyestan.
+(16:19:35) YOU miss Luca!
+(16:19:35) Soda misses Luca.
+(16:19:42) Uhtred misses Bai.
+(16:19:42) Tizoc De Teotihuacan misses Uhtred.
+(16:19:42) Tizoc De Teotihuacan misses Uhtred.
+(16:19:42) Uhtred misses Bai.
+(16:19:42) MSN L KOK misses Uhtred.
+(16:19:42) PonyV misses Uhtred.
+(16:19:42) Bozo misses Uhtred.
+(16:19:43) Soda misses Tizoc De Teotihuacan.
+(16:19:43) Soda misses Tizoc De Teotihuacan.
+(16:19:44) PonyV misses Stylebane.
+(16:19:44) Soda misses Tizoc De Teotihuacan.
+(16:19:44) YOU miss Tizoc De Teotihuacan!
+(16:19:53) Bozo misses Sebera Vandorian.
+(16:19:53) jaja jajaja misses YOU!
+(16:19:55) Warrior misses tickles.
+(16:19:55) Warrior misses tickles.
+(16:19:55) Warrior misses tickles.
+(16:19:55) Warrior misses tickles.
+(16:19:56) ChopSuey misses tickles.
+(16:19:56) PonyV misses CapDD.
+(16:19:56) ANGLER misses tickles.
+(16:19:56) The Demon Overseer misses Sax.
+(16:19:56) The Dread Manticore misses Drooley.
+(16:19:56) The Demon Overseer misses Sax.
+(16:19:57) Stylebane misses CapDD.
+(16:19:58) occifer misses tickles.
+(16:19:58) occifer misses tickles.
+(16:19:58) The Demon Overseer misses Sax.
+(16:19:58) PonyV misses CapDD.
+(16:19:58) occifer misses tickles.
+(16:19:59) occifer misses tickles.
+(16:19:59) ANGLER misses tickles.
+(16:19:59) The Demon Overseer misses Sax.
+(16:19:59) ANGLER misses tickles.
+(16:19:59) Stylebane misses ANGLER.
+(16:20:00) The Demon Overseer misses Sax.
+(16:20:00) ANGLER misses tickles.
+(16:20:01) Warrior misses tickles.
+(16:20:01) The Dread Manticore misses Drooley.
+(16:20:01) The Dread Manticore misses Drooley.
+(16:20:02) occifer misses tickles.
+(16:20:02) The Demon Overseer misses Lister.
+(16:20:02) YOU miss ChopSuey!
+(16:20:03) occifer misses tickles.
+(16:20:03) The Dread Manticore misses Drooley.
+(16:20:04) Warrior misses tickles.
+(16:20:04) The Dread Manticore misses Drooley.
+(16:20:04) Warrior misses tickles.
+(16:20:04) Warrior misses tickles.
+(16:20:04) The Demon Overseer misses Drooley.
+(16:20:04) Warrior misses tickles.
+(16:20:04) The Demon Overseer misses Lister.
+(16:20:05) Warrior misses tickles.
+(16:20:05) The Demon Overseer misses Lister.
+(16:20:05) vVv misses Warrior.
+(16:20:07) The Demon Overseer misses Qwert Noblebrew.
+(16:20:07) The Demon Overseer misses Qwert Noblebrew.
+(16:20:07) Stylebane misses jaja jajaja.
+(16:20:07) The Dread Manticore misses Drooley.
+(16:20:08) The Dread Manticore misses Drooley.
+(16:20:08) Bozo misses jaja jajaja.
+(16:20:09) Zoomy misses Stylebane.
+(16:20:09) The Demon Overseer misses Qwert Noblebrew.
+(16:20:09) Schmeat misses Sax.
+(16:20:10) Stylebane misses Jaye Summers.
+(16:20:10) The Demon Overseer misses Qwert Noblebrew.
+(16:20:10) The Demon Overseer misses Qwert Noblebrew.
+(16:20:11) Stylebane misses Zoomy.
+(16:20:11) The Demon Overseer misses Zoomy.
+(16:20:11) Stylebane misses Zoomy.
+(16:20:11) Schmeat misses Sax.
+(16:20:11) Brutikus Wrathborn misses Sax.
+(16:20:12) Genymede misses Lister.
+(16:20:12) AlbiClose misses Jill.
+(16:20:12) The Demon Overseer misses tickles.
+(16:20:12) Brutikus Wrathborn misses Jill.
+(16:20:14) Bozo misses Schmeat.
+(16:20:14) Jaye Summers misses Bozo.
+(16:20:14) AlbiClose misses Bozo.
+(16:20:15) The Demon Overseer misses tickles.
+(16:20:15) The Demon Overseer misses Bozo.
+(16:20:15) Brutikus Wrathborn misses Bozo.
+(16:20:15) Schmeat misses Bozo.
+(16:20:16) Gimli misses Qwert Noblebrew.
+(16:20:17) Gimli misses Sax.
+(16:20:17) PonyV misses Brutikus Wrathborn.
+(16:20:17) Bozo misses Brutikus Wrathborn.
+(16:20:18) The Demon Overseer misses Luca.
+(16:20:19) Brutikus Wrathborn misses Sax.
+(16:20:19) Schmeat misses Sax.
+(16:20:19) AlbiClose misses Sax.
+(16:20:19) PonyV misses AlbiClose.
+(16:20:19) YOU miss AlbiClose!
+(16:20:19) Bozo misses AlbiClose.
+(16:20:19) Gimli misses Sax.
+(16:20:20) Schmeat misses Sax.
+(16:20:21) Brutikus Wrathborn misses Sax.
+(16:20:21) Bozo misses Jaye Summers.
+(16:20:21) Schmeat misses Sax.
+(16:20:21) Gimli misses Sax.
+(16:20:22) Schmeat misses Sax.
+(16:20:22) Gimli misses Sax.
+(16:20:23) Bozo misses Brutikus Wrathborn.
+(16:20:24) Gimli misses Sax.
+(16:20:24) Jaye Summers misses Sax.
+(16:20:26) Stylebane misses Jaye Summers.
+(16:20:26) Stylebane misses Jaye Summers.
+(16:20:26) The Demon Overseer misses Luca.
+(16:20:27) Stylebane misses Jaye Summers.
+(16:20:27) PonyV misses Jaye Summers.
+(16:20:27) Bozo misses Jaye Summers.
+(16:20:28) Bozo misses Jaye Summers.
+(16:20:28) Stylebane misses Luca.
+(16:20:28) Stylebane misses Luca.
+(16:20:30) PonyV misses fluff.
+(16:20:30) Sax misses fluff.
+(16:20:30) Bozo misses fluff.
+(16:20:39) CapDD misses Qwert Noblebrew.
+(16:20:39) ANGLER misses Qwert Noblebrew.
+(16:20:39) ANGLER misses Qwert Noblebrew.
+(16:20:39) CapDD misses Qwert Noblebrew.
+(16:20:39) ANGLER misses Qwert Noblebrew.
+(16:20:41) CapDD misses Qwert Noblebrew.
+(16:20:41) ANGLER misses Qwert Noblebrew.
+(16:20:41) Apocgg misses Qwert Noblebrew.
+(16:20:42) CapDD misses Qwert Noblebrew.
+(16:20:42) ANGLER misses Qwert Noblebrew.
+(16:20:42) ANGLER misses Qwert Noblebrew.
+(16:20:42) CapDD misses Qwert Noblebrew.
+(16:20:42) ANGLER misses Qwert Noblebrew.
+(16:20:43) Apocgg misses Qwert Noblebrew.
+(16:20:43) Jill misses ANGLER.
+(16:20:43) Stylebane misses ANGLER.
+(16:20:44) vVv misses PooTTang �.
+(16:20:44) Warrior misses Qwert Noblebrew.
+(16:20:44) vVv misses PooTTang �.
+(16:20:45) CapDD misses Qwert Noblebrew.
+(16:20:45) ChopSuey misses Qwert Noblebrew.
+(16:20:46) vVv misses ANGLER.
+(16:20:46) Jill misses ANGLER.
+(16:20:47) CapDD misses Soda.
+(16:20:47) ChopSuey misses Soda.
+(16:20:48) CapDD misses Soda.
+(16:20:48) CapDD misses Soda.
+(16:20:48) Warrior misses Soda.
+(16:20:48) Warrior misses Soda.
+(16:20:49) ChopSuey misses Soda.
+(16:20:49) CapDD misses Soda.
+(16:20:50) ANGLER misses Soda.
+(16:20:50) ANGLER misses Soda.
+(16:20:50) ANGLER misses Soda.
+(16:20:51) CapDD misses Soda.
+(16:20:51) Apocgg misses Soda.
+(16:20:51) Apocgg misses Soda.
+(16:20:51) Lister misses Drooley.
+(16:20:52) ChopSuey misses Soda.
+(16:20:52) Stylebane misses Apocgg.
+(16:20:52) Warrior misses Soda.
+(16:20:52) ANGLER misses Soda.
+(16:20:52) ChopSuey misses Soda.
+(16:20:52) Warrior misses Soda.
+(16:20:52) ChopSuey misses Soda.
+(16:20:53) Warrior misses Soda.
+(16:20:53) Stylebane misses Apocgg.
+(16:20:53) ANGLER misses Soda.
+(16:20:54) ANGLER misses Soda.
+(16:20:54) ANGLER misses Soda.
+(16:20:54) ChopSuey misses Soda.
+(16:20:54) ChopSuey misses Soda.
+(16:20:54) ANGLER misses Soda.
+(16:20:54) ChopSuey misses Soda.
+(16:20:54) ChopSuey misses Soda.
+(16:20:55) YOU miss ANGLER!
+(16:20:55) Stylebane misses ANGLER.
+(16:20:56) Stylebane misses ANGLER.
+(16:20:56) Warrior misses YOU!
+(16:20:56) Warrior misses YOU!
+(16:20:56) Warrior misses YOU!
+(16:20:57) Warrior misses Jill.
+(16:20:58) ANGLER misses Jill.
+(16:20:58) ChopSuey misses Jill.
+(16:20:58) Bozo misses ANGLER.
+(16:20:59) PonyV misses Drooley.
+(16:20:59) CapDD misses Sax.
+(16:20:59) ChopSuey misses Sax.
+(16:20:59) ANGLER misses Sax.
+(16:20:59) ANGLER misses Sax.
+(16:21:00) CapDD misses Sax.
+(16:21:00) ANGLER misses Sax.
+(16:21:00) ANGLER misses Sax.
+(16:21:00) CapDD misses Sax.
+(16:21:00) ANGLER misses Sax.
+(16:21:00) Jill misses Drooley.
+(16:21:00) CapDD misses Sax.
+(16:21:01) ANGLER misses Sax.
+(16:21:01) Stylebane misses Hellio Cherio.
+(16:21:01) ChopSuey misses Sax.
+(16:21:01) Bozo misses CapDD.
+(16:21:01) ChopSuey misses Lister.
+(16:21:01) CapDD misses Lister.
+(16:21:02) ANGLER misses Jill.
+(16:21:02) PonyV misses CapDD.
+(16:21:02) CapDD misses Jill.
+(16:21:02) ANGLER misses Jill.
+(16:21:02) ChopSuey misses Jill.
+(16:21:02) CapDD misses Jill.
+(16:21:02) CapDD misses Jill.
+(16:21:02) PonyV misses CapDD.
+(16:21:03) CapDD misses Jill.
+(16:21:03) ANGLER misses Jill.
+(16:21:03) CapDD misses Jill.
+(16:21:03) ANGLER misses Jill.
+(16:21:04) CapDD misses Stylebane.
+(16:21:04) Warrior misses Bozo.
+(16:21:04) ANGLER misses Stylebane.
+(16:21:05) CapDD misses Bozo.
+(16:21:05) Bozo misses Hellio Cherio.
+(16:21:05) Warrior misses PonyV.
+(16:21:05) ChopSuey misses Bozo.
+(16:21:05) CapDD misses Bozo.
+(16:21:05) ANGLER misses Bozo.
+(16:21:05) CapDD misses Bozo.
+(16:21:05) Warrior misses Bozo.
+(16:21:06) Hellio Cherio misses Bozo.
+(16:21:12) LilDoof misses Sax.
+(16:21:13) Warrior misses Uther Eats.
+(16:21:13) LilDoof misses Uther Eats.
+(16:21:13) Warrior misses Uther Eats.
+(16:21:13) LilDoof misses Uther Eats.
+(16:21:14) YOU miss Drooley!
+(16:21:14) LilDoof misses Uther Eats.
+(16:21:14) Zadok misses TheHerp.
+(16:21:14) Zadok misses TheHerp.
+(16:21:15) Zadok misses TheHerp.
+(16:21:15) Zadok misses TheHerp.
+(16:21:15) Zadok misses TheHerp.
+(16:21:15) Zadok misses TheHerp.
+(16:21:15) Warrior misses Uther Eats.
+(16:21:15) LilDoof misses Sax.
+(16:21:15) Zadok misses TheHerp.
+(16:21:15) Zadok misses TheHerp.
+(16:21:15) Zadok misses TheHerp.
+(16:21:15) Zadok misses TheHerp.
+(16:21:15) Zadok misses TheHerp.
+(16:21:15) Zadok misses TheHerp.
+(16:21:15) Zadok misses TheHerp.
+(16:21:15) Zadok misses TheHerp.
+(16:21:15) Warrior misses Uther Eats.
+(16:21:15) Zadok misses TheHerp.
+(16:21:15) Zadok misses TheHerp.
+(16:21:16) Zadok misses TheHerp.
+(16:21:16) Zadok misses TheHerp.
+(16:21:16) Zadok misses TheHerp.
+(16:21:16) Zadok misses TheHerp.
+(16:21:16) Zadok misses TheHerp.
+(16:21:16) Zadok misses TheHerp.
+(16:21:16) Zadok misses TheHerp.
+(16:21:16) Zadok misses TheHerp.
+(16:21:16) typeB misses LilDoof.
+(16:21:16) Zadok misses TheHerp.
+(16:21:16) Zadok misses TheHerp.
+(16:21:16) Zadok misses TheHerp.
+(16:21:16) Zadok misses TheHerp.
+(16:21:16) Zadok misses TheHerp.
+(16:21:16) Zadok misses TheHerp.
+(16:21:16) Zadok misses TheHerp.
+(16:21:17) Zadok misses TheHerp.
+(16:21:17) Zadok misses TheHerp.
+(16:21:17) Zadok misses TheHerp.
+(16:21:17) Zadok misses TheHerp.
+(16:21:17) Warrior misses Uther Eats.
+(16:21:17) Zadok misses TheHerp.
+(16:21:17) Zadok misses TheHerp.
+(16:21:17) Zadok misses TheHerp.
+(16:21:17) Zadok misses TheHerp.
+(16:21:18) Warrior misses Uther Eats.
+(16:21:18) Zadok misses Warrior.
+(16:21:18) Zadok misses Warrior.
+(16:21:18) Warrior misses Uther Eats.
+(16:21:18) YOU miss Warrior!
+(16:21:18) Zadok misses Warrior.
+(16:21:18) Zadok misses Warrior.
+(16:21:19) Warrior misses Uther Eats.
+(16:21:20) Cumtaker of the Old Ways misses Zadok.
+(16:21:20) typeB misses Cumtaker of the Old Ways.
+(16:21:20) Zadok misses Cumtaker of the Old Ways.
+(16:21:21) YOU miss TheHerp!
+(16:21:21) YOU miss TheHerp!
+(16:21:21) Sax misses TheHerp.
+(16:21:21) Zadok misses TheHerp.
+(16:21:21) Zadok misses TheHerp.
+(16:21:22) Zadok misses TheHerp.
+(16:21:22) Zadok misses TheHerp.
+(16:21:22) YOU miss TheHerp!
+(16:21:22) Sax misses TheHerp.
+(16:21:22) Zadok misses TheHerp.
+(16:21:22) Zadok misses TheHerp.
+(16:21:22) YOU miss TheHerp!
+(16:21:22) Sax misses TheHerp.
+(16:21:22) Zadok misses TheHerp.
+(16:21:22) Zadok misses TheHerp.
+(16:21:22) YOU miss TheHerp!
+(16:21:22) Zadok misses TheHerp.
+(16:21:22) Zadok misses TheHerp.
+(16:21:22) Zadok misses TheHerp.
+(16:21:22) Zadok misses TheHerp.
+(16:21:22) YOU miss TheHerp!
+(16:21:22) Sax misses TheHerp.
+(16:21:22) YOU miss TheHerp!
+(16:21:22) Sax misses TheHerp.
+(16:21:22) YOU miss TheHerp!
+(16:21:22) Zadok misses TheHerp.
+(16:21:22) Sax misses TheHerp.
+(16:21:22) YOU miss TheHerp!
+(16:21:22) YOU miss TheHerp!
+(16:21:22) Sax misses TheHerp.
+(16:21:22) YOU miss TheHerp!
+(16:21:22) Sax misses TheHerp.
+(16:21:23) YOU miss TheHerp!
+(16:21:23) YOU miss TheHerp!
+(16:21:23) YOU miss TheHerp!
+(16:21:23) YOU miss TheHerp!
+(16:21:23) YOU miss TheHerp!
+(16:21:23) YOU miss TheHerp!
+(16:21:23) YOU miss TheHerp!
+(16:21:23) YOU miss TheHerp!
+(16:21:23) YOU miss TheHerp!
+(16:21:23) YOU miss TheHerp!
+(16:21:23) YOU miss TheHerp!
+(16:21:23) typeB misses TheHerp.
+(16:21:23) YOU miss TheHerp!
+(16:21:23) YOU miss TheHerp!
+(16:21:24) typeB misses TheHerp.
+(16:21:24) YOU miss TheHerp!
+(16:21:24) typeB misses TheHerp.
+(16:21:24) YOU miss TheHerp!
+(16:21:24) typeB misses TheHerp.
+(16:21:24) YOU miss TheHerp!
+(16:21:24) typeB misses TheHerp.
+(16:21:24) Sax misses TheHerp.
+(16:21:24) YOU miss TheHerp!
+(16:21:24) typeB misses TheHerp.
+(16:21:24) YOU miss TheHerp!
+(16:21:24) Zadok misses TheHerp.
+(16:21:24) Sax misses TheHerp.
+(16:21:31) XKSDS p��f misses typeB.
+(16:21:31) XKSDS p��f misses typeB.
+(16:21:32) YOU miss GAI �  TARGET!
+(16:21:33) m  misses Uther Eats.
+(16:21:33) Bozo misses GAI �  TARGET.
+(16:21:33) XKSDS p��f misses Uther Eats.
+(16:21:33) zDsZ �0 NZSP misses Uther Eats.
+(16:21:33) YOU miss GAI �  TARGET!
+(16:21:33) m  misses Uther Eats.
+(16:21:34) AIucard misses GAI �  TARGET.
+(16:21:34) Bozo misses GAI �  TARGET.
+(16:21:34) XKSDS p��f misses Sax.
+(16:21:34) XKSDS p��f misses Sax.
+(16:21:35) typeB misses GAI �  TARGET.
+(16:21:36) m  misses Uther Eats.
+(16:21:36) BNLV q`� NZSP misses the Vashteera's Thrall.
+(16:21:37) JLASC �$  Target misses Uther Eats.
+(16:21:37) XKSDS p��f misses typeB.
+(16:21:37) XKSDS p��f misses typeB.
+(16:21:37) JLASC �$  Target misses Uther Eats.
+(16:21:37) JLASC �$  Target misses Uther Eats.
+(16:21:37) zDsZ �0 NZSP misses Uther Eats.
+(16:21:38) rmrn NBPZ TA misses Uther Eats.
+(16:21:38) JLASC �$  Target misses Uther Eats.
+(16:21:38) m  misses Uther Eats.
+(16:21:38) rmrn NBPZ TA misses Uther Eats.
+(16:21:38) JLASC �$  Target misses Uther Eats.
+(16:21:38) rmrn NBPZ TA misses Uther Eats.
+(16:21:38) JLASC �$  Target misses Uther Eats.
+(16:21:38) m  misses Uther Eats.
+(16:21:38) rmrn NBPZ TA misses Uther Eats.
+(16:21:38) m  misses Uther Eats.
+(16:21:39) rmrn NBPZ TA misses Uther Eats.
+(16:21:40) JLASC �$  Target misses Uther Eats.
+(16:21:40) m  misses Uther Eats.
+(16:21:40) m  misses Uther Eats.
+(16:21:40) JLASC �$  Target misses Uther Eats.
+(16:21:40) rmrn NBPZ TA misses Uther Eats.
+(16:21:40) Vlad Tepes misses XKSDS p��f.
+(16:21:40) JLASC �$  Target misses Uther Eats.
+(16:21:41) JLASC �$  Target misses Uther Eats.
+(16:21:41) JLASC �$  Target misses Uther Eats.
+(16:21:41) zDsZ �0 NZSP misses Uther Eats.
+(16:21:41) m  misses Uther Eats.
+(16:21:41) m  misses Uther Eats.
+(16:21:42) m  misses Uther Eats.
+(16:21:42) m  misses Uther Eats.
+(16:21:43) zDsZ �0 NZSP misses Soda.
+(16:21:43) JLASC �$  Target misses Uther Eats.
+(16:21:43) m  misses Uther Eats.
+(16:21:43) m  misses Uther Eats.
+(16:21:44) JLASC �$  Target misses Uther Eats.
+(16:21:44) m  misses Uther Eats.
+(16:21:44) m  misses Uther Eats.
+(16:21:44) JLASC �$  Target misses Uther Eats.
+(16:21:44) m  misses Uther Eats.
+(16:21:44) m  misses Uther Eats.
+(16:21:44) JLASC �$  Target misses Uther Eats.
+(16:21:44) m  misses Uther Eats.
+(16:21:44) m  misses Uther Eats.
+(16:21:44) JLASC �$  Target misses Uther Eats.
+(16:21:44) m  misses Uther Eats.
+(16:21:44) m  misses Uther Eats.
+(16:21:44) JLASC �$  Target misses Uther Eats.
+(16:21:45) m  misses Uther Eats.
+(16:21:45) m  misses Uther Eats.
+(16:21:45) rmrn NBPZ TA misses Uther Eats.
+(16:21:45) Bozo misses rmrn NBPZ TA.
+(16:21:46) AIucard misses asir n� NZSP.
+(16:21:47) LJC �x� TA misses Soda.
+(16:21:47) YOU miss GAI �  TARGET!
+(16:21:47) AIucard misses GAI �  TARGET.
+(16:21:48) AIucard misses GAI �  TARGET.
+(16:21:48) Soda misses the Vashteera's Companion.
+(16:21:49) Vlad Tepes misses JYMS �� TA.
+(16:21:50) Soda misses JYMS �� TA.
+(16:21:50) Bozo misses GAI �  TARGET.
+(16:21:50) The Vashteera's Companion misses Soda.
+(16:21:50) typeB misses JYMS �� TA.
+(16:21:51) YOU miss JYMS �� TA!
+(16:21:51) typeB misses JYMS �� TA.
+(16:21:51) Soda misses JYMS �� TA.
+(16:21:51) AIucard misses GAI �  TARGET.
+(16:21:51) Soda misses JYMS �� TA.
+(16:21:52) Sax misses GAI �  TARGET.
+(16:21:53) YOU miss asir n� NZSP!
+(16:21:55) rmrn NBPZ TA misses AIucard.
+(16:21:57) AIucard misses rmrn NBPZ TA.
+(16:22:09) BigAlbi misses tickles.
+(16:22:09) LilDoof misses Lister.
+(16:22:11) MIKE JONES misses tickles.
+(16:22:11) LilDoof misses Lister.
+(16:22:11) Bozo misses Tactz Token Chinaman.
+(16:22:12) OVER TUNED misses Uther Eats.
+(16:22:12) MIKE JONES misses tickles.
+(16:22:12) BigAlbi misses Uther Eats.
+(16:22:12) BigAlbi misses Uther Eats.
+(16:22:13) BigAlbi misses Uther Eats.
+(16:22:14) PonyV misses CapH.
+(16:22:14) BigAlbi misses Sax.
+(16:22:14) BigAlbi misses Sax.
+(16:22:15) YOU miss LilDoof!
+(16:22:16) Sell misses Uther Eats.
+(16:22:17) YOU miss OVER TUNED!
+(16:22:17) PonyV misses OVER TUNED.
+(16:22:17) YOU miss OVER TUNED!
+(16:22:17) Sell misses Uther Eats.
+(16:22:20) Sax misses BigAlbi.
+(16:22:21) Bozo misses BigAlbi.
+(16:22:21) YOU miss Guard Tower!
+(16:22:33) YNM misses Vlad Tepes.
+(16:22:33) Yomo misses WarPonch.
+(16:22:33) YNM misses Vlad Tepes.
+(16:22:33) Vlad Tepes misses nnao ey�.
+(16:22:33) syj misses WarPonch.
+(16:22:34) PonyV misses nnao ey�.
+(16:22:34) sdx misses PonyV.
+(16:22:34) sdx misses PonyV.
+(16:22:34) sdx misses PonyV.
+(16:22:34) sdx misses PonyV.
+(16:22:35) sdx misses PonyV.
+(16:22:35) Bozo misses YNM.
+(16:22:35) sdx misses Vlad Tepes.
+(16:22:35) MSN L KOK misses tickles.
+(16:22:36) sdx misses TOGNAAR TREETARD.
+(16:22:36) sdx misses TOGNAAR TREETARD.
+(16:22:36) YNM misses Vlad Tepes.
+(16:22:36) nnao ey� misses Sax.
+(16:22:36) MSN L KOK misses Sax.
+(16:22:37) syj misses TOGNAAR TREETARD.
+(16:22:37) MSN L KOK misses Sax.
+(16:22:37) syj misses TOGNAAR TREETARD.
+(16:22:37) Bozo misses YNM.
+(16:22:37) FireAS - Killer XIII - misses Sax.
+(16:22:37) FireAS - Killer XIII - misses Sax.
+(16:22:37) sdx misses Sax.
+(16:22:37) sdx misses Sax.
+(16:22:37) sdx misses Sax.
+(16:22:37) sdx misses Sax.
+(16:22:38) YNM misses Vlad Tepes.
+(16:22:38) FireAS - Killer XIII - misses Sax.
+(16:22:38) FireAS - Killer XIII - misses Sax.
+(16:22:38) sdx misses Sax.
+(16:22:38) sdx misses Sax.
+(16:22:38) FireAS - Killer XIII - misses Sax.
+(16:22:38) sdx misses Sax.
+(16:22:38) Yomo misses TOGNAAR TREETARD.
+(16:22:38) WarPonch misses MSN L KOK.
+(16:22:38) nnao ey� misses tickles.
+(16:22:38) sdx misses tickles.
+(16:22:39) PonyV misses MSN L KOK.
+(16:22:39) Yomo misses TOGNAAR TREETARD.
+(16:22:40) Bozo misses sdx.
+(16:22:40) nnao ey� misses tickles.
+(16:22:41) nnao ey� misses tickles.
+(16:22:41) nnao ey� misses tickles.
+(16:22:41) nnao ey� misses tickles.
+(16:22:41) Bozo misses sdx.
+(16:22:41) nnao ey� misses tickles.
+(16:22:41) YOU miss sdx!
+(16:22:41) PonyV misses sdx.
+(16:22:41) nnao ey� misses tickles.
+(16:22:42) nnao ey� misses tickles.
+(16:22:42) PonyV misses sdx.
+(16:22:42) Stylebane misses FireAS - Killer XIII -.
+(16:22:42) nnao ey� misses TOGNAAR TREETARD.
+(16:22:42) sdx misses somebody.
+(16:22:42) nnao ey� misses TOGNAAR TREETARD.
+(16:22:42) YOU miss FireAS - Killer XIII -!
+(16:22:42) FireAS - Killer XIII - misses somebody.
+(16:22:42) nnao ey� misses TOGNAAR TREETARD.
+(16:22:42) nnao ey� misses TOGNAAR TREETARD.
+(16:22:43) nnao ey� misses TOGNAAR TREETARD.
+(16:22:43) Vlad Tepes misses sdx.
+(16:22:43) nnao ey� misses TOGNAAR TREETARD.
+(16:22:43) nnao ey� misses TOGNAAR TREETARD.
+(16:22:43) sdx misses somebody.
+(16:22:43) sdx misses somebody.
+(16:22:43) Stylebane misses ooHoo.
+(16:22:43) sdx misses somebody.
+(16:22:43) sdx misses somebody.
+(16:22:45) sdx misses somebody.
+(16:22:45) PonyV misses sdx.
+(16:22:45) Stylebane misses sdx.
+(16:22:46) Vlad Tepes misses sdx.
+(16:22:47) WarPonch misses sdx.
+(16:22:47) sdx misses YOU!
+(16:22:47) Yomo misses YOU!
+(16:22:47) sdx misses YOU!
+(16:22:47) nnao ey� misses somebody.
+(16:22:49) sdx misses YOU!
+(16:22:49) syj misses WarPonch.
+(16:22:50) syj misses WarPonch.
+(16:22:51) nnao ey� misses PonyV.
+(16:23:00) YOU miss Jenny From the Block!
+(16:23:00) YOU miss Jenny From the Block!
+(16:23:00) vVv misses Jenny From the Block.
+(16:23:01) YOU miss Jenny From the Block!
+(16:23:01) Ham misses champagne problems.
+(16:23:01) vVv misses Jenny From the Block.
+(16:23:01) Styledrain misses Jenny From the Block.
+(16:23:01) YOU miss Jenny From the Block!
+(16:23:01) Ham misses champagne problems.
+(16:23:01) vVv misses Jenny From the Block.
+(16:23:01) Styledrain misses Jenny From the Block.
+(16:23:01) YOU miss Jenny From the Block!
+(16:23:01) Ham misses champagne problems.
+(16:23:01) vVv misses Jenny From the Block.
+(16:23:01) Styledrain misses Jenny From the Block.
+(16:23:01) YOU miss Jenny From the Block!
+(16:23:02) Nooky misses champagne problems.
+(16:23:02) Nooky misses champagne problems.
+(16:23:02) Nooky misses champagne problems.
+(16:23:02) vVv misses Dhampir.
+(16:23:02) The Ice Witch misses Nooky.
+(16:23:02) vVv misses Dhampir.
+(16:23:02) Nooky misses champagne problems.
+(16:23:02) Styledrain misses Dhampir.
+(16:23:02) vVv misses Dhampir.
+(16:23:03) Styledrain misses Dhampir.
+(16:23:03) vVv misses Dhampir.
+(16:23:03) Hold MyHand misses Dhampir.
+(16:23:03) Styledrain misses Dhampir.
+(16:23:03) vVv misses Dhampir.
+(16:23:03) Hold MyHand misses Dhampir.
+(16:23:03) Styledrain misses Dhampir.
+(16:23:03) vVv misses Dhampir.
+(16:23:03) Hold MyHand misses Dhampir.
+(16:23:03) Styledrain misses Dhampir.
+(16:23:03) vVv misses Dhampir.
+(16:23:03) Hold MyHand misses Dhampir.
+(16:23:03) Styledrain misses Dhampir.
+(16:23:03) LilDoof misses Uther Eats.
+(16:23:03) vVv misses Dhampir.
+(16:23:04) Hold MyHand misses Dhampir.
+(16:23:04) Warrior misses champagne problems.
+(16:23:04) Styledrain misses Dhampir.
+(16:23:04) vVv misses Dhampir.
+(16:23:04) Hold MyHand misses Dhampir.
+(16:23:04) Styledrain misses Dhampir.
+(16:23:04) The Ice Witch misses Nooky.
+(16:23:04) vVv misses Dhampir.
+(16:23:04) Hold MyHand misses Dhampir.
+(16:23:04) Styledrain misses Dhampir.
+(16:23:04) LilDoof misses champagne problems.
+(16:23:04) vVv misses Dhampir.
+(16:23:04) Mantle Four Deep misses Dhampir.
+(16:23:04) Styledrain misses Dhampir.
+(16:23:04) vVv misses Dhampir.
+(16:23:04) Hold MyHand misses Dhampir.
+(16:23:04) Mantle Four Deep misses Dhampir.
+(16:23:04) Styledrain misses Dhampir.
+(16:23:04) vVv misses Dhampir.
+(16:23:04) Hold MyHand misses Dhampir.
+(16:23:04) Mantle Four Deep misses Dhampir.
+(16:23:05) Styledrain misses Dhampir.
+(16:23:05) vVv misses Dhampir.
+(16:23:05) The Ice Witch misses Nooky.
+(16:23:05) Hold MyHand misses Dhampir.
+(16:23:05) Mantle Four Deep misses Dhampir.
+(16:23:05) Nooky misses champagne problems.
+(16:23:05) Styledrain misses Dhampir.
+(16:23:05) vVv misses Dhampir.
+(16:23:05) Hold MyHand misses Dhampir.
+(16:23:05) Mantle Four Deep misses Dhampir.
+(16:23:05) Styledrain misses Dhampir.
+(16:23:05) vVv misses Dhampir.
+(16:23:05) Hold MyHand misses Dhampir.
+(16:23:05) Mantle Four Deep misses Dhampir.
+(16:23:05) Styledrain misses Dhampir.
+(16:23:05) vVv misses Dhampir.
+(16:23:05) LilDoof misses YOU!
+(16:23:05) Hold MyHand misses Dhampir.
+(16:23:05) Mantle Four Deep misses Dhampir.
+(16:23:05) Styledrain misses Dhampir.
+(16:23:06) Hold MyHand misses Dhampir.
+(16:23:06) Mantle Four Deep misses Dhampir.
+(16:23:06) Styledrain misses Dhampir.
+(16:23:06) LilDoof misses YOU!
+(16:23:06) vVv misses Dhampir.
+(16:23:06) Hold MyHand misses Dhampir.
+(16:23:06) Mantle Four Deep misses Dhampir.
+(16:23:06) Styledrain misses Dhampir.
+(16:23:06) Hold MyHand misses Dhampir.
+(16:23:06) Mantle Four Deep misses Dhampir.
+(16:23:06) LilDoof misses YOU!
+(16:23:06) Styledrain misses Dhampir.
+(16:23:06) The Ice Witch misses Nooky.
+(16:23:06) Hold MyHand misses Dhampir.
+(16:23:06) Mantle Four Deep misses Dhampir.
+(16:23:06) Styledrain misses Dhampir.
+(16:23:06) Hold MyHand misses Dhampir.
+(16:23:06) Mantle Four Deep misses Dhampir.
+(16:23:06) Styledrain misses Dhampir.
+(16:23:06) The Ice Witch misses Nooky.
+(16:23:06) Ham misses YOU!
+(16:23:06) LilDoof misses YOU!
+(16:23:07) Hold MyHand misses Dhampir.
+(16:23:07) Mantle Four Deep misses Dhampir.
+(16:23:07) Styledrain misses Dhampir.
+(16:23:07) Hold MyHand misses Dhampir.
+(16:23:07) Mantle Four Deep misses Dhampir.
+(16:23:07) Styledrain misses Dhampir.
+(16:23:07) Hold MyHand misses Dhampir.
+(16:23:07) Mantle Four Deep misses Dhampir.
+(16:23:07) Styledrain misses Dhampir.
+(16:23:07) LilDoof misses YOU!
+(16:23:07) Hold MyHand misses Dhampir.
+(16:23:07) Styledrain misses Dhampir.
+(16:23:07) Hold MyHand misses Dhampir.
+(16:23:07) Styledrain misses Dhampir.
+(16:23:07) The Ice Witch misses Nooky.
+(16:23:07) Hold MyHand misses Dhampir.
+(16:23:07) Styledrain misses Dhampir.
+(16:23:08) Hold MyHand misses Dhampir.
+(16:23:08) Styledrain misses Dhampir.
+(16:23:08) Hold MyHand misses Dhampir.
+(16:23:08) Styledrain misses Dhampir.
+(16:23:08) Hold MyHand misses Dhampir.
+(16:23:08) The Ice Witch misses Nooky.
+(16:23:09) YOU miss LilDoof!
+(16:23:09) Mantle Four Deep misses LilDoof.
+(16:23:10) The Ice Witch misses Nooky.
+(16:23:10) The Ice Witch misses Nooky.
+(16:23:12) YOU miss ShiftyInc!
+(16:23:13) Styledrain misses ShiftyInc.
+(16:23:15) tickles misses Ham.
+(16:23:15) Mantle Four Deep misses ShiftyInc.
+(16:23:20) SOMEONE misses YOU!
+(16:23:20) xlxI cc misses YOU!

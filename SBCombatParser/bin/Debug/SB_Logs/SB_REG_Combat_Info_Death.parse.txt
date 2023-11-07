@@ -1,126 +1,368 @@
-Version     :: 0.0.11.0
-DateTime    :: 11/7/2023 02:23:58 AM
+Version     :: 0.0.11.5
+DateTime    :: 11/7/2023 04:12:41 PM
 RegExType   :: Combat :: Info Death
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*\[Combat\] Info\: (?<source>.*) [hasve]* (?<type>die).*!
 
 Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
-02:24:12 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:12 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:13 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:13 : die        : Tavok Chief-brother       :                           :                           :              :              :       
-02:24:13 : die        : Vorok Mud-Chief           :                           :                           :              :              :       
-02:24:13 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:13 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:14 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:14 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:14 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:14 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:14 : die        : Vorok Mud-Chief           :                           :                           :              :              :       
-02:24:15 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:15 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:15 : die        : Tavok Chief-brother       :                           :                           :              :              :       
-02:24:15 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:15 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:16 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:16 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:16 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:16 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:16 : die        : Vorok Mud-Chief           :                           :                           :              :              :       
-02:24:17 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:17 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:17 : die        : Tavok Chief-brother       :                           :                           :              :              :       
-02:24:17 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:17 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:17 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:17 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:17 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:18 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:18 : die        : Vorok Mud-Chief           :                           :                           :              :              :       
-02:24:18 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:18 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:19 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:19 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:19 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:19 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:19 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:19 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:19 : die        : Vorok Mud-Chief           :                           :                           :              :              :       
-02:24:20 : die        : Tavok Chief-brother       :                           :                           :              :              :       
-02:24:20 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:20 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:20 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:20 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:20 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:20 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:21 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:21 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:21 : die        : Vorok Mud-Chief           :                           :                           :              :              :       
-02:24:21 : die        : Tavok Chief-brother       :                           :                           :              :              :       
-02:24:22 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:22 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:22 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:22 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:22 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:22 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:23 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:23 : die        : Vorok Mud-Chief           :                           :                           :              :              :       
-02:24:23 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:23 : die        : Tavok Chief-brother       :                           :                           :              :              :       
-02:24:23 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:24 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:24 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:24 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:24 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:24 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:24 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:24 : die        : Vorok Mud-Chief           :                           :                           :              :              :       
-02:24:25 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:25 : die        : Tavok Chief-brother       :                           :                           :              :              :       
-02:24:25 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:25 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:25 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:26 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:26 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:26 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:26 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:27 : die        : Vorok Mud-Chief           :                           :                           :              :              :       
-02:24:27 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:27 : die        : Tavok Chief-brother       :                           :                           :              :              :       
-02:24:27 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:27 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:27 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:28 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:28 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:28 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:28 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:28 : die        : Vorok Mud-Chief           :                           :                           :              :              :       
-02:24:28 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:29 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:29 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:29 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:29 : die        : Tavok Chief-brother       :                           :                           :              :              :       
-02:24:29 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:29 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:30 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:30 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:30 : die        : Vorok Mud-Chief           :                           :                           :              :              :       
-02:24:30 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:30 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:30 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:30 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:31 : die        : Tavok Chief-brother       :                           :                           :              :              :       
-02:24:31 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:31 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:31 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:31 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:32 : die        : Vorok Mud-Chief           :                           :                           :              :              :       
-02:24:32 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:32 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:32 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:32 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:32 : die        : Tavok Chief-brother       :                           :                           :              :              :       
-02:24:33 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:33 : die        : Mud Ogre                  :                           :                           :              :              :       
-02:24:33 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:33 : die        : Moss Ogre                 :                           :                           :              :              :       
-02:24:33 : die        : Vorok Mud-Chief           :                           :                           :              :              :       
+16:13:01 : die        : Vashtur                   :                           :                           :              :              :       
+16:13:01 : die        : Vashtur                   :                           :                           :              :              :       
+16:13:04 : die        : Priest                    :                           :                           :              :              :       
+16:13:04 : die        : Priest                    :                           :                           :              :              :       
+16:13:07 : die        : PBAOE                     :                           :                           :              :              :       
+16:13:07 : die        : PBAOE                     :                           :                           :              :              :       
+16:13:09 : die        : Tupac Shakur              :                           :                           :              :              :       
+16:13:09 : die        : Tupac Shakur              :                           :                           :              :              :       
+16:13:11 : die        : BigBlackBen               :                           :                           :              :              :       
+16:13:11 : die        : Long                      :                           :                           :              :              :       
+16:13:12 : die        : Long                      :                           :                           :              :              :       
+16:13:13 : die        : Drooley                   :                           :                           :              :              :       
+16:13:13 : die        : Drooley                   :                           :                           :              :              :       
+16:13:13 : die        : AlbiThere ForYou          :                           :                           :              :              :       
+16:13:13 : die        : AlbiThere ForYou          :                           :                           :              :              :       
+16:13:13 : die        : The Vashteera's Companion :                           :                           :              :              :       
+16:13:21 : die        : DMT                       :                           :                           :              :              :       
+16:13:21 : die        : DMT                       :                           :                           :              :              :       
+16:13:23 : die        : Guru                      :                           :                           :              :              :       
+16:13:23 : die        : Guru                      :                           :                           :              :              :       
+16:13:32 : die        : SeeNo Evil                :                           :                           :              :              :       
+16:13:32 : die        : SeeNo Evil                :                           :                           :              :              :       
+16:13:36 : die        : Dispel Cobra              :                           :                           :              :              :       
+16:13:36 : die        : Dispel Cobra              :                           :                           :              :              :       
+16:13:37 : die        : LogicNC                   :                           :                           :              :              :       
+16:13:38 : die        : Yuckfou                   :                           :                           :              :              :       
+16:13:38 : die        : Yuckfou                   :                           :                           :              :              :       
+16:13:39 : die        : deez nuts                 :                           :                           :              :              :       
+16:13:40 : die        : deez nuts                 :                           :                           :              :              :       
+16:13:40 : die        : Bog                       :                           :                           :              :              :       
+16:13:41 : die        : First Aid                 :                           :                           :              :              :       
+16:13:41 : die        : Fkrah                     :                           :                           :              :              :       
+16:13:41 : die        : Fkrah                     :                           :                           :              :              :       
+16:13:42 : die        : Noodle                    :                           :                           :              :              :       
+16:13:42 : die        : Noodle                    :                           :                           :              :              :       
+16:13:48 : die        : Imagine Defense lol       :                           :                           :              :              :       
+16:13:49 : die        : Holger                    :                           :                           :              :              :       
+16:13:49 : die        : Holger                    :                           :                           :              :              :       
+16:13:50 : die        : Hunger                    :                           :                           :              :              :       
+16:13:50 : die        : Hunger                    :                           :                           :              :              :       
+16:13:52 : die        : Octavius                  :                           :                           :              :              :       
+16:13:52 : die        : Octavius                  :                           :                           :              :              :       
+16:13:56 : die        : TyyppVee                  :                           :                           :              :              :       
+16:13:56 : die        : TyyppVee                  :                           :                           :              :              :       
+16:13:57 : die        : The Vashteera's Companion :                           :                           :              :              :       
+16:13:58 : die        : The Mud Fiend             :                           :                           :              :              :       
+16:14:03 : die        : dnst ' NZSP              :                           :                           :              :              :       
+16:14:03 : die        : dnst ' NZSP              :                           :                           :              :              :       
+16:14:05 : die        : The Novac the Bellugh Nuathal Priest :                           :                           :              :              :       
+16:14:11 : die        : Rain Up In The Sky        :                           :                           :              :              :       
+16:14:12 : die        : blackgurl the sandslave   :                           :                           :              :              :       
+16:14:12 : die        : blackgurl the sandslave   :                           :                           :              :              :       
+16:14:14 : die        : Bambi Look A Bird         :                           :                           :              :              :       
+16:14:14 : die        : Bambi Look A Bird         :                           :                           :              :              :       
+16:14:15 : die        : KSlater Up In The Sky     :                           :                           :              :              :       
+16:14:15 : die        : KSlater Up In The Sky     :                           :                           :              :              :       
+16:14:15 : die        : wreck                     :                           :                           :              :              :       
+16:14:15 : die        : wreck                     :                           :                           :              :              :       
+16:14:23 : die        : Bambi Look A Bird         :                           :                           :              :              :       
+16:14:24 : die        : blackgurl the sandslave   :                           :                           :              :              :       
+16:14:24 : die        : blackgurl the sandslave   :                           :                           :              :              :       
+16:14:26 : die        : Rain Up In The Sky        :                           :                           :              :              :       
+16:14:26 : die        : Rain Up In The Sky        :                           :                           :              :              :       
+16:14:27 : die        : KSlater Up In The Sky     :                           :                           :              :              :       
+16:14:27 : die        : KSlater Up In The Sky     :                           :                           :              :              :       
+16:14:28 : die        : wreck                     :                           :                           :              :              :       
+16:14:29 : die        : kwx                       :                           :                           :              :              :       
+16:14:29 : die        : kwx                       :                           :                           :              :              :       
+16:14:30 : die        : Andre                     :                           :                           :              :              :       
+16:14:30 : die        : Andre                     :                           :                           :              :              :       
+16:14:37 : die        : syszj BH                  :                           :                           :              :              :       
+16:14:37 : die        : syszj BH                  :                           :                           :              :              :       
+16:14:39 : die        : MDAZJ BH                  :                           :                           :              :              :       
+16:14:39 : die        : MDAZJ BH                  :                           :                           :              :              :       
+16:14:41 : die        : FYasz BH                  :                           :                           :              :              :       
+16:14:41 : die        : FYasz BH                  :                           :                           :              :              :       
+16:14:41 : die        : SPF � BH                 :                           :                           :              :              :       
+16:14:41 : die        : SPF � BH                 :                           :                           :              :              :       
+16:14:50 : die        : Ponch                     :                           :                           :              :              :       
+16:14:50 : die        : Ponch                     :                           :                           :              :              :       
+16:14:50 : die        : CountHyde                 :                           :                           :              :              :       
+16:14:50 : die        : CountHyde                 :                           :                           :              :              :       
+16:14:52 : die        : Bearable                  :                           :                           :              :              :       
+16:14:52 : die        : Bearable                  :                           :                           :              :              :       
+16:14:54 : die        : MyosMoo                   :                           :                           :              :              :       
+16:14:54 : die        : MyosMoo                   :                           :                           :              :              :       
+16:14:54 : die        : Mephistopheles            :                           :                           :              :              :       
+16:15:01 : die        : nvwu                      :                           :                           :              :              :       
+16:15:01 : die        : nvwu                      :                           :                           :              :              :       
+16:15:02 : die        : fcd                       :                           :                           :              :              :       
+16:15:03 : die        : fcd                       :                           :                           :              :              :       
+16:15:05 : die        : Szmz                      :                           :                           :              :              :       
+16:15:08 : die        : Breeze                    :                           :                           :              :              :       
+16:15:09 : die        : JMc                       :                           :                           :              :              :       
+16:15:10 : die        : JMc                       :                           :                           :              :              :       
+16:15:11 : die        : ysmf T�                   :                           :                           :              :              :       
+16:15:11 : die        : ysmf T�                   :                           :                           :              :              :       
+16:15:18 : die        : Tibins                    :                           :                           :              :              :       
+16:15:18 : die        : Tibins                    :                           :                           :              :              :       
+16:15:20 : die        : CaliSent                  :                           :                           :              :              :       
+16:15:21 : die        : CaliSent                  :                           :                           :              :              :       
+16:15:21 : die        : Vaginex                   :                           :                           :              :              :       
+16:15:21 : die        : Vaginex                   :                           :                           :              :              :       
+16:15:21 : die        : Liquid Snacks             :                           :                           :              :              :       
+16:15:22 : die        : Liquid Snacks             :                           :                           :              :              :       
+16:15:23 : die        : Prodriver                 :                           :                           :              :              :       
+16:15:23 : die        : Prodriver                 :                           :                           :              :              :       
+16:15:24 : die        : HolyThug                  :                           :                           :              :              :       
+16:15:25 : die        : Healn                     :                           :                           :              :              :       
+16:15:31 : die        : SYgzs � BH               :                           :                           :              :              :       
+16:15:33 : die        : MDAZJ BH                  :                           :                           :              :              :       
+16:15:35 : die        : LDSU mS BH                :                           :                           :              :              :       
+16:15:36 : die        : HHDD k� BH                :                           :                           :              :              :       
+16:15:48 : die        : xxOxx                     :                           :                           :              :              :       
+16:15:48 : die        : xxOxx                     :                           :                           :              :              :       
+16:15:50 : die        : SPA � BH                 :                           :                           :              :              :       
+16:15:50 : die        : SPA � BH                 :                           :                           :              :              :       
+16:15:53 : die        : EarthZS BH                :                           :                           :              :              :       
+16:15:53 : die        : EarthZS BH                :                           :                           :              :              :       
+16:15:56 : die        : FYsz BH                   :                           :                           :              :              :       
+16:15:56 : die        : FYsz BH                   :                           :                           :              :              :       
+16:16:02 : die        : Trashcans                 :                           :                           :              :              :       
+16:16:02 : die        : Trashcans                 :                           :                           :              :              :       
+16:16:05 : die        : Binance                   :                           :                           :              :              :       
+16:16:05 : die        : Binance                   :                           :                           :              :              :       
+16:16:05 : die        : Hellio Cherio             :                           :                           :              :              :       
+16:16:06 : die        : Hellio Cherio             :                           :                           :              :              :       
+16:16:08 : die        : Yixim BH                  :                           :                           :              :              :       
+16:16:08 : die        : Yixim BH                  :                           :                           :              :              :       
+16:16:10 : die        : AlbiThere ForYou          :                           :                           :              :              :       
+16:16:10 : die        : AlbiThere ForYou          :                           :                           :              :              :       
+16:16:12 : die        : Priest                    :                           :                           :              :              :       
+16:16:12 : die        : Priest                    :                           :                           :              :              :       
+16:16:15 : die        : KooP BH                   :                           :                           :              :              :       
+16:16:15 : die        : KooP BH                   :                           :                           :              :              :       
+16:16:16 : die        : ICBC �; BH                :                           :                           :              :              :       
+16:16:16 : die        : ICBC �; BH                :                           :                           :              :              :       
+16:16:18 : die        : Hwsz  BH                :                           :                           :              :              :       
+16:16:18 : die        : Hwsz  BH                :                           :                           :              :              :       
+16:16:18 : die        : The Firemane Manticore    :                           :                           :              :              :       
+16:16:20 : die        : Libai BH                  :                           :                           :              :              :       
+16:16:20 : die        : Libai BH                  :                           :                           :              :              :       
+16:16:20 : die        : Kansas                    :                           :                           :              :              :       
+16:16:20 : die        : Kansas                    :                           :                           :              :              :       
+16:16:21 : die        : dwh dw BH                 :                           :                           :              :              :       
+16:16:21 : die        : dwh dw BH                 :                           :                           :              :              :       
+16:16:22 : die        : Jon Snow cf BH            :                           :                           :              :              :       
+16:16:22 : die        : Jon Snow cf BH            :                           :                           :              :              :       
+16:16:25 : die        : FYasz BH                  :                           :                           :              :              :       
+16:16:25 : die        : FYasz BH                  :                           :                           :              :              :       
+16:16:28 : die        : FYsz BH                   :                           :                           :              :              :       
+16:16:28 : die        : FYsz BH                   :                           :                           :              :              :       
+16:16:28 : die        : Ims �; BH                 :                           :                           :              :              :       
+16:16:28 : die        : Ims �; BH                 :                           :                           :              :              :       
+16:16:30 : die        : TPPB BH                   :                           :                           :              :              :       
+16:16:30 : die        : TPPB BH                   :                           :                           :              :              :       
+16:16:33 : die        : PBAOE                     :                           :                           :              :              :       
+16:16:33 : die        : PBAOE                     :                           :                           :              :              :       
+16:16:43 : die        : TypeVi                    :                           :                           :              :              :       
+16:16:43 : die        : TypeVi                    :                           :                           :              :              :       
+16:16:45 : die        : Roka                      :                           :                           :              :              :       
+16:16:45 : die        : Roka                      :                           :                           :              :              :       
+16:16:51 : die        : Luke Dwarf Walker         :                           :                           :              :              :       
+16:16:51 : die        : Luke Dwarf Walker         :                           :                           :              :              :       
+16:17:05 : die        : paul                      :                           :                           :              :              :       
+16:17:05 : die        : paul                      :                           :                           :              :              :       
+16:17:08 : die        : Roka                      :                           :                           :              :              :       
+16:17:08 : die        : Roka                      :                           :                           :              :              :       
+16:17:09 : die        : iThallia                  :                           :                           :              :              :       
+16:17:10 : die        : iThallia                  :                           :                           :              :              :       
+16:17:12 : die        : TyyppVee                  :                           :                           :              :              :       
+16:17:12 : die        : TyyppVee                  :                           :                           :              :              :       
+16:17:16 : die        : MyMan                     :                           :                           :              :              :       
+16:17:16 : die        : MyMan                     :                           :                           :              :              :       
+16:17:19 : die        : Necromancer               :                           :                           :              :              :       
+16:17:19 : die        : Necromancer               :                           :                           :              :              :       
+16:17:23 : die        : Chaos                     :                           :                           :              :              :       
+16:17:23 : die        : Chaos                     :                           :                           :              :              :       
+16:17:26 : die        : TypeVee                   :                           :                           :              :              :       
+16:17:26 : die        : TypeVee                   :                           :                           :              :              :       
+16:17:28 : die        : BamBam                    :                           :                           :              :              :       
+16:17:28 : die        : BamBam                    :                           :                           :              :              :       
+16:17:29 : die        : sudo                      :                           :                           :              :              :       
+16:17:29 : die        : sudo                      :                           :                           :              :              :       
+16:17:32 : die        : Luke Dwarf Walker         :                           :                           :              :              :       
+16:17:32 : die        : Luke Dwarf Walker         :                           :                           :              :              :       
+16:17:38 : die        : Que                       :                           :                           :              :              :       
+16:17:38 : die        : Que                       :                           :                           :              :              :       
+16:17:48 : die        : Libai BH                  :                           :                           :              :              :       
+16:17:48 : die        : Libai BH                  :                           :                           :              :              :       
+16:17:51 : die        : Elwl �e BH               :                           :                           :              :              :       
+16:17:51 : die        : Elwl �e BH               :                           :                           :              :              :       
+16:17:52 : die        : Jon Snow cf BH            :                           :                           :              :              :       
+16:17:52 : die        : Jon Snow cf BH            :                           :                           :              :              :       
+16:17:53 : die        : SYgzs � BH               :                           :                           :              :              :       
+16:17:53 : die        : SYgzs � BH               :                           :                           :              :              :       
+16:17:54 : die        : Lqws � BH                :                           :                           :              :              :       
+16:17:55 : die        : Lqws � BH                :                           :                           :              :              :       
+16:17:55 : die        : QQws BH                   :                           :                           :              :              :       
+16:17:55 : die        : QQws BH                   :                           :                           :              :              :       
+16:17:58 : die        : TFst BH                   :                           :                           :              :              :       
+16:17:58 : die        : TFst BH                   :                           :                           :              :              :       
+16:18:01 : die        : XFzj �� BH                :                           :                           :              :              :       
+16:18:01 : die        : XFzj �� BH                :                           :                           :              :              :       
+16:18:03 : die        : dwh dw BH                 :                           :                           :              :              :       
+16:18:03 : die        : dwh dw BH                 :                           :                           :              :              :       
+16:18:03 : die        : Yixim BH                  :                           :                           :              :              :       
+16:18:03 : die        : Yixim BH                  :                           :                           :              :              :       
+16:18:07 : die        : Ponchs Mom                :                           :                           :              :              :       
+16:18:07 : die        : Ponchs Mom                :                           :                           :              :              :       
+16:18:07 : die        : Fzoul                     :                           :                           :              :              :       
+16:18:08 : die        : The Vashteera's Companion :                           :                           :              :              :       
+16:18:09 : die        : FYasz BH                  :                           :                           :              :              :       
+16:18:09 : die        : FYasz BH                  :                           :                           :              :              :       
+16:18:17 : die        : Libai BH                  :                           :                           :              :              :       
+16:18:17 : die        : Libai BH                  :                           :                           :              :              :       
+16:18:21 : die        : TFst BH                   :                           :                           :              :              :       
+16:18:21 : die        : TFst BH                   :                           :                           :              :              :       
+16:18:23 : die        : QQws BH                   :                           :                           :              :              :       
+16:18:25 : die        : TPPB BH                   :                           :                           :              :              :       
+16:18:25 : die        : TPPB BH                   :                           :                           :              :              :       
+16:18:28 : die        : FYasz BH                  :                           :                           :              :              :       
+16:18:28 : die        : FYasz BH                  :                           :                           :              :              :       
+16:18:29 : die        : Jon Snow cf BH            :                           :                           :              :              :       
+16:18:30 : die        : Yixim BH                  :                           :                           :              :              :       
+16:18:31 : die        : Yixim BH                  :                           :                           :              :              :       
+16:18:32 : die        : XFzj �� BH                :                           :                           :              :              :       
+16:18:32 : die        : XFzj �� BH                :                           :                           :              :              :       
+16:18:32 : die        : The Vashteera's Thrall    :                           :                           :              :              :       
+16:18:44 : die        : Wife Aggro                :                           :                           :              :              :       
+16:18:44 : die        : Wife Aggro                :                           :                           :              :              :       
+16:18:47 : die        : Eyes Bank Mice Elf        :                           :                           :              :              :       
+16:18:47 : die        : Eyes Bank Mice Elf        :                           :                           :              :              :       
+16:18:48 : die        : FNS                       :                           :                           :              :              :       
+16:18:48 : die        : FNS                       :                           :                           :              :              :       
+16:19:06 : die        : niugg target              :                           :                           :              :              :       
+16:19:06 : die        : niugg target              :                           :                           :              :              :       
+16:19:09 : die        : CQFZm �Vs� TarGet         :                           :                           :              :              :       
+16:19:14 : die        : WMW Dong TarGet           :                           :                           :              :              :       
+16:19:25 : die        : Brutikus Wrathborn        :                           :                           :              :              :       
+16:19:25 : die        : Brutikus Wrathborn        :                           :                           :              :              :       
+16:19:28 : die        : vVv                       :                           :                           :              :              :       
+16:19:28 : die        : vVv                       :                           :                           :              :              :       
+16:19:29 : die        : Relent                    :                           :                           :              :              :       
+16:19:30 : die        : Zoomy                     :                           :                           :              :              :       
+16:19:32 : die        : Gimli                     :                           :                           :              :              :       
+16:19:32 : die        : Gimli                     :                           :                           :              :              :       
+16:19:33 : die        : Schmeat                   :                           :                           :              :              :       
+16:19:33 : die        : Schmeat                   :                           :                           :              :              :       
+16:19:34 : die        : Dyestan                   :                           :                           :              :              :       
+16:19:34 : die        : Dyestan                   :                           :                           :              :              :       
+16:19:35 : die        : Luca                      :                           :                           :              :              :       
+16:19:35 : die        : Talendor Ta'Kier          :                           :                           :              :              :       
+16:19:35 : die        : Talendor Ta'Kier          :                           :                           :              :              :       
+16:19:43 : die        : Uhtred                    :                           :                           :              :              :       
+16:19:43 : die        : Uhtred                    :                           :                           :              :              :       
+16:19:45 : die        : Tizoc De Teotihuacan      :                           :                           :              :              :       
+16:19:45 : die        : Tizoc De Teotihuacan      :                           :                           :              :              :       
+16:19:53 : die        : Sebera Vandorian          :                           :                           :              :              :       
+16:19:58 : die        : CapDD                     :                           :                           :              :              :       
+16:19:58 : die        : CapDD                     :                           :                           :              :              :       
+16:20:02 : die        : ANGLER                    :                           :                           :              :              :       
+16:20:02 : die        : ANGLER                    :                           :                           :              :              :       
+16:20:06 : die        : Warrior                   :                           :                           :              :              :       
+16:20:07 : die        : occifer                   :                           :                           :              :              :       
+16:20:08 : die        : occifer                   :                           :                           :              :              :       
+16:20:08 : die        : jaja jajaja               :                           :                           :              :              :       
+16:20:11 : die        : vVv                       :                           :                           :              :              :       
+16:20:11 : die        : vVv                       :                           :                           :              :              :       
+16:20:12 : die        : Zoomy                     :                           :                           :              :              :       
+16:20:12 : die        : Zoomy                     :                           :                           :              :              :       
+16:20:13 : die        : Jill                      :                           :                           :              :              :       
+16:20:14 : die        : Jill                      :                           :                           :              :              :       
+16:20:16 : die        : The Dread Manticore       :                           :                           :              :              :       
+16:20:20 : die        : AlbiClose                 :                           :                           :              :              :       
+16:20:23 : die        : Brutikus Wrathborn        :                           :                           :              :              :       
+16:20:23 : die        : Brutikus Wrathborn        :                           :                           :              :              :       
+16:20:25 : die        : Schmeat                   :                           :                           :              :              :       
+16:20:25 : die        : Schmeat                   :                           :                           :              :              :       
+16:20:26 : die        : The Demon Overseer        :                           :                           :              :              :       
+16:20:29 : die        : Luca                      :                           :                           :              :              :       
+16:20:29 : die        : The Demon Overseer        :                           :                           :              :              :       
+16:20:30 : die        : Dyestan                   :                           :                           :              :              :       
+16:20:30 : die        : Dyestan                   :                           :                           :              :              :       
+16:20:30 : die        : fluff                     :                           :                           :              :              :       
+16:20:30 : die        : fluff                     :                           :                           :              :              :       
+16:20:40 : die        : Sebera Vandorian          :                           :                           :              :              :       
+16:20:40 : die        : Sebera Vandorian          :                           :                           :              :              :       
+16:20:45 : die        : Qwert Noblebrew           :                           :                           :              :              :       
+16:20:45 : die        : Qwert Noblebrew           :                           :                           :              :              :       
+16:20:46 : die        : PooTTang �                :                           :                           :              :              :       
+16:20:46 : die        : PooTTang �                :                           :                           :              :              :       
+16:20:47 : die        : vVv                       :                           :                           :              :              :       
+16:20:47 : die        : vVv                       :                           :                           :              :              :       
+16:20:53 : die        : Apocgg                    :                           :                           :              :              :       
+16:20:53 : die        : Apocgg                    :                           :                           :              :              :       
+16:20:55 : die        : Soda                      :                           :                           :              :              :       
+16:20:55 : die        : Soda                      :                           :                           :              :              :       
+16:21:01 : die        : Sax                       :                           :                           :              :              :       
+16:21:01 : die        : Sax                       :                           :                           :              :              :       
+16:21:02 : die        : Lister                    :                           :                           :              :              :       
+16:21:02 : die        : Lister                    :                           :                           :              :              :       
+16:21:03 : die        : Jill                      :                           :                           :              :              :       
+16:21:03 : die        : Jill                      :                           :                           :              :              :       
+16:21:05 : die        : Stylebane                 :                           :                           :              :              :       
+16:21:05 : die        : Stylebane                 :                           :                           :              :              :       
+16:21:05 : die        : PonyV                     :                           :                           :              :              :       
+16:21:05 : die        : PonyV                     :                           :                           :              :              :       
+16:21:15 : die        : Drooley                   :                           :                           :              :              :       
+16:21:15 : die        : Drooley                   :                           :                           :              :              :       
+16:21:18 : die        : LilDoof                   :                           :                           :              :              :       
+16:21:18 : die        : LilDoof                   :                           :                           :              :              :       
+16:21:20 : die        : Warrior                   :                           :                           :              :              :       
+16:21:21 : die        : Cumtaker of the Old Ways  :                           :                           :              :              :       
+16:21:24 : die        : TheHerp                   :                           :                           :              :              :       
+16:21:37 : die        : BNLV q`� NZSP            :                           :                           :              :              :       
+16:21:37 : die        : BNLV q`� NZSP            :                           :                           :              :              :       
+16:21:51 : die        : JYMS �� TA                :                           :                           :              :              :       
+16:21:51 : die        : JYMS �� TA                :                           :                           :              :              :       
+16:21:56 : die        : asir n� NZSP              :                           :                           :              :              :       
+16:21:56 : die        : asir n� NZSP              :                           :                           :              :              :       
+16:21:58 : die        : rmrn NBPZ TA              :                           :                           :              :              :       
+16:21:58 : die        : rmrn NBPZ TA              :                           :                           :              :              :       
+16:22:12 : die        : Tactz Token Chinaman      :                           :                           :              :              :       
+16:22:12 : die        : Tactz Token Chinaman      :                           :                           :              :              :       
+16:22:16 : die        : LilDoof                   :                           :                           :              :              :       
+16:22:16 : die        : LilDoof                   :                           :                           :              :              :       
+16:22:21 : die        : BigAlbi                   :                           :                           :              :              :       
+16:22:21 : die        : BigAlbi                   :                           :                           :              :              :       
+16:22:38 : die        : YNM                       :                           :                           :              :              :       
+16:22:38 : die        : Sax                       :                           :                           :              :              :       
+16:22:38 : die        : Sax                       :                           :                           :              :              :       
+16:22:39 : die        : MSN L KOK                :                           :                           :              :              :       
+16:22:39 : die        : MSN L KOK                :                           :                           :              :              :       
+16:22:42 : die        : tickles                   :                           :                           :              :              :       
+16:22:42 : die        : tickles                   :                           :                           :              :              :       
+16:22:42 : die        : FireAS - Killer XIII -    :                           :                           :              :              :       
+16:22:43 : die        : TOGNAAR TREETARD          :                           :                           :              :              :       
+16:22:43 : die        : TOGNAAR TREETARD          :                           :                           :              :              :       
+16:22:46 : die        : Vlad Tepes                :                           :                           :              :              :       
+16:22:47 : die        : Vlad Tepes                :                           :                           :              :              :       
+16:22:48 : die        : somebody                  :                           :                           :              :              :       
+16:22:48 : die        : somebody                  :                           :                           :              :              :       
+16:22:50 : die        : Bozo                      :                           :                           :              :              :       
+16:22:50 : die        : Bozo                      :                           :                           :              :              :       
+16:22:50 : die        : Stylebane                 :                           :                           :              :              :       
+16:22:50 : die        : Stylebane                 :                           :                           :              :              :       
+16:22:51 : die        : PonyV                     :                           :                           :              :              :       
+16:22:51 : die        : PonyV                     :                           :                           :              :              :       
+16:23:01 : die        : Jenny From the Block      :                           :                           :              :              :       
+16:23:01 : die        : Jenny From the Block      :                           :                           :              :              :       
+16:23:09 : die        : LilDoof                   :                           :                           :              :              :       
+16:23:10 : die        : LilDoof                   :                           :                           :              :              :       
+16:23:12 : die        : Warrior                   :                           :                           :              :              :       
+16:23:12 : die        : Warrior                   :                           :                           :              :              :       
+16:23:15 : die        : ShiftyInc                 :                           :                           :              :              :       
+16:23:15 : die        : ShiftyInc                 :                           :                           :              :              :       
+16:23:16 : die        : FashionZ Police           :                           :                           :              :              :       
+16:23:16 : die        : FashionZ Police           :                           :                           :              :              :       
+16:23:18 : die        : HerHoliness TaylorSwift   :                           :                           :              :              :       
+16:23:18 : die        : HerHoliness TaylorSwift   :                           :                           :              :              :       
+16:23:20 : die        : The Frost Maiden          :                           :                           :              :              :       

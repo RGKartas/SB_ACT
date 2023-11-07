@@ -1,6 +1,32 @@
-Version     :: 0.0.11.0
-DateTime    :: 11/7/2023 02:23:58 AM
+Version     :: 0.0.11.5
+DateTime    :: 11/7/2023 04:12:41 PM
 RegExType   :: Debuff :: Blind
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>kick[s]? dirt) .* (?<target>\w*)[r's]+ .*[\.!]
 
 
+(16:13:03) BigBlackBen kicks dirt in lover's face!
+(16:15:44) DRChuckIt kicks dirt in yunT's face!
+(16:16:45) iThallia kicks dirt in Roka's face!
+(16:16:47) Necromancer kicks dirt in Sax's face!
+(16:17:06) iThallia kicks dirt in Roka's face!
+(16:17:08) BigBlackBen kicks dirt in TyyppVee's face!
+(16:17:09) BamBam kicks dirt in Typechi's face!
+(16:18:41) typeV kicks dirt in Apdo's face!
+(16:18:41) Apdo kicks dirt in Apdo's face!
+(16:18:52) typeV kicks dirt in xlxl's face!
+(16:18:52) xlxl cc kicks dirt in xlxl's face!
+(16:19:04) Jill kicks dirt in CCJFsD's face!
+(16:19:12) Stylebane kicks dirt in WMW's face!
+(16:19:12) typeV kicks dirt in WMW's face!
+(16:19:14) PonyV kicks dirt in WMW's face!
+(16:19:42) PonyV kicks dirt in Uhtred's face!
+(16:19:42) Stylebane kicks dirt in Uhtred's face!
+(16:19:42) Jill kicks dirt in Uhtred's face!
+(16:20:17) Brutikus kicks dirt in Bozo's face!
+(16:21:01) Bozo kicks dirt in CapDD's face!
+(16:21:19) typeB kicks dirt in Cumtaker's face!
+(16:21:24) typeV kicks dirt in TheHerp's face!
+(16:21:41) Bozo kicks dirt in CCJFsD's face!
+(16:21:42) AIucard kicks dirt in mybjT's face!
+(16:21:45) mybjT }�  MorDor kicks dirt in mybjT's face!
+(16:22:48) WarPonch kicks dirt in sdx's face!

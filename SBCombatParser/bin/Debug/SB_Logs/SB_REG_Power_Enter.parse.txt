@@ -1,6 +1,26 @@
-Version     :: 0.0.11.0
-DateTime    :: 11/7/2023 02:23:58 AM
+Version     :: 0.0.11.5
+DateTime    :: 11/7/2023 04:12:41 PM
 RegExType   :: Power :: Enter
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<type>enter)s? [\Wa]?(?<ability>.*)[\.!]
 
 Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
+16:12:56 : enter      : AlbiThere                 :                           : berserker rage            :              :              :       
+16:13:48 : enter      : HuntyPet                  :                           : berserker rage            :              :              :       
+16:14:36 : enter      : Dispel                    :                           : berserker rage            :              :              :       
+16:14:39 : enter      : HuntyPet                  :                           : berserker rage            :              :              :       
+16:14:49 : enter      : Bearable                  :                           : berserker rage            :              :              :       
+16:17:02 : enter      : Selee                     :                           : berserker rage            :              :              :       
+16:17:47 : enter      : Jon                       :                           : berserker rage            :              :              :       
+16:17:47 : enter      : HuntyPet                  :                           : berserker rage            :              :              :       
+16:19:23 : enter      : Relent                    :                           : berserker rage            :              :              :       
+16:19:24 : enter      : Zoomy                     :                           : berserker rage            :              :              :       
+16:19:29 : enter      : Gimli                     :                           : berserker rage            :              :              :       
+16:20:10 : enter      : Schmeat                   :                           : berserker rage            :              :              :       
+16:20:22 : enter      : Gimli                     :                           : berserker rage            :              :              :       
+16:20:29 : enter      : Gimli                     :                           : berserker rage            :              :              :       
+16:20:30 : enter      : Gimli                     :                           : berserker rage            :              :              :       
+16:20:55 : enter      : CapDD                     :                           : berserker rage            :              :              :       
+16:22:05 : enter      : OVER                      :                           : berserker rage            :              :              :       
+16:22:06 : enter      : CapH                      :                           : berserker rage            :              :              :       
+16:22:10 : enter      : Tactz                     :                           : berserker rage            :              :              :       
+16:22:34 : enter      : Yomo                      :                           : berserker rage            :              :              :       

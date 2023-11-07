@@ -1,6 +1,38 @@
-Version     :: 0.0.11.0
-DateTime    :: 11/7/2023 02:23:58 AM
+Version     :: 0.0.11.5
+DateTime    :: 11/7/2023 04:12:41 PM
 RegExType   :: Damage :: Spell Hit You
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*)[r']?[s]? (?<type>take) (?<value>\d*) .* from (?<source>.*)[\.!]
 
 Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
+16:13:01 : take       : bleeding                  : YOU                       :                           :              :              : 47    
+16:13:50 : take       : bleeding                  : YOU                       :                           :              :              : 31    
+16:13:51 : take       : bleeding                  : YOU                       :                           :              :              : 25    
+16:13:52 : take       : bleeding                  : YOU                       :                           :              :              : 51    
+16:13:52 : take       : bleeding                  : YOU                       :                           :              :              : 31    
+16:13:53 : take       : bleeding                  : YOU                       :                           :              :              : 46    
+16:13:55 : take       : bleeding                  : YOU                       :                           :              :              : 30    
+16:13:56 : take       : bleeding                  : YOU                       :                           :              :              : 34    
+16:13:56 : take       : bleeding                  : YOU                       :                           :              :              : 51    
+16:13:57 : take       : bleeding                  : YOU                       :                           :              :              : 28    
+16:15:41 : take       : bleeding                  : YOU                       :                           :              :              : 34    
+16:15:42 : take       : bleeding                  : YOU                       :                           :              :              : 28    
+16:18:18 : take       : bleeding                  : YOU                       :                           :              :              : 24    
+16:18:19 : take       : bleeding                  : YOU                       :                           :              :              : 30    
+16:18:43 : take       : bleeding                  : YOU                       :                           :              :              : 20    
+16:18:43 : take       : bleeding                  : YOU                       :                           :              :              : 30    
+16:18:43 : take       : bleeding                  : YOU                       :                           :              :              : 38    
+16:18:44 : take       : bleeding                  : YOU                       :                           :              :              : 44    
+16:18:44 : take       : bleeding                  : YOU                       :                           :              :              : 30    
+16:18:44 : take       : bleeding                  : YOU                       :                           :              :              : 52    
+16:18:44 : take       : bleeding                  : YOU                       :                           :              :              : 42    
+16:18:44 : take       : bleeding                  : YOU                       :                           :              :              : 43    
+16:18:45 : take       : bleeding                  : YOU                       :                           :              :              : 27    
+16:18:45 : take       : bleeding                  : YOU                       :                           :              :              : 35    
+16:18:46 : take       : bleeding                  : YOU                       :                           :              :              : 34    
+16:18:46 : take       : bleeding                  : YOU                       :                           :              :              : 23    
+16:18:46 : take       : bleeding                  : YOU                       :                           :              :              : 31    
+16:18:53 : take       : bleeding                  : YOU                       :                           :              :              : 21    
+16:18:53 : take       : bleeding                  : YOU                       :                           :              :              : 18    
+16:23:20 : take       : bleeding                  : YOU                       :                           :              :              : 39    
+16:23:20 : take       : bleeding                  : YOU                       :                           :              :              : 32    
+16:23:20 : take       : bleeding                  : YOU                       :                           :              :              : 21    

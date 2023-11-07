@@ -1,8 +1,52 @@
-Version     :: 0.0.11.0
-DateTime    :: 11/7/2023 02:23:58 AM
+Version     :: 0.0.11.5
+DateTime    :: 11/7/2023 04:12:41 PM
 RegExType   :: CLC :: Event
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>CLC) (?<type>.*) (?<event_type>.*) \:\: (?<event_detail>.*)
 
 
-(02:24:12) CLC LogFile Start :: .\LogFiles\Input\Combat1.log.txt
-(02:24:35) CLC LogFile Stop :: .\LogFiles\Input\Combat1.log.txt
+(16:12:56) CLC LogFile Start :: .\LogFiles\Input\From_Type\10bro.txt
+(16:13:13) CLC LogFile Stop :: .\LogFiles\Input\From_Type\10bro.txt
+(16:13:18) CLC LogFile Start :: .\LogFiles\Input\From_Type\10v14tomb.txt
+(16:13:42) CLC LogFile Stop :: .\LogFiles\Input\From_Type\10v14tomb.txt
+(16:13:47) CLC LogFile Start :: .\LogFiles\Input\From_Type\1111.txt
+(16:14:31) CLC LogFile Stop :: .\LogFiles\Input\From_Type\1111.txt
+(16:14:36) CLC LogFile Start :: .\LogFiles\Input\From_Type\11111.txt
+(16:14:43) CLC LogFile Stop :: .\LogFiles\Input\From_Type\11111.txt
+(16:14:48) CLC LogFile Start :: .\LogFiles\Input\From_Type\122222.txt
+(16:14:55) CLC LogFile Stop :: .\LogFiles\Input\From_Type\122222.txt
+(16:15:00) CLC LogFile Start :: .\LogFiles\Input\From_Type\123.txt
+(16:15:26) CLC LogFile Stop :: .\LogFiles\Input\From_Type\123.txt
+(16:15:31) CLC LogFile Start :: .\LogFiles\Input\From_Type\1234.txt
+(16:15:57) CLC LogFile Stop :: .\LogFiles\Input\From_Type\1234.txt
+(16:16:02) CLC LogFile Start :: .\LogFiles\Input\From_Type\15man928.txt
+(16:16:36) CLC LogFile Stop :: .\LogFiles\Input\From_Type\15man928.txt
+(16:16:41) CLC LogFile Start :: .\LogFiles\Input\From_Type\20man.txt
+(16:16:56) CLC LogFile Stop :: .\LogFiles\Input\From_Type\20man.txt
+(16:17:01) CLC LogFile Start :: .\LogFiles\Input\From_Type\20man911.txt
+(16:17:40) CLC LogFile Stop :: .\LogFiles\Input\From_Type\20man911.txt
+(16:17:45) CLC LogFile Start :: .\LogFiles\Input\From_Type\20man928.txt
+(16:18:10) CLC LogFile Stop :: .\LogFiles\Input\From_Type\20man928.txt
+(16:18:15) CLC LogFile Start :: .\LogFiles\Input\From_Type\20man9282.txt
+(16:18:35) CLC LogFile Stop :: .\LogFiles\Input\From_Type\20man9282.txt
+(16:18:40) CLC LogFile Start :: .\LogFiles\Input\From_Type\412ap.txt
+(16:18:54) CLC LogFile Stop :: .\LogFiles\Input\From_Type\412ap.txt
+(16:18:59) CLC LogFile Start :: .\LogFiles\Input\From_Type\412obv.txt
+(16:19:15) CLC LogFile Stop :: .\LogFiles\Input\From_Type\412obv.txt
+(16:19:20) CLC LogFile Start :: .\LogFiles\Input\From_Type\419.txt
+(16:19:36) CLC LogFile Stop :: .\LogFiles\Input\From_Type\419.txt
+(16:19:42) CLC LogFile Start :: .\LogFiles\Input\From_Type\4191.txt
+(16:19:45) CLC LogFile Stop :: .\LogFiles\Input\From_Type\4191.txt
+(16:19:50) CLC LogFile Start :: .\LogFiles\Input\From_Type\419ab.txt
+(16:20:31) CLC LogFile Stop :: .\LogFiles\Input\From_Type\419ab.txt
+(16:20:36) CLC LogFile Start :: .\LogFiles\Input\From_Type\419bog.txt
+(16:21:06) CLC LogFile Stop :: .\LogFiles\Input\From_Type\419bog.txt
+(16:21:11) CLC LogFile Start :: .\LogFiles\Input\From_Type\420.txt
+(16:21:25) CLC LogFile Stop :: .\LogFiles\Input\From_Type\420.txt
+(16:21:30) CLC LogFile Start :: .\LogFiles\Input\From_Type\420bh.txt
+(16:21:59) CLC LogFile Stop :: .\LogFiles\Input\From_Type\420bh.txt
+(16:22:04) CLC LogFile Start :: .\LogFiles\Input\From_Type\421ap.txt
+(16:22:21) CLC LogFile Stop :: .\LogFiles\Input\From_Type\421ap.txt
+(16:22:27) CLC LogFile Start :: .\LogFiles\Input\From_Type\421pf.txt
+(16:22:52) CLC LogFile Stop :: .\LogFiles\Input\From_Type\421pf.txt
+(16:22:57) CLC LogFile Start :: .\LogFiles\Input\From_Type\422.txt
+(16:23:22) CLC LogFile Stop :: .\LogFiles\Input\From_Type\422.txt

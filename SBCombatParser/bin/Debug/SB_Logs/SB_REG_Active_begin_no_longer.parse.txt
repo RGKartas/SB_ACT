@@ -1,6 +1,104 @@
-Version     :: 0.0.11.0
-DateTime    :: 11/7/2023 02:23:58 AM
+Version     :: 0.0.11.5
+DateTime    :: 11/7/2023 04:12:41 PM
 RegExType   :: Active :: begin_no_longer
 RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) [a]?[r]?[e]?[i]?[s]?\W?(?<event_type>.*?)[s]? (?<type>active)ly (?<ability>.*)ing[\.!]
 
 Time     : Value_Type : Source                    : Target                    : Ability                   : Event_type   : Event_detail : Value 
+16:12:57 : active     : Sax                       :                           : block                     : begin        :              :       
+16:13:05 : active     : Sax                       :                           : block                     : no longer    :              :       
+16:13:12 : active     : Drooley                   :                           : block                     : begin        :              :       
+16:13:13 : active     : Drooley                   :                           : block                     : no longer    :              :       
+16:13:30 : active     : Sax                       :                           : block                     : begin        :              :       
+16:13:35 : active     : Sax                       :                           : block                     : no longer    :              :       
+16:13:36 : active     : deez                      :                           : block                     : begin        :              :       
+16:13:39 : active     : deez                      :                           : block                     : no longer    :              :       
+16:14:28 : active     : kwx                       :                           : dodg                      : begin        :              :       
+16:14:29 : active     : kwx                       :                           : dodg                      : no longer    :              :       
+16:14:48 : active     : Bearable                  :                           : parry                     : begin        :              :       
+16:14:52 : active     : Bearable                  :                           : parry                     : no longer    :              :       
+16:15:02 : active     : Sax                       :                           : block                     : begin        :              :       
+16:15:06 : active     : Soda                      :                           : block                     : begin        :              :       
+16:15:10 : active     : Sax                       :                           : block                     : no longer    :              :       
+16:15:13 : active     : Soda                      :                           : block                     : no longer    :              :       
+16:15:36 : active     : Sax                       :                           : block                     : no longer    :              :       
+16:16:05 : active     : Jon                       :                           : parry                     : begin        :              :       
+16:16:06 : active     : Sax                       :                           : block                     : begin        :              :       
+16:16:09 : active     : brms                      :                           : block                     : begin        :              :       
+16:16:11 : active     : Jon                       :                           : parry                     : no longer    :              :       
+16:16:11 : active     : Sax                       :                           : block                     : no longer    :              :       
+16:16:14 : active     : brms                      :                           : block                     : no longer    :              :       
+16:16:17 : active     : KERDC                     :                           : block                     : begin        :              :       
+16:16:22 : active     : KERDC                     :                           : block                     : no longer    :              :       
+16:16:44 : active     : Sax                       :                           : block                     : begin        :              :       
+16:16:51 : active     : Sax                       :                           : block                     : no longer    :              :       
+16:16:55 : active     : Sexting                   :                           : block                     : begin        :              :       
+16:17:18 : active     : sudo                      :                           : block                     : begin        :              :       
+16:17:20 : active     : LeiBruc                   :                           : block                     : begin        :              :       
+16:17:27 : active     : sudo                      :                           : block                     : no longer    :              :       
+16:17:29 : active     : LeiBruc                   :                           : block                     : no longer    :              :       
+16:17:46 : active     : Sax                       :                           : block                     : begin        :              :       
+16:17:56 : active     : Sax                       :                           : block                     : no longer    :              :       
+16:17:59 : active     : KERDC                     :                           : block                     : begin        :              :       
+16:18:00 : active     : dwh                       :                           : block                     : begin        :              :       
+16:18:03 : active     : dwh                       :                           : block                     : no longer    :              :       
+16:18:06 : active     : KERDC                     :                           : block                     : no longer    :              :       
+16:18:15 : active     : Sax                       :                           : block                     : begin        :              :       
+16:18:18 : active     : KERDC                     :                           : block                     : begin        :              :       
+16:18:20 : active     : Yixim                     :                           : block                     : begin        :              :       
+16:18:24 : active     : Sax                       :                           : block                     : no longer    :              :       
+16:18:26 : active     : KERDC                     :                           : block                     : no longer    :              :       
+16:18:29 : active     : Yixim                     :                           : block                     : no longer    :              :       
+16:18:41 : active     : Jill                      :                           : block                     : begin        :              :       
+16:18:44 : active     : Jill                      :                           : block                     : no longer    :              :       
+16:18:52 : active     : xllxl                     :                           : dodg                      : begin        :              :       
+16:18:52 : active     : xllxl                     :                           : dodg                      : no longer    :              :       
+16:19:04 : active     : Soda                      :                           : block                     : begin        :              :       
+16:19:05 : active     : Sax                       :                           : block                     : begin        :              :       
+16:19:11 : active     : BSZ                       :                           : block                     : begin        :              :       
+16:19:12 : active     : Soda                      :                           : block                     : no longer    :              :       
+16:19:12 : active     : ASaz                      :                           : block                     : begin        :              :       
+16:19:12 : active     : Sax                       :                           : block                     : no longer    :              :       
+16:19:13 : active     : WMW                       :                           : block                     : begin        :              :       
+16:19:14 : active     : WMW                       :                           : block                     : no longer    :              :       
+16:19:24 : active     : Lister                    :                           : block                     : begin        :              :       
+16:19:29 : active     : Sax                       :                           : block                     : begin        :              :       
+16:19:32 : active     : Lister                    :                           : block                     : no longer    :              :       
+16:19:34 : active     : Talendor                  :                           : parry                     : begin        :              :       
+16:19:35 : active     : Sax                       :                           : block                     : no longer    :              :       
+16:19:35 : active     : Talendor                  :                           : parry                     : no longer    :              :       
+16:19:43 : active     : Uhtred                    :                           : dodg                      : no longer    :              :       
+16:20:14 : active     : Lister                    :                           : block                     : begin        :              :       
+16:20:15 : active     : Bozo                      :                           : block                     : begin        :              :       
+16:20:22 : active     : Lister                    :                           : block                     : no longer    :              :       
+16:20:24 : active     : Bozo                      :                           : block                     : no longer    :              :       
+16:20:44 : active     : Qwert                     :                           : block                     : begin        :              :       
+16:20:45 : active     : Qwert                     :                           : block                     : no longer    :              :       
+16:20:52 : active     : Soda                      :                           : block                     : begin        :              :       
+16:20:55 : active     : Soda                      :                           : block                     : no longer    :              :       
+16:20:59 : active     : Jill                      :                           : block                     : begin        :              :       
+16:21:00 : active     : Sax                       :                           : block                     : begin        :              :       
+16:21:01 : active     : Drooley                   :                           : block                     : begin        :              :       
+16:21:01 : active     : Sax                       :                           : block                     : no longer    :              :       
+16:21:03 : active     : Jill                      :                           : block                     : no longer    :              :       
+16:21:04 : active     : Stylebane                 :                           : block                     : begin        :              :       
+16:21:05 : active     : Stylebane                 :                           : block                     : no longer    :              :       
+16:21:12 : active     : Sax                       :                           : block                     : begin        :              :       
+16:21:15 : active     : Drooley                   :                           : block                     : begin        :              :       
+16:21:15 : active     : Drooley                   :                           : block                     : no longer    :              :       
+16:21:19 : active     : Sax                       :                           : block                     : no longer    :              :       
+16:21:46 : active     : Soda                      :                           : block                     : begin        :              :       
+16:21:50 : active     : JYMS                      :                           : block                     : begin        :              :       
+16:21:51 : active     : JYMS                      :                           : block                     : no longer    :              :       
+16:21:52 : active     : Soda                      :                           : block                     : no longer    :              :       
+16:22:07 : active     : Sax                       :                           : block                     : begin        :              :       
+16:22:07 : active     : somebody                  :                           : block                     : begin        :              :       
+16:22:11 : active     : Tactz                     :                           : block                     : begin        :              :       
+16:22:12 : active     : Tactz                     :                           : block                     : no longer    :              :       
+16:22:17 : active     : Sax                       :                           : block                     : no longer    :              :       
+16:22:17 : active     : somebody                  :                           : block                     : no longer    :              :       
+16:22:28 : active     : Vlad                      :                           : block                     : begin        :              :       
+16:22:31 : active     : somebody                  :                           : block                     : begin        :              :       
+16:22:32 : active     : Vlad                      :                           : block                     : no longer    :              :       
+16:22:33 : active     : TOGNAAR                   :                           : block                     : begin        :              :       
+16:22:38 : active     : somebody                  :                           : block                     : no longer    :              :       
+16:22:40 : active     : TOGNAAR                   :                           : block                     : no longer    :              :       
