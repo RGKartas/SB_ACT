@@ -1,3 +1,4 @@
 SBCombatParser/bin/Debug/SB_Logs/*
 *.log.txt
 *.parse.txt
+/SBCombatParser/obj/Debug/SBCombatParser.csproj.AssemblyReference.cache
