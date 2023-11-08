@@ -1947,7 +1947,7 @@ namespace SBCombatParser
                     case "hit":
                         this.ability = "melee";
                         this.target = dict["target"];
-                        this.value = GetConvertedValueFromString(["value"]);
+                        this.value = GetConvertedValueFromString(dict["value"]);
                         break;
 
                     case "bleed":
