@@ -1,8 +1,0 @@
-Version     :: 0.0.11.5
-DateTime    :: 11/7/2023 04:12:41 PM
-RegExType   :: Power :: Cry_Hold_Fast
-RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<type>cr[yi]?)[es]* \'(?<ability>.*)\'[\.!]
-
-
-(16:16:23) TOKR cries 'Hold Fast'!
-(16:20:14) AlbiClose cries 'Hold Fast'!

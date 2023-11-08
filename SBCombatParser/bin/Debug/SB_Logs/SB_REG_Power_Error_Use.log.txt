@@ -1,6 +1,0 @@
-Version     :: 0.0.11.5
-DateTime    :: 11/7/2023 04:12:41 PM
-RegExType   :: Power :: Error Use
-RegExString :: \((?<time>\d*\:\d*\:\d*)\)\W*\[(?<event_type>Powers)\] (?<event_detail>.*):(?<source>.*?) (?<type>use)s? [\Wa]?(?<ability>.*)[\.!]
-
-
