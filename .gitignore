@@ -1,0 +1,3 @@
+SBCombatParser/bin/Debug/SB_Logs/*
+*.log.txt
+*.parse.txt
