@@ -258,7 +258,7 @@ namespace SBCombatParser
         static public string preParseFile = "SBPreParse.log.txt";
         static public string postParseFile = "SBPostParse.log.txt";
 
-        static public string version = "0.0.11.8";
+        static public string version = "0.0.12.0";
         static public readonly object fileLock = new object();
         static public readonly object missFilelock = new object();
         static public readonly object unkFilelock = new object();
@@ -461,7 +461,7 @@ namespace SBCombatParser
                 normalPriorityRegEx.Add(new SBregExUsage("Drain", "Val Last", myRegEx, RegexOptions.Compiled, writeALLlogFiles | true));
 
                 //Backstab drains
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*?) (?<type>.*?)[e]?[s]? (?<value>\d*) points of (?<event_type>.*?)\W?damage from (?<source>\w*)[r']?[s]? (?<ability>.*)[\.!]";
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>.*?)[e]?[s]? (?<value>\d*) points of (?<event_type>.*?)\W?damage from (?<source>\w*)[r']?[s]? (?<ability>.*)[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Drain", "Backstab", myRegEx, RegexOptions.Compiled, writeALLlogFiles | true));
 
 
@@ -487,11 +487,15 @@ namespace SBCombatParser
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>Pallando.*Puns) (?<type>\w{3,11}?) (?<target>.*) for (?<value>\d*) .*[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Damage", "Pallando's Pernicious Puns", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
 
-                //Power(s)  -- Hedge of Thorns
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']{1}[s]* (?<ability>.*?s) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]";
-                sbreu = new SBregExUsage("Damage", "Power(s)", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
+                //Hedge of Thorns
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']{1}[s]* (?<ability>Hedge.*?s) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]";
+                sbreu = new SBregExUsage("Damage", "Hedge of Thorns", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
                 normalPriorityRegEx.Add(sbreu);
 
+                //Grasp of Thorns
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']{1}[s]* (?<ability>Grasp.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]";
+                sbreu = new SBregExUsage("Damage", "Grasp of Thorns", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
+                normalPriorityRegEx.Add(sbreu);
 
                 //Stamina Damage
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<event_type>Stamina) Damage (?<type>hit)[s]? (?<target>.*) for (?<value>\d*) .*[\.!]";
@@ -504,21 +508,20 @@ namespace SBCombatParser
                 //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Target_ReduceToFirstName);
                 normalPriorityRegEx.Add(sbreu);
                
-                //Matches hurt, shock, smite, heal
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']{1}[s]* (?<ability>.*?) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]";
-                sbreu = new SBregExUsage("Damage", "Spell", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
-                //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Source_ReduceToFirstName);
-                sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Target_ReduceToFirstName);
-                normalPriorityRegEx.Add(sbreu);
-
-
                 //target = YOU
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)[r']?[s]? (?<type>hit)s (?<target>.*) for (?<value>\d*) .*[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Damage", "Hit You", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
                
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*)[r']?[s]? (?<type>take) (?<value>\d*) .* from (?<source>.*)[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Damage", "Spell Hit You", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
-                
+
+                //Matches hurt, shock, smite, heal
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']{1}[s]* (?<ability>.*?) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]";
+                sbreu = new SBregExUsage("Damage", "Spell", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
+                //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Source_ReduceToFirstName);
+                //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Target_ReduceToFirstName);
+                normalPriorityRegEx.Add(sbreu);
+
                 //Proc Damage - You
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>[The]*) (?<ability>.*) (?<type>.*)s (?<target>.*) for (?<value>\d*) .*[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Damage", "Proc You", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
@@ -622,14 +625,15 @@ namespace SBCombatParser
                 lowPriorityRegEx.Add(new SBregExUsage("Power", "Cry_Hold_Fast", myRegEx, RegexOptions.Compiled, writeALLlogFiles | true));
 
 
-                //Taunt
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*\[Combat\] Info\: (?<target>.*) (?<type>[atck]*)s? (?<source>.*)";
-                lowPriorityRegEx.Add(new SBregExUsage("Power", "Taunt", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
-                
                 //has Died
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*\[Combat\] Info\: (?<source>.*) [hasve]* (?<type>die).*!";
                 sbreu = new SBregExUsage("Combat", "Info Death", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
                 lowPriorityRegEx.Add(sbreu);
+                
+                //Taunt
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*\[Combat\] Info\: (?<target>.*) (?<type>[atck]*)s? (?<source>.*)";
+                lowPriorityRegEx.Add(new SBregExUsage("Power", "Taunt", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
+                
                 
 
                 //REDO They are TOO GENERIC ... its catching EVERYTHING
@@ -1447,6 +1451,8 @@ namespace SBCombatParser
                         type = (int)SwingTypeEnum.Melee;
                         break;
 
+                    case "slash":
+                    case "buffet":
                     case "impale":
                     case "damage":
                     case "blast":
@@ -1927,6 +1933,9 @@ namespace SBCombatParser
                         this.value = Convert.ToInt32(dict["value"]);
                         break;
 
+                    case "slash":
+                    case "slashe":
+                    case "buffet":
                     case "impale":
                     case "damage":
                     case "blast":
@@ -1949,8 +1958,15 @@ namespace SBCombatParser
                         }
 
                         this.ability = dict["ability"];
+
+                        if (this.value_type.Equals("slashe"))
+                        {
+                            this.value_type = "slash";
+                        }
+
                         switch (this.ability)
                         {
+
                             case "is resistant to":
                                 this.ability = "resist";
                                 this.target = "none";
@@ -1962,7 +1978,7 @@ namespace SBCombatParser
                                 this.source = "UNKNOWN";
                                 this.target = "blade";
                                 this.value = 0;
-                                this.valid = false; 
+                                this.valid = false;
                                 break;
 
                             default:
@@ -1987,7 +2003,7 @@ namespace SBCombatParser
                                     GlobalVariables.WriteLineToDebugLog("FormatException :: RegExIndx  = " + this.regExIndx);
                                     GlobalVariables.WriteLineToDebugLog("FormatException :: RegExDesc  = " + GlobalVariables.SBSetupHelper.allRegEx[this.regExIndx.X][this.regExIndx.Y].regExType + " :: " +
                                                                                                              GlobalVariables.SBSetupHelper.allRegEx[this.regExIndx.X][this.regExIndx.Y].regExSubType + " :: " +
-                                                                                                             GlobalVariables.SBSetupHelper.allRegEx[this.regExIndx.X][this.regExIndx.Y].regExString); 
+                                                                                                             GlobalVariables.SBSetupHelper.allRegEx[this.regExIndx.X][this.regExIndx.Y].regExString);
 
                                     this.value = 0;
                                 }
