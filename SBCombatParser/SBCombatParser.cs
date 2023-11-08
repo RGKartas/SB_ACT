@@ -258,7 +258,7 @@ namespace SBCombatParser
         static public string preParseFile = "SBPreParse.log.txt";
         static public string postParseFile = "SBPostParse.log.txt";
 
-        static public string version = "0.0.12.0";
+        static public string version = "0.0.12.1";
         static public readonly object fileLock = new object();
         static public readonly object missFilelock = new object();
         static public readonly object unkFilelock = new object();
@@ -1745,7 +1745,37 @@ namespace SBCombatParser
         */
         //static Regex id_regex = new Regex(@"\s*\{\d*}\s*", RegexOptions.Compiled);
 
+        public int GetConvertedValueFromString(string str)
+        {
+            int retVal = 0;
 
+            try
+            {
+                retVal = Convert.ToInt32(str);
+            }
+            catch (FormatException ex)
+            {
+                GlobalVariables.WriteLineToDebugLog("FormatException :: Message    = " + ex.Message);
+                GlobalVariables.WriteLineToDebugLog("FormatException :: dict[\"value\"] = " + str);
+                GlobalVariables.WriteLineToDebugLog("FormatException :: Valid      = " + this.valid.ToString());
+                GlobalVariables.WriteLineToDebugLog("FormatException :: Time       = " + this.time);
+                GlobalVariables.WriteLineToDebugLog("FormatException :: Source     = " + this.source);
+                GlobalVariables.WriteLineToDebugLog("FormatException :: Ability    = " + this.ability);
+                GlobalVariables.WriteLineToDebugLog("FormatException :: Target     = " + this.target);
+                GlobalVariables.WriteLineToDebugLog("FormatException :: Value      = " + retVal.ToString());
+                GlobalVariables.WriteLineToDebugLog("FormatException :: Value_Type = " + this.value_type);
+                GlobalVariables.WriteLineToDebugLog("FormatException :: Event_Type = " + this.event_type);
+                GlobalVariables.WriteLineToDebugLog("FormatException :: Event_Deta = " + this.event_detail);
+                GlobalVariables.WriteLineToDebugLog("FormatException :: RegExIndx  = " + this.regExIndx);
+                GlobalVariables.WriteLineToDebugLog("FormatException :: RegExDesc  = " + GlobalVariables.SBSetupHelper.allRegEx[this.regExIndx.X][this.regExIndx.Y].regExType + " :: " +
+                                                                                         GlobalVariables.SBSetupHelper.allRegEx[this.regExIndx.X][this.regExIndx.Y].regExSubType + " :: " +
+                                                                                         GlobalVariables.SBSetupHelper.allRegEx[this.regExIndx.X][this.regExIndx.Y].regExString);
+
+                retVal = 0;
+            }
+
+            return retVal;
+        }
 
         public LogLine(string line, int actGTS)
         {
@@ -1883,13 +1913,13 @@ namespace SBCombatParser
 
                     case "suffer":
                         this.ability = dict["ability"];
-                        this.value = Convert.ToInt32(dict["value"]);
+                        this.value = GetConvertedValueFromString(dict["value"]);
                         this.target = dict["target"];
                         break;
 
                     case "take":
                         this.ability = dict["source"];
-                        this.value = Convert.ToInt32(dict["value"]);
+                        this.value = GetConvertedValueFromString(dict["value"]);
                         this.target = dict["target"];
                         break;
 
@@ -1917,7 +1947,7 @@ namespace SBCombatParser
                     case "hit":
                         this.ability = "melee";
                         this.target = dict["target"];
-                        this.value = Convert.ToInt32(dict["value"]);
+                        this.value = GetConvertedValueFromString(["value"]);
                         break;
 
                     case "bleed":
@@ -1930,7 +1960,7 @@ namespace SBCombatParser
                             this.ability = dict["ability"];
                         }
                         this.target = dict["target"];
-                        this.value = Convert.ToInt32(dict["value"]);
+                        this.value = GetConvertedValueFromString(dict["value"]);
                         break;
 
                     case "slash":
@@ -1965,8 +1995,7 @@ namespace SBCombatParser
                         }
 
                         switch (this.ability)
-                        {
-
+                        { 
                             case "is resistant to":
                                 this.ability = "resist";
                                 this.target = "none";
@@ -1983,30 +2012,7 @@ namespace SBCombatParser
 
                             default:
                                 this.target = dict["target"];
-                                try
-                                {
-                                    this.value = Convert.ToInt32(dict["value"]);
-                                }
-                                catch (FormatException ex)
-                                {
-                                    GlobalVariables.WriteLineToDebugLog("FormatException :: Message    = " + ex.Message);
-                                    GlobalVariables.WriteLineToDebugLog("FormatException :: dict[\"value\"] = " + dict["value"]);
-                                    GlobalVariables.WriteLineToDebugLog("FormatException :: Valid      = " + this.valid.ToString());
-                                    GlobalVariables.WriteLineToDebugLog("FormatException :: Time       = " + this.time);
-                                    GlobalVariables.WriteLineToDebugLog("FormatException :: Source     = " + this.source);
-                                    GlobalVariables.WriteLineToDebugLog("FormatException :: Ability    = " + this.ability);
-                                    GlobalVariables.WriteLineToDebugLog("FormatException :: Target     = " + this.target);
-                                    GlobalVariables.WriteLineToDebugLog("FormatException :: Value      = " + this.value.ToString());
-                                    GlobalVariables.WriteLineToDebugLog("FormatException :: Value_Type = " + this.value_type);
-                                    GlobalVariables.WriteLineToDebugLog("FormatException :: Event_Type = " + this.event_type);
-                                    GlobalVariables.WriteLineToDebugLog("FormatException :: Event_Deta = " + this.event_detail);
-                                    GlobalVariables.WriteLineToDebugLog("FormatException :: RegExIndx  = " + this.regExIndx);
-                                    GlobalVariables.WriteLineToDebugLog("FormatException :: RegExDesc  = " + GlobalVariables.SBSetupHelper.allRegEx[this.regExIndx.X][this.regExIndx.Y].regExType + " :: " +
-                                                                                                             GlobalVariables.SBSetupHelper.allRegEx[this.regExIndx.X][this.regExIndx.Y].regExSubType + " :: " +
-                                                                                                             GlobalVariables.SBSetupHelper.allRegEx[this.regExIndx.X][this.regExIndx.Y].regExString);
-
-                                    this.value = 0;
-                                }
+                                this.value = GetConvertedValueFromString(dict["value"]);
                                 break;
                         }
                         break;
