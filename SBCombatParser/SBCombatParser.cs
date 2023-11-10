@@ -260,7 +260,7 @@ namespace SBCombatParser
         static public string enhanceLineFile = "SBEnhanceLine.log.txt";
         static public string enhanceLineParseFile = "SBEnhanceParse.log.txt";
 
-        static public string version = "0.0.13.0";
+        static public string version = "0.0.14.0";
         static public readonly object fileLock = new object();
         static public readonly object missFilelock = new object();
         static public readonly object unkFilelock = new object();
@@ -619,9 +619,9 @@ namespace SBCombatParser
                 normalPriorityRegEx.Add(new SBregExUsage("Debuff", "Shadow Mantle", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
 
                 //Knavery (Blind)
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>kick[s]? dirt) .* (?<target>\w*)[r's]+ .*[\.!]";
+                //myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>kick[s]? dirt) .* (?<target>\w*)[r's]+ .*[\.!]";
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>kick[s]? dirt) .* (?<target>\w*)[r's]* .*[\.!]";
                 sbreu = new SBregExUsage("Debuff", "Blind", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
-                //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Source_ReduceToFirstName);
                 //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Target_ReduceToFirstName);
                 normalPriorityRegEx.Add(sbreu);
 
@@ -679,6 +679,17 @@ namespace SBCombatParser
                 //Taunt
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*\[Combat\] Info\: (?<target>.*) (?<type>[atck]*)s? (?<source>.*)";
                 lowPriorityRegEx.Add(new SBregExUsage("Power", "Taunt", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
+
+                //Start Bleeding
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*?) (?<event_type>\w*?)[s]? (?<type>bleed)[ing]*[\.!]";
+                sbreu = new SBregExUsage("Debuff", "Bleed-start", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
+                lowPriorityRegEx.Add(sbreu);
+
+                //Exposed
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*?) .* (?<type>expose).* to [a]?\W?(?<event_type>.*).*[\.!]";
+                sbreu = new SBregExUsage("Expose", "expose", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
+                lowPriorityRegEx.Add(sbreu);
+
 
 
 
@@ -1183,6 +1194,7 @@ namespace SBCombatParser
             EncounterData.ColumnDefs.Add("Duration", new EncounterData.ColumnDef("Duration", true, "INT3", "Duration", (Data) => { return Data.DurationS; }, (Data) => { return Data.Duration.TotalSeconds.ToString("0"); }));
             EncounterData.ColumnDefs.Add("Damage", new EncounterData.ColumnDef("Damage", true, "INT4", "Damage", (Data) => { return Data.Damage.ToString(GetIntCommas()); }, (Data) => { return Data.Damage.ToString(); }));
             EncounterData.ColumnDefs.Add("EncDPS", new EncounterData.ColumnDef("EncDPS", true, "FLOAT4", "EncDPS", (Data) => { return Data.DPS.ToString(GetFloatCommas()); }, (Data) => { return Data.DPS.ToString(usCulture); }));
+            EncounterData.ColumnDefs.Add("Heals", new EncounterData.ColumnDef("Heals", true, "INT4", "Heals", (Data) => { return Data.Healed.ToString(GetIntCommas()); }, (Data) => { return Data.Healed.ToString(); }));
             EncounterData.ColumnDefs.Add("Zone", new EncounterData.ColumnDef("Zone", false, "VARCHAR(64)", "Zone", (Data) => { return Data.ZoneName; }, (Data) => { return Data.ZoneName; }));
             EncounterData.ColumnDefs.Add("Kills", new EncounterData.ColumnDef("Kills", true, "INT3", "Kills", (Data) => { return Data.AlliedKills.ToString(GetIntCommas()); }, (Data) => { return Data.AlliedKills.ToString(); }));
             EncounterData.ColumnDefs.Add("Deaths", new EncounterData.ColumnDef("Deaths", true, "INT3", "Deaths", (Data) => { return Data.AlliedDeaths.ToString(); }, (Data) => { return Data.AlliedDeaths.ToString(); }));
@@ -1492,7 +1504,10 @@ namespace SBCombatParser
                             type = (int)SwingTypeEnum.Melee;
                         }
                         break;
-
+                    case "expose":
+                        log.detectedType = Color.Magenta.ToArgb();
+                        type = (int)SwingTypeEnum.Melee;
+                        break;
                     case "cry":
                         log.detectedType = Color.Cyan.ToArgb();
                         type = (int)SwingTypeEnum.NonMelee;
@@ -1664,6 +1679,8 @@ namespace SBCombatParser
 
                 Dnum myDnum = null;
 
+                CheckAndDoTTS(line);
+
                 switch (line.value_type)
                 {
                     case "parry":
@@ -1709,6 +1726,52 @@ namespace SBCombatParser
             }
             return;
         }
+
+        public void CheckAndDoTTS(LogLine line)
+        {
+            if (line.target.Equals("YOU"))
+            {
+                switch(line.value_type)
+                {
+                    case "kicks dirt":
+                        ActGlobals.oFormActMain.TTS("Blind !");
+                        break;
+                    case "surround":
+                        switch(line.source)
+                        {
+                            case "black mantle":
+                                ActGlobals.oFormActMain.TTS("Shadow Mantled !");
+                                break;
+                            default: 
+                                break;
+                        }
+                        break;
+                    case "bleed":
+                        switch(line.event_type)
+                        {
+                            case "start":
+                                ActGlobals.oFormActMain.TTS("Bleeding !");
+                                break;
+                            default:
+                                break;
+                        }
+                        break;
+                    case "expose":
+                        ActGlobals.oFormActMain.TTS("Exposed !");
+                        break;
+                    case "use":
+                        if (line.ability.Equals("Power Block") && line.event_type.Equals("can no longer"))
+                        {
+                           ActGlobals.oFormActMain.TTS("Power Blocked !");
+                        }
+                        break;
+                    default:
+                        break;
+
+                }
+            }
+        }
+
         DateTime logFileDate = DateTime.Now;
         Regex logfileDateTimeRegex = new Regex(@"combat_(?<Y>\d{4})-(?<M>\d\d)-(?<D>\d\d)_(?<h>\d\d)_(?<m>\d\d)_(?<s>\d\d)_\d+\.txt", RegexOptions.Compiled);
         void oFormActMain_LogFileChanged(bool IsImport, string NewLogFileName)
@@ -2010,6 +2073,10 @@ namespace SBCombatParser
                         break;
 
                     case "bleed":
+                        if (this.source.Equals(""))
+                        {
+                            this.source = "none";
+                        }
                         if (dict["ability"].Equals(""))
                         {
                             this.ability = "bleed";
@@ -2019,9 +2086,23 @@ namespace SBCombatParser
                             this.ability = dict["ability"];
                         }
                         this.target = dict["target"];
-                        this.value = GetConvertedValueFromString(dict["value"]);
+                        if(!(this.event_type.Equals("start") | this.event_type.Equals("stop")))
+                        {
+                            this.value = GetConvertedValueFromString(dict["value"]);
+                        }
+                        else
+                        {
+                            this.value = 0;
+                        }
                         break;
-
+                    case "expose":
+                        if(this.source.Equals(""))
+                        {
+                            this.source = "none";
+                        }
+                        this.target = dict["target"];
+                        this.value = 0;
+                        break;
                     case "tak":
                     case "slash":
                     case "slashe":
@@ -2103,16 +2184,17 @@ namespace SBCombatParser
                                 this.skipLog = true;
                             }
                         }
+                        else if (this.event_type.Contains("can no longer"))
+                        {
+                            this.ability = "Power Block";
+                            this.target = "YOU";
+                            this.source = "none";
+                                                   }
                         else
                         {
                             this.ability = dict["ability"];
                             this.target = "none";
                             this.value = 0;
-
-                            if (this.event_type.Contains("can no longer"))
-                            {
-                                this.valid = false;
-                            }
                         }
                         break;
 
@@ -2168,6 +2250,25 @@ namespace SBCombatParser
             line.enh_resist_type = "Unknown";
             switch (line.value_type)
             {
+                case "expose":
+                    switch (line.event_type)
+                    {
+                        case "slashing attacks":
+                        case "slashing attack":
+                            line.enh_resist_type = "Slash";
+                            break;
+                        case "pinpoint strike":
+                            line.enh_resist_type = "Pierce";
+                            break;
+                        case "bludgeon":
+                        case "well-placed bludgeon attack":
+                            line.enh_resist_type = "Crush";
+                            break;
+                        default:
+                            line.event_type = line.event_type + "-Unknown";
+                            break;
+                    }
+                    break;
                 case "assume":
                     line.enh_resist_type = "Stance";
                     break;
@@ -2224,9 +2325,12 @@ namespace SBCombatParser
                 case "hurt":
                     switch (line.ability)
                     {
+                        case "Blood Boil":
+                            line.enh_resist_type = "Fire";
+                            break;
                         case "Earthquake":
                             line.enh_resist_type = "Crush";
-                                break;
+                            break;
                         case "Mark of The All-Father":
                             line.enh_resist_type = "Holy";
                             break;
@@ -2234,6 +2338,7 @@ namespace SBCombatParser
                         case "Mind Strike":
                             line.enh_resist_type = "Mental";
                             break;
+                        case "Pallando's Pernicious Puns":
                         case "Sign of Sorthoth":
                         case "Dread Dissonance":
                             line.enh_resist_type = "Magic";
@@ -2294,11 +2399,15 @@ namespace SBCombatParser
                 case "suffer":
                     switch (line.ability)
                     {
+                        case "poison":
                         case "Pellegorn poison":
                         case "Magusbane poison":
                             line.enh_resist_type = "Poison";
                             break;
-                       default:
+                        case "Buchinine poison":
+                            line.enh_resist_type = "Disease";
+                            break;
+                        default:
                             line.enh_resist_type= "Suffer-Unknown";
                             break;
                     }
@@ -2310,7 +2419,7 @@ namespace SBCombatParser
                     line.enh_resist_type = "None";
                     break;
                 default:
-                    line.enh_resist_type = "Default";
+                    line.enh_resist_type = "Default-Unknown";
                     break;
             }
 
