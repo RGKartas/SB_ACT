@@ -234,7 +234,7 @@ namespace SBCombatParser
                 if (this.logIt)
                 {
                     GlobalVariables.WriteLineToRegExFile(this.regLogFileName, line);
-                    GlobalVariables.WriteLineToRegExFile(this.regParseFileName, $"{result["time"],-8} : {result["type"],-10} : {result["source"],-25} : {result["target"],-25} : {result["ability"],-30} : {result["event_type"],-12} : {result["event_detail"],-12} : {result["value"],-6}");
+                    GlobalVariables.WriteLineToRegExFile(this.regParseFileName, $"{result["time"],-8} : {result["type"],-10} : {result["source"],-25} : {result["target"],-25} : {result["ability"],-25} : {result["event_type"],-12} : {result["event_detail"],-12} : {result["value"],-6}");
                 }
 
                 foreach (var postProcessFunc in this.regPostParseFuncList)
@@ -770,7 +770,7 @@ namespace SBCombatParser
 
             GlobalVariables.WriteLineToEnhanceParseLog("Version  :: " + GlobalVariables.version);
             GlobalVariables.WriteLineToEnhanceParseLog("DateTime :: " + currentDateTime);
-            GlobalVariables.WriteLineToEnhanceParseLog($"{"Time",-8} : {"Value_Type",-10} : {"Ability",-25} : {"Resist",-10} : {"Source",-25} : {"Target",-25} : {"Event_type",-12} : {"Event_detail",-12} : {"Value",-6}");
+            GlobalVariables.WriteLineToEnhanceParseLog($"{"Time",-8} : {"Value_Type",-10} : {"Ability",-35} : {"Resist",-15} : {"Source",-25} : {"Target",-25} : {"Event_type",-12} : {"Event_detail",-12} : {"Value",-6}");
 
             //Initialize the reg ex debug logs
             foreach (List<SBregExUsage> lSBreu in GlobalVariables.SBSetupHelper.allRegEx)
@@ -1948,7 +1948,7 @@ namespace SBCombatParser
                     case "kick dirt":
                     case "kicks dirt":
                         this.value_type = "kicks dirt";
-                        this.ability = "Knavery (Blind)";
+                        this.ability = "Knavery";
                         this.value = 0;
                         this.target = dict["target"];
                         break;
@@ -2168,22 +2168,52 @@ namespace SBCombatParser
             line.enh_resist_type = "Unknown";
             switch (line.value_type)
             {
+                case "assume":
+                    line.enh_resist_type = "Stance";
+                    break;
+                case "bleed":
+                    line.enh_resist_type = "Bleed";
+                    break;
+                case "execute":
+                    line.enh_resist_type = "Power-Execute";
+                    break;
+                case "cry":
+                case "use":
+                case "cast":
+                    line.enh_resist_type = "Ability-Cast";
+                    break;
+                case "heal":
+                    line.enh_resist_type = "Heal";
+                    break;
+                case "hit":
+                    switch (line.ability)
+                    {
+                        case "melee":
+                            line.enh_resist_type = "C/P/S";
+                            break;
+                        default:
+                            line.enh_resist_type = "Unknown hit";
+                            break;
+                    }
+                    break;
                 case "buffet":
-                    line.enh_resist_type = "Unknown";
+                    line.enh_resist_type = "Crush";
                     break;
                 case "engulf":
-                    line.enh_resist_type = "Unknown";
+                    line.enh_resist_type = "Unholy";
                     break;
                 case "poison":
                     line.enh_resist_type = "Poison";
                     break;
                 case "freeze":
-                    line.enh_resist_type = "Ice";
+                    line.enh_resist_type = "Cold";
+                    break;
+                case "smite":
+                    line.enh_resist_type = "Holy";
                     break;
                 case "blast":
                 case "burn":
                 case "fire":
-                case "smite":
                     line.enh_resist_type = "Fire";
                     break;
                 case "lightning":
@@ -2191,15 +2221,93 @@ namespace SBCombatParser
                 case "shock":
                     line.enh_resist_type = "Lightning";
                     break;
-                case "tak":
+                case "hurt":
+                    switch (line.ability)
+                    {
+                        case "Earthquake":
+                            line.enh_resist_type = "Crush";
+                                break;
+                        case "Mark of The All-Father":
+                            line.enh_resist_type = "Holy";
+                            break;
+                        case "Psychic Shout":
+                        case "Mind Strike":
+                            line.enh_resist_type = "Mental";
+                            break;
+                        case "Sign of Sorthoth":
+                        case "Dread Dissonance":
+                            line.enh_resist_type = "Magic";
+                            break;
+                        default:
+                            line.enh_resist_type = "Hurt-Unknown";
+                            break;
+                    }
+                    break;
+
+                case "impale":
+                    line.enh_resist_type = "Pierce";
+                    break;
                 case "slash":
                 case "slashe":
-                case "impale":
+                    line.enh_resist_type = "Slash";
+                    break;
+                case "tak":
+                case "take":
+                    switch (line.ability)
+                    {
+                        case "bleeding":
+                            line.enh_resist_type = "Bleed";
+                            break;
+                        default:
+                            line.enh_resist_type = "Take-Unknown";
+                            break;
+                    }
+                    break;
                 case "damage":
-                case "hurt":
-                case "strike":
-                case "drain":
                     line.enh_resist_type = "Unknown";
+                    break;
+                case "drain":
+                    line.enh_resist_type = "Drain";
+                    break;
+                case "strike":
+                    switch (line.ability)
+                    {
+                        case "Unholy Blast":
+                        case "Unholy Storm":
+                            line.enh_resist_type = "Unholy";
+                            break;
+                        case "magical burst":
+                        case "Mage Bolt":
+                            line.enh_resist_type = "Magic";
+                            break;
+                        case "holy weapon":
+                            line.enh_resist_type = "Holy";
+                            break;
+                        case "poisonous weapon":
+                            line.enh_resist_type = "Poison";
+                            break;
+                        default:
+                            line.enh_resist_type = "Strike-Unknown";
+                            break;
+                    }
+                    break;
+                case "suffer":
+                    switch (line.ability)
+                    {
+                        case "Pellegorn poison":
+                        case "Magusbane poison":
+                            line.enh_resist_type = "Poison";
+                            break;
+                       default:
+                            line.enh_resist_type= "Suffer-Unknown";
+                            break;
+                    }
+                    break;
+                case "kicks dirt":
+                    line.enh_resist_type = "Blind";
+                    break;
+                case "surround":
+                    line.enh_resist_type = "None";
                     break;
                 default:
                     line.enh_resist_type = "Default";
@@ -2222,7 +2330,7 @@ namespace SBCombatParser
                                                                                  GlobalVariables.SBSetupHelper.allRegEx[line.regExIndx.X][line.regExIndx.Y].regExString);
 
             
-            GlobalVariables.WriteLineToEnhanceParseLog($"{line.time,-8} : {line.value_type,-10} : {line.ability,-30} : {line.enh_resist_type,-10} : {line.source,-25} : {line.target,-25} : {line.event_type,-12} : {line.event_detail,-12} : {line.value.ToString(),-6}");
+            GlobalVariables.WriteLineToEnhanceParseLog($"{line.time,-8} : {line.value_type,-10} : {line.ability,-35} : {line.enh_resist_type,-20} : {line.source,-25} : {line.target,-25} : {line.event_type,-12} : {line.event_detail,-12} : {line.value.ToString(),-6}");
 
 
             return line;
