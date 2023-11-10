@@ -2,3 +2,14 @@ SBCombatParser/bin/Debug/SB_Logs/*
 *.log.txt
 *.parse.txt
 /SBCombatParser/obj/Debug/SBCombatParser.csproj.AssemblyReference.cache
+/SBCombatParser/bin/Release/Advanced Combat Tracker.exe
+/SBCombatParser/bin/Release/Advanced Combat Tracker.exe.config
+/SBCombatParser/bin/Release/Advanced Combat Tracker.xml
+/SBCombatParser/bin/Release/GammaJul.LgLcd.dll
+/SBCombatParser/bin/Release/ICSharpCode.SharpZipLib.dll
+/SBCombatParser/bin/Release/Trinet.Core.IO.Ntfs.dll
+/SBCombatParser/obj/Release/SBCombatParser.csproj.FileListAbsolute.txt
+/SBCombatParser/obj/Release/SBCombatParser.csproj.CoreCompileInputs.cache
+/SBCombatParser/obj/Release/SBCombatParser.csproj.CopyComplete
+/SBCombatParser/obj/Release/SBCombatParser.csproj.AssemblyReference.cache
+/SBCombatParser/obj/Release/.NETFramework,Version=v4.7.1.AssemblyAttributes.cs
