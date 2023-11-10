@@ -234,7 +234,7 @@ namespace SBCombatParser
                 if (this.logIt)
                 {
                     GlobalVariables.WriteLineToRegExFile(this.regLogFileName, line);
-                    GlobalVariables.WriteLineToRegExFile(this.regParseFileName, $"{result["time"],-8} : {result["type"],-10} : {result["source"],-25} : {result["target"],-25} : {result["ability"],-25} : {result["event_type"],-12} : {result["event_detail"],-12} : {result["value"],-6}");
+                    GlobalVariables.WriteLineToRegExFile(this.regParseFileName, $"{result["time"],-8} : {result["type"],-10} : {result["source"],-25} : {result["target"],-25} : {result["ability"],-30} : {result["event_type"],-12} : {result["event_detail"],-12} : {result["value"],-6}");
                 }
 
                 foreach (var postProcessFunc in this.regPostParseFuncList)
@@ -257,8 +257,10 @@ namespace SBCombatParser
         static public string unkPBFile = "SBUnkPB.log.txt";
         static public string preParseFile = "SBPreParse.log.txt";
         static public string postParseFile = "SBPostParse.log.txt";
+        static public string enhanceLineFile = "SBEnhanceLine.log.txt";
+        static public string enhanceLineParseFile = "SBEnhanceParse.log.txt";
 
-        static public string version = "0.0.12.1";
+        static public string version = "0.0.13.0";
         static public readonly object fileLock = new object();
         static public readonly object missFilelock = new object();
         static public readonly object unkFilelock = new object();
@@ -266,6 +268,8 @@ namespace SBCombatParser
         static public readonly object regExFileWriteLock = new object();
         static public readonly object preParseWriteLock = new object();
         static public readonly object postParseWriteLock = new object();
+        static public readonly object enhanceLineLock = new object();
+        static public readonly object enhanceLineParseLock = new object();
 
         static public SBSetupHelper setupHelper = new SBSetupHelper();
 
@@ -360,6 +364,7 @@ namespace SBCombatParser
 
         static public void WriteLineToUnknownPBLog(string line)
         {
+#if DEBUG
             lock (unkPBFilelock)
             {
                 using (StreamWriter writer = File.AppendText(SBLogDir + "/" + unkPBFile))
@@ -368,7 +373,44 @@ namespace SBCombatParser
                     writer.WriteLine(line);
                 }
             }
+#endif
         }
+
+        static public void WriteLineToEnchanceLineLog(string line)
+        {
+#if DEBUG
+            lock (enhanceLineLock)
+            {
+                using (StreamWriter writer = File.AppendText(SBLogDir + "/" + enhanceLineFile))
+                {
+                    writer.AutoFlush = true;
+                    writer.WriteLine(line);
+                }
+            }
+#endif
+        }
+
+        static public void WriteLineToEnhanceParseLog(string line)
+        {
+#if DEBUG
+            lock (enhanceLineParseLock)
+            {
+                using (StreamWriter writer = File.AppendText(SBLogDir + "/" + enhanceLineParseFile))
+                {
+                    writer.AutoFlush = true;
+                    writer.WriteLine(line);
+                }
+            }
+#endif
+        }
+
+
+
+
+
+
+
+
         public class SBSetupHelper
         {
             // Regex
@@ -461,7 +503,7 @@ namespace SBCombatParser
                 normalPriorityRegEx.Add(new SBregExUsage("Drain", "Val Last", myRegEx, RegexOptions.Compiled, writeALLlogFiles | true));
 
                 //Backstab drains
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>.*?)[e]?[s]? (?<value>\d*) points of (?<event_type>.*?)\W?damage from (?<source>\w*)[r']?[s]? (?<ability>.*)[\.!]";
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>\w*?)[e]?[s]? (?<value>\d*) points of (?<event_type>.*?)\W?damage from (?<source>.*?)[r']+[s]? (?<ability>.*)[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Drain", "Backstab", myRegEx, RegexOptions.Compiled, writeALLlogFiles | true));
 
 
@@ -523,7 +565,7 @@ namespace SBCombatParser
                 normalPriorityRegEx.Add(sbreu);
 
                 //Proc Damage - You
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<ability>.*) (?<type>\w*)s (?<target>.*) for (?<value>\d*) .*[\.!]";
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<ability>.*?) (?<type>\w*)s (?<target>.*) for (?<value>\d*) .*[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Damage", "Proc You", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
 
                 //Proc Damage
@@ -602,6 +644,10 @@ namespace SBCombatParser
                 //Use Power -- assume
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<type>assume)s? [\Wa]?(?<ability>.*)[\.!]";
                 lowPriorityRegEx.Add(new SBregExUsage("Power", "Assume", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
+
+                //Use Power -- can no longer use
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<event_type>can no longer) (?<type>use)s? [\Wa]?(?<ability>.*)[\.!]";
+                lowPriorityRegEx.Add(new SBregExUsage("Power", "Use no longer", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
 
                 //Use Power -- use
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<type>use)s? [\Wa]?(?<ability>.*)[\.!]";
@@ -718,6 +764,13 @@ namespace SBCombatParser
 
             GlobalVariables.WriteLineToUnknownPBLog("Version  :: " + GlobalVariables.version);
             GlobalVariables.WriteLineToUnknownPBLog("DateTime :: " + currentDateTime);
+
+            GlobalVariables.WriteLineToEnchanceLineLog("Version  :: " + GlobalVariables.version);
+            GlobalVariables.WriteLineToEnchanceLineLog("DateTime :: " + currentDateTime);
+
+            GlobalVariables.WriteLineToEnhanceParseLog("Version  :: " + GlobalVariables.version);
+            GlobalVariables.WriteLineToEnhanceParseLog("DateTime :: " + currentDateTime);
+            GlobalVariables.WriteLineToEnhanceParseLog($"{"Time",-8} : {"Value_Type",-10} : {"Ability",-25} : {"Resist",-10} : {"Source",-25} : {"Target",-25} : {"Event_type",-12} : {"Event_detail",-12} : {"Value",-6}");
 
             //Initialize the reg ex debug logs
             foreach (List<SBregExUsage> lSBreu in GlobalVariables.SBSetupHelper.allRegEx)
@@ -1130,7 +1183,7 @@ namespace SBCombatParser
             EncounterData.ColumnDefs.Add("Duration", new EncounterData.ColumnDef("Duration", true, "INT3", "Duration", (Data) => { return Data.DurationS; }, (Data) => { return Data.Duration.TotalSeconds.ToString("0"); }));
             EncounterData.ColumnDefs.Add("Damage", new EncounterData.ColumnDef("Damage", true, "INT4", "Damage", (Data) => { return Data.Damage.ToString(GetIntCommas()); }, (Data) => { return Data.Damage.ToString(); }));
             EncounterData.ColumnDefs.Add("EncDPS", new EncounterData.ColumnDef("EncDPS", true, "FLOAT4", "EncDPS", (Data) => { return Data.DPS.ToString(GetFloatCommas()); }, (Data) => { return Data.DPS.ToString(usCulture); }));
-            //EncounterData.ColumnDefs.Add("Zone", new EncounterData.ColumnDef("Zone", false, "VARCHAR(64)", "Zone", (Data) => { return Data.ZoneName; }, (Data) => { return Data.ZoneName; }));
+            EncounterData.ColumnDefs.Add("Zone", new EncounterData.ColumnDef("Zone", false, "VARCHAR(64)", "Zone", (Data) => { return Data.ZoneName; }, (Data) => { return Data.ZoneName; }));
             EncounterData.ColumnDefs.Add("Kills", new EncounterData.ColumnDef("Kills", true, "INT3", "Kills", (Data) => { return Data.AlliedKills.ToString(GetIntCommas()); }, (Data) => { return Data.AlliedKills.ToString(); }));
             EncounterData.ColumnDefs.Add("Deaths", new EncounterData.ColumnDef("Deaths", true, "INT3", "Deaths", (Data) => { return Data.AlliedDeaths.ToString(); }, (Data) => { return Data.AlliedDeaths.ToString(); }));
 
@@ -1593,7 +1646,7 @@ namespace SBCombatParser
 
                 if (ActGlobals.oFormActMain.InCombat == false)
                 {
-                    ActGlobals.oFormActMain.SetEncounter(time, line.source, line.target);
+                    ActGlobals.oFormActMain.SetEncounter(time, "Source", "Target"); // line.source, line.target);
                     log.detectedType = Color.Purple.ToArgb();
                 }
 
@@ -1646,9 +1699,10 @@ namespace SBCombatParser
                         break;
 
                     default:
+                        line = LogLine.EnhanceLineValues(line);
                         ActGlobals.oFormActMain.AddCombatAction(type, line.crit_value, "None", line.source, line.ability,
                                                                 new Dnum(line.value), time, ActGlobals.oFormActMain.GlobalTimeSorter,
-                                                                line.target, line.value_type);
+                                                                line.target, line.enh_resist_type);//line.value_type);
                         break;
                 }
 
@@ -1730,6 +1784,7 @@ namespace SBCombatParser
         public int threat = 0;
         public Point regExIndx = new Point(-1, -1);
         public int globalTimeSorter = 0;
+        public string enh_resist_type = string.Empty;
 
         /*
         static Regex regex = 
@@ -1967,6 +2022,7 @@ namespace SBCombatParser
                         this.value = GetConvertedValueFromString(dict["value"]);
                         break;
 
+                    case "tak":
                     case "slash":
                     case "slashe":
                     case "buffet":
@@ -2053,7 +2109,7 @@ namespace SBCombatParser
                             this.target = "none";
                             this.value = 0;
 
-                            if (this.source.Contains("can no longer"))
+                            if (this.event_type.Contains("can no longer"))
                             {
                                 this.valid = false;
                             }
@@ -2105,6 +2161,71 @@ namespace SBCombatParser
             {
                 GlobalVariables.WriteLineToMissedParse(line);
             }
+        }
+
+        public static LogLine EnhanceLineValues(LogLine line)
+        {
+            line.enh_resist_type = "Unknown";
+            switch (line.value_type)
+            {
+                case "buffet":
+                    line.enh_resist_type = "Unknown";
+                    break;
+                case "engulf":
+                    line.enh_resist_type = "Unknown";
+                    break;
+                case "poison":
+                    line.enh_resist_type = "Poison";
+                    break;
+                case "freeze":
+                    line.enh_resist_type = "Ice";
+                    break;
+                case "blast":
+                case "burn":
+                case "fire":
+                case "smite":
+                    line.enh_resist_type = "Fire";
+                    break;
+                case "lightning":
+                case "electrocute":
+                case "shock":
+                    line.enh_resist_type = "Lightning";
+                    break;
+                case "tak":
+                case "slash":
+                case "slashe":
+                case "impale":
+                case "damage":
+                case "hurt":
+                case "strike":
+                case "drain":
+                    line.enh_resist_type = "Unknown";
+                    break;
+                default:
+                    line.enh_resist_type = "Default";
+                    break;
+            }
+
+            GlobalVariables.WriteLineToEnchanceLineLog("Enhance Line :: Valid      = " + line.valid.ToString());
+            GlobalVariables.WriteLineToEnchanceLineLog("Enhance Line :: Time       = " + line.time);
+            GlobalVariables.WriteLineToEnchanceLineLog("Enhance Line :: Source     = " + line.source);
+            GlobalVariables.WriteLineToEnchanceLineLog("Enhance Line :: Ability    = " + line.ability);
+            GlobalVariables.WriteLineToEnchanceLineLog("Enhance Line :: Target     = " + line.target);
+            GlobalVariables.WriteLineToEnchanceLineLog("Enhance Line :: Value      = " + line.value.ToString());
+            GlobalVariables.WriteLineToEnchanceLineLog("Enhance Line :: Value_Type = " + line.value_type);
+            GlobalVariables.WriteLineToEnchanceLineLog("Enhance Line :: Event_Type = " + line.event_type);
+            GlobalVariables.WriteLineToEnchanceLineLog("Enhance Line :: Event_Deta = " + line.event_detail);
+            GlobalVariables.WriteLineToEnchanceLineLog("Enhance Line :: Enh Resist = " + line.enh_resist_type);
+            GlobalVariables.WriteLineToEnchanceLineLog("Enhance Line :: RegExIndx  = " + line.regExIndx);
+            GlobalVariables.WriteLineToEnchanceLineLog("Enhance Line :: RegExDesc  = " + GlobalVariables.SBSetupHelper.allRegEx[line.regExIndx.X][line.regExIndx.Y].regExType + " :: " +
+                                                                                 GlobalVariables.SBSetupHelper.allRegEx[line.regExIndx.X][line.regExIndx.Y].regExSubType + " :: " +
+                                                                                 GlobalVariables.SBSetupHelper.allRegEx[line.regExIndx.X][line.regExIndx.Y].regExString);
+
+            
+            GlobalVariables.WriteLineToEnhanceParseLog($"{line.time,-8} : {line.value_type,-10} : {line.ability,-30} : {line.enh_resist_type,-10} : {line.source,-25} : {line.target,-25} : {line.event_type,-12} : {line.event_detail,-12} : {line.value.ToString(),-6}");
+
+
+            return line;
         }
     }
 }
