@@ -28,7 +28,7 @@ namespace SBCombatParser
         static public string enhanceLineFile = "SBEnhanceLine.log.txt";
         static public string enhanceParseFile = "SBEnhanceParse.log.txt";
 
-        static public string version = "0.0.15.2";
+        static public string version = "0.0.15.5";
         static public readonly object fileLock = new object();
         static public readonly object missFilelock = new object();
         static public readonly object unkFilelock = new object();
@@ -68,8 +68,14 @@ namespace SBCombatParser
         {
             foreach(KeyValuePair<string, SBThreadLogger> kvp in sbThreadLoggers)
             {
-                kvp.Value.threadStop = true;
+                kvp.Value.threadCancel.Cancel();
             }
+
+            foreach (KeyValuePair<string, SBThreadLogger> kvp in sbThreadLoggers)
+            {
+                kvp.Value.Join();
+            }
+
         }
 
         static public void WriteLineToTTS(string line)
@@ -155,11 +161,13 @@ namespace SBCombatParser
             private Thread thread;
             public BlockingCollection <SBPutToLog> fifoQueue;
             private Object fileLock;
-            public bool threadStop;
+            //public bool threadStop;
+            public CancellationTokenSource threadCancel;
 
             public SBThreadLogger(string filename = null)
             {
-                this.threadStop = false;
+                //this.threadStop = false;
+                this.threadCancel = new CancellationTokenSource();
                 this.filename = filename;
                 this.fileLock = new Object();
                 this.fifoQueue = new BlockingCollection<SBPutToLog>();
@@ -168,15 +176,24 @@ namespace SBCombatParser
                 this.thread.Start();
             }
 
+            public void Join()
+            {
+                if (!this.thread.Join(15))
+                {
+                    //This isn't recommeneded ... but otherwise ACT kind of hangs for a few seconds on exit.
+                    this.thread.Abort();
+                }
+            }
+
             private void ProcessQueue()
             {
-                while (!this.threadStop)
+                while (!this.threadCancel.IsCancellationRequested)
                 {
                     foreach(SBPutToLog logIt in fifoQueue.GetConsumingEnumerable())
                     {
                         this.WriteToFile(logIt.line, logIt.filename);
                     }
-                    Thread.Sleep(100);
+                    Thread.Sleep(10);
                 }
             }
 
@@ -205,11 +222,6 @@ namespace SBCombatParser
                 }
             }
         }
-
-
-
-
-
 
         public class SBSetupHelper
         {
@@ -357,6 +369,9 @@ namespace SBCombatParser
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*)[r']?[s]? (?<type>take) (?<value>\d*) .* from (?<source>.*)[\.!]";
                 normalPriorityRegEx.Add(new SBregExUsage("Damage", "Spell Hit You", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
 
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']{1}[s]* (?<ability>.*?) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) points of (?<event_type>.*) damage[\.!]";
+                normalPriorityRegEx.Add(new SBregExUsage("Damage", "Spell mana or stamina", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
+
                 //Matches hurt, shock, smite, heal
                 myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']{1}[s]* (?<ability>.*?) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]";
                 sbreu = new SBregExUsage("Damage", "Spell", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
@@ -456,7 +471,7 @@ namespace SBCombatParser
                 lowPriorityRegEx.Add(new SBregExUsage("Power", "Assume", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
 
                 //Use Power -- can no longer use
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<event_type>can no longer) (?<type>use)s? [\Wa]?(?<ability>.*)[\.!]";
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*?) (?<event_type>can no longer) (?<type>use)s? [\Wa]?(?<ability>.*)[\.!]";
                 lowPriorityRegEx.Add(new SBregExUsage("Power", "Use no longer", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
 
                 //Use Power -- use
@@ -496,7 +511,7 @@ namespace SBCombatParser
                 lowPriorityRegEx.Add(sbreu);
 
                 //Exposed
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*?) .* (?<type>expose).* to [a]?\W?(?<event_type>.*).*[\.!]";
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*?) is (?<type>expose).* to [a]?\W?(?<event_type>.*).*[\.!]";
                 sbreu = new SBregExUsage("Expose", "expose", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
                 lowPriorityRegEx.Add(sbreu);
 

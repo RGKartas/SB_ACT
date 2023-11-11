@@ -156,6 +156,7 @@ namespace SBCombatParser
                 case "Arnakhul, the Blood Beast":
                 //NPCs
                 case "Vorok Mud-Chief":
+                case "Ogre Marauder":
                 case "Mud Ogre":
                 case "Moss Ogre":
                 case "Tavok Chief-brother":
@@ -165,6 +166,23 @@ namespace SBCombatParser
                 case "Naag Guard":
                 case "Naag Cultist":
                 case "Naag Mystic":
+                case "Shaarduk Warrior":
+                case "Shaarduk Scout":
+                case "Shaarduk Runemaster":
+                case "Dread Manticore":
+                case "Blizzard Troll":
+                case "Frost Bear":
+                case "Glyph Drake":
+                case "Greater Glyph Drake":
+                case "Bone Crusher Scout":
+                case "Bone Crusher Axegrinder":
+                case "Bone Crusher Hunter":
+                case "Gund Earthshaker":
+                case "Large Bone Crusher Orc":
+                case "Borgak Brainspiller":
+                case "Captain Kugaar":
+                case "Sand Lizard":
+                case "Well Tender":
                 //Pets
                 case "Vashteera's Companion":
                 case "Vashteera's Thrall":

@@ -846,6 +846,11 @@ namespace SBCombatParser
                             log.detectedType = Color.Yellow.ToArgb();
                             type = (int)SwingTypeEnum.NonMelee;
                         }
+                        else if (line.event_type.Equals("mana") || line.event_type.Equals("stamina"))
+                        {
+                            log.detectedType = Color.Green.ToArgb();
+                            type = 13;
+                        }
                         else
                         {
                             log.detectedType = Color.Orange.ToArgb();

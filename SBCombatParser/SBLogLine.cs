@@ -364,12 +364,13 @@ namespace SBCombatParser
                                 this.skipLog = true;
                             }
                         }
-                        else if (this.event_type.Contains("can no longer"))
+                        else if (this.event_type.Contains("can no longer") && this.ability.Contains("power"))
                         {
                             this.ability = "Power Block";
-                            this.target = "YOU";
+                            this.target = dict["target"];
                             this.source = "none";
-                                                   }
+                            this.value = 0;
+                        }
                         else
                         {
                             this.ability = dict["ability"];
@@ -518,6 +519,7 @@ namespace SBCombatParser
                         case "Mind Strike":
                             line.enh_resist_type = "Mental";
                             break;
+                        case "Mystic Backlash":
                         case "Pallando's Pernicious Puns":
                         case "Sign of Sorthoth":
                         case "Dread Dissonance":
