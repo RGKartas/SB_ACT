@@ -48,8 +48,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="SBLogLine.cs" />
     <Compile Include="SBCombatParser.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SBGlobalVariables.cs" />
+    <Compile Include="SBregExHelperFuncs.cs" />
+    <Compile Include="SBregExUsage.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

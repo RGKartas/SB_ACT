@@ -12,7 +12,6 @@ using System.Windows.Forms;
 using System.Text.RegularExpressions;
 using System.Drawing;
 using System.IO;
-using System.Runtime.CompilerServices;
 using System.Globalization;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.TaskbarClock;
 using Microsoft.Win32;
@@ -20,699 +19,6 @@ using System.Windows.Forms.VisualStyles;
 
 namespace SBCombatParser
 {
-
-    public class SBregExHelperFuncs
-    {
-        public delegate string SBregExHelper_PreParse(string str);
-        public delegate Dictionary<string, string> SBregExHelper_PostParse(Dictionary<string, string> dic);
-
-        public static List<SBregExHelperFuncs.SBregExHelper_PreParse> GlobalPreParseFuncList = new List<SBregExHelperFuncs.SBregExHelper_PreParse>();
-        public static List<SBregExHelperFuncs.SBregExHelper_PostParse> GlobalPostParseFuncList = new List<SBregExHelperFuncs.SBregExHelper_PostParse>();
-
-        public static string SBregExHelper_PreParse_CaseReplace(string str)
-        {
-            string ret = Regex.Replace(str, @" (you)[r]?([\.!])?", @" YOU$2", RegexOptions.IgnoreCase);
-            ret = Regex.Replace(ret, @"(Someone)", @"SOMEONE", RegexOptions.IgnoreCase);
-            SBregExHelper_PreParse_LogWriter(str, ret);
-
-            return ret;
-        }
-
-        public static string SBregExHelper_PreParse_AreIs(string str)
-        {
-            string ret = Regex.Replace(str, @" (are) ", @" is ");
-
-            SBregExHelper_PreParse_LogWriter(str, ret);
-
-            return ret;
-        }
-
-        private static void SBregExHelper_PreParse_LogWriter(string original, string after, [CallerMemberName] string callingMethod = "")
-        {
-            if (!after.Equals(original))
-            {
-                GlobalVariables.WriteLineToPreParseLog("Before : " + original, callingMethod);
-                GlobalVariables.WriteLineToPreParseLog("After  : " + after, callingMethod);
-                GlobalVariables.WriteLineToPreParseLog("", callingMethod);
-            }
-        }
-
-        public static Dictionary<string, string> SBregExHelper_PostParse_Source_ReduceToFirstName(Dictionary<string, string> dict)
-        {
-            dict["source"] = ReduceToFirstName(dict["source"]);
-
-            return dict;
-        }
-
-        public static Dictionary<string, string> SBregExHelper_PostParse_Target_ReduceToFirstName(Dictionary<string, string> dict)
-        {
-            dict["target"] = ReduceToFirstName(dict["target"]);
-
-            return dict;
-        }
-
-        private static string ReduceToFirstName(string str)
-        {
-            //Name Check and Rename
-            //Trying to help the Last name randomness
-            //Get rid of "The" in front of names
-            string originalStr = str;
-
-            str = Regex.Replace(str, @"The ", @"the ", RegexOptions.IgnoreCase);
-
-            string[] nameSplit = str.Split(' ');
-
-            if (nameSplit.Length > 1)
-            {
-                if (nameSplit[0].Contains("the"))
-                {
-                    //GlobalVariables.WriteLineToPostParseLog("Compound Name -- Found :: " + str);
-                    //foreach (string s in nameSplit)
-                    //{
-                    //    GlobalVariables.WriteLineToPostParseLog("Compound Name -- Index :: " + s);
-                    //}
-
-                    str = "";
-                    for (int i = 1; i < nameSplit.Length; i++)
-                    {
-                        str = str + nameSplit[i] + " ";
-                    }
-
-                    str = str.Trim(' ');
-                    //GlobalVariables.WriteLineToPostParseLog("Compound Name -- Modified :: " + str);
-                }
-            }
-
-            //Exception for the Huntress pet Vashteera's Companion and Vashteera's Thrall
-            //Exception for black mantle .. key off Shadow Mantle
-            switch (str.Trim(' ', '"'))
-            {
-                //NPCs, Pets and black mantle
-                case "Vorok Mud-Chief":
-                case "Mud Ogre":
-                case "Moss Ogre":
-                case "Tavok Chief-brother":
-                case "Novac the Bellugh Nuathal Priest":
-                case "Vashteera's Companion":
-                case "Vashteera's Thrall":
-                case "black mantle":
-                    //GlobalVariables.WriteLineToPostParseLog("Compound Name -- No Rename :: " + str);
-                    break;
-
-                default:
-                    nameSplit = str.Split(' ');
-                    if (nameSplit.Length > 1)
-                    {
-                        //Possible Last name or more
-                        // GlobalVariables.WriteLineToPostParseLog("Compound Name -- Found :: " + str);
-                        //foreach (string s in nameSplit)
-                        //{
-                        //    GlobalVariables.WriteLineToPostParseLog("Compound Name -- Index :: " + s);
-                        //}
-                        str = nameSplit[0];
-                        //GlobalVariables.WriteLineToPostParseLog("Compound Name -- Modified :: " + str);
-                    }
-                    break;
-            }
-
-            if (!originalStr.Equals(str))
-            {
-                GlobalVariables.WriteLineToPostParseLog("Compound Name -- Modified :: " + originalStr + " TO " + str);
-            }
-
-            return str;
-        }
-
-    }
-
-    public class SBregExUsage
-    {
-        public string regExType = null;
-        public string regExSubType = null;
-        public string regExString = null;
-        public int regExUsageCount = 0;
-        private Regex regEx = null;
-        public bool logIt = false;
-        private string regLogFileName = null;
-        private string regParseFileName = null;
-        public RegexOptions regExOptions = RegexOptions.None;
-
-        public List<SBregExHelperFuncs.SBregExHelper_PreParse> regPreParseFuncList = null;
-        public List<SBregExHelperFuncs.SBregExHelper_PostParse> regPostParseFuncList = null;
-
-        public SBregExUsage(string regExType, string regExSubType, string regExString, RegexOptions regExOptions, bool logIt, string regLogFileName = null)
-        {
-            this.regExType = regExType;
-            this.regExSubType = regExSubType;
-            this.regExString = regExString;
-            this.regExOptions = regExOptions;
-            this.logIt = logIt;
-            if (regLogFileName == null)
-            {
-                this.regLogFileName = "SB_REG_" + this.regExType.Replace(' ', '_') + "_" + this.regExSubType.Replace(' ', '_') + ".log.txt";
-                this.regParseFileName = this.regLogFileName.Replace(".log", ".parse");
-            }
-            else
-            {
-                this.regLogFileName = regLogFileName;
-                this.regParseFileName = this.regLogFileName.Replace(".", ".parse.");
-            }
-
-            this.regEx = new Regex(this.regExString, this.regExOptions);
-
-            this.regPreParseFuncList = new List<SBregExHelperFuncs.SBregExHelper_PreParse>();
-            this.regPostParseFuncList = new List<SBregExHelperFuncs.SBregExHelper_PostParse>();
-
-        }
-
-        public void InitLog()
-        {
-            if (this.logIt)
-            {
-                DateTime currentDateTime = DateTime.Now;
-                GlobalVariables.WriteLineToRegExFile(this.regLogFileName, "Version     :: " + GlobalVariables.version);
-                GlobalVariables.WriteLineToRegExFile(this.regLogFileName, "DateTime    :: " + currentDateTime);
-                GlobalVariables.WriteLineToRegExFile(this.regLogFileName, "RegExType   :: " + this.regExType + " :: " + this.regExSubType);
-                GlobalVariables.WriteLineToRegExFile(this.regLogFileName, "RegExString :: " + this.regExString);
-                GlobalVariables.WriteLineToRegExFile(this.regLogFileName, "");
-                GlobalVariables.WriteLineToRegExFile(this.regLogFileName, "");
-
-
-                GlobalVariables.WriteLineToRegExFile(this.regParseFileName, "Version     :: " + GlobalVariables.version);
-                GlobalVariables.WriteLineToRegExFile(this.regParseFileName, "DateTime    :: " + currentDateTime);
-                GlobalVariables.WriteLineToRegExFile(this.regParseFileName, "RegExType   :: " + this.regExType + " :: " + this.regExSubType);
-                GlobalVariables.WriteLineToRegExFile(this.regParseFileName, "RegExString :: " + this.regExString);
-                GlobalVariables.WriteLineToRegExFile(this.regParseFileName, "");
-                GlobalVariables.WriteLineToRegExFile(this.regParseFileName, $"{"Time",-8} : {"Value_Type",-10} : {"Source",-25} : {"Target",-25} : {"Ability",-25} : {"Event_type",-12} : {"Event_detail",-12} : {"Value",-6}");
-            }
-        }
-
-        public Dictionary<string, string> Matches(string line)
-        {
-            Dictionary<string, string> result = new Dictionary<string, string>();
-
-            foreach (var preProcessFunc in this.regPreParseFuncList)
-            {
-                line = preProcessFunc(line);
-            }
-
-            MatchCollection match = this.regEx.Matches(line);
-            if (match != null && match.Count > 0)
-            {
-                this.regExUsageCount++;
-                GroupCollection g = match[0].Groups;
-
-                result["time"] = g["time"].Value.Trim(' ', '"');
-                result["type"] = g["type"].Value.Trim(' ', '"');
-                result["source"] = g["source"].Value.Trim(' ', '"');
-                result["target"] = g["target"].Value.Trim(' ', '"');
-                result["ability"] = g["ability"].Value.Trim(' ', '"');
-                result["event_type"] = g["event_type"].Value.Trim(' ', '"');
-                result["event_detail"] = g["event_detail"].Value.Trim(' ', '"');
-                result["value"] = g["value"].Value.Trim(' ', '"');
-
-                if (this.logIt)
-                {
-                    GlobalVariables.WriteLineToRegExFile(this.regLogFileName, line);
-                    GlobalVariables.WriteLineToRegExFile(this.regParseFileName, $"{result["time"],-8} : {result["type"],-10} : {result["source"],-25} : {result["target"],-25} : {result["ability"],-25} : {result["event_type"],-12} : {result["event_detail"],-12} : {result["value"],-6}");
-                }
-
-                foreach (var postProcessFunc in this.regPostParseFuncList)
-                {
-                    result = postProcessFunc(result);
-                }
-
-            }
-
-            return result;
-        }
-    }
-
-    public class GlobalVariables
-    {
-        static public string SBLogDir = "./SB_Logs";
-        static public string logFile = "SBCombatParser.log.txt";
-        static public string noParseFile = "SBMissParse.log.txt";
-        static public string unkFile = "SBUnkParse.log.txt";
-        static public string unkPBFile = "SBUnkPB.log.txt";
-        static public string preParseFile = "SBPreParse.log.txt";
-        static public string postParseFile = "SBPostParse.log.txt";
-        static public string enhanceLineFile = "SBEnhanceLine.log.txt";
-        static public string enhanceLineParseFile = "SBEnhanceParse.log.txt";
-
-        static public string version = "0.0.14.0";
-        static public readonly object fileLock = new object();
-        static public readonly object missFilelock = new object();
-        static public readonly object unkFilelock = new object();
-        static public readonly object unkPBFilelock = new object();
-        static public readonly object regExFileWriteLock = new object();
-        static public readonly object preParseWriteLock = new object();
-        static public readonly object postParseWriteLock = new object();
-        static public readonly object enhanceLineLock = new object();
-        static public readonly object enhanceLineParseLock = new object();
-
-        static public SBSetupHelper setupHelper = new SBSetupHelper();
-
-        static public void WriteLineToDebugLog(string line, [CallerMemberName] string callingMethod = "")
-        {
-#if DEBUG
-            lock (fileLock)
-            {
-                using (StreamWriter writer = File.AppendText(SBLogDir + "/" + logFile))
-                {
-                    writer.AutoFlush = true;
-                    writer.WriteLine(callingMethod + " :: " + line);
-                }
-            }
-#endif
-        }
-        static public void WriteLineToPreParseLog(string line, [CallerMemberName] string callingMethod = "")
-        {
-#if DEBUG
-#if PRE_PARSE_LOG_ON
-            lock (preParseWriteLock)
-            {
-                using (StreamWriter writer = File.AppendText(SBLogDir + "/" + preParseFile))
-                {
-                    writer.AutoFlush = true;
-                    writer.WriteLine(callingMethod + " :: " + line);
-                }
-            }
-#endif
-#endif
-        }
-
-        static public void WriteLineToPostParseLog(string line, [CallerMemberName] string callingMethod = "")
-        {
-#if DEBUG
-#if POST_PARSE_LOG_ON
-            lock (postParseWriteLock)
-            {
-                using (StreamWriter writer = File.AppendText(SBLogDir + "/" + postParseFile))
-                {
-                    writer.AutoFlush = true;
-                    writer.WriteLine(callingMethod + " :: " + line);
-                }
-            }
-#endif
-#endif
-        }
-
-
-        static public void WriteLineToRegExFile(string filename, string line)
-        {
-#if DEBUG
-            lock (regExFileWriteLock)
-            {
-                using (StreamWriter writer = File.AppendText(SBLogDir + "/" + filename))
-                {
-                    writer.AutoFlush = true;
-                    writer.WriteLine(line);
-                }
-            }
-#endif
-        }
-
-
-        static public void WriteLineToMissedParse(string line)
-        {
-#if DEBUG
-            lock (missFilelock)
-            {
-                using (StreamWriter writer = File.AppendText(SBLogDir + "/" + noParseFile))
-                {
-                    writer.AutoFlush = true;
-                    writer.WriteLine(line);
-                }
-            }
-#endif
-        }
-
-        static public void WriteLineToUnknownParse(string line)
-        {
-#if DEBUG
-            lock (unkFilelock)
-            {
-                using (StreamWriter writer = File.AppendText(SBLogDir + "/" + unkFile))
-                {
-                    writer.AutoFlush = true;
-                    writer.WriteLine(line);
-                }
-            }
-#endif
-        }
-
-        static public void WriteLineToUnknownPBLog(string line)
-        {
-#if DEBUG
-            lock (unkPBFilelock)
-            {
-                using (StreamWriter writer = File.AppendText(SBLogDir + "/" + unkPBFile))
-                {
-                    writer.AutoFlush = true;
-                    writer.WriteLine(line);
-                }
-            }
-#endif
-        }
-
-        static public void WriteLineToEnchanceLineLog(string line)
-        {
-#if DEBUG
-            lock (enhanceLineLock)
-            {
-                using (StreamWriter writer = File.AppendText(SBLogDir + "/" + enhanceLineFile))
-                {
-                    writer.AutoFlush = true;
-                    writer.WriteLine(line);
-                }
-            }
-#endif
-        }
-
-        static public void WriteLineToEnhanceParseLog(string line)
-        {
-#if DEBUG
-            lock (enhanceLineParseLock)
-            {
-                using (StreamWriter writer = File.AppendText(SBLogDir + "/" + enhanceLineParseFile))
-                {
-                    writer.AutoFlush = true;
-                    writer.WriteLine(line);
-                }
-            }
-#endif
-        }
-
-
-
-
-
-
-
-
-        public class SBSetupHelper
-        {
-            // Regex
-            //public static List<String> regExDesc;
-            //public static List<int> regExUse;
-            //public static List<List<Regex>> allRegEx;
-            //public static List<Regex> damageLines;
-            //public static List<Regex> healLines;
-            //public static List<Regex> evadedLines;
-            //public static List<Regex> diedLines;
-            //public static List<Regex> buffLines;
-            //public static List<Regex> buffStopLines;
-            //public static List<Regex> oddLines;
-            //public static List<Regex> clcEvents;
-
-            public static List<List<SBregExUsage>> allRegEx;
-            public static List<SBregExUsage> highPriorityRegEx;
-            public static List<SBregExUsage> normalPriorityRegEx;
-            public static List<SBregExUsage> lowPriorityRegEx;
-            public static List<SBregExUsage> zeroPriorityRegEx;
-
-            public SBSetupHelper()
-            {
-
-
-                //regExDesc = new List<String>();
-                //regExUse = new List<int>();
-                //allRegEx = new List<List<Regex>>();
-                //damageLines = new List<Regex>();
-                //healLines = new List<Regex>();
-                //evadedLines = new List<Regex>();
-                //diedLines = new List<Regex>();
-                //buffLines = new List<Regex>();
-                //buffStopLines = new List<Regex>();
-                //oddLines = new List<Regex>();
-                //clcEvents = new List<Regex>();
-
-                allRegEx = new List<List<SBregExUsage>>();
-                highPriorityRegEx = new List<SBregExUsage>();
-                normalPriorityRegEx = new List<SBregExUsage>();
-                lowPriorityRegEx = new List<SBregExUsage>();
-                zeroPriorityRegEx = new List<SBregExUsage>();
-
-                //allRegEx.Add(clcEvents);
-                //allRegEx.Add(healLines);
-                //allRegEx.Add(damageLines);
-                //allRegEx.Add(evadedLines);
-                //allRegEx.Add(diedLines);
-                //allRegEx.Add(buffLines);
-                //allRegEx.Add(oddLines);
-                //allRegEx.Add(buffStopLines);
-
-                allRegEx.Add(highPriorityRegEx);
-                allRegEx.Add(normalPriorityRegEx);
-                allRegEx.Add(lowPriorityRegEx);
-                allRegEx.Add(zeroPriorityRegEx);
-
-                String myRegEx = @"";
-
-                SBregExUsage sbreu = null;
-
-                bool writeALLlogFiles = true;
-
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>CLC) (?<type>.*) (?<event_type>.*) \:\: (?<event_detail>.*)";
-                highPriorityRegEx.Add(new SBregExUsage("CLC", "Event", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
-
-                //myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)[r']?[s]? (?<ability>.*'+.*) (?<type>heal)s (?<target>.*) for (?<value>\d*) points\.";
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.+)[r']+[s]? (?<ability>.+'+.+) (?<type>heal)s (?<target>.*) for (?<value>\d*) points[\.!]";
-                normalPriorityRegEx.Add(new SBregExUsage("Heal", "Apos", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
-
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']?[s]? (?<ability>.*) (?<type>heal)s (?<target>.*?)'?s? (?<event_type>stamina) for (?<value>\d*) points[\.!]";
-                normalPriorityRegEx.Add(new SBregExUsage("Heal", "Stamina", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
-
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']?[s]? (?<ability>.*) (?<type>heal)s (?<target>.*) for (?<value>\d*) points[\.!]";
-                sbreu = new SBregExUsage("Heal", "CatchAll", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
-                //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Source_ReduceToFirstName);
-                //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Target_ReduceToFirstName);
-                normalPriorityRegEx.Add(sbreu);
-
-                //myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']?[s]? (?<ability>Vamp.*'+.*) (?<type>.*)s (?<value>\d*) points of [helthman]* from (?<target>.*)[\.!]";
-                //normalPriorityRegEx.Add(new SBregExUsage("Drain", "VampKiss", myRegEx, RegexOptions.Compiled, true));
-
-                //myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)[r']?[s]? (?<ability>Needs.*One) (?<type>.*)s (?<value>\d*) points of [helthman]* from (?<target>.*)[\.!]";
-                //normalPriorityRegEx.Add(new SBregExUsage("Drain", "Needs Of The One", myRegEx, RegexOptions.Compiled, true));
-
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>drain)s (?<value>\d*) points of (?<event_type>[helthmansi]*) from (?<target>.*) with (?<ability>.*)[\.!]";
-                normalPriorityRegEx.Add(new SBregExUsage("Drain", "Val First", myRegEx, RegexOptions.Compiled, writeALLlogFiles | true));
-
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']?[s]? (?<ability>.*) (?<type>.*)s (?<value>\d*) points of (?<event_type>[helthman]*) from (?<target>.*)[\.!]";
-                normalPriorityRegEx.Add(new SBregExUsage("Drain", "Val Last", myRegEx, RegexOptions.Compiled, writeALLlogFiles | true));
-
-                //Backstab drains
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>\w*?)[e]?[s]? (?<value>\d*) points of (?<event_type>.*?)\W?damage from (?<source>.*?)[r']+[s]? (?<ability>.*)[\.!]";
-                normalPriorityRegEx.Add(new SBregExUsage("Drain", "Backstab", myRegEx, RegexOptions.Compiled, writeALLlogFiles | true));
-
-
-                //Call the Sky's Fury Damage
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']?[s]? (?<ability>Call the Sky.*) (?<type>.{3,8})s (?<target>.*) for (?<value>\d*) .*[\.!]";
-                sbreu = new SBregExUsage("Damage", "Call the Sky's Fury", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
-                //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Source_ReduceToFirstName);
-                //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Target_ReduceToFirstName);
-                normalPriorityRegEx.Add(sbreu);
-
-                //Saint Malorn's Wrath
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>\w*)[r's]* (?<ability>Saint.*'.*) (?<type>.{3,8})s (?<target>.*) for (?<value>\d*) .*[\.!]";
-                sbreu = new SBregExUsage("Damage", "Saint Malorn's Wrath", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
-                //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Source_ReduceToFirstName);
-                //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Target_ReduceToFirstName);
-                normalPriorityRegEx.Add(sbreu);
-
-                //Darius' Fist
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']?[s]? (?<ability>Darius' Fist) (?<type>.{3,11}?)s? (?<target>.*) for (?<value>\d*) .*[\.!]";
-                normalPriorityRegEx.Add(new SBregExUsage("Damage", "Darius' Fist", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
-
-                //Pallando's Pernicious Puns
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<ability>Pallando.*Puns) (?<type>\w{3,11}?) (?<target>.*) for (?<value>\d*) .*[\.!]";
-                normalPriorityRegEx.Add(new SBregExUsage("Damage", "Pallando's Pernicious Puns", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
-
-                //Hedge of Thorns
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']{1}[s]* (?<ability>Hedge.*?s) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]";
-                sbreu = new SBregExUsage("Damage", "Hedge of Thorns", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
-                normalPriorityRegEx.Add(sbreu);
-
-                //Grasp of Thorns
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']{1}[s]* (?<ability>Grasp.*) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]";
-                sbreu = new SBregExUsage("Damage", "Grasp of Thorns", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
-                normalPriorityRegEx.Add(sbreu);
-
-                //Stamina Damage
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']*[s]* (?<event_type>Stamina) Damage (?<type>hit)[s]? (?<target>.*) for (?<value>\d*) .*[\.!]";
-                normalPriorityRegEx.Add(new SBregExUsage("Damage", "Stamina hit", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
-
-                //myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>hit)s the (?<target>.*) for (?<value>\d*) .*\.";
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)[r']?[s]? (?<type>hit)[s]? (?<target>.*) for (?<value>\d*) .*[\.!]";
-                sbreu = new SBregExUsage("Damage", "Melee hit", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
-                //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Source_ReduceToFirstName);
-                //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Target_ReduceToFirstName);
-                normalPriorityRegEx.Add(sbreu);
-
-                //target = YOU
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)[r']?[s]? (?<type>hit)s (?<target>.*) for (?<value>\d*) .*[\.!]";
-                normalPriorityRegEx.Add(new SBregExUsage("Damage", "Hit You", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
-
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*)[r']?[s]? (?<type>take) (?<value>\d*) .* from (?<source>.*)[\.!]";
-                normalPriorityRegEx.Add(new SBregExUsage("Damage", "Spell Hit You", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
-
-                //Matches hurt, shock, smite, heal
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r']{1}[s]* (?<ability>.*?) (?<type>\w{3,11}?)s (?<target>.*) for (?<value>\d*) .*[\.!]";
-                sbreu = new SBregExUsage("Damage", "Spell", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
-                //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Source_ReduceToFirstName);
-                //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Target_ReduceToFirstName);
-                normalPriorityRegEx.Add(sbreu);
-
-                //Proc Damage - You
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<ability>.*?) (?<type>\w*)s (?<target>.*) for (?<value>\d*) .*[\.!]";
-                normalPriorityRegEx.Add(new SBregExUsage("Damage", "Proc You", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
-
-                //Proc Damage
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*)[r']?[s]? (?<type>.*) (?<ability>.*)s (?<target>.*) for (?<value>\d*) .*!";
-                normalPriorityRegEx.Add(new SBregExUsage("Damage", "Proc", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
-
-                //Bleed Damage
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) takes? (?<value>\d*) .*(?<source>damage) from (?<type>.*)ing[\.!]";
-                sbreu = new SBregExUsage("Damage", "Bleed", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
-                //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Source_ReduceToFirstName);
-                //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Target_ReduceToFirstName);
-                normalPriorityRegEx.Add(sbreu);
-
-                //Miss -- Power
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?)[r's]? power (?<type>miss)[es]* (?<target>.*)[\.!]";
-                sbreu = new SBregExUsage("Evade", "Miss Power", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
-                //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Source_ReduceToFirstName);
-                //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Target_ReduceToFirstName);
-                normalPriorityRegEx.Add(sbreu);
-
-                //Miss
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>miss)[es]* (?<target>.*)[\.!]";
-                sbreu = new SBregExUsage("Evade", "Miss Melee", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
-                //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Source_ReduceToFirstName);
-                //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Target_ReduceToFirstName);
-                normalPriorityRegEx.Add(sbreu);
-
-                //You Block
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>block)[s]? (?<source>.*)'s .*[\.!]";
-                sbreu = new SBregExUsage("Evade", "Block You", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
-                //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Source_ReduceToFirstName);
-                //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Target_ReduceToFirstName);
-                normalPriorityRegEx.Add(sbreu);
-
-                //Parry
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>parr)[yies]+ (?<source>.*)'s .*[\.!]";
-                sbreu = new SBregExUsage("Evade", "Parry", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
-                //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Source_ReduceToFirstName);
-                //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Target_ReduceToFirstName);
-                normalPriorityRegEx.Add(sbreu);
-                //All Dodge
-                //myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>dodge)s? (?<source>.*?)[r's]+ attack[\.!]";
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) (?<type>dodge)s? (?<source>.*?)[r']?[s]? attack[\.!]";
-                sbreu = new SBregExUsage("Evade", "Dodge", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
-                //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Source_ReduceToFirstName);
-                //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Target_ReduceToFirstName);
-                normalPriorityRegEx.Add(sbreu);
-
-                //Shadow Mantle
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*) [areis]+ (?<type>surround)ed by a (?<source>.*)[\.!]";
-                normalPriorityRegEx.Add(new SBregExUsage("Debuff", "Shadow Mantle", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
-
-                //Knavery (Blind)
-                //myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>kick[s]? dirt) .* (?<target>\w*)[r's]+ .*[\.!]";
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*) (?<type>kick[s]? dirt) .* (?<target>\w*)[r's]* .*[\.!]";
-                sbreu = new SBregExUsage("Debuff", "Blind", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
-                //sbreu.regPostParseFuncList.Add(SBregExHelperFuncs.SBregExHelper_PostParse_Target_ReduceToFirstName);
-                normalPriorityRegEx.Add(sbreu);
-
-                //Use Power -- Error use
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*\[(?<event_type>Powers)\] (?<event_detail>.*):(?<source>.*?) (?<type>use)s? [\Wa]?(?<ability>.*)[\.!]";
-                lowPriorityRegEx.Add(new SBregExUsage("Power", "Error Use", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
-
-                //Use Power -- Error cast
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*\[(?<event_type>Powers)\] (?<event_detail>.*):(?<source>.*?) (?<type>cast)s? [\Wa]?(?<ability>.*)[\.!]";
-                lowPriorityRegEx.Add(new SBregExUsage("Power", "Error Cast", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
-
-                //Use Power -- enter
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<type>enter)s? [\Wa]?(?<ability>.*)[\.!]";
-                lowPriorityRegEx.Add(new SBregExUsage("Power", "Enter", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
-
-                //Use Power -- cast
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<type>cast)s? [\Wa]?(?<ability>.*)[\.!]";
-                lowPriorityRegEx.Add(new SBregExUsage("Power", "Cast", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
-
-                //Use Power -- assume
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<type>assume)s? [\Wa]?(?<ability>.*)[\.!]";
-                lowPriorityRegEx.Add(new SBregExUsage("Power", "Assume", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
-
-                //Use Power -- can no longer use
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<event_type>can no longer) (?<type>use)s? [\Wa]?(?<ability>.*)[\.!]";
-                lowPriorityRegEx.Add(new SBregExUsage("Power", "Use no longer", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
-
-                //Use Power -- use
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<type>use)s? [\Wa]?(?<ability>.*)[\.!]";
-                lowPriorityRegEx.Add(new SBregExUsage("Power", "Use", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
-
-                //Use Power -- execute - prepare
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<event_type>prepare) to (?<type>execute)s? [\Wa]*(?<ability>.*)[\.!]";
-                sbreu = new SBregExUsage("Power", "Execute-prepare", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
-                normalPriorityRegEx.Add(sbreu);
-
-                //Use Power -- execute
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<type>execute)s? [\Wa]*(?<ability>.*)[\.!]";
-                lowPriorityRegEx.Add(new SBregExUsage("Power", "Execute", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
-
-                //active -- begin / no longer
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) [a]?[r]?[e]?[i]?[s]?\W?(?<event_type>.*?)[s]? (?<type>active)ly (?<ability>.*)ing[\.!]";
-                lowPriorityRegEx.Add(new SBregExUsage("Active", "begin_no_longer", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
-
-                //Use Power -- Cry -- Hold Fast
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>.*?) (?<type>cr[yi]?)[es]* \'(?<ability>.*)\'[\.!]";
-                lowPriorityRegEx.Add(new SBregExUsage("Power", "Cry_Hold_Fast", myRegEx, RegexOptions.Compiled, writeALLlogFiles | true));
-
-
-                //has Died
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*\[Combat\] Info\: (?<source>.*) [hasve]* (?<type>die).*!";
-                sbreu = new SBregExUsage("Combat", "Info Death", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
-                lowPriorityRegEx.Add(sbreu);
-
-                //Taunt
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*\[Combat\] Info\: (?<target>.*) (?<type>[atck]*)s? (?<source>.*)";
-                lowPriorityRegEx.Add(new SBregExUsage("Power", "Taunt", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
-
-                //Start Bleeding
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*?) (?<event_type>\w*?)[s]? (?<type>bleed)[ing]*[\.!]";
-                sbreu = new SBregExUsage("Debuff", "Bleed-start", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
-                lowPriorityRegEx.Add(sbreu);
-
-                //Exposed
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*?) .* (?<type>expose).* to [a]?\W?(?<event_type>.*).*[\.!]";
-                sbreu = new SBregExUsage("Expose", "expose", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false);
-                lowPriorityRegEx.Add(sbreu);
-
-
-
-
-                //REDO They are TOO GENERIC ... its catching EVERYTHING
-                //Buff Stops - Fade, returns
-                //myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>\w*)+ (?<ability>.*) (?<type>.*)[\.!]+";
-                //regExUse.Add(0);
-                //regExDesc.Add("Buff Stop - Fades :: " + myRegEx);
-                //buffStopLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
-                //Buff Stops - Fade, returns
-                //myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<source>\w*)[r's]+ (?<ability>.*) (?<type>.*)[\.!]+";
-                //regExUse.Add(0);
-                //regExDesc.Add("Buff Stop - Fades Apos :: " + myRegEx);
-                //buffStopLines.Add(new Regex(myRegEx, RegexOptions.Compiled));
-
-
-            }
-
-        }
-
-
-    }
 
     public class SBCombatParser : IActPluginV1
     {
@@ -722,26 +28,22 @@ namespace SBCombatParser
         public void DeInitPlugin()
         {
 
-            GlobalVariables.WriteLineToDebugLog("DeInitPlugin !!!!");
+            SBGlobalVariables.WriteLineToDebugLog("DeInitPlugin !!!!");
 
             string myline = $"RegEx Use :: {"Count",-6} :: {"Type",-8} :: {"Sub Type",-30} :: {"RegEx String",-100} ";
-            GlobalVariables.WriteLineToDebugLog(myline);
+            SBGlobalVariables.WriteLineToDebugLog(myline);
 
-            foreach (List<SBregExUsage> list in GlobalVariables.SBSetupHelper.allRegEx)
+            foreach (List<SBregExUsage> list in SBGlobalVariables.SBSetupHelper.allRegEx)
             {
                 foreach (SBregExUsage s in list)
                 {
                     myline = $"RegEx Use :: {s.regExUsageCount,-6} :: {s.regExType,-8} :: {s.regExSubType,-30} :: {s.regExString,-100} ";
 
-                    GlobalVariables.WriteLineToDebugLog(myline);
+                    SBGlobalVariables.WriteLineToDebugLog(myline);
                 }
             }
 
-            //for (int i=0; i< GlobalVariables.SBSetupHelper.regExUse.Count; i++)
-            //{
-            //    GlobalVariables.WriteLineToDebugLog("RegEx Use :: "+ GlobalVariables.SBSetupHelper.regExUse[i] + " :: " + GlobalVariables.SBSetupHelper.regExDesc[i]);
-            //}
-
+            SBGlobalVariables.TearDownThreadLoggers();
             ActGlobals.oFormActMain.BeforeLogLineRead -= ParseLine;
         }
 
@@ -749,42 +51,46 @@ namespace SBCombatParser
         {
             DateTime currentDateTime = DateTime.Now;
 
-            if (!Directory.Exists(GlobalVariables.SBLogDir))
+            SBGlobalVariables.SetupThreadLoggers();
+
+#if DEBUG
+            if (!Directory.Exists(SBGlobalVariables.SBLogDir))
             {
                 try
                 {
                     // Attempt to create the directory
-                    Directory.CreateDirectory(GlobalVariables.SBLogDir);
+                    Directory.CreateDirectory(SBGlobalVariables.SBLogDir);
                 }
                 catch (Exception ex)
                 {
                     // Handle any exceptions that may occur
-                    GlobalVariables.WriteLineToDebugLog($"Error: {ex.Message}");
+                    SBGlobalVariables.WriteLineToDebugLog($"Error: {ex.Message}");
                 }
             }
 
-            GlobalVariables.WriteLineToDebugLog("InitPlugin !!!!");
-            GlobalVariables.WriteLineToDebugLog("Version  :: " + GlobalVariables.version);
-            GlobalVariables.WriteLineToDebugLog("DateTime :: " + currentDateTime);
+            SBGlobalVariables.WriteLineToDebugLog("InitPlugin !!!!");
+            SBGlobalVariables.WriteLineToDebugLog("Version  :: " + SBGlobalVariables.version);
+            SBGlobalVariables.WriteLineToDebugLog("DateTime :: " + currentDateTime);
 
-            GlobalVariables.WriteLineToMissedParse("Version  :: " + GlobalVariables.version);
-            GlobalVariables.WriteLineToMissedParse("DateTime :: " + currentDateTime);
+            SBGlobalVariables.WriteLineToMissedParse("Version  :: " + SBGlobalVariables.version);
+            SBGlobalVariables.WriteLineToMissedParse("DateTime :: " + currentDateTime);
 
-            GlobalVariables.WriteLineToUnknownParse("Version  :: " + GlobalVariables.version);
-            GlobalVariables.WriteLineToUnknownParse("DateTime :: " + currentDateTime);
+            SBGlobalVariables.WriteLineToUnknownParse("Version  :: " + SBGlobalVariables.version);
+            SBGlobalVariables.WriteLineToUnknownParse("DateTime :: " + currentDateTime);
 
-            GlobalVariables.WriteLineToUnknownPBLog("Version  :: " + GlobalVariables.version);
-            GlobalVariables.WriteLineToUnknownPBLog("DateTime :: " + currentDateTime);
+            SBGlobalVariables.WriteLineToUnknownPBLog("Version  :: " + SBGlobalVariables.version);
+            SBGlobalVariables.WriteLineToUnknownPBLog("DateTime :: " + currentDateTime);
 
-            GlobalVariables.WriteLineToEnchanceLineLog("Version  :: " + GlobalVariables.version);
-            GlobalVariables.WriteLineToEnchanceLineLog("DateTime :: " + currentDateTime);
+            SBGlobalVariables.WriteLineToEnchanceLineLog("Version  :: " + SBGlobalVariables.version);
+            SBGlobalVariables.WriteLineToEnchanceLineLog("DateTime :: " + currentDateTime);
 
-            GlobalVariables.WriteLineToEnhanceParseLog("Version  :: " + GlobalVariables.version);
-            GlobalVariables.WriteLineToEnhanceParseLog("DateTime :: " + currentDateTime);
-            GlobalVariables.WriteLineToEnhanceParseLog($"{"Time",-8} : {"Value_Type",-10} : {"Ability",-35} : {"Resist",-15} : {"Source",-25} : {"Target",-25} : {"Event_type",-12} : {"Event_detail",-12} : {"Value",-6}");
+            SBGlobalVariables.WriteLineToEnhanceParseLog("Version  :: " + SBGlobalVariables.version);
+            SBGlobalVariables.WriteLineToEnhanceParseLog("DateTime :: " + currentDateTime);
+            SBGlobalVariables.WriteLineToEnhanceParseLog($"{"Time",-8} : {"Value_Type",-10} : {"Ability",-35} : {"Resist",-20} : {"Source",-25} : {"Target",-25} : {"Event_type",-12} : {"Event_detail",-12} : {"Value",-6}");
+#endif
 
             //Initialize the reg ex debug logs
-            foreach (List<SBregExUsage> lSBreu in GlobalVariables.SBSetupHelper.allRegEx)
+            foreach (List<SBregExUsage> lSBreu in SBGlobalVariables.SBSetupHelper.allRegEx)
             {
                 foreach (SBregExUsage s in lSBreu)
                 {
@@ -808,8 +114,6 @@ namespace SBCombatParser
             ActGlobals.oFormActMain.BeforeLogLineRead += new LogLineEventDelegate(ParseLine);
             ActGlobals.oFormActMain.GetDateTimeFromLog = new FormActMain.DateTimeLogParser(ParseDateTime);
             ActGlobals.oFormActMain.LogFileChanged += new LogFileChangedDelegate(oFormActMain_LogFileChanged);
-
-
         }
 
         private string GetIntCommas()
@@ -1448,9 +752,9 @@ namespace SBCombatParser
             log.detectedType = Color.Black.ToArgb();
             DateTime time = ActGlobals.oFormActMain.LastKnownTime;
 
-            GlobalVariables.WriteLineToDebugLog(log.logLine);
+            SBGlobalVariables.WriteLineToDebugLog(log.logLine);
 
-            LogLine line = new LogLine(log.logLine, actGTS);
+            SBLogLine line = new SBLogLine(log.logLine, actGTS);
 
             if (line.valid)
             {
@@ -1667,15 +971,15 @@ namespace SBCombatParser
 
 
 
-                GlobalVariables.WriteLineToDebugLog("AddCombatAction :: Type       = " + type.ToString());
-                GlobalVariables.WriteLineToDebugLog("AddCombatAction :: Crit_value = " + line.crit_value.ToString());
-                GlobalVariables.WriteLineToDebugLog("AddCombatAction :: Source     = " + line.source);
-                GlobalVariables.WriteLineToDebugLog("AddCombatAction :: Ability    = " + line.ability);
-                GlobalVariables.WriteLineToDebugLog("AddCombatAction :: Value      = " + line.value.ToString());
-                GlobalVariables.WriteLineToDebugLog("AddCombatAction :: Time       = " + line.time);
-                GlobalVariables.WriteLineToDebugLog("AddCombatAction :: Time_Sorter= " + ActGlobals.oFormActMain.GlobalTimeSorter);
-                GlobalVariables.WriteLineToDebugLog("AddCombatAction :: Target     = " + line.target);
-                GlobalVariables.WriteLineToDebugLog("AddCombatAction :: Value_Type = " + line.value_type);
+                SBGlobalVariables.WriteLineToDebugLog("AddCombatAction :: Type       = " + type.ToString());
+                SBGlobalVariables.WriteLineToDebugLog("AddCombatAction :: Crit_value = " + line.crit_value.ToString());
+                SBGlobalVariables.WriteLineToDebugLog("AddCombatAction :: Source     = " + line.source);
+                SBGlobalVariables.WriteLineToDebugLog("AddCombatAction :: Ability    = " + line.ability);
+                SBGlobalVariables.WriteLineToDebugLog("AddCombatAction :: Value      = " + line.value.ToString());
+                SBGlobalVariables.WriteLineToDebugLog("AddCombatAction :: Time       = " + line.time);
+                SBGlobalVariables.WriteLineToDebugLog("AddCombatAction :: Time_Sorter= " + ActGlobals.oFormActMain.GlobalTimeSorter);
+                SBGlobalVariables.WriteLineToDebugLog("AddCombatAction :: Target     = " + line.target);
+                SBGlobalVariables.WriteLineToDebugLog("AddCombatAction :: Value_Type = " + line.value_type);
 
                 Dnum myDnum = null;
 
@@ -1716,7 +1020,7 @@ namespace SBCombatParser
                         break;
 
                     default:
-                        line = LogLine.EnhanceLineValues(line);
+                        line = SBLogLine.EnhanceLineValues(line);
                         ActGlobals.oFormActMain.AddCombatAction(type, line.crit_value, "None", line.source, line.ability,
                                                                 new Dnum(line.value), time, ActGlobals.oFormActMain.GlobalTimeSorter,
                                                                 line.target, line.enh_resist_type);//line.value_type);
@@ -1727,20 +1031,22 @@ namespace SBCombatParser
             return;
         }
 
-        public void CheckAndDoTTS(LogLine line)
+        public void CheckAndDoTTS(SBLogLine line)
         {
             if (line.target.Equals("YOU"))
             {
                 switch(line.value_type)
                 {
                     case "kicks dirt":
-                        ActGlobals.oFormActMain.TTS("Blind !");
+                        SBGlobalVariables.WriteLineToTTS("Blind !");
+                        //ActGlobals.oFormActMain.TTS("Blind !");
                         break;
                     case "surround":
                         switch(line.source)
                         {
                             case "black mantle":
-                                ActGlobals.oFormActMain.TTS("Shadow Mantled !");
+                                SBGlobalVariables.WriteLineToTTS("Shadow Mantled !");
+                                //ActGlobals.oFormActMain.TTS("Shadow Mantled !");
                                 break;
                             default: 
                                 break;
@@ -1750,19 +1056,22 @@ namespace SBCombatParser
                         switch(line.event_type)
                         {
                             case "start":
-                                ActGlobals.oFormActMain.TTS("Bleeding !");
+                                SBGlobalVariables.WriteLineToTTS("Bleeding !");
+                                //ActGlobals.oFormActMain.TTS("Bleeding !");
                                 break;
                             default:
                                 break;
                         }
                         break;
                     case "expose":
-                        ActGlobals.oFormActMain.TTS("Exposed !");
+                        SBGlobalVariables.WriteLineToTTS("Exposed !"); 
+                        //ActGlobals.oFormActMain.TTS("Exposed !");
                         break;
                     case "use":
                         if (line.ability.Equals("Power Block") && line.event_type.Equals("can no longer"))
                         {
-                           ActGlobals.oFormActMain.TTS("Power Blocked !");
+                            SBGlobalVariables.WriteLineToTTS("Power Blocked !"); 
+                            //ActGlobals.oFormActMain.TTS("Power Blocked !");
                         }
                         break;
                     default:
@@ -1829,620 +1138,6 @@ namespace SBCombatParser
             {
                 return ActGlobals.oFormActMain.LastEstimatedTime;
             }
-        }
-    }
-    public class LogLine
-    {
-        public bool skipLog = false;
-        public bool valid = false;
-        public string time = string.Empty;
-        public string source = string.Empty;
-        public string target = string.Empty;
-        public string ability = string.Empty;
-        public string event_type = string.Empty;
-        public string event_detail = string.Empty;
-        public bool crit_value = false;
-        public int value = 0;
-        public string value_type = string.Empty;
-        public int threat = 0;
-        public Point regExIndx = new Point(-1, -1);
-        public int globalTimeSorter = 0;
-        public string enh_resist_type = string.Empty;
-
-        /*
-        static Regex regex = 
-            new Regex(@"\[(.*)\] \[(.*)\] \[(.*)\] \[(.*)\] \[(.*)\] \((.*)\)[\s<]*(\d*)?[>]*", 
-                RegexOptions.Compiled);
-        static Regex id_regex = new Regex(@"\s*\{\d*}\s*", RegexOptions.Compiled);
-        */
-
-        /*
-        static Regex regexHeals =
-            new Regex(@"\((\d*\:\d*\:\d*)\)\W*(.*)'s (.*) heals (.*) for (\d*) points.*",
-                RegexOptions.Compiled);
-        */
-        //static Regex id_regex = new Regex(@"\s*\{\d*}\s*", RegexOptions.Compiled);
-
-        public int GetConvertedValueFromString(string str)
-        {
-            int retVal = 0;
-
-            try
-            {
-                retVal = Convert.ToInt32(str);
-            }
-            catch (FormatException ex)
-            {
-                GlobalVariables.WriteLineToDebugLog("FormatException :: Message    = " + ex.Message);
-                GlobalVariables.WriteLineToDebugLog("FormatException :: dict[\"value\"] = " + str);
-                GlobalVariables.WriteLineToDebugLog("FormatException :: Valid      = " + this.valid.ToString());
-                GlobalVariables.WriteLineToDebugLog("FormatException :: Time       = " + this.time);
-                GlobalVariables.WriteLineToDebugLog("FormatException :: Source     = " + this.source);
-                GlobalVariables.WriteLineToDebugLog("FormatException :: Ability    = " + this.ability);
-                GlobalVariables.WriteLineToDebugLog("FormatException :: Target     = " + this.target);
-                GlobalVariables.WriteLineToDebugLog("FormatException :: Value      = " + retVal.ToString());
-                GlobalVariables.WriteLineToDebugLog("FormatException :: Value_Type = " + this.value_type);
-                GlobalVariables.WriteLineToDebugLog("FormatException :: Event_Type = " + this.event_type);
-                GlobalVariables.WriteLineToDebugLog("FormatException :: Event_Deta = " + this.event_detail);
-                GlobalVariables.WriteLineToDebugLog("FormatException :: RegExIndx  = " + this.regExIndx);
-                GlobalVariables.WriteLineToDebugLog("FormatException :: RegExDesc  = " + GlobalVariables.SBSetupHelper.allRegEx[this.regExIndx.X][this.regExIndx.Y].regExType + " :: " +
-                                                                                         GlobalVariables.SBSetupHelper.allRegEx[this.regExIndx.X][this.regExIndx.Y].regExSubType + " :: " +
-                                                                                         GlobalVariables.SBSetupHelper.allRegEx[this.regExIndx.X][this.regExIndx.Y].regExString);
-
-                retVal = 0;
-            }
-
-            return retVal;
-        }
-
-        public LogLine(string line, int actGTS)
-        {
-
-
-
-
-            this.globalTimeSorter = actGTS;
-
-            //Processing Global Pre Parse Functions (string Modifications)
-            foreach (var GlobalPreParseFunc in SBregExHelperFuncs.GlobalPreParseFuncList)
-            {
-                line = GlobalPreParseFunc(line);
-            }
-
-            GlobalVariables.WriteLineToDebugLog(line);
-
-            this.valid = false;
-
-            //line = id_regex.Replace(line, "");
-            //MatchCollection matchesHeal = regexHeals.Matches(line);
-            Dictionary<string, string> dict = null;
-            bool setFullBreak = false;
-            //int whichRegex = -1;
-            Point whichRegex = new Point(-1, -1);
-            foreach (List<SBregExUsage> list in GlobalVariables.SBSetupHelper.allRegEx)
-            {
-                whichRegex.X++;
-                whichRegex.Y = -1;
-                foreach (SBregExUsage s in list)
-                {
-                    whichRegex.Y++;
-                    dict = s.Matches(line);
-                    if (dict != null && dict.Count > 0)
-                    {
-                        setFullBreak = true;
-                        break;
-                    }
-                }
-                if (setFullBreak)
-                {
-                    break;
-                }
-            }
-
-            if (dict != null && dict.Count > 0)
-            {
-
-                //Processing Global Post Parse Functions (Dictionary Modifications)
-                foreach (var GlobalPostParseFunc in SBregExHelperFuncs.GlobalPostParseFuncList)
-                {
-                    dict = GlobalPostParseFunc(dict);
-                }
-
-                GlobalVariables.WriteLineToDebugLog("RegEx Match :: " + line);
-                this.valid = true;
-                this.time = dict["time"];
-                this.source = dict["source"];
-                this.value_type = dict["type"];
-                this.event_type = dict["event_type"];
-                this.event_detail = dict["event_detail"];
-                this.regExIndx = whichRegex;
-                //GlobalVariables.SBSetupHelper.regExUse[whichRegex] = GlobalVariables.SBSetupHelper.regExUse[whichRegex] + 1;
-
-                switch (this.value_type)
-                {
-                    case "LogFile":
-                        switch (this.event_type)
-                        {
-                            case "Start":
-                                if (ActGlobals.oFormActMain.InCombat == true)
-                                {
-                                    GlobalVariables.WriteLineToDebugLog("LogFile Action - Start :: Ending Combat");
-                                    ActGlobals.oFormActMain.EndCombat(true);
-                                }
-
-                                GlobalVariables.WriteLineToDebugLog("LogFile Action :: Changing Zone to " + this.event_detail);
-                                ActGlobals.oFormActMain.ChangeZone(this.event_detail);
-                                break;
-
-                            case "Stop":
-                                if (ActGlobals.oFormActMain.InCombat == true)
-                                {
-                                    GlobalVariables.WriteLineToDebugLog("LogFile Action - Stop :: Ending Combat");
-                                    ActGlobals.oFormActMain.EndCombat(true);
-                                }
-                                break;
-
-                            default:
-                                GlobalVariables.WriteLineToDebugLog("LogFile Action :: UNKNOWN " + this.event_type + " :: " + this.event_detail);
-                                break;
-
-                        }
-                        this.valid = false;
-                        break;
-
-                    case "cri":
-                    case "cry":
-                        this.value_type = "cry";
-                        this.target = "none";
-                        this.value = 0;
-                        this.ability = dict["ability"];
-                        break;
-
-                    case "active":
-                        this.ability = dict["ability"];
-                        if (this.ability.Equals("dodg"))
-                        {
-                            this.ability = "dodge";
-                        }
-                        this.value = 0;
-                        this.target = "none";
-                        break;
-
-                    case "kick dirt":
-                    case "kicks dirt":
-                        this.value_type = "kicks dirt";
-                        this.ability = "Knavery";
-                        this.value = 0;
-                        this.target = dict["target"];
-                        break;
-
-                    case "surround":
-                        this.value = 0;
-                        this.target = dict["target"];
-                        switch (this.source)
-                        {
-                            case "black mantle":
-                                this.ability = "Shadow Mantle";
-                                break;
-                            case "protective shield":
-                                this.ability = "UNKNOWN";
-                                break;
-                            default:
-                                this.valid = false;
-                                break;
-                        }
-                        break;
-
-                    case "suffer":
-                        this.ability = dict["ability"];
-                        this.value = GetConvertedValueFromString(dict["value"]);
-                        this.target = dict["target"];
-                        break;
-
-                    case "take":
-                        this.ability = dict["source"];
-                        this.value = GetConvertedValueFromString(dict["value"]);
-                        this.target = dict["target"];
-                        break;
-
-                    case "parr":
-                        this.value_type = "parry";
-                        this.ability = "melee";
-                        this.target = dict["target"];
-                        this.value = 0;
-                        break;
-
-                    case "dodge":
-                    case "block":
-                    case "miss":
-                        this.ability = "melee";
-                        this.target = dict["target"];
-                        this.value = 0;
-
-                        if (this.target.Equals("target"))
-                        {
-                            this.valid = false;
-                            this.skipLog = true;
-                        }
-                        break;
-
-                    case "hit":
-                        this.ability = "melee";
-                        this.target = dict["target"];
-                        this.value = GetConvertedValueFromString(dict["value"]);
-                        break;
-
-                    case "bleed":
-                        if (this.source.Equals(""))
-                        {
-                            this.source = "none";
-                        }
-                        if (dict["ability"].Equals(""))
-                        {
-                            this.ability = "bleed";
-                        }
-                        else
-                        {
-                            this.ability = dict["ability"];
-                        }
-                        this.target = dict["target"];
-                        if(!(this.event_type.Equals("start") | this.event_type.Equals("stop")))
-                        {
-                            this.value = GetConvertedValueFromString(dict["value"]);
-                        }
-                        else
-                        {
-                            this.value = 0;
-                        }
-                        break;
-                    case "expose":
-                        if(this.source.Equals(""))
-                        {
-                            this.source = "none";
-                        }
-                        this.target = dict["target"];
-                        this.value = 0;
-                        break;
-                    case "tak":
-                    case "slash":
-                    case "slashe":
-                    case "buffet":
-                    case "impale":
-                    case "damage":
-                    case "blast":
-                    case "engulf":
-                    case "burn":
-                    case "poison":
-                    case "freeze":
-                    case "drain":
-                    case "strike":
-                    case "fire":
-                    case "electrocute":
-                    case "lightning":
-                    case "smite":
-                    case "shock":
-                    case "hurt":
-                    case "heal":
-                        if (this.source.Equals("") || this.source.Equals("The"))
-                        {
-                            this.source = "none";
-                        }
-
-                        this.ability = dict["ability"];
-
-                        if (this.value_type.Equals("slashe"))
-                        {
-                            this.value_type = "slash";
-                        }
-
-                        switch (this.ability)
-                        {
-                            case "is resistant to":
-                                this.ability = "resist";
-                                this.target = "none";
-                                this.value = 0;
-                                break;
-
-                            case "blade now glistens with":
-                                this.ability = "UNKNOWN";
-                                this.source = "UNKNOWN";
-                                this.target = "blade";
-                                this.value = 0;
-                                this.valid = false;
-                                break;
-
-                            default:
-                                this.target = dict["target"];
-                                this.value = GetConvertedValueFromString(dict["value"]);
-                                break;
-                        }
-                        break;
-
-                    case "die":
-                        this.ability = "death";
-                        this.target = dict["source"];
-                        //this.source = "none";
-                        this.value = 0;
-                        break;
-
-                    case "attack":
-                        this.ability = "Challenge";
-                        this.target = dict["target"];
-                        this.value = 0;
-                        break;
-
-                    case "enter":
-                    case "execute":
-                    case "assume":
-                    case "use":
-                    case "cast":
-                        if (this.event_type.Contains("Powers"))
-                        {
-                            if (this.event_detail.Contains("Error"))
-                            {
-                                this.valid = false;
-                                this.skipLog = true;
-                            }
-                        }
-                        else if (this.event_type.Contains("can no longer"))
-                        {
-                            this.ability = "Power Block";
-                            this.target = "YOU";
-                            this.source = "none";
-                                                   }
-                        else
-                        {
-                            this.ability = dict["ability"];
-                            this.target = "none";
-                            this.value = 0;
-                        }
-                        break;
-
-                    case "returns":
-                    case "fades":
-                        this.ability = dict["ability"];
-                        this.target = dict["source"];
-                        this.value = 0;
-                        this.source = "none";
-                        break;
-
-                    default:
-                        this.ability = "UNKNOWN";
-                        this.target = "";
-                        this.value = 0;
-                        GlobalVariables.WriteLineToUnknownParse("UNKOWN :: Line      :: " + line);
-                        GlobalVariables.WriteLineToUnknownParse("UNKOWN :: RegExIndx :: " + this.regExIndx);
-                        GlobalVariables.WriteLineToUnknownParse("UNKOWN :: RegExDesc :: " + GlobalVariables.SBSetupHelper.allRegEx[this.regExIndx.X][this.regExIndx.Y].regExType + " :: " +
-                                                                                            GlobalVariables.SBSetupHelper.allRegEx[this.regExIndx.X][this.regExIndx.Y].regExSubType + " :: " +
-                                                                                            GlobalVariables.SBSetupHelper.allRegEx[this.regExIndx.X][this.regExIndx.Y].regExString);
-
-                        GlobalVariables.WriteLineToUnknownPBLog(line);
-                        this.valid = false;
-                        break;
-                };
-
-                if (!this.skipLog)
-                {
-                    GlobalVariables.WriteLineToDebugLog("RegEx Match :: Valid      = " + this.valid.ToString());
-                    GlobalVariables.WriteLineToDebugLog("RegEx Match :: Time       = " + this.time);
-                    GlobalVariables.WriteLineToDebugLog("RegEx Match :: Source     = " + this.source);
-                    GlobalVariables.WriteLineToDebugLog("RegEx Match :: Ability    = " + this.ability);
-                    GlobalVariables.WriteLineToDebugLog("RegEx Match :: Target     = " + this.target);
-                    GlobalVariables.WriteLineToDebugLog("RegEx Match :: Value      = " + this.value.ToString());
-                    GlobalVariables.WriteLineToDebugLog("RegEx Match :: Value_Type = " + this.value_type);
-                    GlobalVariables.WriteLineToDebugLog("RegEx Match :: Event_Type = " + this.event_type);
-                    GlobalVariables.WriteLineToDebugLog("RegEx Match :: Event_Deta = " + this.event_detail);
-                    GlobalVariables.WriteLineToDebugLog("RegEx Match :: RegExIndx  = " + this.regExIndx);
-                    GlobalVariables.WriteLineToDebugLog("RegEx Match :: RegExDesc  = " + GlobalVariables.SBSetupHelper.allRegEx[this.regExIndx.X][this.regExIndx.Y].regExType + " :: " +
-                                                                                         GlobalVariables.SBSetupHelper.allRegEx[this.regExIndx.X][this.regExIndx.Y].regExSubType + " :: " +
-                                                                                         GlobalVariables.SBSetupHelper.allRegEx[this.regExIndx.X][this.regExIndx.Y].regExString); ;
-                }
-            }
-
-            if (!this.valid && !this.skipLog)
-            {
-                GlobalVariables.WriteLineToMissedParse(line);
-            }
-        }
-
-        public static LogLine EnhanceLineValues(LogLine line)
-        {
-            line.enh_resist_type = "Unknown";
-            switch (line.value_type)
-            {
-                case "expose":
-                    switch (line.event_type)
-                    {
-                        case "slashing attacks":
-                        case "slashing attack":
-                            line.enh_resist_type = "Slash";
-                            break;
-                        case "pinpoint strike":
-                            line.enh_resist_type = "Pierce";
-                            break;
-                        case "bludgeon":
-                        case "well-placed bludgeon attack":
-                            line.enh_resist_type = "Crush";
-                            break;
-                        default:
-                            line.event_type = line.event_type + "-Unknown";
-                            break;
-                    }
-                    break;
-                case "assume":
-                    line.enh_resist_type = "Stance";
-                    break;
-                case "bleed":
-                    line.enh_resist_type = "Bleed";
-                    break;
-                case "execute":
-                    line.enh_resist_type = "Power-Execute";
-                    break;
-                case "cry":
-                case "use":
-                case "cast":
-                    line.enh_resist_type = "Ability-Cast";
-                    break;
-                case "heal":
-                    line.enh_resist_type = "Heal";
-                    break;
-                case "hit":
-                    switch (line.ability)
-                    {
-                        case "melee":
-                            line.enh_resist_type = "C/P/S";
-                            break;
-                        default:
-                            line.enh_resist_type = "Unknown hit";
-                            break;
-                    }
-                    break;
-                case "buffet":
-                    line.enh_resist_type = "Crush";
-                    break;
-                case "engulf":
-                    line.enh_resist_type = "Unholy";
-                    break;
-                case "poison":
-                    line.enh_resist_type = "Poison";
-                    break;
-                case "freeze":
-                    line.enh_resist_type = "Cold";
-                    break;
-                case "smite":
-                    line.enh_resist_type = "Holy";
-                    break;
-                case "blast":
-                case "burn":
-                case "fire":
-                    line.enh_resist_type = "Fire";
-                    break;
-                case "lightning":
-                case "electrocute":
-                case "shock":
-                    line.enh_resist_type = "Lightning";
-                    break;
-                case "hurt":
-                    switch (line.ability)
-                    {
-                        case "Blood Boil":
-                            line.enh_resist_type = "Fire";
-                            break;
-                        case "Earthquake":
-                            line.enh_resist_type = "Crush";
-                            break;
-                        case "Mark of The All-Father":
-                            line.enh_resist_type = "Holy";
-                            break;
-                        case "Psychic Shout":
-                        case "Mind Strike":
-                            line.enh_resist_type = "Mental";
-                            break;
-                        case "Pallando's Pernicious Puns":
-                        case "Sign of Sorthoth":
-                        case "Dread Dissonance":
-                            line.enh_resist_type = "Magic";
-                            break;
-                        default:
-                            line.enh_resist_type = "Hurt-Unknown";
-                            break;
-                    }
-                    break;
-
-                case "impale":
-                    line.enh_resist_type = "Pierce";
-                    break;
-                case "slash":
-                case "slashe":
-                    line.enh_resist_type = "Slash";
-                    break;
-                case "tak":
-                case "take":
-                    switch (line.ability)
-                    {
-                        case "bleeding":
-                            line.enh_resist_type = "Bleed";
-                            break;
-                        default:
-                            line.enh_resist_type = "Take-Unknown";
-                            break;
-                    }
-                    break;
-                case "damage":
-                    line.enh_resist_type = "Unknown";
-                    break;
-                case "drain":
-                    line.enh_resist_type = "Drain";
-                    break;
-                case "strike":
-                    switch (line.ability)
-                    {
-                        case "Unholy Blast":
-                        case "Unholy Storm":
-                            line.enh_resist_type = "Unholy";
-                            break;
-                        case "magical burst":
-                        case "Mage Bolt":
-                            line.enh_resist_type = "Magic";
-                            break;
-                        case "holy weapon":
-                            line.enh_resist_type = "Holy";
-                            break;
-                        case "poisonous weapon":
-                            line.enh_resist_type = "Poison";
-                            break;
-                        default:
-                            line.enh_resist_type = "Strike-Unknown";
-                            break;
-                    }
-                    break;
-                case "suffer":
-                    switch (line.ability)
-                    {
-                        case "poison":
-                        case "Pellegorn poison":
-                        case "Magusbane poison":
-                            line.enh_resist_type = "Poison";
-                            break;
-                        case "Buchinine poison":
-                            line.enh_resist_type = "Disease";
-                            break;
-                        default:
-                            line.enh_resist_type= "Suffer-Unknown";
-                            break;
-                    }
-                    break;
-                case "kicks dirt":
-                    line.enh_resist_type = "Blind";
-                    break;
-                case "surround":
-                    line.enh_resist_type = "None";
-                    break;
-                default:
-                    line.enh_resist_type = "Default-Unknown";
-                    break;
-            }
-
-            GlobalVariables.WriteLineToEnchanceLineLog("Enhance Line :: Valid      = " + line.valid.ToString());
-            GlobalVariables.WriteLineToEnchanceLineLog("Enhance Line :: Time       = " + line.time);
-            GlobalVariables.WriteLineToEnchanceLineLog("Enhance Line :: Source     = " + line.source);
-            GlobalVariables.WriteLineToEnchanceLineLog("Enhance Line :: Ability    = " + line.ability);
-            GlobalVariables.WriteLineToEnchanceLineLog("Enhance Line :: Target     = " + line.target);
-            GlobalVariables.WriteLineToEnchanceLineLog("Enhance Line :: Value      = " + line.value.ToString());
-            GlobalVariables.WriteLineToEnchanceLineLog("Enhance Line :: Value_Type = " + line.value_type);
-            GlobalVariables.WriteLineToEnchanceLineLog("Enhance Line :: Event_Type = " + line.event_type);
-            GlobalVariables.WriteLineToEnchanceLineLog("Enhance Line :: Event_Deta = " + line.event_detail);
-            GlobalVariables.WriteLineToEnchanceLineLog("Enhance Line :: Enh Resist = " + line.enh_resist_type);
-            GlobalVariables.WriteLineToEnchanceLineLog("Enhance Line :: RegExIndx  = " + line.regExIndx);
-            GlobalVariables.WriteLineToEnchanceLineLog("Enhance Line :: RegExDesc  = " + GlobalVariables.SBSetupHelper.allRegEx[line.regExIndx.X][line.regExIndx.Y].regExType + " :: " +
-                                                                                 GlobalVariables.SBSetupHelper.allRegEx[line.regExIndx.X][line.regExIndx.Y].regExSubType + " :: " +
-                                                                                 GlobalVariables.SBSetupHelper.allRegEx[line.regExIndx.X][line.regExIndx.Y].regExString);
-
-            
-            GlobalVariables.WriteLineToEnhanceParseLog($"{line.time,-8} : {line.value_type,-10} : {line.ability,-35} : {line.enh_resist_type,-20} : {line.source,-25} : {line.target,-25} : {line.event_type,-12} : {line.event_detail,-12} : {line.value.ToString(),-6}");
-
-
-            return line;
         }
     }
 }
