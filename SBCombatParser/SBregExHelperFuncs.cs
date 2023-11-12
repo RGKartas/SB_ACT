@@ -183,6 +183,10 @@ namespace SBCombatParser
                 case "Captain Kugaar":
                 case "Sand Lizard":
                 case "Well Tender":
+                //Bane things
+                case "Artillery Tower":
+                case "Small Gater House":
+                case "Siege Tent":
                 //Pets
                 case "Vashteera's Companion":
                 case "Vashteera's Thrall":

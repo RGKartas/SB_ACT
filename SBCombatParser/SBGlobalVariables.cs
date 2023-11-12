@@ -28,7 +28,7 @@ namespace SBCombatParser
         static public string enhanceLineFile = "SBEnhanceLine.log.txt";
         static public string enhanceParseFile = "SBEnhanceParse.log.txt";
 
-        static public string version = "0.0.15.5";
+        static public string version = "0.0.16.0";
         static public readonly object fileLock = new object();
         static public readonly object missFilelock = new object();
         static public readonly object unkFilelock = new object();
@@ -42,9 +42,6 @@ namespace SBCombatParser
         static public SBSetupHelper setupHelper = new SBSetupHelper();
 
         static public Dictionary<string, SBThreadLogger> sbThreadLoggers = new Dictionary<string, SBThreadLogger>();
-
-        //static private bool threadLoggerSetupRun = false;
-        
 
         static public void SetupThreadLoggers() 
         {
@@ -61,7 +58,6 @@ namespace SBCombatParser
             sbThreadLoggers.Add("EnhanceParseLog", new SBThreadLogger(SBLogDir + "/" + enhanceParseFile));
 #endif            
             sbThreadLoggers.Add("TTS", new SBThreadLogger("TTS"));
-            //SBGlobalVariables.threadLoggerSetupRun = true;
         }
 
         static public void TearDownThreadLoggers()
@@ -226,18 +222,6 @@ namespace SBCombatParser
         public class SBSetupHelper
         {
             // Regex
-            //public static List<String> regExDesc;
-            //public static List<int> regExUse;
-            //public static List<List<Regex>> allRegEx;
-            //public static List<Regex> damageLines;
-            //public static List<Regex> healLines;
-            //public static List<Regex> evadedLines;
-            //public static List<Regex> diedLines;
-            //public static List<Regex> buffLines;
-            //public static List<Regex> buffStopLines;
-            //public static List<Regex> oddLines;
-            //public static List<Regex> clcEvents;
-
             public static List<List<SBregExUsage>> allRegEx;
             public static List<SBregExUsage> highPriorityRegEx;
             public static List<SBregExUsage> normalPriorityRegEx;
@@ -246,34 +230,11 @@ namespace SBCombatParser
 
             public SBSetupHelper()
             {
-
-
-                //regExDesc = new List<String>();
-                //regExUse = new List<int>();
-                //allRegEx = new List<List<Regex>>();
-                //damageLines = new List<Regex>();
-                //healLines = new List<Regex>();
-                //evadedLines = new List<Regex>();
-                //diedLines = new List<Regex>();
-                //buffLines = new List<Regex>();
-                //buffStopLines = new List<Regex>();
-                //oddLines = new List<Regex>();
-                //clcEvents = new List<Regex>();
-
                 allRegEx = new List<List<SBregExUsage>>();
                 highPriorityRegEx = new List<SBregExUsage>();
                 normalPriorityRegEx = new List<SBregExUsage>();
                 lowPriorityRegEx = new List<SBregExUsage>();
                 zeroPriorityRegEx = new List<SBregExUsage>();
-
-                //allRegEx.Add(clcEvents);
-                //allRegEx.Add(healLines);
-                //allRegEx.Add(damageLines);
-                //allRegEx.Add(evadedLines);
-                //allRegEx.Add(diedLines);
-                //allRegEx.Add(buffLines);
-                //allRegEx.Add(oddLines);
-                //allRegEx.Add(buffStopLines);
 
                 allRegEx.Add(highPriorityRegEx);
                 allRegEx.Add(normalPriorityRegEx);
@@ -471,7 +432,7 @@ namespace SBCombatParser
                 lowPriorityRegEx.Add(new SBregExUsage("Power", "Assume", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
 
                 //Use Power -- can no longer use
-                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*?) (?<event_type>can no longer) (?<type>use)s? [\Wa]?(?<ability>.*)[\.!]";
+                myRegEx = @"\((?<time>\d*\:\d*\:\d*)\)\W*(?<target>.*?) (?<event_type>can no longer) (?<type>use)s? [\Wa]?(?<ability>.*?)s?[\.!]";
                 lowPriorityRegEx.Add(new SBregExUsage("Power", "Use no longer", myRegEx, RegexOptions.Compiled, writeALLlogFiles | false));
 
                 //Use Power -- use

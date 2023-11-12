@@ -220,9 +220,19 @@ namespace SBCombatParser
                         break;
 
                     case "take":
-                        this.ability = dict["source"];
-                        this.value = GetConvertedValueFromString(dict["value"]);
-                        this.target = dict["target"];
+                        if (this.source.Equals("bleeding"))
+                        {
+                            this.source = "none";
+                            this.ability = "bleed";
+                            this.value = GetConvertedValueFromString(dict["value"]);
+                            this.target = dict["target"];
+                        }
+                        else 
+                        { 
+                            this.ability = dict["source"];
+                            this.value = GetConvertedValueFromString(dict["value"]);
+                            this.target = dict["target"];
+                        }
                         break;
 
                     case "parr":
@@ -253,7 +263,7 @@ namespace SBCombatParser
                         break;
 
                     case "bleed":
-                        if (this.source.Equals(""))
+                        if (this.source.Equals("") || this.source.Equals("damage") || this.source.Equals("bleeding"))
                         {
                             this.source = "none";
                         }
@@ -364,12 +374,21 @@ namespace SBCombatParser
                                 this.skipLog = true;
                             }
                         }
-                        else if (this.event_type.Contains("can no longer") && this.ability.Contains("power"))
+                        else if (this.event_type.Equals("can no longer"))
                         {
-                            this.ability = "Power Block";
-                            this.target = dict["target"];
-                            this.source = "none";
-                            this.value = 0;
+                            if (dict["ability"].Equals("power"))
+                            {
+                                this.ability = "Power Block";
+                                this.target = dict["target"];
+                                this.source = "none";
+                                this.value = 0;
+                            }
+                            else
+                            {
+                                this.ability = dict["ability"];
+                                this.target = "none";
+                                this.value = 0;
+                            }
                         }
                         else
                         {
@@ -431,6 +450,17 @@ namespace SBCombatParser
             line.enh_resist_type = "Unknown";
             switch (line.value_type)
             {
+                case "attack":
+                    switch (line.ability)
+                    {
+                        case "Challenge":
+                            line.enh_resist_type = "Ability-Cast";
+                            break;
+                        default:
+                            line.enh_resist_type = "Attack-Unknown";
+                            break;
+                    }
+                    break;
                 case "expose":
                     switch (line.event_type)
                     {
@@ -456,9 +486,11 @@ namespace SBCombatParser
                 case "bleed":
                     line.enh_resist_type = "Bleed";
                     break;
+                case "active":
                 case "execute":
                     line.enh_resist_type = "Power-Execute";
                     break;
+                case "enter":
                 case "cry":
                 case "use":
                 case "cast":
@@ -542,7 +574,10 @@ namespace SBCombatParser
                 case "take":
                     switch (line.ability)
                     {
-                        case "bleeding":
+                        case "poison":
+                            line.enh_resist_type = "Poison";
+                            break;
+                        case "bleed":
                             line.enh_resist_type = "Bleed";
                             break;
                         default:
@@ -551,7 +586,15 @@ namespace SBCombatParser
                     }
                     break;
                 case "damage":
-                    line.enh_resist_type = "Unknown";
+                    switch(line.ability)
+                    {
+                        case "Put to the Torch":
+                            line.enh_resist_type = "Holy / Fire";
+                            break;
+                        default:
+                            line.enh_resist_type = "Damage-Unknown";
+                            break;
+                    }
                     break;
                 case "drain":
                     line.enh_resist_type = "Drain";
@@ -559,19 +602,28 @@ namespace SBCombatParser
                 case "strike":
                     switch (line.ability)
                     {
+                        case "venom":
+                            line.enh_resist_type = "Poison";
+                            break;
                         case "Unholy Blast":
                         case "Unholy Storm":
                             line.enh_resist_type = "Unholy";
                             break;
+                        case "Mystic Bolt":
+                        case "Lesser Mage Bolt":
                         case "magical burst":
                         case "Mage Bolt":
                             line.enh_resist_type = "Magic";
                             break;
+                        case "light of purity":
                         case "holy weapon":
                             line.enh_resist_type = "Holy";
                             break;
                         case "poisonous weapon":
                             line.enh_resist_type = "Poison";
+                            break;
+                        case "psychic burst":
+                            line.enh_resist_type = "Mental";
                             break;
                         default:
                             line.enh_resist_type = "Strike-Unknown";
